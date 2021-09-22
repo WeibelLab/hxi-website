@@ -3,8 +3,8 @@ widget: hero
 widget_id: Page Title
 headless: true
 weight: 10
-title: "HXI: Human-centered eXtended Intelligence Research Lab"
-subtitle: UC San Diego
+title: Human-centered eXtended Intelligence
+subtitle: A Research Lab at UC San Diego
 active: true
 design:
   columns: "1"
