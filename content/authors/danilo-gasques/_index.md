@@ -7,5 +7,5 @@ social: []
 superuser: false
 
 user_groups:
-- Researchers
+- Ph.D. Students
 ---
