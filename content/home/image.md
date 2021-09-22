@@ -1,31 +1,27 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+advanced:
+  css_class: fullscreen
 widget: blank
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Front Page
 headless: true
-
-# Order that this section appears on the page.
 weight: 30
-
-title:
-subtitle:
-
+title: null
+subtitle: null
+active: true
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: ""
     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["20px", "0", "20px", "0"]
-advanced:
-  css_class: fullscreen
+    padding:
+      - 20px
+      - "0"
+      - 20px
+      - "0"
 ---
+The **Human-centered eXtended Intelligence** Lab at [UC San Diego](https://ucsd.edu) focuses on the design, development and evaluation of interactive pervasive sensing technology to support health and healthcare. Our team, led by [Dr. Nadir Weibel](https://www.ubicomp.ucsd.edu/weibel), investigates, designs and develops new tools, techniques and infrastructure that leverage the power of multimodal and pervasive sensing to track body and eye movements, speech, writing, as well as social interaction in the real world and online. This allows us to first capture, quantify and understand human behavior and then support better interaction with information through the design and development of human-centered ubiquitous computing technology that improves health and health care.
