@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: Page Title
+widget_id: Intro
 headless: true
 weight: 10
 title: ""
