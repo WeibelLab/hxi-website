@@ -15,28 +15,28 @@ font_size: S
 site_type: Organization
 local_business_type: ''
 org_name: 'UC San Diego'
-description: My research group description.
+description: The Human-centered eXtended Intelligence Research Lab at UC San Diego focuses on the design, development, and evaluation of interactive technology across Ubiquitous Computing, Artificial Intelligence (AI), eXtended Reality (XR), and immersive visualization.
 twitter: ''
 
 # Contact (edit or remove options as required)
 
 email: hxi@ucsd.edu
-phone: 888 888 88 88
-address:
-  street: 450 Serra Mall
-  city: Stanford
+phone: 858-534-8637
+address: 
+  street: 9500 Gilman Drive
+  city: La Jolla
   region: CA
-  postcode: '94305'
+  postcode: '92093'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '32.882016'
+  longitude: '-117.2358364'
+directions: The HXI Research Lab is hosted within the Computer Science and Engineering Building
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
