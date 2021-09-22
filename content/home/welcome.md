@@ -12,7 +12,7 @@ design:
   css_class: null
   background:
     image: ""
-hero_media: HXI_Welcome.png
+hero_media: hxi.png
 ---
 The **Human-centered eXtended Intelligence** Research Lab at [UC San Diego](https://ucsd.edu) focuses on the design, development and evaluation of interactive pervasive sensing technology to support health and healthcare. 
 
