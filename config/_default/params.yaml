@@ -5,22 +5,22 @@
 
 # Appearance
 
-theme: minimal
+theme: ocean
 day_night: false
-font: native
-font_size: L
+font: minimal
+font_size: S
 
 # SEO
 
 site_type: Organization
 local_business_type: ''
-org_name: ''
+org_name: 'UC San Diego'
 description: My research group description.
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: hxi@ucsd.edu
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
