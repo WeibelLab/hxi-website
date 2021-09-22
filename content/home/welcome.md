@@ -7,7 +7,7 @@ title: ""
 subtitle: ""
 active: true
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
   background:
