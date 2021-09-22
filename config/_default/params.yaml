@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '32.882016'
   longitude: '-117.2358364'
-directions: The HXI Research Lab is hosted within the Computer Science and Engineering Building
+directions: The HXI Research Lab is hosted within the <a href="https://cse.ucsd.edu/about/directions-and-parking">Computer Science and Engineering Building</a>
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
