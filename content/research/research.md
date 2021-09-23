@@ -34,7 +34,7 @@ content:
       tag: Health
     - name: Design
       tag: Design
-    -
+
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -52,4 +52,4 @@ We work at the intersection of human-computer interaction, artificial intelligen
 
 The HXI research lab work has been funded by the National Institutes of Health (NIH), the National Science Foundation (NSF), the Agency for Healthcare Research and Quality (AHRQ), the Department of Veteran Affairs (VA), the Center for AIDS Research (CFAR), the UC San Diego Office of Research Affairs, the Robert Wood Johnson Foundation, the Moxie Foundation, the Swiss National Science Foundation (SNSF), the European Union (FP6), Intuitive Surgical, and Boeing.
 
-Previous and archived research projects can be found <a href="/archived/">here</a>.
+Previous and archived research projects can be found <a href="/archive/">here</a>.
