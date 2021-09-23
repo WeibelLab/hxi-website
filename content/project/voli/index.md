@@ -72,6 +72,5 @@ VOLI is a NIH/NSF Smart and Connected Health (SCH) funded by the National Instit
 
 ### Publications
 
-[//]: # ( 
-{{< cite page="/publication/artemis-chi2021" view="1" >}} 
-)
+{{< cite page="/publication/volis-cui2021" view="1" >}} 
+
