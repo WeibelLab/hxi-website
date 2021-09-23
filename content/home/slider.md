@@ -7,28 +7,28 @@ height: 250px
 interval: false
 
 item:
-- title: The Istmobiome Project
+- title: 
   align: center 
-  content: a microbial tale told in two oceans
-  overlay_color: '#1f4e74FF' # An HTML color value.
+  content: 
+  overlay_color: '#3f51b5' # An HTML color value.
   overlay_filter: 0.0 
-  overlay_img: ''   
+  overlay_img: 'slider/00_lab-whiteboard.jpg'   
 - title: The Isthmus of Panama Changed the World...
   align: center 
   content: Three million years ago an experiment began
-  overlay_color: '#1f4e74FF'
+  overlay_color: '#3f51b5'
   overlay_filter: 0.0
   overlay_img: ''
 - title: '...on Land...'
   align: right 
   content: it connected two continents
-  overlay_color: '#333'
+  overlay_color: '#3f51b5'
   overlay_filter: 0.0
   overlay_img: ''
 - title: '...in the Sea.'
   align: right 
   content: 'it divided one ocean. '
-  overlay_color: '#333'
+  overlay_color: '#3f51b5'
   overlay_filter: 0.7
   overlay_img: ''
 - title: ''
@@ -39,7 +39,7 @@ item:
   cta_icon_pack: fas
   cta_label: More Information
   cta_url: about/
-  overlay_color: '#1f4e74FF'
+  overlay_color: '#3f51b5'
   overlay_filter: 0.0
   overlay_img: ''
 
