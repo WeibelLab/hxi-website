@@ -11,7 +11,7 @@ design:
     color: ""
   spacing:
     padding:
-      - 50px
+      - 45px
       - "0"
       - 0px
       - "0"
