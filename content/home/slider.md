@@ -1,8 +1,8 @@
 ---
 widget: slider
-headless: true  # This file represents a page section.
 
-# ... Put Your Section Options Here (section position etc.) ...
+# Homepage is headless, other widget pages are not.
+headless: true
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -42,4 +42,5 @@ item:
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
+    
 ---
