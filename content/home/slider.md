@@ -4,15 +4,15 @@ weight: 15
 active: true  
 headless: true  
 height: 600px
-interval: false
+interval: 3000
 
 item:
 - title: ''
   align: center 
-  content: ''
+  content: '<img src="slider/00_lab-whiteboard.jpg">'
   overlay_color: '#3f51b5' # An HTML color value.
   overlay_filter: 0.0 
-  overlay_img: 'slider/00_lab-whiteboard.jpg'   
+  overlay_img: ''   
 - title: ''
   align: center 
   content: ''
