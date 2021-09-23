@@ -32,6 +32,9 @@ content:
       tag: MR
     - name: Healthcare
       tag: Health
+    - name: Design
+      tag: Design
+    -
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
