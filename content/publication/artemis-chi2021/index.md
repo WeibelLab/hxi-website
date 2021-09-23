@@ -18,7 +18,7 @@ authors:
   - Michael Yip
   - Nadir Weibel
 doi: 10.1145/3411764.3445576
-publication: In *Conference on Human Factors in Computing 2021 (CHI2021)*
+publication: In *Conference on Human Factors in Computing 2021 (CHI 2021)*
 publication_short: In *CHI 2021*
 abstract: Traumatic injuries require timely intervention, but medical expertise
   is not always available at the patient’s location. Despite recent advances in
