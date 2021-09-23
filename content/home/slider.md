@@ -42,5 +42,4 @@
 #   overlay_color: '#1f4e74FF'
 #   overlay_filter: 0.0
 #   overlay_img: ''
-
 ---
