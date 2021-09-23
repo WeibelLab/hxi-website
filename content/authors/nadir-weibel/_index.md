@@ -1,73 +1,48 @@
 ---
-# Display name
 title: Nadir Weibel
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: UC San Diego
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+role: Associate Professor of Computer Science and Engineering
+avatar_filename: ""
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Human-Computer Interaction
+  - Artificial Intelligence
+  - Ubiquitous Computing
+  - Human-Centered Design
+  - eXtended Reality
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:weibel@ucsd.edu
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/nadir_weibel
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=KMVQjuQAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/weibel/
+organizations:
+  - name: UC San Diego
+    url: http://ucsd.edu
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: Postdoctoral Fellowship in Human-Computer Interaction
+      institution: UC San Diego
+      year: 2012
+    - course: PhD in Computer Science and Engineering
+      institution: ETH Zurich, Switzerland
+      year: 2009
+    - course: MS in Computer Science and Engineering
+      institution: ETH Zurich, Switzerland
+      year: 2004
 email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+superuser: true
 user_groups:
-- Principal Investigators
+  - Principal Investigators
+highlight_name: false
 ---
+Nadir Weibel is an Associate Professor in the Department of Computer Science and Engineering at UC San Diego, and a Research Health Science Specialist at the VA San Diego Health System, and one of the faculty of the UCSD Design Lab, Contextual Robotics Institute, Center for Population and Health Systems, and the Research Center on Optimal Digital Ethics
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His work on Human-centered eXtended Intelligence is situated at the intersection of computer science, design, and the health sciences. Current work focuses on Human-Computer Interaction, Artifical Intelligence, and eXtended Reality, investigating tools, techniques, and infrastructure to support the deployment of innovative interactive multimodal and tangible devices in context, studying and quantifying the cognitive consequences of the introduction of this technology in the everyday life.
