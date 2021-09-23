@@ -22,3 +22,5 @@ The HXI research lab partners with the UCSD [DesignLab](https://designlab.ucsd.e
 
 Our main application domains are health & healthcare, and education. Our projects are in collaboration with [UCSD Health](https://health.ucsd.edu/), the [VA San Diego Healthcare System](https://www.sandiego.va.gov/), [Kaiser Permanente](https://thrive.kaiserpermanente.org/care-near-you/southern-california/san-diego/), and the [Navy Medical Center San Diego](https://sandiego.tricare.mil/).
 </font>
+
+<img src="/media/hxi_hue1c2d93cb09923dfc60069417dfb4891_229287_1200x0_resize_lanczos_2.png" style="float:right;">
