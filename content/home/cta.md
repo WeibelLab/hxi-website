@@ -9,6 +9,10 @@ design:
   columns: "1"
   background:
     color: "#007bff"
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["-20px", "0", "-20px", "0"]
+
 ---
 
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
