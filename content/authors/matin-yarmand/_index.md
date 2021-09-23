@@ -2,6 +2,8 @@
 title: Matin Yarmand
 role: Ph.D. Student
 
+weight: 60
+
 avatar_filename: avatar
 social: []
 superuser: false

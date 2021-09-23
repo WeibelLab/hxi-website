@@ -1,6 +1,8 @@
 ---
-title: Janet Johsnon
+title: Janet Johnson
 role: Ph.D. Candidate
+
+weight: 40
 
 avatar_filename: avatar
 social: []
