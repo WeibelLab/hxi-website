@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: hxi@ucsd.edu
-phone: 858-534-8637
 address: 
-  street: 9500 Gilman Drive
+  street: 'Dr. Nadir Weibel, Ph.D.<br/>University of California, San Diego<br/>Computer Science and Engineering</br>Mail Code \#0404<br/>9500 Gilman Drive<br/>'
   city: La Jolla
   region: CA
   postcode: '92093'
   country: United States
   country_code: US
+email: hxi@ucsd.edu
+phone: 858-534-8637
 coordinates:
   latitude: '32.882016'
   longitude: '-117.2358364'

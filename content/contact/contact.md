@@ -29,9 +29,5 @@ design:
   columns: '1'
 ---
 
-Dr. Nadir Weibel, Ph.D.
-University of California, San Diego
-Computer Science and Engineering
-Mail Code #0404
-9500 Gilman Drive
-La Jolla, CA 92093-0404, USA
+You can contact the HXI Research lab at UCSD by sending an email to the address below, or by contacting directly Dr. Weibel, or one of the team members.
+We are alos happy to host you at our lab at UC San Diego, but please let us know in advance ;-)
