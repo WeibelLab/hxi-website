@@ -13,7 +13,7 @@ design:
   background:
     image: ""
 ---
-<img src="/media/hxi.png" style="float:right; max-width: 200px;\
+<img src="/assets/media/hxi.png" style="float:right; max-width: 200px;\
   height: auto;"><font size=3>The **Human-centered eXtended Intelligence** Research Lab at [UC San Diego](https://ucsd.edu) focuses on the design, development, and evaluation of interactive technology across Ubiquitous Computing, Artificial Intelligence (AI), eXtended Reality (XR), and immersive visualization. 
 
 Our team, led by [Dr. Nadir Weibel](https://www.ubicomp.ucsd.edu/weibel), investigates, designs, and develops new tools, techniques, and infrastructure that leverage the power of multimodal pervasive sensing and immersive visualization to first capture, quantify and understand human behavior and then support better interaction with information through the design and development of human-centered technology that extends human powers and intelligence beyond their current capacity.
