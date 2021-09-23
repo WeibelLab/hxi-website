@@ -4,7 +4,7 @@ summary: A Collaborative Mixed-Reality System for immersive Surgical Telementori
 authors: 
   - Nadir Weibel
   - Michael Yip
-  - Konrad Davis
+  - Konrad Davis (NMCSD)
   - Danilo Gasques
   - Tommy Sharkey
   - Janet Johnson
@@ -18,13 +18,13 @@ tags:
   - Telementoring
   - Collaboration  
   - Surgery
-  - CHI
   - Health
+  - Design
 
 show_related: false
 
 date: '2021-09-23T00:00:00Z'
-external_link: 'http://artemis.surgery'
+external_link: ''
 image:
   #caption: ARTEMIS overview sketch
   focal_point: Smart
@@ -51,6 +51,9 @@ Specialized surgeries are often needed in places where there is no access to sur
 While modern telesurgery is limited to just audio/video, **ARTEMIS** enables skilled surgeons and novices to share the same virtual space.
 
 In ARTEMIS, expert surgeons in remote sites use *Virtual Reality* to access a 3D reconstruction of a patient’s body, and instruct novice surgeons on complex procedures as if they were together in the operating room. Novice surgeons in the field can focus on saving the patient’s live while being guided through an intuitive *Augmented Reality* interface.
+
+*More Info here:* http://artemis.surgery
+
 
 {{< youtube gJoyjm6Ytlc >}}
 
