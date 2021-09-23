@@ -12,7 +12,7 @@ design:
   css_class: null
   background:
     image: ""
-hero_media: hxi.png
+#hero_media: hxi.png
 ---
 <font size=3>The **Human-centered eXtended Intelligence** Research Lab at [UC San Diego](https://ucsd.edu) focuses on the design, development, and evaluation of interactive technology across Ubiquitous Computing, Artificial Intelligence (AI), eXtended Reality (XR), and immersive visualization. 
 
