@@ -55,30 +55,30 @@ item:
   overlay_color: '#3f51b5' # An HTML color value.
   overlay_filter: 0.0 
   overlay_img: 'slider/07_students_ar.jpg'
-- title: ''
-  align: center 
-  content: ''
-  overlay_color: '#3f51b5' # An HTML color value.
-  overlay_filter: 0.0 
-  overlay_img: 'slider/08_stc_ultrasound.jpg'
-- title: ''
-  align: center 
-  content: ''
-  overlay_color: '#3f51b5' # An HTML color value.
-  overlay_filter: 0.0 
-  overlay_img: 'slider/09_vr_lab.jpg'
+#- title: ''
+#  align: center 
+#  content: ''
+#  overlay_color: '#3f51b5' # An HTML color value.
+#  overlay_filter: 0.0 
+#  overlay_img: 'slider/08_stc_ultrasound.jpg'
+#- title: ''
+#  align: center 
+#  content: ''
+#  overlay_color: '#3f51b5' # An HTML color value.
+#  overlay_filter: 0.0 
+#  overlay_img: 'slider/09_vr_lab.jpg'
 - title: ''
   align: center 
   content: ''
   overlay_color: '#3f51b5' # An HTML color value.
   overlay_filter: 0.0 
   overlay_img: 'slider/10_gasques_ar.jpg'
-- title: ''
-  align: center 
-  content: ''
-  overlay_color: '#3f51b5' # An HTML color value.
-  overlay_filter: 0.0 
-  overlay_img: 'slider/11_office_rick.jpg'   
+#- title: ''
+#  align: center 
+#  content: ''
+#  overlay_color: '#3f51b5' # An HTML color value.
+#  overlay_filter: 0.0 
+#  overlay_img: 'slider/11_office_rick.jpg'   
 - title: ''
   align: center 
   content: ''
