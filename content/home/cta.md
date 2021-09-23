@@ -11,11 +11,10 @@ design:
     color: ""
   spacing:
     padding:
-      - 0px
+      - 10px
       - "0"
       - 0px
       - "0"
 ---
-
 
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
