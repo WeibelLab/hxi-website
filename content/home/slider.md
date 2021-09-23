@@ -3,7 +3,7 @@ widget: slider
 weight: 15 
 active: true  
 headless: true  
-height: '400px; background-position:center; background-repeat: no-repeat; background-size: cover'
+height: '500px; background-position:top; background-repeat: no-repeat; background-size: cover'
 interval: 3000
 
 item:
@@ -85,15 +85,5 @@ item:
   overlay_color: '#3f51b5' # An HTML color value.
   overlay_filter: 0.0 
   overlay_img: 'slider/12_weibel_VR.jpg'   
-- title: ''
-  align: center 
-  content: Meet the Team
-  cta_icon: info
-  cta_icon_pack: fas
-  cta_label: More Information
-  cta_url: people/
-  overlay_color: '#3f51b5'
-  overlay_filter: 0.0
-  overlay_img: ''
 
 ---
