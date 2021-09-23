@@ -16,9 +16,8 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Principal Investigator
-  - Postdocs
-  - Ph.D. Students
+  - Director
+  - Ph.D Students and Postdocs
   - Master Students
   - Undergraduates
   - Visitors

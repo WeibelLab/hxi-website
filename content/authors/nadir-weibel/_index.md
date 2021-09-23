@@ -40,7 +40,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Principal Investigator
+  - Director
 highlight_name: false
 ---
 Nadir Weibel is an Associate Professor in the Department of Computer Science and Engineering at UC San Diego, and a Research Health Science Specialist at the VA San Diego Health System, and one of the faculty of the UCSD Design Lab, Contextual Robotics Institute, Center for Population and Health Systems, and the Research Center on Optimal Digital Ethics

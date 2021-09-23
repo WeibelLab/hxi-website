@@ -1,5 +1,6 @@
 ---
-widget: blank
+widget: hero
+hero_media: hxi.png
 widget_id: Intro
 headless: true
 weight: 10
@@ -11,9 +12,10 @@ design:
   css_style: null
   css_class: null
   background:
-    image: ""
+    image: 
 ---
-<div style="width: 70%; float: left;margin-bottom:-100px">
+<!--<div style="width: 70%; float: left;margin-bottom:-50px"> -->
+<div style="font-size:12pt;">
 
 The <b><u>H</u>uman-centered e<u>X</u>tended <u>I</u>ntelligence</b> Research Lab at [UC San Diego](https://ucsd.edu/) focuses on the design, development, and evaluation of interactive technology across Ubiquitous Computing, Artificial Intelligence (AI), eXtended Reality (XR), and immersive visualization. 
 
@@ -22,8 +24,4 @@ Our team, led by [Dr. Nadir Weibel](author/nadir-weibel/), investigates, design
 The **HXI** Research Lab partners with the UCSD [DesignLab](https://designlab.ucsd.edu/), the [Contextual Robotics Institute](https://contextualrobotics.ucsd.edu/), the [Center for Wireless and Population Health Systems (CWPHS)](http://cwphs.ucsd.edu/), and the [Research Center on Optimal Digital Ethics (ReCODE)](https://recode.health/).
 
 Our main application domains are health & healthcare, and education. Our projects are in collaboration with [UCSD Health](https://health.ucsd.edu/), the [VA San Diego Healthcare System](https://www.sandiego.va.gov/), [Kaiser Permanente](https://thrive.kaiserpermanente.org/care-near-you/southern-california/san-diego/), and the [Navy Medical Center San Diego](https://sandiego.tricare.mil/).
-</div>
-
-<div style="width: 30%; margin-left: 70%;"> 
-<img src="/images/hxi.png" width="400px" style="margin-top:20%; max-width:400px;height:auto;">
 </div>
