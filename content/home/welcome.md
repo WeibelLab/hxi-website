@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: hero
 widget_id: Intro
 headless: true
 weight: 10
