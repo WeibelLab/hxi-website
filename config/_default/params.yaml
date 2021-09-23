@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 address: 
-  street: 'Dr. Nadir Weibel, Ph.D.<br/>University of California, San Diego<br/>Computer Science and Engineering</br>Mail Code \#0404<br/>9500 Gilman Drive<br/>'
+  street: 'Dr. Nadir Weibel, Ph.D.<br/>University of California, San Diego<br/>Computer Science and Engineering</br>Mail Code #0404<br/>9500 Gilman Drive<br/>'
   city: La Jolla
   region: CA
   postcode: '92093'
