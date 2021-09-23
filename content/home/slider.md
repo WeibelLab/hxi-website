@@ -3,16 +3,16 @@ widget: slider
 weight: 15 
 active: true  
 headless: true  
-height: 600px
+height: '600px; background-position:center; background-repeat: no-repeat; background-size: cover'
 interval: 3000
 
 item:
 - title: ''
   align: center 
-  content: '<img src="slider/00_lab-whiteboard.jpg">'
+  content: ''
   overlay_color: '#3f51b5' # An HTML color value.
   overlay_filter: 0.0 
-  overlay_img: ''   
+  overlay_img: 'slider/00_lab-whiteboard.jpg'   
 - title: ''
   align: center 
   content: ''
