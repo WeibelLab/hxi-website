@@ -2,7 +2,7 @@
 widget: blank
 widget_id: team
 headless: true
-weight: 15
+weight: 20
 title: null
 subtitle: null
 design:
