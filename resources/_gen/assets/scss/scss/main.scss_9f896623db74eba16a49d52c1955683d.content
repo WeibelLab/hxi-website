@@ -9497,3 +9497,11 @@ div.chart {
 nav#navbar-main li.nav-item {
   font-size: 16px;
   font-weight: bold; }
+
+.hero-lead {
+  text-align: justify;
+  width: 100%; }
+
+.hero-media {
+  max-width: 450px;
+  font-size: 0.5rem; }
