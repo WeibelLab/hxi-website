@@ -13,12 +13,12 @@ item:
   overlay_color: '#3f51b5' # An HTML color value.
   overlay_filter: 0.0 
   overlay_img: 'slider/00_lab-whiteboard.jpg'   
- - title: ''
-   align: center 
-   content: ''
-   overlay_color: '#3f51b5' # An HTML color value.
-   overlay_filter: 0.0 
-   overlay_img: 'slider/01_ar_surgery.jpg'
+- title: ''
+  align: center 
+  content: ''
+  overlay_color: '#3f51b5' # An HTML color value.
+  overlay_filter: 0.0 
+  overlay_img: 'slider/01_ar_surgery.jpg'
 - title: ''
   align: center 
   content: ''
