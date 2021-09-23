@@ -26,5 +26,5 @@ Our main application domains are health & healthcare, and education. Our project
 </div>
 
 <div style="width: 30%; margin-left: 70%;"> 
-<img src="/images/hxi.png" width="400px" style="max-width:400px;height:auto;">
+<img src="/images/hxi.png" width="400px" style="margin-top:20%; max-width:400px;height:auto;">
 </div>
