@@ -3,7 +3,7 @@ widget: slider
 weight: 15 
 active: true  
 headless: true  
-height: '600px; background-position:center; background-repeat: no-repeat; background-size: cover'
+height: '400px; background-position:center; background-repeat: no-repeat; background-size: cover'
 interval: 3000
 
 item:
