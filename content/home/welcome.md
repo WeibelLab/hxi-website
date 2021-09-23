@@ -5,9 +5,9 @@ headless: true
 weight: 10
 title: ""
 subtitle: ""
-active: true
+active: false
 design:
-  columns: "1"
+  columns: ""
   css_style: null
   css_class: null
   background:
