@@ -2,8 +2,7 @@
 title: Nadir Weibel
 role: Associate Professor of Computer Science and Engineering
 avatar_filename: ""
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: 
 interests:
   - Human-Computer Interaction
   - Artificial Intelligence

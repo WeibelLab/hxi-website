@@ -1,9 +1,15 @@
 ---
-title: Augmented Reality Technology-Enabled reMote Integrated Surgery (ARTEMIS)
-summary: An example of using the in-built project page.
+title: 'ARTEMIS: Augmented Reality Technology-Enabled reMote Integrated Surgery'
+summary: A Collaborative Mixed-Reality System for immersive Surgical Telementoring.
 authors: 
   - Nadir Weibel
+  - Michael Yip
+  - Konrad Davis
   - Danilo Gasques
+  - Tommy Sharkey
+  - Janet Johnson
+  - Robin Xu Zhuoqun
+
 tags:
   - MR
   - AR
@@ -14,28 +20,31 @@ tags:
   - Surgery
   - CHI
   - Health
-date: '2021-01-01T00:00:00Z'
-external_link: ''
+
+show_related: false
+
+date: '2021-09-23T00:00:00Z'
+external_link: 'http://artemis.surgery'
 image:
-  caption: ARTEMIS overview sketch
+  #caption: ARTEMIS overview sketch
   focal_point: Smart
-  placement: 2
+  placement: 1
 links: null
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://youtu.be/gJoyjm6Ytlc'
 slides: ''
-lastmod: '2021-07-05T00:21:04.720Z'
+lastmod: '2021-09-21T00:21:04.720Z'
 design:
   columns: '2'
 ---
 
-<small> **Artistic rendering of ARTEMIS and its features. Left: a Novice Surgeon in Augmented Reality receiving help from a remote expert. Right: a Remote Expert Surgeon in VR interacting with a 3D point-cloud of the patient, and engaging with the novice on a surgical procedure.**</small>
+<small> *Artistic rendering of ARTEMIS and its features. Left: a Novice Surgeon in Augmented Reality receiving help from a remote expert. Right: a Remote Expert Surgeon in VR interacting with a 3D point-cloud of the patient, and engaging with the novice on a surgical procedure.*</small>
 
 ------
 
-## Introduction
+### Overview
 
 Specialized surgeries are often needed in places where there is no access to surgeons, and timely access to telemedicine helps novice surgeons save lives.
 
@@ -45,21 +54,23 @@ In ARTEMIS, expert surgeons in remote sites use *Virtual Reality* to access a 3D
 
 {{< youtube gJoyjm6Ytlc >}}
 
-## Team
-
-ARTEMIS is the result of a collaboration between my adviser's lab ([Ubicomp Lab](https://ubicomp.ucsd.edu)), the [ARC Lab](https://www.ucsdarclab.com/artemis), and San Diego's [Naval Medical Center](https://sandiego.tricare.mil/).
-
-
-
-
-## Learn More
-
-Bla bla
-
-- 
 
 ------
 
-# Publications
+### Funding and External Collaborations
+
+ARTEMIS is the result of a collaboration between the [HXI Lab](https://hxi.ucsd.edu) and the [ARC Lab](https://www.ucsdarclab.com/artemis) at UC San Diego, the Contextual Roboticsd Institute, and San Diego's [Naval Medical Center](https://sandiego.tricare.mil/).
+
+This project has been funded by the Naval Medical Center San Diego.
+
+<div style="display: flex; justify-content:space-around; align-items: center;">
+<img src="/images/ARC-Lab.png" style="height: 80px;"> 
+<img src="/images/robotics-institute-front.jpg" style="height: 200px;"> 
+<img src="/images/NMCSD_logo.png" style="height: 150px;">
+</div>
+
+------
+
+### Publications
 
 {{< cite page="/publication/artemis-chi2021" view="1" >}}

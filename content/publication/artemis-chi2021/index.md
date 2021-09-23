@@ -57,9 +57,5 @@ summary: In this paper, we describe ARTEMIS' design process with a summary of
   goals.
 date: 2021-05-01T00:00:00Z
 links:
-  - name: Related Software (Comms)
-    url: https://github.com/WeibelLab/Comms
-  - name: artemis.surgery
-    url: https://artemis.surgery
 publishDate: 2021-05-01T00:00:00Z
 ---
