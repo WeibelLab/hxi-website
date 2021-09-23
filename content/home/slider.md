@@ -24,13 +24,13 @@ item:
   content: it connected two continents
   overlay_color: '#333'
   overlay_filter: 0.0
-  overlay_img: site_banner/land.jpg
+  overlay_img: ''
 - title: '...in the Sea.'
   align: right 
   content: 'it divided one ocean. '
   overlay_color: '#333'
   overlay_filter: 0.7
-  overlay_img: site_banner/sea.jpg
+  overlay_img: ''
 - title: ''
   align: center 
   content: Learn more about this website & the grant that supports the work---*Divergence
