@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: HXI - Human-centered eXtended Intelligence at UC San Diego # Website name
+title: HXI - Human-centered eXtended Intelligence @ UCSD # Website name
 baseurl: '' # Website URL
 copyright: 'HXI@UCSD © {year}' # Footer text, e.g. '© {year} Me'
 
