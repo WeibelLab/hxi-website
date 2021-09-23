@@ -10,6 +10,7 @@ authors:
 - Alan Calvitti
 - Zia Agha
 - Nadir Weibel
+doi: 10.4108/icst.pervasivehealth.2015.259276
 tags: []
 categories: []
 date: '2015-01-01'
