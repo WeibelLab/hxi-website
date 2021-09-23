@@ -12,6 +12,7 @@ authors:
 - Erfan Sayyari
 - Dan Lenzen
 - Jim Hollan
+doi: 10.1109/HICSS.2016.82
 tags: []
 categories: []
 date: '2016-01-01'
