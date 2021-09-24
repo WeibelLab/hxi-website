@@ -23,7 +23,7 @@ education:
 
 avatar_filename: avatar
 social:
-- icon: earth-americas
+- icon: earth
   icon_pack: fas
   link: 'https://danilogasques.com/'
 - icon: envelope
