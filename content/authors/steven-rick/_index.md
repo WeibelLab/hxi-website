@@ -47,4 +47,4 @@ Steven Rick is a Ph.D. Candidate in the Department of Computer Science and Engin
 
 Trained as a Biomedical Informatician (through the support of an <a href="https://www.nlm.nih.gov/ep/GrantTrainInstitute.html">NIH NLM Pre-Doctoral Fellowship</a>), he regularly applies himself within the healthcare domain, working on problems ranging from symptom detection and care-coordination to health equity and technology usability.
 
-You can find more at his webstie, <a href="https://stevenrick.com/">https://stevenrick.com/</a>.
+You can read more at his website - <a href="https://stevenrick.com/">https://stevenrick.com/</a>
