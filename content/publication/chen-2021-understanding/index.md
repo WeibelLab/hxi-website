@@ -15,6 +15,7 @@ authors:
 - Alison A Moore
 - Emilia Farcas
 - Nadir Weibel
+doi: 10.1145/3441852.3471218
 tags: []
 categories: []
 date: '2021-01-01'
@@ -42,5 +43,5 @@ publication_types:
 abstract: ''
 publication: '*The 23rd International ACM SIGACCESS Conference on Computers and Accessibility
   (Virtual Event, USA)(ASSETS’21). Association for Computing Machinery, Virtual Event,
-  USA. https://doi. org/10.1145/3441852.3471218*'
+  USA.*
 ---
