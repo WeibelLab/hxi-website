@@ -45,7 +45,7 @@ superuser: false
 email: "gasques@ucsd.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focus is on improving remote and co-located surgical mentorin and training as well as surgical guidance through eXtended Reality technology.
+bio: My research focus is on improving remote and co-located surgical mentoring and training as well as creating intefaces for surgical guidance through eXtended Reality technology.
 
 
 user_groups:
