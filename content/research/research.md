@@ -34,6 +34,8 @@ content:
       tag: Health
     - name: Design
       tag: Design
+    - name: COVID-19
+      tag: COVID
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
