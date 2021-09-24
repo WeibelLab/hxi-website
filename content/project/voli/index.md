@@ -36,10 +36,6 @@ design:
   columns: '2'
 ---
 
-[//]: # (
-<small> *Artistic rendering of ARTEMIS and its features. Left: a Novice Surgeon in Augmented Reality receiving help from a remote expert. Right: a Remote Expert Surgeon in VR interacting with a 3D point-cloud of the patient, and engaging with the novice on a surgical procedure.*</small>
-)
-
 ------
 
 ### Overview
