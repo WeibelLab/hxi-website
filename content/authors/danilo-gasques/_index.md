@@ -1,6 +1,6 @@
 ---
 title: Danilo Gasques
-role: Computer Science Ph.D. Candidate
+role: Ph.D. Candidate
 
 weight: 30
 
