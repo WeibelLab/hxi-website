@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: based mobile access to databases
+title: Paper-based mobile access to databases
 subtitle: ''
 summary: ''
 authors:
