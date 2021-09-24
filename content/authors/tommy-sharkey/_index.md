@@ -23,6 +23,8 @@ social:
 organizations:
   - name: UC San Diego
     url: https://ucsd.edu
+  - name: Human-Centered eXtended Intelligence Lab
+    url: /
   - name: UC San Diego Design Lab
     url: https://designlab.ucsd.edu/
   - name: Arthur C. Clarke Center for Human Imagination
