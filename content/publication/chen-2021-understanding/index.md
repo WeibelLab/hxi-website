@@ -43,5 +43,5 @@ publication_types:
 abstract: ''
 publication: '*The 23rd International ACM SIGACCESS Conference on Computers and Accessibility
   (Virtual Event, USA)(ASSETS’21). Association for Computing Machinery, Virtual Event,
-  USA.*
+  USA.*'
 ---
