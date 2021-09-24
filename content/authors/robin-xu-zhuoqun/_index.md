@@ -1,5 +1,5 @@
 ---
-title: Zhuoqun Robin Xu
+title: Robin Xu Zhuoqun
 role: CSE Master Student
 
 avatar_filename: avatar
