@@ -29,5 +29,6 @@ design:
   columns: '1'
 ---
 
-You can contact the HXI Research lab at UCSD by sending an email to the address below, or by contacting directly Dr. Weibel, or one of the team members.
-We are alos happy to host you at our lab at UC San Diego, but please let us know in advance ;-)
+You can contact the HXI Research Lab at UCSD by either sending an email to the address below, or by contacing one of the lab members.
+
+We are also happy to host you at our lab at UC San Diego, but please let us know in advance :-)

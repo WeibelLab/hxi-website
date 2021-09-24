@@ -28,4 +28,6 @@ design:
   flip_alt_rows: false
 
 ---
-We currently teach classes that span the Computer Science (CSE) and Cognitive Science (COGS) departments. Classes are interdisciplinary and focus on Human-Computer Interaction and Design at different levels. If you are interested in any of our classes find below a short description and links to them.
+We currently teach classes that span across the [Computer Science (CSE)](http://cse.ucsd.edu) and the [Cognitive Science (COGS)](http://cogsci.ucsd.edu) departments. Classes are interdisciplinary and focus on Human-Computer Interaction and Design at different levels. 
+
+If you are interested in any of our classes, please explore the options below.

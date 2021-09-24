@@ -5,17 +5,22 @@ nav#navbar-main li.nav-item {
 }
 
 .hero-lead {
-  text-align: justify;
+  text-align: left;
   width: 100%;
+  line-height: 100%;
 }
 
 
 .hero-media {
-  max-width: 450px;
+  max-width: 400px;
   font-size: 0.5rem;
 }
 
 
 .form-row {
   
+}
+
+.home-section {
+  padding: 20px;
 }

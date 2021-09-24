@@ -1,10 +1,10 @@
 ---
 widget: slider  
-weight: 15 
+weight: 20 
 active: true  
 headless: true  
 height: '500px; background-position:top; background-repeat: no-repeat; background-size: cover'
-interval: 3000
+interval: 7000
 
 item:
 - title: ''

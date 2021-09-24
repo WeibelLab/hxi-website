@@ -48,8 +48,8 @@ design:
   flip_alt_rows: false
 
 ---
-We work at the intersection of human-computer interaction, artificial intelligence, and human-centered design to understand how pervasive and emerging technologies can help bridge the gap between the physical and digital worlds, especially in the sphere of health and healthcare. 
+Our work is at the intersection of human-computer interaction (HCI), artificial intelligence (AI), and human-centered design (HCD). We strive to understand how pervasive and emerging technologies can help bridge the gap between the physical and digital worlds, especially in the sphere of health and healthcare. 
 
-The HXI research lab work has been funded by the National Institutes of Health (NIH), the National Science Foundation (NSF), the Agency for Healthcare Research and Quality (AHRQ), the Department of Veteran Affairs (VA), the Center for AIDS Research (CFAR), the UC San Diego Office of Research Affairs, the Robert Wood Johnson Foundation, the Moxie Foundation, the Swiss National Science Foundation (SNSF), the European Union (FP6), Intuitive Surgical, and Boeing.
+HXI's work has been funded by the [National Institutes of Health (NIH)](http://nih.gov), the [National Science Foundation (NSF)](http://nsf.gov), the [Agency for Healthcare Research and Quality (AHRQ)](http://ahrq.gov), the [Department of Veteran Affairs (VA)](http://va.gov), the [Center for AIDS Research (CFAR)](https://cfar.ucsd.edu/), the [UC San Diego Office of Research Affairs](https://research.ucsd.edu/), the [Robert Wood Johnson Foundation](http://rwjf.org), the Moxie Foundation, the [Swiss National Science Foundation (SNSF)](http://snsf.ch), the [European Commission (FP6)](https://ec.europa.eu/eurostat/cros/content/fp6-projects_en), [Intuitive Surgical](https://www.intuitive.com/), and [Boeing](https://www.boeing.com/).
 
 Previous and archived research projects can be found <a href="/archive/">here</a>.

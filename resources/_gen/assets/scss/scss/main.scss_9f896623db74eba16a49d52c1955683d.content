@@ -9499,9 +9499,13 @@ nav#navbar-main li.nav-item {
   font-weight: bold; }
 
 .hero-lead {
-  text-align: justify;
-  width: 100%; }
+  text-align: left;
+  width: 100%;
+  line-height: 100%; }
 
 .hero-media {
-  max-width: 450px;
+  max-width: 400px;
   font-size: 0.5rem; }
+
+.home-section {
+  padding: 20px; }

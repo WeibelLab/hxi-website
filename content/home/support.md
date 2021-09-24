@@ -2,7 +2,7 @@
 widget: blank
 widget_id: support
 headless: true
-weight: 12
+weight: 60
 title: null
 subtitle: null
 design:
@@ -17,4 +17,4 @@ design:
       - "0"
 ---
 
-{{% cta cta_link="https://espi.ucsd.edu/make-a-gift?id=9717e03e-0ab8-4b20-96f0-9ee5ec395223" cta_text="Please Support our Research →" cta_new_tab="true" %}}
+{{% cta cta_link="https://espi.ucsd.edu/make-a-gift?id=9717e03e-0ab8-4b20-96f0-9ee5ec395223" cta_text="Support our Research →" cta_new_tab="true" %}}
