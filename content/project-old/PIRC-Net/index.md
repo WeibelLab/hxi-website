@@ -70,6 +70,5 @@ PIRC-Net is a project in collaboration between the CSE Department, the Center fo
 
 ### Publications
 
-[//]: # ( 
-{{< cite page="/publication/artemis-chi2021" view="1" >}} 
-)
+{{< cite page="/publication/thangarajan-2015-analyzing" view="1" >}} 
+{{< cite page="/publication/weibel-2017-hiv" view="1" >}} 

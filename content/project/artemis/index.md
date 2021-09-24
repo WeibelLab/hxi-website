@@ -77,3 +77,6 @@ This project has been funded by the Naval Medical Center San Diego.
 ### Publications
 
 {{< cite page="/publication/artemis-chi2021" view="1" >}}
+{{< cite page="/publication/weibel-2020-artemis" view="1" >}}
+{{< cite page="/publication/gasques-2017-exploring" view="1" >}}
+

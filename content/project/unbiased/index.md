@@ -70,6 +70,5 @@ UnBIASED ia a 5-year project, funded by the National Library of Medicine (NLMR01
 
 ### Publications
 
-[//]: # ( 
-{{< cite page="/publication/artemis-chi2021" view="1" >}} 
-)
+{{< cite page="/publication/sabin-2021-developing" view="1" >}} 
+
