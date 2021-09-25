@@ -2,7 +2,7 @@
 title: Chen Chen
 role: Ph.D. Student
 
-weight: 30
+weight: 50
 
 organizations:
   - name: HXI
