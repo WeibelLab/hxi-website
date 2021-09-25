@@ -45,14 +45,10 @@ social:
 superuser: false
 email: "chenchen@ucsd.edu"
 
-# Short bio (displayed in user profile at end of posts)
-bio: 
-Chen Chen is a Ph.D. student in the Department of Computer Science and Engineering at UC San Diego. His research focus on designing novel input tools, methods, and techniques to enable a more accessible and usable Human-XR Interactions, for general users and domain experts.
-
 user_groups:
 - Ph.D Students and Postdocs
 
 ---
-Learn more about me at my website: <b><a href="https://chen-chen.me">https://chen-chen.me</a>
+Chen Chen is a Ph.D. student in the Department of Computer Science and Engineering at UC San Diego. His research focus on designing novel input tools, methods, and techniques to enable a more accessible and usable Human-XR Interactions, for general users and domain experts.
 
 
