@@ -36,12 +36,14 @@ education:
     - course: MS in Computer Science and Engineering
       institution: ETH Zurich, Switzerland
       year: 2004
-email: ""
+email: "weibel@ucsd.edu"
 superuser: true
 user_groups:
   - Director
 highlight_name: false
+
+
 ---
-Nadir Weibel is an Associate Professor in the Department of Computer Science and Engineering at UC San Diego, and a Research Health Science Specialist at the VA San Diego Health System, and one of the faculty of the UCSD Design Lab, Contextual Robotics Institute, Center for Population and Health Systems, and the Research Center on Optimal Digital Ethics
+Dr. Nadir Weibel is an Associate Professor in the Department of Computer Science and Engineering at UC San Diego, and a Research Health Science Specialist at the VA San Diego Health System, and one of the faculty of the UCSD Design Lab, Contextual Robotics Institute, Center for Population and Health Systems, and the Research Center on Optimal Digital Ethics
 
 His work on Human-centered eXtended Intelligence is situated at the intersection of computer science, design, and the health sciences. Current work focuses on Human-Computer Interaction, Artifical Intelligence, and eXtended Reality, investigating tools, techniques, and infrastructure to support the deployment of innovative interactive multimodal and tangible devices in context, studying and quantifying the cognitive consequences of the introduction of this technology in the everyday life.

@@ -1,5 +1,5 @@
 ---
-title: "ARTEMIS: A Collaborative Mixed-Reality System for Immersive Surgical Telementoring (CHI2021)"
+title: "ARTEMIS: A Collaborative Mixed-Reality System for Immersive Surgical Telementoring (CHI 2021)"
 authors:
 - Danilo Gasques
 - Janet Johnson
@@ -28,7 +28,7 @@ publishDate: "2021-05-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conference on Human Factors in Computing 2021 (CHI2021)*
+publication: In *Conference on Human Factors in Computing 2021 (CHI 2021)*
 publication_short: In *CHI 2021*
 
 abstract: Traumatic injuries require timely intervention, but medical expertise is not always available at the patient’s location. Despite recent advances in telecommunications, surgeons still have limited tools to remotely help inexperienced surgeons. Mixed Reality hints at a future where remote collaborators work side-by-side as if co-located; however, we still do not know how current technology can improve remote surgical collaboration. Through role-playing and iterative-prototyping, we identify collaboration practices used by expert surgeons to aid novice surgeons as well as technical requirements to facilitate these practices. We then introduce ARTEMIS, an AR-VR collaboration system that supports these key practices. Through an observational study with two expert surgeons and five novice surgeons operating on cadavers, we find that ARTEMIS supports remote surgical mentoring of novices through synchronous point, draw, and look affordances and asynchronous video clips. Most participants found that ARTEMIS facilitates collaboration despite existing technology limitations explored in this paper.
