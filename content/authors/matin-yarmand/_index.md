@@ -32,7 +32,9 @@ education:
       year: 2019
 email: ""
 superuser: true
-user_groups:
+user_groups: 
+  - Ph.D Students and Postdocs
+
 highlight_name: false
 ---
 Matin Yarmand is a Ph.D. student in the Department of Computer Science and Engineering at UC San Diego. His research focus is to enhance remote learning by leveraging user context and providing timely AI and peer support. His work is partly supported by NSERC Doctoral fellowship.
