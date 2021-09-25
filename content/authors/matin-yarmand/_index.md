@@ -1,6 +1,6 @@
 ---
 title: Matin Yarmand
-role: Ph.D. Student of Computer Science and Engineering | UCSD Design lab
+role: Ph.D. Student <br/>Computer Science and Engineering & UCSD Design lab
 avatar_filename: ""
 bio: 
 interests:
