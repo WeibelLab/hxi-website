@@ -7,7 +7,8 @@ authors:
   - Ying Wu
   - Timothy Wood
 tags:
-  - XR
+  - MR
+  - Education
   - Embodied Cognition
 show_related: false
 date: '2021-09-23T00:00:00Z'

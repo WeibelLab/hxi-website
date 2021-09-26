@@ -13,6 +13,7 @@ authors:
 
 tags:
   - AI
+  - MR
   - Stroke
   - Design
   - Health
@@ -43,6 +44,8 @@ design:
 Stroke is a major leading cause of death and disability in the United States and stroke-related care poses a significant burden on the population. Recombinant Tissue Plasminogen Activator is the only therapy for stroke but it is utilized in less than 5% of acute strokes due to the narrow therapeutic time window for intervention, within 3 hours of the onset of symptoms. Stroke assessment is currently hindered by human analysis. Accurately diagnosing a stroke as soon as possible after the onset of symptoms requires a stroke specialist and adjunctive imaging techniques. Additionally, stroke outcome prediction is currently crude, and stroke deficit scales are generally unable to predict if a patient will do well or very poorly.
 
 The UbiStroke team is developing techniques to reliably identify and quantify the degree of different stroke-related deficits, through an accurate per-patient stroke signature that will help to more precisely assess patients’ deficits. The UbiStroke system exploits multiple sensors and generate a stroke assessment based on body posture, facial droop, pupil tracking, speech patterns, and other symptoms of stroke. We are evaluating UbiStroke’s introduction into the clinical setting to assist the clinician-performed NIHSS exam.
+
+HoloStroke is a spin-off of the UbiStroke project that is looking into how to support stroke diagnosis through remote holographic visits with a neurologist specialized in stroke, using mixed reality technology.
 
 ------
 
