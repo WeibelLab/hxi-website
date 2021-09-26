@@ -20,8 +20,7 @@ content:
   - Director
   - Ph.D Students and Postdocs
   - Master Students
-  - Undergraduates
-  - Visitors
+  - Undergraduate Students
   - Alumni
 
 design:

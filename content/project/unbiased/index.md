@@ -3,6 +3,7 @@ title: 'UnBIASED: Understanding Biased patient-provider Interactions And Support
 summary: A Social Signal Processing approach to address hidden healthcare bias by improving patient-doctor communication in primary care.
 authors: 
   - Nadir Weibel
+  - Colleen Emmenegger
   - Steven Rick
   - Naba Rizvi
   - Andrea Hurtlzer (UW)
