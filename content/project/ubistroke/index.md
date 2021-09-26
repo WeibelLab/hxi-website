@@ -47,13 +47,12 @@ The UbiStroke team is developing techniques to reliably identify and quantify th
 ------
 
 ### Funding and External Collaborations
-UbiStroke is a collaboration with the UCSD Stroke Center, and the UCSD Bioengineering department, the Institute of Neural Computation, and HomniHealth, Inc. Research leading to UbiStroke has been funded by the National Science Foundation, the NSF I-Corps, the National Library of Medicine at NIH, IBM Research, and UCSD's Office of Research Affairs.
+UbiStroke is a collaboration with the [UCSD Stroke Center](https://health.ucsd.edu/specialties/neuro/specialty-programs/stroke-neurovascular-surgery), and the [UCSD Bioengineering Department](https://isn.ucsd.edu/index.php), the [Institute of Neural Computation](https://inc.ucsd.edu/), and [HomniHealth](https://www.homnihealth.com/). Research leading to UbiStroke has been funded by the National Science Foundation, the NSF I-Corps, the National Library of Medicine at NIH, IBM Research, and UCSD's Office of Research Affairs.
 
 <div style="display: flex; justify-content:space-around; align-items: center;">
-<img src="/images/nsf-icorps.png" style="height: 80px;"> 
-<img src="/images/nih-nlm.jpg" style="height: 80px;"> 
+<img src="/images/nsf-icorps.jpg" style="height: 80px;"> 
+<img src="/images/nih-nlm.png" style="height: 60px;"> 
 <img src="/images/ibm.jpg" style="height: 70px;"> 
-<img src="/images/UCSD_FISP.png" style="height: 70px;"> 
 </div>
 
 ------
