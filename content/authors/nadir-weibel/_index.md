@@ -24,7 +24,17 @@ social:
     link: https://www.linkedin.com/in/weibel/
 organizations:
   - name: UC San Diego
-    url: http://ucsd.edu
+    url: https://ucsd.edu
+  - name: Computer Science and Engineering
+    url: https://cse.ucsd.edu/
+  - name: HXI Research Lab
+    url: https://hxi.ucsd.edu/
+  - name: The Design Lab
+    url: https://design.ucsd.edu/
+  - name: Contextual Robotics Institute
+    url: https://contextualrobotics.ucsd.edu/
+  - name: Center for Wireless and Population Health Systems (CWPHS)
+    url: https://cwphs.ucsd.edu/
 education:
   courses:
     - course: Postdoctoral Fellowship in Human-Computer Interaction

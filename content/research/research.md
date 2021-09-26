@@ -30,12 +30,15 @@ content:
       tag: AI
     - name: Mixed-Reality
       tag: MR
-    - name: Healthcare
-      tag: Health
-    - name: Design
-      tag: Design
     - name: COVID-19
       tag: COVID
+    - name: Healthcare
+      tag: Health
+    - name: Education
+      tag: Education
+    - name: Design
+      tag: Design
+
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -52,6 +55,6 @@ design:
 ---
 Our work is at the intersection of human-computer interaction (HCI), artificial intelligence (AI), and human-centered design (HCD). We strive to understand how pervasive and emerging technologies can help bridge the gap between the physical and digital worlds, especially in the sphere of health and healthcare. 
 
-HXI's work has been funded by the [National Institutes of Health (NIH)](http://nih.gov), the [National Science Foundation (NSF)](http://nsf.gov), the [Agency for Healthcare Research and Quality (AHRQ)](http://ahrq.gov), the [Department of Veteran Affairs (VA)](http://va.gov), the [Center for AIDS Research (CFAR)](https://cfar.ucsd.edu/), the [UC San Diego Office of Research Affairs](https://research.ucsd.edu/), the [Robert Wood Johnson Foundation](http://rwjf.org), the Moxie Foundation, the [Swiss National Science Foundation (SNSF)](http://snsf.ch), the [European Commission (FP6)](https://ec.europa.eu/eurostat/cros/content/fp6-projects_en), [Intuitive Surgical](https://www.intuitive.com/), and [Boeing](https://www.boeing.com/).
+HXI's work has been funded by the [National Institutes of Health (NIH)](http://nih.gov), the [National Science Foundation (NSF)](http://nsf.gov), the [Agency for Healthcare Research and Quality (AHRQ)](http://ahrq.gov), the [Department of Veteran Affairs (VA)](http://va.gov), the [Center for AIDS Research (CFAR)](https://cfar.ucsd.edu/), the [UC San Diego Office of Research Affairs](https://research.ucsd.edu/), the [Robert Wood Johnson Foundation](http://rwjf.org), the Moxie Foundation, the [Swiss National Science Foundation (SNSF)](http://snsf.ch), the [European Commission (FP6)](https://ec.europa.eu/eurostat/cros/content/fp6-projects_en), [Intuitive Surgical](https://www.intuitive.com/), [IBM Research](https://research.ibm.com//) and [Boeing](https://www.boeing.com/).
 
 Previous and archived research projects can be found <a href="/archive/">here</a>.
