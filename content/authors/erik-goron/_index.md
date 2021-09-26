@@ -11,6 +11,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/erikgoron/
 
+weight: 40
+
 user_groups:
 - Master Students
 ---

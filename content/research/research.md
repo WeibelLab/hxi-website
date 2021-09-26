@@ -50,7 +50,7 @@ design:
   #   5 = Showcase
   view: 3
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 
 ---
 Our work is at the intersection of human-computer interaction (HCI), artificial intelligence (AI), and human-centered design (HCD). We strive to understand how pervasive and emerging technologies can help bridge the gap between the physical and digital worlds, especially in the sphere of health and healthcare. 
