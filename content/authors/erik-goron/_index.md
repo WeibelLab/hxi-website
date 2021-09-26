@@ -6,6 +6,11 @@ avatar_filename: avatar
 social: []
 superuser: false
 
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/erikgoron/
+
 user_groups:
 - Master Students
 ---
