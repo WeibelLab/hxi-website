@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-title: Current Research Project
+title: Current Research Projects
 #headless: true  # This file represents a page section.
 
 weight: 10
