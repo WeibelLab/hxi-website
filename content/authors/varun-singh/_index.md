@@ -9,10 +9,10 @@ organizations:
     url: https://cse.ucsd.edu/
 
 avatar_filename: avatar
-
+social: []
 superuser: false
 email: "v7singh@ucsd.edu"
 
 user_groups:
 - Undergraduate Students
-
+---
