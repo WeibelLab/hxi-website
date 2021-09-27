@@ -1,5 +1,5 @@
 ---
-title: 'ChronoSense'
+title: 'ChronoSense and Lab-in-a-Box'
 summary: An extensible, temporally-aware, multimodal data capture software tool.
 authors: 
   - Steven Rick
