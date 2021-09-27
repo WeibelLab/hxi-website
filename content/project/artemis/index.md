@@ -8,7 +8,7 @@ authors:
   - Danilo Gasques
   - Tommy Sharkey
   - Janet Johnson
-  - Robin Xu Zhuoqun
+  - Zhuoqun Robin Xu
 
 tags:
   - MR
