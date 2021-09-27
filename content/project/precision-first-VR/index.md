@@ -1,26 +1,21 @@
 ---
-title: 'VOLI: Voice Assistant for Quality of Life and Healthcare Improvement in Aging Populations'
-summary: A personalized and context-aware voice-based digital assistant to improve the quality of life and the healthcare of older adults.
+title: 'Precision-First 3D Drawing'
+summary: 
 authors: 
   - Nadir Weibel
+  - Yang Zhang (UCLA)
   - Chen Chen
-  - Janet Johnson
-  - Emilia Farcas
-  - Alison Moore
-  - Ndapa Nakashole
-  - Mike Hogarth
+  - Zhuoqun Robin Xu
+  - Matin Yarmand
+  - Varun Singh
 
 tags:
-  - Health
-  - Voice
-  - NLP
-  - Older Adults 
-  - AI
-  - Design
+  - VR
+  - Mixed-Reality
 
 show_related: false
 
-date: '2021-09-23T00:00:00Z'
+date: '2021-09-27T00:00:00Z'
 external_link: ''
 image:
   focal_point: Smart
@@ -31,7 +26,7 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 slides: ''
-lastmod: '2021-09-21T00:21:04.720Z'
+lastmod: '2021-09-27T00:21:04.720Z'
 design:
   columns: '2'
 ---
@@ -40,35 +35,7 @@ design:
 
 ### Overview
 
-According to the latest US Census Bureau predictions, by 2035 older people are projected to outnumber children for the first time in US history. This brings significant societal challenges based on their unique living and health-related conditions stemming from reduced sensory, motor, and cognitive capabilities, as well as multiple chronic conditions. Technology can play a pivotal role in meeting the needs of older adults in ways that preserve their independence. Voice represents a natural choice for interaction between an aging individual and their caregivers, social networks, and healthcare providers, and it becomes key for those with visual or mobility impairment.
-
-We are working on a personalized and context-aware voice-based digital assistant to improve the quality of life and the healthcare of older adults, and consequently, to reduce caregiving burden and optimize the interactions with healthcare and service providers.
-
-We strive for innovations in natural language understanding, deep learning, and human-computer interfaces that leverage information from EHRs, clinical ontologies, and novel patient-level terminologies to support among others the clinical use case of detecting symptom changes and medication side effects.
-
-*More Info here:* http://voli.ucsd.edu
+While 3D annotations are often used for sketching, higher VR resolutions and new drawing modalities open the way to a new paradigm that we call Precision–First 3D Drawing. Realizing this paradigm is important for precise 3D tasks like surgical telestration, medical contouring, and automotive design. However, due to lack of physical support, limited depth perception, and non–planar nature of 3D curves, it is challenging to adjust mid–air strokes to achieve high precision. We investigate how task geometric shapes and input modalities affect precision–first drawing performance in a within–subject study (n =12) focusing on 3D target tracing in commercially available VR systems. We found that compared to using hands, VR controllers and pens yield nearly 30% gain, and that the tasks with large curvature, forward–backward or left–right orientations perform best. We outline key characteristics of precision–first drawing and create opportunities for novel interaction techniques for precise delineation in 3D.
 
 
-------
-
-### Funding and External Collaborations
-
-VOLI is a NIH/NSF Smart and Connected Health (SCH) funded by the National Institute of Aging (NIA) at NIH. It is a collaboration between the [HXI Lab](https://hxi.ucsd.edu) and a number of experts at UC San Diego's Qualcomm Instititute, Computer Science and Engineering, and School of Medicine in healthcare, expert systems in clinical care, EHR integration, the aging population, patient monitoring, patient self-report, machine learning for natural language processing and understanding, experimental prototyping, field studies, and software engineering of large-scale systems.
-
-
-<div style="display: flex; justify-content:space-around; align-items: center;">
-<img src="/images/CSE.jpg" style="height: 120px;"> 
-<img src="/images/qi.png" style="height: 80px;"> 
-<img src="/images/ucsd_som.jpg" style="height: 80px;"> 
-<img src="/images/nih-nia.jpg" style="height: 40px;">
-
-</div>
-
-------
-
-### Publications
-
-{{< cite page="/publication/chen-2021-understanding" view="1" >}} 
-{{< cite page="/publication/voli-cui2021" view="1" >}} 
-{{< cite page="/publication/charles-2021-might" view="1" >}} 
 
