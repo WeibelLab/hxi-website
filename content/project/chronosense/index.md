@@ -32,6 +32,8 @@ slides: ''
 lastmod: '2021-09-27T00:21:04.720Z'
 design:
   columns: '2'
+
+weight: 50
 ---
 
 <small> *Screenshot of the ChronoSense UI. This tool enables a user to simultaneously capture multiple streams of multimodal data for use at a later point in time. It also allows for real-time and near-time analysis through it's extensible plugin interface.*</small>
