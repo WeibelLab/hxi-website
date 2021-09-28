@@ -8,7 +8,6 @@ organizations:
   - name: Computer Science and Engineering
     url: https://cse.ucsd.edu/
 
-avatar_filename: avatar
 social: []
 superuser: false
 email: "v7singh@ucsd.edu"
