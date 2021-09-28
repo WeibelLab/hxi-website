@@ -1,6 +1,6 @@
 ---
 title: Varun Singh
-role: Computer Science and Engineering
+role: Undergraduate Student at UCSD<br/> Computer Science
 
 social:
   - icon: linkedin

@@ -1,6 +1,6 @@
 ---
 title: Peter Liu
-role: Computer Science and Engineering
+role: Undergraduate Student at UCSD<br/> Computer Science
 
 _build:
   render: never
