@@ -16,6 +16,12 @@ organizations:
   - name: Human-Centered eXtended Intelligence Lab
     url: /
 
+education:
+  courses:
+    - course: BS in Global Disease Biology 
+      institution: UC Davis, Davis, CA, USA
+      year: 2020
+
 weight: 32
 
 user_groups:
