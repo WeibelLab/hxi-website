@@ -29,7 +29,7 @@ lastmod: '2021-09-21T00:21:04.720Z'
 design:
   columns: '2'
 ---
-
+ 
 ------
 ### Overview
 Treating patients with safe and effective radiation therapy depends critically on the precise identification of tumor and nearby normal tissues. This process, known as contouring, refers to identifying and outlining cancer and normal tissues in medical images.
