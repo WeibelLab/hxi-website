@@ -2,12 +2,11 @@
 title: Alexander Schonken
 role: CSE Master Student
 avatar_filename: avatar
-
+bio:
 interests:
   - Applied Machine Learning and Artificial Intelligence
   - Human-Computer Interaction
   - Education Technology
-
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,7 +19,6 @@ organizations:
     url: https://ucsd.edu
   - name: Human-Centered eXtended Intelligence Lab
     url: /
-
 education:
   courses:
     - course: BS in Computer Science
