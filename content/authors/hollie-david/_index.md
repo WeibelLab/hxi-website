@@ -1,6 +1,7 @@
 ---
 title: Hollie David
 role: Masters of Public Health Student
+avatar_filename: avatar
 
 social:
   - icon: linkedin

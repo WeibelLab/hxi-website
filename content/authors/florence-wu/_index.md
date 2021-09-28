@@ -1,6 +1,7 @@
 ---
 title: Florence Wu
 role: Masters of Public Health Student
+avatar_filename: avatar
 
 social:
   - icon: linkedin

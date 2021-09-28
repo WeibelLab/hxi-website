@@ -1,6 +1,7 @@
 ---
 title: Alexander Schonken
 role: CSE Master Student
+avatar_filename: avatar
 
 social:
   - icon: linkedin
