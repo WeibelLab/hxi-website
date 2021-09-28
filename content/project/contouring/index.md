@@ -28,6 +28,8 @@ slides: ''
 lastmod: '2021-09-21T00:21:04.720Z'
 design:
   columns: '2'
+
+weight: 40
 ---
  
 ------
@@ -48,3 +50,8 @@ iContour is funded by Agency for Healthcare Research and Quality (AHRQ). It is a
 <img src="/images/ucsd_som.jpg" style="height: 150px;"> 
 <img src="/images/ahrq-logo.png" style="height: 120px;">
 </div>
+
+### Publications
+
+{{< cite page="/publication/yarmand-2021-facilitating" view="1" >}}
+
