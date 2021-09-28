@@ -5,7 +5,7 @@ title: 'Cognitive Bias in Patient-Provider Communication: Sensing and Design to 
 subtitle: ''
 summary: ''
 authors:
-- Steven R Rick
+- Steven Rick
 - Erin Beneteau
 - Regina Casanova-Perez
 - Cezanne Lane
