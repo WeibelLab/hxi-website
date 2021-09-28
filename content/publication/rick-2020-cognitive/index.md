@@ -14,7 +14,8 @@ authors:
 - Wanda Pratt
 - Andrea Hartzler
 - Nadir Weibel
-doi: []]
+
+doi: []
 tags: []
 categories: []
 date: '2020-04-01'
