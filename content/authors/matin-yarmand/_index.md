@@ -10,6 +10,9 @@ interests:
   - Educational Technology
   - Artificial Intelligence
 social:
+  - icon: globe-americas
+    icon_pack: fas
+    link: 'https://matinyarmand.com/'
   - icon: envelope
     icon_pack: fas
     link: mailto:myarmand@ucsd.edu
