@@ -1,6 +1,6 @@
 ---
 title: Varun Singh
-role: B.S. Student<br/> Computer Science and Engineering
+role: Computer Science and Engineering
 
 social:
   - icon: linkedin
