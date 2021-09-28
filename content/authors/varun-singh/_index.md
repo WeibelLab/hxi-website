@@ -1,17 +1,21 @@
 ---
 title: Varun Singh
-role: CSE B.S. Student
+role: B.S. Student<br/> Computer Science and Engineering
 
-weight: 50
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/varun-singh-cs/
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:v7singh@ucsd.edu'
 
-organizations:
-  - name: Computer Science and Engineering
-    url: https://cse.ucsd.edu/
-
-social: []
-superuser: false
-email: "v7singh@ucsd.edu"
+_build:
+  render: never
+  list: always
 
 user_groups:
 - Undergraduate Students
+
+weight: -84
 ---
