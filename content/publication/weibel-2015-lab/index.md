@@ -16,7 +16,7 @@ tags: []
 categories: []
 date: '2015-01-01'
 lastmod: 2021-09-23T15:50:41-07:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -36,6 +36,6 @@ projects: []
 publishDate: '2021-09-23T22:50:40.860135Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Patient-centered healthcare and increased efficiency are major goals of modern medicine, and physician–patient interaction and communication are a cornerstone of clinical encounters. The introduction of the electronic health record (EHR) has been a key component in shaping not only organization, clinical workflow and ultimately physicians’ clinical decision making, but also patient–physician communication in the medical office. In order to inform the design of future EHR interfaces and assess their impact on patient-centered healthcare, designers and researchers must understand the multimodal nature of the complex physician–patient–EHR system interaction. However, characterizing multimodal activity is difficult and expensive, often requiring manual coding of hours of video data. We present our Lab-in-a-Box solution that enables the capture of multimodal activity in real-world settings. We focus here on the medical office where our Lab-in-a-Box system exploits a range of sensors to track computer-based activity, speech interaction, visual attention and body movements, and automatically synchronize and segment this data. The fusion of multiple sensors allows us to derive initial activity segmentation and to visualize it for further interactive analysis. By empowering researchers with cutting-edge data collection tools and accelerating analysis of multimodal activity in the medical office, our Lab-in-a-Box has the potential to uncover important insights and inform the next generation of Health IT systems.
 publication: '*Personal and Ubiquitous Computing*'
 ---

@@ -35,7 +35,7 @@ projects: []
 publishDate: '2021-09-23T22:50:53.007981Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: Many chronic diseases and common risks to elderly patients can be assessed and treated through standardized training and rehabilitation programs. Unfortunately, there is a need to make risk assessment and preventative care for the elderly more easily accessible as many programs either use specialized hardware or require human supervision. We seek to reduce the barrier to entry for patients through a portable application which enables fall risk prevention assessment and rehabilitation anywhere. Our work leverages the latest in machine learning and computer vision, accomplishing pose estimation and body tracking with a simple and ubiquitous web cam. Thus patients can be screened anywhere with the ability to get feedback in near-real time.
 publication: '*Proceedings of the 24th International Conference on Intelligent User
   Interfaces: Companion*'
 ---

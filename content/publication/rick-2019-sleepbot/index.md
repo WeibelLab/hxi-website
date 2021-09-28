@@ -33,7 +33,7 @@ projects: []
 publishDate: '2021-09-23T22:50:52.745587Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: Maintaining good sleep hygiene is a constant challenge in modern lives. Sleep habits are hard to monitor and record, especially when most sleep monitoring programs overlook the necessity of calculating user input. This input is vital in order to change poor sleeping patterns, as it is difficult to identify the source of an individual's problems. Sleep tracking software also struggle with a lack of user transparency and interactivity leading individuals to mistrust the results these applications generate or otherwise not feel like the insights are actionable. To explore these issues, we designed an interventional chat bot to mediate information collection and interaction between end user and sleep monitoring technology. The SleepBot prompts users with simple questions that attempt to elicit insight into larger problems that contribute to poor sleep and help craft successful sleep hygiene behaviors. Text messaging based interaction eases the process as it is similar to talking with a friend, making for a unique environment in which the user is able to share personal data comfortably.
 publication: '*Proceedings of the 24th International Conference on Intelligent User
   Interfaces: Companion*'
 ---

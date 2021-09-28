@@ -18,7 +18,7 @@ tags: []
 categories: []
 date: '2015-01-01'
 lastmod: 2021-09-23T15:50:43-07:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -38,6 +38,7 @@ projects: []
 publishDate: '2021-09-23T22:50:43.076818Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: Electronic Health Records (EHRs) have increased the utility and portability of health information by storing it in structured formats. However, EHRs separate this structured data from the rich, free-text descriptions of clinical notes. The ultimate objective of our research is to develop an interactive progress note that unifies entry, access, and retrieval of structured and unstructured health information. In this study we present the design and subsequent testing with eight clinicians of a core element of this envisioned note free-text order entry. Clinicians saw this new order-entry paradigm as a way to save time and preserve data quality by reducing double-documentation. However, they wanted the prototype to recognize more diverse types of shorthand and apply default values to fields that remain fairly constant across orders, such as number of refills and pickup location. Future work will test more complex orders, such as cascading orders, with a broader range of clinicians.
+
 publication: '*AMIA annual symposium proceedings*'
 ---
