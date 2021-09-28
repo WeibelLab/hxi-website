@@ -1,6 +1,6 @@
 ---
 title: Matin Yarmand
-role: Ph.D. Student <br/>Computer Science and Engineering & UCSD Design lab
+role: Ph.D. Student
 avatar_filename: ""
 bio: 
 interests:
@@ -41,3 +41,5 @@ user_groups:
 highlight_name: false
 ---
 Matin Yarmand is a Ph.D. student in the Department of Computer Science and Engineering at UC San Diego. His research focus is to enhance remote learning by leveraging user context and providing timely AI and peer support. His work is partly supported by NSERC Doctoral fellowship.
+
+Personal Website: <a href="https://matinyarmand.com/">https://matinyarmand.com/</a>
