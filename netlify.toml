@@ -19,3 +19,9 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "/weibel"
+  to = "/author/nadir-weibel/"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
