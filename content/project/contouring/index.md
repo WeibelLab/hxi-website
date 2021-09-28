@@ -1,6 +1,5 @@
 ---
 title: 'iContour: Interactive Contouring Process and Feedback in Radiation Oncology Training'
-summary: 
 authors: 
   - Nadir Weibel
   - Matin Yarmand
