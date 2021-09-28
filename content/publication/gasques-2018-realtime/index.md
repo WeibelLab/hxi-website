@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Realtime guidance for cardiopulmonary resuscitation in Mixed Reality (Demo - PH 2018)
+title: Realtime guidance for cardiopulmonary resuscitation in Mixed Reality (Demo - PervasiveHealth 2018)
 subtitle: ''
 summary: ''
 authors:

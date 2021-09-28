@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Danilo Gasques
 - Ankur Jain
-- Steven R Rick
-- Liu Shangley
+- Steven Rick
+- Shangley Liu
 - Preetham Suresh
 - Nadir Weibel
 tags: []

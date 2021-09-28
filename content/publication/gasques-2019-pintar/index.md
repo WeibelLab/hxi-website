@@ -15,6 +15,7 @@ date: '2019-01-01'
 lastmod: 2021-09-23T15:50:54-07:00
 featured: false
 draft: false
+doi: "10.1145/3301019.3325158"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -34,6 +35,5 @@ publishDate: '2021-09-23T22:50:54.629750Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Companion Publication of the 2019 on Designing Interactive Systems
-  Conference 2019 Companion*'
+publication: '*Proceedings of DIS 2019, International Confenrence Designing Interactive Systems*'
 ---
