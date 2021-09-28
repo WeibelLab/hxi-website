@@ -74,4 +74,4 @@ UnBIASED ia a 5-year project, funded by the National Library of Medicine (NLMR01
 ### Publications
 
 {{< cite page="/publication/sabin-2021-developing" view="1" >}} 
-
+{{< cite page="/publication/rick-2020-cognitive" view="1" >}} 
