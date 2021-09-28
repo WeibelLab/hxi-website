@@ -4,6 +4,9 @@ role: Masters of Public Health Student
 avatar_filename: avatar
 
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:ffwu@ucsd.edu'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/florence-wu/
