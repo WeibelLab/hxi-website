@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Janice Sabin
 - Nadir Weibel
-- Regina Casanova-Perez
+- Reggie Casanova-Perez
 - Colleen Emmenegger
 - Wanda Pratt
 - Cezanne Lane

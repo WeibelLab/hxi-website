@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Steven Rick
 - Erin Beneteau
-- Regina Casanova-Perez
+- Reggie Casanova-Perez
 - Cezanne Lane
 - Colleen Emmenegger
 - Janice Sabin
