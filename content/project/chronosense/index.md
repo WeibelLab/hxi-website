@@ -11,9 +11,9 @@ authors:
   - Calvin Chan
 
 tags:
-  - Multimodal
-  - Data Capture
-  - Extensible
+  - Healthcare
+  - AI
+  - Design
 
 show_related: false
 

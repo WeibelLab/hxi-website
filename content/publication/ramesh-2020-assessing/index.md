@@ -17,6 +17,7 @@ date: '2020-01-01'
 lastmod: 2021-09-23T15:50:58-07:00
 featured: false
 draft: false
+doi: 10.1145/3421937.3422019
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
