@@ -1,0 +1,18 @@
+---
+title: Derek Huynh 
+role: Undergraduate Student at UCSD<br/> Computer Science and Engineering
+
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/derek-huynh-31340a47/
+    
+_build:
+  render: never
+  list: always
+
+user_groups:
+- Alumni
+
+weight: -75
+---
