@@ -10,7 +10,7 @@ authors:
 - Janet G Johnson
 - Alice Charles
 - Kemeberly abd Lee
-- Ella T Lifset
+- Ella Lifset
 - Michael Hogarth
 - Alison A Moore
 - Emilia Farcas
