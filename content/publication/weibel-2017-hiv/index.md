@@ -17,6 +17,7 @@ date: '2017-01-01'
 lastmod: 2021-09-23T15:50:45-07:00
 featured: false
 draft: false
+doi:  10.24251/HICSS.2017.216
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

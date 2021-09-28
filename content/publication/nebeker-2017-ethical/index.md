@@ -18,6 +18,7 @@ date: '2017-01-01'
 lastmod: 2021-09-23T15:50:49-07:00
 featured: false
 draft: false
+doi: 10.1080/23294515.2017.1403980
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
