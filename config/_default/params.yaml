@@ -113,8 +113,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: mapnik
-  api_key: ''
+  provider: google
+  api_key: 'AIzaSyALDwAt6C_1CjErjJbgTblT4SVgnesnNBc'
   zoom: 15
 marketing:
   google_analytics: 'UA-208916150-1'
