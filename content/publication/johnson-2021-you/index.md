@@ -6,7 +6,7 @@ title: Do You Really Need to Know Where “That” Is? Enhancing Support for Ref
 subtitle: ''
 summary: ''
 authors:
-- Janet G Johnson
+- Janet Johnson
 - Danilo Gasques
 - Tommy Sharkey
 - Evan Schmitz
@@ -17,6 +17,7 @@ date: '2021-01-01'
 lastmod: 2021-09-23T15:50:59-07:00
 featured: false
 draft: false
+doi: 10.1145/3411764.3445246
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,7 +36,7 @@ projects: []
 publishDate: '2021-09-23T22:50:59.572793Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: "Mixed Reality has been shown to enhance remote guidance and is especially well-suited for physical tasks. Conversations during these tasks are heavily anchored around task objects and their spatial relationships in the real world, making referencing - the ability to refer to an object in a way that is understood by others - a crucial process that warrants explicit support in collaborative Mixed Reality systems. This paper presents a 2x2 mixed factorial experiment that explores the effects of providing spatial information and system-generated guidance to task objects. It also investigates the effects of such guidance on the remote collaborator's need for spatial information. Our results show that guidance increases performance and communication efficiency while reducing the need for spatial information, especially in unfamiliar environments. Our results also demonstrate a reduced need for remote experts to be in immersive environments, making guidance more scalable, and expertise more accessible."
 publication: '*Proceedings of the 2021 CHI Conference on Human Factors in Computing
   Systems*'
 ---

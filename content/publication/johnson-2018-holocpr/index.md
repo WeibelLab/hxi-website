@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Holocpr: Designing and evaluating a mixed reality interface for time-critical emergencies (PH 2018)'
+title: 'Holocpr: Designing and evaluating a mixed reality interface for time-critical emergencies (Pervasive Health 2018)'
 subtitle: ''
 summary: ''
 authors:
@@ -12,6 +12,7 @@ authors:
 tags:
 - AR
 - MR
+- Health
 
 doi: "10.1145/3240925.3240984"
 
