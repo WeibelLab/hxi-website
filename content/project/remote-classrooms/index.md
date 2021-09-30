@@ -34,7 +34,7 @@ The COVID-19 outbreak prompted a swift shift to remote classrooms. For many inst
 
 This work presents the first results on students' and instructors' behaviours in synchronous online classrooms. Interview and survey studies revealed breakdowns in student-instructor and student-student interactions which (as discussed in the study) can be mitigated with strategies like flexible distribution of video feeds.
 
-This study and our continuing works are covered in the media: <a href="https://ucsdnews.ucsd.edu/feature/it-feels-like-im-talking-into-a-void-how-do-we-improve-the-virtual-classroom">UC San Diego News Center</a>, <a href="https://technews.acm.org/archives.cfm?fo=2021-06-jun/jun-14-2021.html">ACM TechNews</a>, <a href="https://www.engineering.com/story/student-research-aims-to-improve-nonverbal-communication-in-virtual-classrooms">Engineering.com</a>, <a https://csealumnimagazine.ucsd.edu/the-ongoing-pandemic-challenge/">CSE Alumni Magazine</a>  
+This study and our continuing works are covered in the media: <a href="https://ucsdnews.ucsd.edu/feature/it-feels-like-im-talking-into-a-void-how-do-we-improve-the-virtual-classroom">UC San Diego News Center</a>, <a href="https://technews.acm.org/archives.cfm?fo=2021-06-jun/jun-14-2021.html">ACM TechNews</a>, <a href="https://www.engineering.com/story/student-research-aims-to-improve-nonverbal-communication-in-virtual-classrooms">Engineering.com</a>, <a href="https://csealumnimagazine.ucsd.edu/the-ongoing-pandemic-challenge">CSE Alumni Magazine</a>  
 
 ------
 
