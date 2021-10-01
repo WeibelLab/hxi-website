@@ -1,21 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Understanding Barriers and Design Opportunities to Improve Healthcare and QOL
-  for Older Adults through Voice Assistants
+title: Adjacent Display of Relevant Discussion Helps Resolve Confusion
 subtitle: ''
 summary: ''
 authors:
-- Chen Chen
-- Janet G Johnson
-- Alice Charles
-- Kemeberly abd Lee
-- Ella Lifset
-- Michael Hogarth
-- Alison A Moore
-- Emilia Farcas
-- Nadir Weibel
-doi: 10.1145/3441852.3471218
+- Matin Yarmand
+- Srishti Palani
+- Scott Klemmer
+doi: 10.1145/3449217
 tags: []
 categories: []
 date: '2021-01-01'
