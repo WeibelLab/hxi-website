@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Adjacent Display of Relevant Discussion Helps Resolve Confusion'
+title: 'Adjacent Display of Relevant Discussion Helps Resolve
+Confusion'
 subtitle: ''
 summary: ''
 authors:
