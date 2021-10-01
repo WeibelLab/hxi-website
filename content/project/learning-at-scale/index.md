@@ -1,5 +1,6 @@
 ---
 title: 'Mitigating Uncertainty in Online Learning at Scale'
+summary: Learning aids that leverage minimally-invasive user context and provide timely AI and peer support.
 authors: 
   - Nadir Weibel
   - Matin Yarmand

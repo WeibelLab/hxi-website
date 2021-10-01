@@ -1,5 +1,6 @@
 ---
-title: 'iContour: Interactive Contouring Process and Feedback in Radiation Oncology Training'
+title: 'iContour'
+summary: A Mobile System to Support Interactive Contouring and Feedback in Radiation Oncology Training
 authors: 
   - Nadir Weibel
   - Matin Yarmand

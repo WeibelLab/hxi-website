@@ -1,6 +1,6 @@
 ---
 title: 'DIY Masks'
-summary: A pair of DIY masks in response to the COVID-19 shortage of masks. One mask is a polypropelene mask that can be quickly mass manufactured. The other is a silicone half mask that provides extra protection.
+summary: A pair of DIY masks in response to the COVID-19 shortage of masks.
 authors: 
   - Tommy Sharkey
   - Nadir Weibel
