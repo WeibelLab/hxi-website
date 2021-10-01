@@ -1,5 +1,5 @@
 ---
-title: 'Filling the Void in Remote Learning'
+title: 'Mitigating Uncertainty in Online Learning at Scale'
 authors: 
   - Nadir Weibel
   - Matin Yarmand
@@ -30,7 +30,7 @@ weight: 40
  
 ------
 ### Overview
-Expedited by the COVID-19 outbreak, remote  learning is now an inescapable part of education. Many instructors and students are transitioning into online set-ups, yet the current learning tools are not fully suited for teaching and learning needs at unique training domains. This can have detrimental impacts on the quality of learning and well-being of the stakeholders.
+Online learners frequently encounter uncertainity (e.g., confusion) during their study sessions. Unlike in-person educational settings in which learners can conveniently access support from instructors, online students are usually left to address uncertainty on their own. Suboptimal methods of resolving uncertainty (e.g., navigating the sea of information on the web or asking questions in discussion fora with delayed responses) can lead to learning inefficiency, frustration, and lack of productivity.
 
 In this line of works, we first identify and contextualize the breakdowns of remote learning in different settings, such as formal undergraduate education, MOOC (Massive Open Online Courses) users, and healthcare training. We then aim to improve remote learning by leveraging minimally-invasive user context and providing timely AI and peer support. 
 
@@ -46,3 +46,5 @@ This project is a collaboration between Computer Science and Engineering (CSE) a
 ### Publications
 
 {{< cite page="/publication/yarmand-2021-feels" view="1" >}}
+{{< cite page="/publication/yarmand-2021-confusion" view="2" >}}
+
