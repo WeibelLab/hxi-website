@@ -53,7 +53,7 @@ design:
   flip_alt_rows: true
 
 ---
-Our work is at the intersection of Human-Computer Interaction (HCI), Artificial Intelligence (AI), eXtended Reality (XR) and Human-Centered Design (HCD). We strive to understand how pervasive and emerging technologies can help bridge the gap between the physical and digital worlds, especially in the sphere of health & healthcare, and education. 
+Our work is at the intersection of Human-Computer Interaction (**HCI**), Artificial Intelligence (**AI**), eXtended Reality (**XR**) and Human-Centered Design (**HCD**). We strive to understand how pervasive and emerging technologies can help bridge the gap between the physical and digital worlds, especially in the sphere of health & healthcare, and education. 
 
 HXI's work has been funded by the [National Institutes of Health (NIH)](http://nih.gov), the [National Science Foundation (NSF)](http://nsf.gov), the [Agency for Healthcare Research and Quality (AHRQ)](http://ahrq.gov), the [Department of Veteran Affairs (VA)](http://va.gov), the [Center for AIDS Research (CFAR)](https://cfar.ucsd.edu/), the [UC San Diego Office of Research Affairs](https://research.ucsd.edu/), the [Robert Wood Johnson Foundation](http://rwjf.org), the Moxie Foundation, the [Swiss National Science Foundation (SNSF)](http://snsf.ch), the [European Commission (FP6)](https://ec.europa.eu/eurostat/cros/content/fp6-projects_en), [Intuitive Surgical](https://www.intuitive.com/), [IBM Research](https://research.ibm.com//) and [Boeing](https://www.boeing.com/).
 
