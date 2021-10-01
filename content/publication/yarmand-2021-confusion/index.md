@@ -34,7 +34,5 @@ publishDate: '2021-09-23T22:51:00.801838Z'
 publication_types:
 - '1'
 abstract: Discussion fora of instructional videos contain previously-discussed questions and answers. These video comments can resolve many points of confusion for learners. However, finding relevant content in a separated discussion forum is challenging and disruptive to learning flow. This paper introduces Adjacent Display of Relevant Discussion (ADRD). It displays threaded comments in a panel adjacent to the video and dynamically updates the content of the panel based on the time of the video. In a between-subjects lab study (n=20), ADRD helped participants resolve confusion points, skim and read comments, and encouraged video interaction.
-publication: '*The 23rd International ACM SIGACCESS Conference on Computers and Accessibility
-  (Virtual Event, USA)(ASSETS’21). Association for Computing Machinery, Virtual Event,
-  USA.*'
+publication: '*Proceedings of the ACM on Human-Computer Interaction, CSCW (2021)*'
 ---
