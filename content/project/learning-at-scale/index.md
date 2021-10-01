@@ -46,5 +46,5 @@ This project is a collaboration between Computer Science and Engineering (CSE) a
 ### Publications
 
 {{< cite page="/publication/yarmand-2021-feels" view="1" >}}
-{{< cite page="/publication/yarmand-2021-confusion" view="2" >}}
+{{< cite page="/publication/yarmand-2021-confusion" view="1" >}}
 
