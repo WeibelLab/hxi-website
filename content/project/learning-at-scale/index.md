@@ -36,8 +36,8 @@ Online learners frequently encounter uncertainity (e.g., confusion) during their
 In this line of works, we first identify and contextualize the breakdowns of remote learning in different settings, such as formal undergraduate education, MOOC (Massive Open Online Courses) users, and healthcare training. We then aim to improve remote learning by leveraging minimally-invasive user context and providing timely AI and peer support. 
 
 <div style="display: flex; justify-content:space-around; align-items: center;">
-<img src="teaser1.png" style="height: 180px;"> 
-<img src="teaser2.png" style="height: 180px;"> 
+<img src="teaser1.png" style="height: 200px;"> 
+<img src="teaser2.png" style="height: 200px;"> 
 </div>  
 
 Our works in this space are well-recognized in the media: <a href="https://ucsdnews.ucsd.edu/feature/it-feels-like-im-talking-into-a-void-how-do-we-improve-the-virtual-classroom">UC San Diego News Center</a>, <a href="https://technews.acm.org/archives.cfm?fo=2021-06-jun/jun-14-2021.html">ACM TechNews</a>, <a href="https://www.engineering.com/story/student-research-aims-to-improve-nonverbal-communication-in-virtual-classrooms">Engineering.com</a>, <a href="https://csealumnimagazine.ucsd.edu/the-ongoing-pandemic-challenge">CSE Alumni Magazine</a>  
