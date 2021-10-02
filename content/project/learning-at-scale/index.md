@@ -37,6 +37,9 @@ In this line of works, we first identify and contextualize the breakdowns of rem
 
 Our works in this space are well-recognized in the media: <a href="https://ucsdnews.ucsd.edu/feature/it-feels-like-im-talking-into-a-void-how-do-we-improve-the-virtual-classroom">UC San Diego News Center</a>, <a href="https://technews.acm.org/archives.cfm?fo=2021-06-jun/jun-14-2021.html">ACM TechNews</a>, <a href="https://www.engineering.com/story/student-research-aims-to-improve-nonverbal-communication-in-virtual-classrooms">Engineering.com</a>, <a href="https://csealumnimagazine.ucsd.edu/the-ongoing-pandemic-challenge">CSE Alumni Magazine</a>  
 
+<img src="/content/publication/yarmand-2021-feels/featured.png" style="height: 120px;"> 
+<img src="/content/publication/yarmand-2021-confusion/featured.png" style="height: 120px;"> 
+
 ------
 
 ### Funding and External Collaborations
