@@ -5,7 +5,7 @@ role: Undergraduate Student at UCSD<br/> Computer Science
 social:
   - icon: globe-americas
     icon_pack: fas
-    link: ‘https://yash-shah-portfolio.vercel.app’
+    link: https://yash-shah-portfolio.vercel.app
   - icon: envelope
     icon_pack: fas
     link: mailto:ynshah@ucsd.edu
