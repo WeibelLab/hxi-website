@@ -51,4 +51,4 @@ user_groups:
 ---
 Chen Chen is a Ph.D. student in the Department of Computer Science and Engineering at UC San Diego. His research focus on designing novel input tools, methods, and techniques to enable a more accessible and usable Human-XR Interactions, for general users and domain experts.
 
-
+Personal Website: <a href="https://chen-chen.me/">https://chen-chen.me/</a>
