@@ -12,7 +12,7 @@ item:
   content: ''
   overlay_color: '#3f51b5' # An HTML color value.
   overlay_filter: 0.0 
-  overlay_img: 'slider/00_lab-whiteboard.jpg'   
+  overlay_img: 'slider/00_lab-whiteboard.png'   
 - title: ''
   align: center 
   content: ''
@@ -49,6 +49,12 @@ item:
   overlay_color: '#3f51b5' # An HTML color value.
   overlay_filter: 0.0 
   overlay_img: 'slider/06_rick_simulation.jpg'
+- title: ''
+  align: center 
+  content: ''
+  overlay_color: '#3f51b5' # An HTML color value.
+  overlay_filter: 0.0 
+  overlay_img: 'slider/13_teaching_vrlab.jpg'   
 - title: ''
   align: center 
   content: ''
