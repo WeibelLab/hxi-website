@@ -11,7 +11,7 @@ social:
   link:www.linkedin.com/in/mrinalsharma108/                                                                   
 - icon: github
   icon_pack: fab
-  link:https://github.com/mrinals108
+  link:www.github.com/mrinals108
 
 _build:
   render: never
