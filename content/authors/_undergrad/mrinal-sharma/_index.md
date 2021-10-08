@@ -8,7 +8,7 @@ social:
   link: m1sharma@ucsd.edu                        
 - icon: linkedin
   icon_pack: fab
-  link:https://www.linkedin.com/in/mrinalsharma108/                                                                   
+  link:www.linkedin.com/in/mrinalsharma108/                                                                   
 - icon: github
   icon_pack: fab
   link:https://github.com/mrinals108
