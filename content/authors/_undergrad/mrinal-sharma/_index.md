@@ -5,7 +5,7 @@ role: Undergraduate Student at UCSD<br/> Computer Science
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:m1sharma@ucsd.edu                        
+  link: m1sharma@ucsd.edu                        
 - icon: linkedin
   icon_pack: fab
   link:https://www.linkedin.com/in/mrinalsharma108/                                                                   
