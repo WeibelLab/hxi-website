@@ -44,7 +44,7 @@ Over the last few years, we have seen a growth of developer-oriented tools for A
 
 However, these toolkits still require a high degree of programming proficiency, presenting multiple barriers and a steep learning curve for designers or non-programmers, which results in slow iteration cycles that impede creativity and leave designers fatigued.
 
-Low-fidelity prototyping methods, especially sketching, facilitate ideation and experimentation and are natural to users from different backgrounds. In this project we combine the advantages of sketching with the unique affordances of head-mounted AR displays by enabling direct manipulation of digital content in AR while relying on a digital pen user interface for sketching on a tablet. ProrotipAR and PintAR allow users to specify interactive behaviors without writing code and provide an implicit state machine to express different stages of an experiences. They also provide users with
+Low-fidelity prototyping methods, especially sketching, facilitate ideation and experimentation and are natural to users from different backgrounds. In this project we combine the advantages of sketching with the unique affordances of head-mounted AR displays by enabling direct manipulation of digital content in AR while relying on a digital pen user interface for sketching on a tablet. PrototipAR and PintAR allow users to specify interactive behaviors without writing code and provide an implicit state machine to express different stages of an experiences. They also provide users with
 an aerial overview of digital content to facilitate debugging through a world-in-miniature view.
 
 ------
