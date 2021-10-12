@@ -1,5 +1,5 @@
 ---
-title: 'PrototipAR/PintAR: Rapid Prorotyping in Augmented Reality'
+title: 'PrototipAR/PintAR: Rapid Prototyping in Augmented Reality'
 summary: An interactive prototyping tool that explores Augmented Reality for the design of interactive spatial experiences.
 authors: 
   - Nadir Weibel
