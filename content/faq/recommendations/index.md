@@ -1,6 +1,6 @@
 ---
 widget: blank
-
+headless: true
 title: Recommendation letters
 subtitle:
 weight: 10  # section position on page
@@ -9,4 +9,4 @@ design:
   columns: '1'
 ---
 
-How should I request letters of recommendation?
+<h2> How should I request a letter of recommendation? </h2>
