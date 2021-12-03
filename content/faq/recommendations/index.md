@@ -7,26 +7,26 @@ comments: false  # Show comments?
 date: "2021-12-02"
 ---
 
-<h1> Step 1: Reach Out to Me </h1>
+<h2> Step 1: Reach Out to Me </h2>
 I'm not sure what will be the best way to reach out to you for you and how long in advance, so I am leaving this section blank. 
 <br><br>   
 
 
-<h1> Step 2: Gather Information </h1>
+<h2> Step 2: Gather Information </h2>
 Please send me a Notion Page/Google Docs link that contains the following information for the letters. 
 
-<h2> Basic Information </h2>
-<h3> Resume </h3>
+<h3> Basic Information </h3>
+<h4> Resume </h4>
 You may attach a link to your most updated resume. 
 
-<h3> Portfolio </h3>
+<h4> Portfolio </h4>
 You may provide links to your Portfolio, Github Page, or any related websites that showcase your work.   
 
-<h3> Transcript </h3>
+<h4> Transcript </h4>
 You may attach your Unofficial Transcript, which can be downloaded from Academic History on Triton Link. 
 <br><br>
 
-<h2> Programs that I need letters for </h2>
+<h3> Programs that I need letters for </h3>
 Please organize a table with all schools and programs in the <b>order of deadline</b> with information below. It can help me keep track of it better. 
 <table>
   <tr>
@@ -43,7 +43,7 @@ Please organize a table with all schools and programs in the <b>order of deadlin
 </table>
 <br>
 
-<h2> More Information </h2>
+<h3> More Information </h3>
 Please also provide the following information to help me understand you and your work better. 
 
 <ul>
@@ -58,7 +58,7 @@ Please also provide the following information to help me understand you and your
 <br><br>
 
 
-<h1> Step 3: Reminder </h1>
+<h2> Step 3: Reminder </h2>
 You may send me a reminder <b> how many days </b> before your first deadline. 
 
 
