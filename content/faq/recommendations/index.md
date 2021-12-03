@@ -14,6 +14,7 @@ I'm not sure what will be the best way to reach out to you for you and how long 
 
 <h2> Step 2: Gather Information </h2>
 Please send me a Notion Page/Google Docs link that contains the following information for the letters. 
+Feel free to duplicate the templete here from the top right corner. <a href="https://fortune-bulb-050.notion.site/Template-Your-Name-b60ead3c07c745908ac18e68cd2eba5c">Access Template Here</a>
 
 <h3> Basic Information </h3>
 <h4> Resume </h4>
