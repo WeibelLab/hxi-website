@@ -32,16 +32,35 @@ phone: 858-534-8637
 coordinates: 
   latitude: '32.88190193654606'
   longitude: '-117.23349879000372'
-directions: The HXI Research Lab is located at the <a href="https://cse.ucsd.edu/about/directions-and-parking">Computer Science and Engineering Building</a> on the main UCSD Campus in La Jolla.
+#coordinates: 
+#  latitude: '32.8783565'
+#  longitude: '--117.233496'
+directions: The HXI Research Lab is located at the <a href="https://cse.ucsd.edu/about/directions-and-parking">Computer Science and Engineering Building</a> (CSE), and within the <a href="https://designlab.ucsd.edu/">Design Lab</a> at the Design and Innovation Building (DIB) on the main UCSD Campus in La Jolla.
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
-#  - icon: comments
-#    icon_pack: fas
-#    name: Discuss on Forum
-#    link: 'https://discourse.gohugo.io'
+  - icon: building
+    icon_pack: fas
+    name: Prof. Weibel's Office in CSE - CSE 3224
+    link: 'https://map.concept3d.com/?id=1005#!m/164780'
+  - icon: building
+    icon_pack: fas
+    name: Prof. Weibel's Office in DIB - DIB 360
+    link: 'https://goo.gl/maps/FaX3JPoK6MqLBYWSA'
+  - icon: users
+    icon_pack: fas
+    name: Ph.D. students Lab in CSE - CSE 2238
+    link: 'https://map.concept3d.com/?id=1005#!m/164780'
+  - icon: users
+    icon_pack: fas
+    name: HCI Collaboratory in DIB - DIB 340+337
+    link: 'https://goo.gl/maps/FaX3JPoK6MqLBYWSA'
+  - icon: users
+    icon_pack: fas
+    name: CSE Undergraduate Lab in CSE - CSE 2217
+    link: 'https://map.concept3d.com/?id=1005#!m/164780'
 
 # Site header
 
