@@ -113,6 +113,6 @@ We often have short and longer term visiting researchers join the HXI lab.
 
 Visiting researchers are always volunteer and self-funded positions, and you need to already have an existing position in a different institution. Visiting Researchers can be at the Student, Postdoc or Facuty position, and will secure space and resources at UC San Diego for the length of your visiting time.
 
-If you are interested in such a position, please [get in contact with Prof. Weibel](/faq/contact) to discuss wthe fit with the HXI lab and any of the existing projects, share your plan and timeline, as well as the most updated CV. Be prepared to show financial support documentation to UCSD in order to setup your appointment.
+If you are interested in such a position, please [get in contact with Prof. Weibel](/faq/contact) to discuss the fit with the HXI lab and any of the existing projects, share your plan and timeline, as well as the most updated CV. Be prepared to show financial support documentation to UCSD in order to setup your appointment.
 
 Typically we are able to set up Visiting Researcher positions in the CSE Department or the DesignLab.
