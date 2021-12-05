@@ -6,7 +6,8 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 date: "2021-12-02"
-weight: 2
+weight: 20
 ---
+***For the academic year 2022/2023 the HXI lab is NOT looking for new Prospective Ph.D. Students.***
 
-More information is available under the <a href="/faq/join-us">Join Us FAQ</a>.
+If we are accepting prospective Ph.D. students, you can find more information on how to join us, under the <a href="/faq/join-us/#phd">Join Us FAQs</a>.

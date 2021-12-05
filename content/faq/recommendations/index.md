@@ -6,15 +6,15 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 date: "2021-12-02"
-weight: 10
+weight: 100
 ---
 
-<h2> Step 1: Reach Out to Prof. Weibel or one of his students </h2>
+<h2> Step 1: Reach out to Prof. Weibel or one of his Ph.D. students or Postdocs</h2>
 The first step to request for a letter of recommendation is to reach out to Prof. Weibel or one of his students.
 <ul>
   <li>You can try to email <a href="mailto:weibel@ucsd.edu">weibel@ucsd.edu</a>, but email is often not an effective tool to get attention.</li>
   <li>If you are in one of Prof. Weibel's classes, talk to him about it after class, and then follow up with an email.</li>
-  <li>If you are working with a student or postdoc in the lab, talk to them about your request, and ask them to discuss it with prof. Weibel.</li>
+  <li>If you are working with a Ph.D. Student or a Postdoc in the lab, talk to them about your request, and ask them to discuss it with Prof. Weibel.</li>
   <li>Come by Prof. Weibel's office in <a target="_new" href="/contact">CSE or DIB</a>, or visit the graduate student offfice or project space in <a target="_new" href="/contact">CSE or DIB</a>.
 </ul>
 <br>
@@ -35,7 +35,7 @@ Please provide links to your Portfolio, Github Page, or any related websites tha
 Please attach your Unofficial Transcript, which can be downloaded from Academic History on Triton Link. 
 <br>
 
-<h3> Programs that I need letters for </h3>
+<h3> Programs that you need letters for </h3>
 Please organize a table with all schools and programs in the <b>order of deadline</b> with information below. It can help keep track of it better. 
 <table>
   <tr>
