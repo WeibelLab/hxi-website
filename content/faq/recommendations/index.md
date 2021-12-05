@@ -22,7 +22,7 @@ The first step to request for a letter of recommendation is to reach out to Prof
 
 <h2> Step 2: Gather Information </h2>
 Please prepare a <b>Notion Page/Google Docs</b> link that contains the following information for the letters. 
-We encourage you to duplicate this <a target="_new" href="https://fortune-bulb-050.notion.site/Template-Your-Name-b60ead3c07c745908ac18e68cd2eba5c">Notion template</a> or this <a target="_new" href="">Google Doc template</a>, by clicking on the top right corner.
+We encourage you to duplicate this <a target="_new" href="https://fortune-bulb-050.notion.site/Template-Your-Name-b60ead3c07c745908ac18e68cd2eba5c">Notion template</a> or this <a target="_new" href="https://docs.google.com/document/d/11RkvO9xJ9dhD0DR-RMpd8nFvglvqZo-_Zt96sLijqDA/edit?usp=sharing">Google Doc template</a>, by clicking on the top right corner.
 
 <h3> Basic Information </h3>
 <h4> Resume </h4>
