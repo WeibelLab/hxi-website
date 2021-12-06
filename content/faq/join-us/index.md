@@ -1,6 +1,7 @@
 ---
 title: How do I join the HXI Lab?
 summary: You want to join us? Take a look at what are the steps to become part of our lab.
+type: "faq"
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
@@ -27,14 +28,14 @@ Please browse through our page to see a list of our [current lab members](https:
 <hr/>
 <a name="phd"/>
 
-#### Ph.D. Students
+### Ph.D. Students
 ***For the academic year 2022/2023 the HXI lab is NOT looking for new Prospective Ph.D. Students.***
 
 As a Ph.D. student you engage with the HXI lab over several years doing fundamental and applied research towards the accomplishment of your Ph.D. Thesis.
 
 There are two main ways to enagage with the lab as a Ph.D. student:
 
-- Include Prof. Weibel as one of your Ph.D. Committee Members *(Please see the information in our [dedicated page on Ph.D. Committees](/phd-master-committees))*.
+- Include Prof. Weibel as one of your Ph.D. Committee Members *(Please see the information in our [dedicated page on Ph.D. Committees](/faq/phd-master-committees))*.
 - As a Ph.D. student advised (or co-advised) by Prof. Weibel.
 
 The latter case involves (1) [Applying to UCSD](https://apply.grad.ucsd.edu/home) as a Ph.D. Student, (2) [discuss with Prof. Weibel](/faq/contact) your research and graduate studies goals, and if there is a fit (3) secure a Ph.D. Student position for multiple years in the HXI Lab.
@@ -51,7 +52,7 @@ If you are interested in joining the HXI lab as a Ph.D. students **and** the lab
 <hr/>
 <a name="master"/>
 
-#### Master Students
+### Master Students
 Master students can typically join the HXI Lab:
 
 - as volunteer graduate research assistants (unpaid and no research credits)
@@ -71,7 +72,7 @@ In order to engage with the HXI Lab as a Master Student, please look at [current
 <hr/>
 <a name="undergraduate"/>
 
-#### Undergraduate Students
+### Undergraduate Students
 Undergraduate students can typically join the HXI Lab:
 
 - as volunteer research assistants (unpaid)
@@ -90,7 +91,7 @@ In order to engage with the HXI Lab as an Undergraduate Student, please look at 
 <hr/>
 <a name="postdoc"/>
 
-#### Postdoctoral Researcher
+### Postdoctoral Researcher
 The HXI lab is always looking for talented Postdoctoral Researchers who would like to join the lab for at least 1-2 years.
 
 If you are finishing your terminal graduate degree (Ph.D., M.D., M.F.A, etc.) in a related field, or if you already have a terminal graduate degree and are interested in the HXI lab's research, please [contact Prof. Weibel](/faq/contact) or any of his current Ph.D. students or Postdocs.
@@ -108,7 +109,7 @@ If you are an international scholar, [UCSD's office of Postdoctoral Affairs](htt
 <hr/>
 <a name="visiting"/>
 
-#### Visiting Researcher
+### Visiting Researcher
 We often have short and longer term visiting researchers join the HXI lab.
 
 Visiting researchers are always volunteer and self-funded positions, and you need to already have an existing position in a different institution. Visiting Researchers can be at the Student, Postdoc or Facuty position, and will secure space and resources at UC San Diego for the length of your visiting time.

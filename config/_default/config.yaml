@@ -24,6 +24,8 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
+    #- path: github.com/nadirweibel/wowchemy-widget-allpages
+
   hugoVersion:
     min: '0.84.1'
     extended: true
@@ -77,3 +79,5 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+

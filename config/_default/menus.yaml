@@ -19,6 +19,49 @@ main:
   - name: Publications
     url: publication
     weight: 50
+  - name: FAQ
+    url: faq
+    weight: 60
+  - name: All FAQs
+    url: faq
+    parent: FAQ
+    weight: 61
+  - name: Join the HXI Lab
+    url: faq/join-us
+    parent: FAQ
+    weight: 62
+  - name: Get in Touch
+    url: faq/contact
+    parent: FAQ
+    weight: 63
+  - name: Meet with us
+    url: faq/meet-us
+    parent: FAQ
+    weight: 64
+  - name: Classes and TAing
+    url: faq/teaching
+    parent: FAQ
+    weight: 65
+  - name: Ph.D. and M.S. Commitees
+    url: faq/phd-master-committees
+    parent: FAQ
+    weight: 66
+  - name: Software, Tools, and Data
+    url: faq/software-tools
+    parent: FAQ
+    weight: 67
+  - name: Employers / Industry
+    url: faq/employers
+    parent: FAQ
+    weight: 68
+  - name: Indipendent Research
+    url: faq/independent-group-research
+    parent: FAQ
+    weight: 69
+  - name: Letters of Recommendation
+    url: faq/recommendations
+    parent: FAQ
+    weight: 70
   - name: Contact
     url: contact
-    weight: 60
+    weight: 80
