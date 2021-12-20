@@ -1,6 +1,6 @@
 ---
 title: Zhuoqun Robin Xu
-role: CSE Master Student
+role: MS Student at UCSD<br/>Computer Science and Engineering 
 
 avatar_filename: avatar
 
@@ -38,10 +38,12 @@ education:
     - course: MS in Computer Science and Engineering, emphasis in Human-Centered Design / Graphics
       institution: UC San Diego
       year: 2021
-weight: 30
+weight: -102
 
 user_groups:
-- Master Students
+- Alumni
+
+external_link: https://www.linkedin.com/in/robinxuz/
 ---
 
 Robin is a Master student in Computer Science and Engineering (CSE) at UC San Diego, working with Human-Centered eXtended Intelligence lab, California Institute for Telecommunications and Information Technology. He is also a member of the [UCSD Design Lab](https://designlab.ucsd.edu/) and [Arthur C. Clarke Center for Human Imagination](http://imagination.ucsd.edu/). With the background of Bachelor degree in Speculative Design, Robin is eager to learn and define the potential systematic futures for our social, political, technological lives.
