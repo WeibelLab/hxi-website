@@ -30,7 +30,7 @@ organizations:
   - name: HXI Research Lab
     url: https://hxi.ucsd.edu/
   - name: The Design Lab
-    url: https://design.ucsd.edu/
+    url: https://designlab.ucsd.edu/
   - name: Contextual Robotics Institute
     url: https://contextualrobotics.ucsd.edu/
   - name: Center for Wireless and Population Health Systems (CWPHS)
