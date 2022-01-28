@@ -37,4 +37,10 @@
   to = "https://forms.gle/w7WswQadg2s79wbU8"
   status = 200
   force = true # COMMENT: ensure that we always redirect
-  
+
+[[redirects]]
+  from = "/status"
+  to = "https://app.netlify.com/sites/hxi-ucsd/deploys"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
+
