@@ -1,0 +1,2 @@
+##redirects that can't be processed in the netlify file
+/join*	https://forms.gle/w7WswQadg2s79wbU8	200
