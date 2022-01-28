@@ -37,3 +37,9 @@
   to = "https://forms.gle/w7WswQadg2s79wbU8"
   status = 200
   force = true # COMMENT: ensure that we always redirect
+
+[redirects]]
+  from = "/join."
+  to = "https://forms.gle/w7WswQadg2s79wbU8"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
