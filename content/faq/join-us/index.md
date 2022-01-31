@@ -44,7 +44,7 @@ Ph.D. students in the HXI Lab typically graduate in 5 years, and are engaged in 
 
 **Research**: As a lab we usually have a number of research projects funded by government agencies such as the National Science Foundation, the National Institutes of Health, by industrial partners, or by non-profit research organizations, and Ph.D. students are typically responsible for one or more objectives towards these projects. We also strive to secure individual research fellowship for Ph.D. students either theough government funding, or industry funding, to increase the independency from project-based funding for the Ph.D. student's research.
 
-**Teaching**: UCSD Ph.D. students are typically require to teach at least one or two quarters throughout their Ph.D. (different departments have different rules). The HXI lab offers a number of classess across Computer Science and Design, and Ph.D. students will be regularly involved in these activities.
+**Teaching**: UCSD Ph.D. students are typically required to teach at least one or two quarters throughout their Ph.D. (different departments have different rules). The HXI lab offers a number of classess across Computer Science and Design, and Ph.D. students will be regularly involved in these activities.
 
 If you are interested in joining the HXI lab as a Ph.D. students **and** the lab is looking for Prospective students for the following academic year, you should [get in contact with Prof. Weibel](/faq/contact), or any of his current Ph.D. students or Postdocs at least one year before joining, ideally in the summer before applying to the Ph.D. program.
 
@@ -104,7 +104,7 @@ Sometimes we do have Postdoctoral Positions that opens to join existing research
 
 In case there is a research fit, but no current funding, please research possible funding avenues (including at the UC, UC San Diego, CSE, and DesignLab levels), make a list and consider deadlines, and then [get in contact with Prof. Weibel](/faq/contact). Typically we are happy to help with writing Postdoctoral Fellowship proposals, or help with funding to the extent that this is feasible.
 
-If you are an international scholar, [UCSD's office of Postdoctoral Affairs](https://postdoc.ucsd.edu/) will assist you in securing visa and any other sponsoring documentation to enter the US, however keep in mind that this will take time, so please consider that time in your timeline.
+If you are an international scholar, the [UCSD's office of Postdoctoral Affairs](https://postdoc.ucsd.edu/) will assist you in securing a visa and any other sponsoring documentation to enter the US, however keep in mind that this will take time, so please consider that time in your timeline.
 
 <hr/>
 <a name="visiting"/>
@@ -112,7 +112,7 @@ If you are an international scholar, [UCSD's office of Postdoctoral Affairs](htt
 ### Visiting Researcher
 We often have short and longer term visiting researchers join the HXI lab.
 
-Visiting researchers are always volunteer and self-funded positions, and you need to already have an existing position in a different institution. Visiting Researchers can be at the Student, Postdoc or Facuty position, and will secure space and resources at UC San Diego for the length of your visiting time.
+Visiting researchers are always volunteer and self-funded positions, and you need to already have an existing position in a different institution. Visiting Researchers can be at the Student, Postdoc or Facuty position. We will secure space and resources at UC San Diego for the length of your visiting time.
 
 If you are interested in such a position, please [get in contact with Prof. Weibel](/faq/contact) to discuss the fit with the HXI lab and any of the existing projects, share your plan and timeline, as well as the most updated CV. Be prepared to show financial support documentation to UCSD in order to setup your appointment.
 
