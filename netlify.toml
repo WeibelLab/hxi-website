@@ -39,7 +39,7 @@
   force = true # COMMENT: ensure that we always redirect
 
 [[redirects]]
-  from = "/status"
+  from = "/deploy"
   to = "https://app.netlify.com/sites/hxi-ucsd/deploys"
   status = 200
   force = true # COMMENT: ensure that we always redirect
