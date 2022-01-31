@@ -16,7 +16,7 @@ If you feel like your research topics fits with the general direction of the HXI
 
 - Write a short 1/2 page summary of your planned research thesis
 - Add one paragraph about how the topic fits with the HXI research lab
-- Specificy why do you think Prof. Weibel would be the tight person to sit on that committee.
+- Specificy why do you think Prof. Weibel would be the right person to sit on that committee.
 
 [Reach out to Prof. Weibel](/faq/contact), share your plan, and then discuss your plan and idea.
 
