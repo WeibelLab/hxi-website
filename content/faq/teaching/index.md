@@ -14,7 +14,7 @@ Yes, of course you can!
 ### Courses and Programs
 Please take a look at our current [teaching engagements](/teaching), but also consider other classes in the context of HCI, Human-Centered Design, Ubiquitous Computing, etc. You can find more information on these offerings here:
 
-- [Unergraduate and Graduate Design and HCI Related Courses](https://designlab.ucsd.edu/education/design-courses-at-ucsd/)
+- [Undergraduate and Graduate Design and HCI Related Courses](https://designlab.ucsd.edu/education/design-courses-at-ucsd/)
 - [M.S. in Computer Sciecen, Human-Computer Interaction Depth](https://cse.ucsd.edu/graduate/degree-programs/ms-program/ms-2015-comp-standard#)
 - [B.S. in CogSci with a Specialization in Design and Interaction](https://cogsci.ucsd.edu/undergraduates/major/design-interaction.html)
 
@@ -30,7 +30,7 @@ The graduate specialization is a set of courses students can choose to take that
 ### Teaching Assistantships
 If you want to TA one of our classes, please familiarize yourself with the [class you want to TA](/teaching) for, then  use the [ASES system](https://academicaffairs.ucsd.edu/Modules/ASES/Apply.aspx) and insert the required information.
 
-HXI classes are typically offered through the CSE department and you can find more information about TAins here.
+HXI classes are typically offered through the CSE department and you can find more information about TAing here:
 
 - [Teaching Assistantships in CSE](https://cse.ucsd.edu/graduate/financial-opportunities/teaching-assistantships)
 - [How to Apply for a TA Position](https://cse.ucsd.edu/graduate/financial-opportunities/teaching-assistantships/applying-teaching-assistantship)
