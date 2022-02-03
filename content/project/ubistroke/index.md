@@ -3,7 +3,7 @@ title: 'UbiStroke: Multimodal Computational Assessment of Stroke'
 summary: 'A human-centered AI approach to identify a patient-specific multimodal signature of stroke-related deficits to assist clinical diagnosis of stroke'
 authors: 
   - Nadir Weibel
-  - Vish Ramesh
+  - Vishwajith Ramesh
   - Gert Cauwenberghs
   - Brett Meyer
   - Kunal AGrawal
