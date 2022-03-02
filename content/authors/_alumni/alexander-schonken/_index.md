@@ -1,6 +1,6 @@
 ---
 title: Alexander Schonken
-role: CSE Master Student
+role: MS Student at UCSD<br/>Computer Science and Engineering 
 avatar_filename: avatar
 bio:
 interests:
@@ -25,9 +25,9 @@ education:
       institution: UC San Diego, La Jolla, CA, USA
       year: 2021
 
-weight: 32
+weight: -103
 
 user_groups:
-- Master Students
+- Alumni
 ---
-Alexander is a Masters student in the Computer Science and Engineering department at University of California, San Diego. His research interests are focused around the idea of making Machine Learning accessible and applicable to everyone's lives as computing becomes more ubiquitous and a larger part of all of our lives from smartphones to wearable devices. 
+Alexander was a Masters student in the Computer Science and Engineering department at University of California, San Diego. His research interests are focused around the idea of making Machine Learning accessible and applicable to everyone's lives as computing becomes more ubiquitous and a larger part of all of our lives from smartphones to wearable devices. 
