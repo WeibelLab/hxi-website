@@ -88,7 +88,7 @@ We encourage undergraduate students who fit within the scope of the HXI lab to e
 
 In order to engage with the HXI Lab as an Undergraduate Student, please look at [current projects](/research), and engage with the [students or postdocs](/people) working on projects that you are interested in. Also keep an eye out for emails that your major or department advisors might send out for opportunities for specific projects.
 
-#### I do I signup for 198/199 credits?
+#### How do I signup for 198/199 credits?
 After having discussed fit and specifics of the project, including the number of units (2 for engagement &lt; 10hr/week, or 4 for &ge; 10hr/week), undergraduate students interested in engaging in 199 courses should submit a request for 199 independent research projects via [EASy](https://academicaffairs.ucsd.edu/Modules/Students/PreAuth). Submitted requests will be reviewed and if approved by Prof. Weibel and the Department, the registrar will create a new 199 or 198 section and students will be able to enroll. 
 
 
