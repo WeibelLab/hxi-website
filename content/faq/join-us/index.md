@@ -10,9 +10,9 @@ date: "2021-12-02"
 weight: 10
 ---
 
-The HXI lab works continously with a large number of students and researchers, spanning <b>Undergraduate Students</b> in [CSE](http://cse.ucsd.edu), [CogSci](http://cogsci.ucsd.edu), [BioEngineering](http://be.ucsd.edu), [Design/HCI](http://designlab.ucsd.edu) (and more), <b>Master Students</b> in [CSE](http://cse.ucsd.edu), [Data Science](https://datascience.ucsd.edu/), [Public Health](https://ph.ucsd.edu/mph/), [Visual Arts](https://visarts.ucsd.edu/grad/mfa.html) (and more), and <b>Ph.D. students</b> in [CSE](http://cse.ucsd.edu), [CogSci](http://cogsci.ucsd.edu), [Design/HCI](http://designlab.ucsd.edu), [BioEngineering](http://be.ucsd.edu), [Data Science](https://datascience.ucsd.edu/), [Biomedical Informatics](https://dbmi.ucsd.edu/) (and more). 
+The HXI lab works continously with a large number of students and researchers, spanning <b>Undergraduate Students</b> in [CSE](http://cse.ucsd.edu), [CogSci](http://cogsci.ucsd.edu), [BioEngineering](http://be.ucsd.edu), [Design/HCI](http://Design Lab.ucsd.edu) (and more), <b>Master Students</b> in [CSE](http://cse.ucsd.edu), [Data Science](https://datascience.ucsd.edu/), [Public Health](https://ph.ucsd.edu/mph/), [Visual Arts](https://visarts.ucsd.edu/grad/mfa.html) (and more), and <b>Ph.D. students</b> in [CSE](http://cse.ucsd.edu), [CogSci](http://cogsci.ucsd.edu), [Design/HCI](http://Design Lab.ucsd.edu), [BioEngineering](http://be.ucsd.edu), [Data Science](https://datascience.ucsd.edu/), [Biomedical Informatics](https://dbmi.ucsd.edu/) (and more). 
 
-We are also happy to work with <b>Postdoctoral Researchers</b>, or host any <b>Visiting Researchers</b> (Students, Postdocs, or Faculty), if we see a fit with the HXI lab, the CSE department or the DesignLab.
+We are also happy to work with <b>Postdoctoral Researchers</b>, or host any <b>Visiting Researchers</b> (Students, Postdocs, or Faculty), if we see a fit with the HXI lab, the CSE department or the Design Lab.
 
 Please browse through our page to see a list of our [current lab members](https://hxi.ucsd.edu/people/), as well as our [alumni](https://hxi.ucsd.edu/alumni/).
 
@@ -89,7 +89,7 @@ We encourage undergraduate students who fit within the scope of the HXI lab to e
 In order to engage with the HXI Lab as an Undergraduate Student, please look at [current projects](/research), and engage with the [students or postdocs](/people) working on projects that you are interested in. Also keep an eye out for emails that your major or department advisors might send out for opportunities for specific projects.
 
 #### How do I signup for 198/199 credits?
-After having discussed fit and specifics of the project, including the number of units (2 for engagement &lt; 10hr/week, or 4 for &ge; 10hr/week), undergraduate students interested in engaging in 199 courses should submit a request for 199 independent research projects via [EASy](https://academicaffairs.ucsd.edu/Modules/Students/PreAuth). Submitted requests will be reviewed and if approved by Prof. Weibel and the Department, the registrar will create a new 199 or 198 section and students will be able to enroll. 
+After having discussed fit and specifics of the project, including the number of units (2 for engagement &lt; 10hr/week, or 4 for &ge; 10hr/week), undergraduate students interested in engaging in 198/199 courses should submit a request for a 199 independent research project or a 198 directed syudy group via [EASy](https://academicaffairs.ucsd.edu/Modules/Students/PreAuth). Submitted requests will be reviewed and if approved by Prof. Weibel and the Department, the registrar will create a new 199 or 198 section and students will be able to enroll. 
 
 
 <hr/>
@@ -106,7 +106,7 @@ Typically Postdocs already have their source of funding (such as a scholarship o
 
 Sometimes we do have Postdoctoral Positions that opens to join existing research project, and we advertise these widely. So keep an eye out for emails on international mailing lists such as the ones on the [SIGCHI Listserv](https://sigchi.org/operations/listserv/) for opportunities as Postdoctoral Researcher for specific projects.
 
-In case there is a research fit, but no current funding, please research possible funding avenues (including at the UC, UC San Diego, CSE, and DesignLab levels), make a list and consider deadlines, and then [get in contact with Prof. Weibel](/faq/contact). Typically we are happy to help with writing Postdoctoral Fellowship proposals, or help with funding to the extent that this is feasible.
+In case there is a research fit, but no current funding, please research possible funding avenues (including at the UC, UC San Diego, CSE, and Design Lab levels), make a list and consider deadlines, and then [get in contact with Prof. Weibel](/faq/contact). Typically we are happy to help with writing Postdoctoral Fellowship proposals, or help with funding to the extent that this is feasible.
 
 If you are an international scholar, the [UCSD's office of Postdoctoral Affairs](https://postdoc.ucsd.edu/) will assist you in securing a visa and any other sponsoring documentation to enter the US, however keep in mind that this will take time, so please consider that time in your timeline.
 
@@ -120,4 +120,4 @@ Visiting researchers are always volunteer and self-funded positions, and you nee
 
 If you are interested in such a position, please [get in contact with Prof. Weibel](/faq/contact) to discuss the fit with the HXI lab and any of the existing projects, share your plan and timeline, as well as the most updated CV. Be prepared to show financial support documentation to UCSD in order to setup your appointment.
 
-Typically we are able to set up Visiting Researcher positions in the CSE Department or the DesignLab.
+Typically we are able to set up Visiting Researcher positions in the CSE Department or the Design Lab.

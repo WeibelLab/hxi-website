@@ -22,9 +22,9 @@ education:
       institution: UC Davis, Davis, CA, USA
       year: 2020
 
-weight: 32
+weight: -104
 
 user_groups:
-- Master Students
+- Alumni
 ---
 
