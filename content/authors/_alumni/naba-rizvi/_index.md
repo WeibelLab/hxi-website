@@ -37,6 +37,7 @@ user_groups:
 highlight_name: false
 
 _build:
+  render: always
   list: always
 
 weight: -110
