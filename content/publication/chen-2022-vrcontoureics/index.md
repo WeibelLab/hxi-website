@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Understanding Barriers and Design Opportunities to Improve Healthcare and QOL
-  for Older Adults through Voice Assistants
+title: Exploring Needs and Design Opportunities for Virtual Reality-based Contour Delineations of Medical Structures
 subtitle: ''
 summary: ''
 authors:
