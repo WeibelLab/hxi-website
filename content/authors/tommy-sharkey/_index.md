@@ -42,6 +42,8 @@ superuser: false
 user_groups:
   - Ph.D Students and Postdocs
 highlight_name: false
+
+weight: 55 
 ---
 
 Tommy Sharkey is a Ph.D. Student in the Department of Computer Science and Engineering at UC San Diego in the Human-Centered eXtended Intelligence lab and a member of the [UCSD Design Lab](https://designlab.ucsd.edu/) and [Arthur C. Clarke Center for Human Imagination](http://imagination.ucsd.edu/). He has a diverse background with an undergraduate degree in Speculative Design and explorations in the fields of Mechanical Engineering, Biology, Sculpture, Physics, and Philosophy; believing that diversity of thought is critical for the creation of thoughtful work that considers social, technological, and environmental aspects of novel problems and solutions.
