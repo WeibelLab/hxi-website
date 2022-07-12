@@ -43,7 +43,7 @@ user_groups:
   - Alumni
 highlight_name: false
 
-weight: 55 
+weight: -109 
 ---
 
 Tommy Sharkey was a Ph.D. Student in the Department of Computer Science and Engineering at UC San Diego in the Human-Centered eXtended Intelligence lab and a member of the [UCSD Design Lab](https://designlab.ucsd.edu/) and [Arthur C. Clarke Center for Human Imagination](http://imagination.ucsd.edu/). He has since joined the [Cognitive Human Enterprise](https://www.ey.com/en_us/technology/embrace-the-human-enterprise/) at Ernst and Young. Tommy has a diverse background beyond his degrees with explorations in the fields of Mechanical Engineering, Biology, Sculpture, Physics, and Philosophy; believing that diversity of thought is critical for the creation of thoughtful work that considers social, technological, and environmental aspects of novel problems and solutions.
