@@ -34,19 +34,19 @@ education:
     - course: BA in Speculative Design, emphasis in Computing
       institution: UC San Diego
       year: 2019
-    - course: working towards a PhD in Computer Science and Engineering, emphasis in Human-Centered Design
+    - course: MS in Computer Science and Engineering with a specialization in Human-Centered Design
       institution: UC San Diego
-      year: 2025
+      year: 2022
 email: ""
 superuser: false
 user_groups:
-  - Ph.D Students and Postdocs
+  - Alumni
 highlight_name: false
 
 weight: 55 
 ---
 
-Tommy Sharkey is a Ph.D. Student in the Department of Computer Science and Engineering at UC San Diego in the Human-Centered eXtended Intelligence lab and a member of the [UCSD Design Lab](https://designlab.ucsd.edu/) and [Arthur C. Clarke Center for Human Imagination](http://imagination.ucsd.edu/). He has a diverse background with an undergraduate degree in Speculative Design and explorations in the fields of Mechanical Engineering, Biology, Sculpture, Physics, and Philosophy; believing that diversity of thought is critical for the creation of thoughtful work that considers social, technological, and environmental aspects of novel problems and solutions.
+Tommy Sharkey was a Ph.D. Student in the Department of Computer Science and Engineering at UC San Diego in the Human-Centered eXtended Intelligence lab and a member of the [UCSD Design Lab](https://designlab.ucsd.edu/) and [Arthur C. Clarke Center for Human Imagination](http://imagination.ucsd.edu/). He has since joined the [Cognitive Human Enterprise](https://www.ey.com/en_us/technology/embrace-the-human-enterprise/) at Ernst and Young. Tommy has a diverse background beyond his degrees with explorations in the fields of Mechanical Engineering, Biology, Sculpture, Physics, and Philosophy; believing that diversity of thought is critical for the creation of thoughtful work that considers social, technological, and environmental aspects of novel problems and solutions.
 
 His work focuses on creating tools for eliciting 'Alternative Intelligences' (e.g. Spatial Intelligence, Interpersonal Intelligence, etc.) - tools that allow people to think through problems in a non-rational way, providing insights missed by rationalism. This takes the form of AR/VR tools and experiences for design, healthcare, and coding.
 
