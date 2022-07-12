@@ -20,7 +20,7 @@ organizations:
     url: http://ucsd.edu
 education:
 email: ""
-weight: 50
+weight: 65
 
 user_groups:
 - Ph.D Students and Postdocs
