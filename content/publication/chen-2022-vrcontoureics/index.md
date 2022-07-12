@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Chen Chen
-- Matin Armand
+- Matin Yarmand
 - Varun Singh
 - Michael V. Sherer
 - James D. Murphy
@@ -39,5 +39,5 @@ publishDate: '2021-09-23T22:51:00.801838Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '22), Sophia Antipolis, France*'
+publication: '*Proceedings of EICS 2022*'
 ---
