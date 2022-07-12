@@ -24,6 +24,10 @@ education:
 
 weight: -104
 
+_build:
+  render: never
+  list: always
+
 user_groups:
 - Alumni
 ---
