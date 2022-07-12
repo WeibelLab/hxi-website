@@ -25,4 +25,4 @@ weight: 65
 user_groups:
 - Ph.D Students and Postdocs
 ---
-Menghe Zhang is a Ph.D. student in the Department of Computer Science and Engineering at UC San Diego.
+Weichen Liu is a Ph.D. student in the Department of Computer Science and Engineering at UC San Diego.
