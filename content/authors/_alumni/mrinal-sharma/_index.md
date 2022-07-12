@@ -18,7 +18,7 @@ _build:
   list: always
 
 user_groups:
-- Undergraduate Students
+- Alumni
 
 weight: -84
 ---
