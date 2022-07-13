@@ -37,6 +37,6 @@ projects: []
 publishDate: '2021-09-23T22:51:00.801838Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*Proceedings of EICS 2022*'
+abstract: 'Contour delineation, a critical phase in radiotherapy planning, refers to the process of identifying and segmenting malignant tumors and/or healthy organs from medical images. Today’s contouring software requires oncologists to inspect and contour target of interests by analyzing a stack of planar medical images, which is lengthy, tedious and sometimes error prone. Such design is also in contrast to the stereoscopic nature of medical images. Therefore, it is intuitive to consider bringing contouring into immersive Virtual Reality (VR) space. We present an exploratory study that uses iterative design to understand needs and opportunities to bring contour delineation into an immersive 3D space, such as the one enabled by today’s head-mounted VR displays. We report on the interactions with three medical professionals and three engineering & design experts, and demonstrate the potential for VR–based 3D contouring while studying the benefits of using 3D immersive spaces to augment the process of contour in 2D. Through needs–finding interviews and co–design workshops, we evaluated our initial iterations and proof–of–concept prototypes. We believe that our preliminary findings will benefit researchers and practitioners who are attempting to bring today’s contour delineation processes into an immersive 3D space.'
+publication: '*Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems, June 21–24, 2022, Sophia Antipolis, France*'
 ---
