@@ -14,5 +14,5 @@ social:
 weight: 40
 
 user_groups:
-- Master Students
+- Alumni
 ---
