@@ -1,6 +1,6 @@
 ---
 title: Borui Wang
-role: Undergraduate Student at UW<br/>
+role: Undergraduate Student at UW<br/> Human-Centered Design and Engineering
 
 _build:
   render: never
