@@ -26,6 +26,12 @@
   status = 200
   force = true # COMMENT: ensure that we always redirect
 
+[redirects]]
+  from = "/weibel/cv"
+  to = "/author/nadir-weibel/CV_NadirWeibel.pdf"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
+
 [[redirects]]
   from = "/publications"
   to = "/publication"

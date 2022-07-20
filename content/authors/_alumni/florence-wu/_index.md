@@ -22,7 +22,7 @@ education:
       institution: UC Davis, Davis, CA, USA
       year: 2020
 
-weight: -104
+weight: -106
 
 _build:
   render: never
