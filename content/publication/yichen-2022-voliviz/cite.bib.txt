@@ -1,0 +1,7 @@
+@inproceedings{han2022voli,
+ author = {Han, Yichen and Han, Christopher B. and Chen, Chen and Lee, Peng W. and Hogarth, Michael and Moore, Alison A and Farcas, Emilia and Weibel, Nadir},
+ booktitle = {The 24rd International ACM SIGACCESS Conference on Computers and Accessibility (Anthens, Greece) (ASSETS’22). Association for Computing Machinery, Anthens, Greece},
+ title = {Towards Visualization of Time–Series Ecological Momentary Assessment (EMA) Data on Standalone Voice–First Virtual Assistants},
+ year = {2022},
+ doi = {10.1145/3517428.3550398}
+}
