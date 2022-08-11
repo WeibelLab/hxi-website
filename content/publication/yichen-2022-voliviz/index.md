@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-23T22:50:42.819089Z'
+publishDate: '2022-08-10T22:50:42.819089Z'
 publication_types:
 - '1'
 abstract: 'Population aging is a global issue in 21th century, and Ecologial Momentary Assesssments (EMA) is one well-known techniques widely used in geriatrics. However, accessing and interacting with digital health information is a well-known challenge for aging populations. While voice-based Intelligent Virtual Assistants (IVAs) are promising to improve the Quality of Life (QoL) of older adults, the effectiveness of visualizing time-series based EMA data on standalone IVAs has not been explored. To explore the potential opportunities for visualizing time-series based EMA data on standalone IVAs, we designed a prototype system, where older adults are able to query and examine the time–series EMA data on Amazon Echo Show — a widely used commercially available standalone screen–based IVA. We conducted a preliminary semi–structured interview with a geriatrician and an older adult, and identified three findings that should be carefully considered through thematic analysis. We believe our work will benefit future researchers and practitioners to innovate full-fledged data visualization systems aiming at improving QoL for older adults.'
