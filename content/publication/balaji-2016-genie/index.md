@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Genie: A Longitudinal Study Comparing Physical and Software-augmented Thermostats
-  in Office Buildings (UbiComp 2016)'
+  in Office Buildings'
 subtitle: 'UbiComp 2016'
 summary: '<b>UbicComp 2016</b><br/>
 We present Genie, a novel software thermostat that we designed and deployed in our university for over 21 months. We compare the use of Genie to traditional thermostats. Our data and user study show that due to the clarity of information and wider thermal control provided by Genie, users feel more comfortable in their offices'
@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2021-09-23T22:50:42.819089Z'
 publication_types:
-- '2'
-abstract: ''
-publication: '*arXiv preprint arXiv:1601.07229*'
+- '1'
+abstract: 'Thermostats are the primary interface for occupants of office buildings to express their thermal comfort preferences. However, traditional thermostats are often ineffective due to physical inaccessibility, lack of information or limited responsiveness, which lead to occupant discomfort. Modern thermostat designs do overcome some of these limitations, but retrofitting them to existing buildings is prohibitively expensive. Software thermostats based on web or smartphone apps provide an alternate interaction mechanism with minimal deployment cost. However, their usage and effectiveness have not been studied extensively in real settings. We present Genie, a novel software thermostat that we designed and deployed in our university for over 21 months. We compare the use of Genie to traditional thermostats. Our data and user study show that due to the clarity of information and wider thermal control provided by Genie, users feel more comfortable in their offices. Furthermore, the improved comfort did not affect the overall energy consumption or lead to misuse of HVAC controls.'
+publication: '*https://dl.acm.org/doi/abs/10.1145/2971648.2971719*'
 ---
