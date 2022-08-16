@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Genie: A Longitudinal Study Comparing Physical and Software-augmented Thermostats
-  in Office Buildings'
+  in Office Buildings (UbiComp 2016)'
 subtitle: ''
 summary: ''
 authors:
