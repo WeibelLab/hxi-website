@@ -41,14 +41,14 @@ projects: []
 publishDate: '2021-09-23T22:50:45.395342Z'
 publication_types:
 - '2'
-abstract: 'Background: Evolving research practices and new forms of research enabled by technological advances require a redesigned research oversight system that respects and protects human research participants.
-
-Objective: Our objective was to generate creative ideas for redesigning our current human research oversight system.
-
-Methods: A total of 11 researchers and institutional review board (IRB) professionals participated in a January 2015 design thinking workshop to develop ideas for redesigning the IRB system.
-
-Results: Ideas in 5 major domains were generated. The areas of focus were (1) improving the consent form and process, (2) empowering researchers to protect their participants, (3) creating a system to learn from mistakes, (4) improving IRB efficiency, and (5) facilitating review of research that leverages technological advances.
-
-Conclusions: We describe the impetus for and results of a design thinking workshop to reimagine a human research protections system that is responsive to 21st century science.'
+abstract: '<b>Background</b>: Evolving research practices and new forms of research enabled by technological advances require a redesigned research oversight system that respects and protects human research participants.
+<br/>
+<b>Objective</b>: Our objective was to generate creative ideas for redesigning our current human research oversight system.
+<br/>
+<b>Methods</b>: A total of 11 researchers and institutional review board (IRB) professionals participated in a January 2015 design thinking workshop to develop ideas for redesigning the IRB system.
+<br/>
+<b>Results</b>: Ideas in 5 major domains were generated. The areas of focus were (1) improving the consent form and process, (2) empowering researchers to protect their participants, (3) creating a system to learn from mistakes, (4) improving IRB efficiency, and (5) facilitating review of research that leverages technological advances.
+<br/>
+<b>Conclusions>b>: We describe the impetus for and results of a design thinking workshop to reimagine a human research protections system that is responsive to 21st century science.'
 publication: '*Journal of Medical Internet Research*'
 ---
