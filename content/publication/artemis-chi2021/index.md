@@ -5,7 +5,7 @@ summary: 'CHI 2021'
 
 
 # Summary. An optional shortened abstract.
-summary: CHI 2021<br/>In this paper, we describe ARTEMIS' design process with a summary of specific user goals ARTEMIS addresses. We also describe the system implementation and show an early validation of how the system addresses user goals.
+summary: <b>CHI 2021</b><br/>In this paper, we describe ARTEMIS' design process with a summary of specific user goals ARTEMIS addresses. We also describe the system implementation and show an early validation of how the system addresses user goals.
 
 authors:
 - Danilo Gasques
