@@ -4,7 +4,7 @@
 title: 'Genie: A Longitudinal Study Comparing Physical and Software-augmented Thermostats
   in Office Buildings'
 subtitle: 'UbiComp 2016'
-summary: '<b>UbicComp 2016</b><br/>
+summary: '<b>UbiComp 2016</b><br/>
 We present Genie, a novel software thermostat that we designed and deployed in our university for over 21 months. We compare the use of Genie to traditional thermostats. Our data and user study show that due to the clarity of information and wider thermal control provided by Genie, users feel more comfortable in their offices'
 tags: [UbiComp, 2016]
 authors:
