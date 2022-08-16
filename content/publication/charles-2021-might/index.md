@@ -5,7 +5,7 @@ title: How might an intelligent voice assistant address older adults' health-rel
   needs?
 subtitle: 'JAGS 2021'
 summary: '<b>JAGS 2021</b><br/>
-'
+As the elderly population and associated number of persons with dementia increase, so does the need for decision-making capacity assessments (DMCAs). Many healthcare professionals (HCPs), however, do not feel prepared to conduct DMCAs. We have provided 4-h DMCA workshops to HCPs since 2006 and offered physicians either a 3-h or 2-day DMCA workshop from 2013 to present. We evaluated the effectiveness of the workshops on self-reported key concepts of capacit'
 authors:
 - K Charles
 - C Chen
@@ -40,6 +40,24 @@ projects: []
 publishDate: '2021-09-23T22:50:59.024129Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: '<b>Background/Objectives</b>:
+As the elderly population and associated number of persons with dementia increase, so does the need for decision-making capacity assessments (DMCAs). Many healthcare professionals (HCPs), however, do not feel prepared to conduct DMCAs. We have provided 4-h DMCA workshops to HCPs since 2006 and offered physicians either a 3-h or 2-day DMCA workshop from 2013 to present. We evaluated the effectiveness of the workshops on self-reported key concepts of capacity.
+<br/>
+<b>Design</b>:
+Pre-/post-test design.
+<br/>
+<b>Setting</b>:
+DMCA workshops for physicians across Canada and HCPs within Alberta.
+<br/>
+<b>Participants</b>:
+Two hundred and eighty-one physicians and 835 HCPs.
+<br/>
+<b>Measurements</b>:
+Pre-/post-workshop ratings on level of comfort with and understanding of 15 core DMCA concepts using 4-point Likert-type items.
+<b>Results</b>:
+For the DMCA workshops among physicians, ten 3-h workshops were held in 2014–2015 with 166 participants and seven 2-day workshops, between 2014 and 2018, with 115 participants. With respect to the self-report on core DMCA concepts, at least 62.7% (range: 62.7%–89.6%) of physician participants had higher post-workshop ratings (sign test; p<0.001) than pre-workshop ratings for all core DMCA concepts. For the DMCA workshops among HCPs, 4-h workshops were delivered to 835 HCP participants from 2008 to 2012. At least 49.6% of participants (range: 49.6%–78.9%) had increased post-workshop ratings (sign test; p<0.001) for all level of comfort items with and understanding of core DMCA concepts.
+<br/>
+<b>Conclusion</b>:
+There is a need for DMCA training for physicians and HCPs. The content and method of the workshops are effective at enhancing self-reported level of comfort with and understanding of core DMCA concepts.'
 publication: '*JOURNAL OF THE AMERICAN GERIATRICS SOCIETY*'
 ---
