@@ -49,6 +49,6 @@ abstract: '<b>Background</b>: Evolving research practices and new forms of resea
 <br/>
 <b>Results</b>: Ideas in 5 major domains were generated. The areas of focus were (1) improving the consent form and process, (2) empowering researchers to protect their participants, (3) creating a system to learn from mistakes, (4) improving IRB efficiency, and (5) facilitating review of research that leverages technological advances.
 <br/>
-<b>Conclusions>b>: We describe the impetus for and results of a design thinking workshop to reimagine a human research protections system that is responsive to 21st century science.'
+<b>Conclusions</b>: We describe the impetus for and results of a design thinking workshop to reimagine a human research protections system that is responsive to 21st century science.'
 publication: '*Journal of Medical Internet Research*'
 ---
