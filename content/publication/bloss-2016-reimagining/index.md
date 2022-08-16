@@ -16,7 +16,7 @@ authors:
 - Nadir Weibel
 - Kevin Patrick
 - ' others'
-tags: [JMIR 2016]
+tags: []
 categories: []
 date: '2016-01-01'
 lastmod: 2021-09-23T15:50:45-07:00
@@ -42,5 +42,5 @@ publishDate: '2021-09-23T22:50:45.395342Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal of medical Internet research*'
+publication: '*Journal of Medical Internet Research*'
 ---
