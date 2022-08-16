@@ -3,7 +3,7 @@
 
 title: Reimagining human research protections for 21st century science
 subtitle: 'JMIR 2016'
-summary: ''
+summary: 'JMIR 2016'
 authors:
 - Cinnamon Bloss
 - Camille Nebeker
@@ -16,7 +16,7 @@ authors:
 - Nadir Weibel
 - Kevin Patrick
 - ' others'
-tags: []
+tags: [JMIR 2016]
 categories: []
 date: '2016-01-01'
 lastmod: 2021-09-23T15:50:45-07:00
