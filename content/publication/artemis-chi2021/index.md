@@ -2,6 +2,11 @@
 title: "ARTEMIS: A Collaborative Mixed-Reality System for Immersive Surgical Telementoring"
 subtitle: 'CHI 2021'
 summary: 'CHI 2021'
+
+
+# Summary. An optional shortened abstract.
+summary: CHI 2021<br/>In this paper, we describe ARTEMIS' design process with a summary of specific user goals ARTEMIS addresses. We also describe the system implementation and show an early validation of how the system addresses user goals.
+
 authors:
 - Danilo Gasques
 - Janet Johnson
