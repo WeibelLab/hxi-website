@@ -54,6 +54,7 @@ Two hundred and eighty-one physicians and 835 HCPs.
 <br/>
 <b>Measurements</b>:
 Pre-/post-workshop ratings on level of comfort with and understanding of 15 core DMCA concepts using 4-point Likert-type items.
+<br/>
 <b>Results</b>:
 For the DMCA workshops among physicians, ten 3-h workshops were held in 2014–2015 with 166 participants and seven 2-day workshops, between 2014 and 2018, with 115 participants. With respect to the self-report on core DMCA concepts, at least 62.7% (range: 62.7%–89.6%) of physician participants had higher post-workshop ratings (sign test; p<0.001) than pre-workshop ratings for all core DMCA concepts. For the DMCA workshops among HCPs, 4-h workshops were delivered to 835 HCP participants from 2008 to 2012. At least 49.6% of participants (range: 49.6%–78.9%) had increased post-workshop ratings (sign test; p<0.001) for all level of comfort items with and understanding of core DMCA concepts.
 <br/>
