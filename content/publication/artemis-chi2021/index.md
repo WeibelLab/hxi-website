@@ -1,5 +1,8 @@
 ---
-title: "ARTEMIS: A Collaborative Mixed-Reality System for Immersive Surgical Telementoring (CHI 2021)"
+title: "ARTEMIS: A Collaborative Mixed-Reality System for Immersive Surgical Telementoring"
+subtitle: CHI 2021’
+summary: ‘CHI 2021’
+tags: [CHI, 2021]
 authors:
 - Danilo Gasques
 - Janet Johnson
