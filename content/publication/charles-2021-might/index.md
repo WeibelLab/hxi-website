@@ -3,8 +3,9 @@
 
 title: How might an intelligent voice assistant address older adults' health-related
   needs?
-subtitle: ''
-summary: ''
+subtitle: 'JAGS 2021'
+summary: '<b>JAGS 2021</b><br/>
+'
 authors:
 - K Charles
 - C Chen
@@ -15,7 +16,7 @@ authors:
 - N Weibel
 - E Farcas
 - A Moore
-tags: []
+tags: [JAGS, 2021]
 categories: []
 date: '2021-01-01'
 lastmod: 2021-09-23T15:50:59-07:00
@@ -38,7 +39,7 @@ image:
 projects: []
 publishDate: '2021-09-23T22:50:59.024129Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
 publication: '*JOURNAL OF THE AMERICAN GERIATRICS SOCIETY*'
 ---

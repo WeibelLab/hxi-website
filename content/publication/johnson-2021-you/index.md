@@ -3,15 +3,16 @@
 
 title: Do You Really Need to Know Where “That” Is? Enhancing Support for Referencing
   in Collaborative Mixed Reality Environments
-subtitle: ''
-summary: ''
+subtitle: 'CHI 2021'
+summary: '<b>CHI 2021</b><br/>
+This paper presents a 2x2 mixed factorial experiment that explores the effects of providing spatial information and system-generated guidance to task objects. It also investigates the effects of such guidance on the remote collaborators need for spatial information.'
 authors:
 - Janet Johnson
 - Danilo Gasques
 - Tommy Sharkey
 - Evan Schmitz
 - Nadir Weibel
-tags: []
+tags: [CHI, 2021]
 categories: []
 date: '2021-01-01'
 lastmod: 2021-09-23T15:50:59-07:00

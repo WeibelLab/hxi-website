@@ -3,14 +3,15 @@
 
 title: '“It Feels Like I am Talking into a Void”: Understanding Interaction Gaps in
   Synchronous Online Classrooms'
-subtitle: ''
-summary: ''
+subtitle: 'CHI 2021'
+summary: '<b>CHI 2021</b><br/>
+This paper investigates in-class interactions in synchronous online classrooms when the choice of modality is discretionary, such that students choose when and if they turn on their cameras and microphones'
 authors:
 - Matin Yarmand
 - Jaemarie Solyst
 - Scott Klemmer
 - Nadir Weibel
-tags: []
+tags: [CHI, 2021]
 categories: []
 date: '2021-01-01'
 lastmod: 2021-09-23T15:51:00-07:00

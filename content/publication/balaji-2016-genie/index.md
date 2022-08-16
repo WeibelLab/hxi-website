@@ -37,5 +37,5 @@ publishDate: '2021-09-23T22:50:42.819089Z'
 publication_types:
 - '1'
 abstract: 'Thermostats are the primary interface for occupants of office buildings to express their thermal comfort preferences. However, traditional thermostats are often ineffective due to physical inaccessibility, lack of information or limited responsiveness, which lead to occupant discomfort. Modern thermostat designs do overcome some of these limitations, but retrofitting them to existing buildings is prohibitively expensive. Software thermostats based on web or smartphone apps provide an alternate interaction mechanism with minimal deployment cost. However, their usage and effectiveness have not been studied extensively in real settings. We present Genie, a novel software thermostat that we designed and deployed in our university for over 21 months. We compare the use of Genie to traditional thermostats. Our data and user study show that due to the clarity of information and wider thermal control provided by Genie, users feel more comfortable in their offices. Furthermore, the improved comfort did not affect the overall energy consumption or lead to misuse of HVAC controls.'
-publication: '*https://dl.acm.org/doi/abs/10.1145/2971648.2971719*'
+publication: '*Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing*'
 ---
