@@ -2,8 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Exploring Needs and Design Opportunities for Virtual Reality-based Contour Delineations of Medical Structures
-subtitle: ''
-summary: ''
+subtitle: 'EICS 2022'
+summary: '<b>EICS 2022</b><br/>
+ We present an exploratory study that uses iterative design to understand needs and opportunities to bring contour delineation into an immersive 3D space, such as the one enabled by today’s head-mounted VR displays'
 authors:
 - Chen Chen
 - Matin Yarmand
@@ -13,7 +14,7 @@ authors:
 - Yang Zhang
 - Nadir Weibel
 doi: 10.1145/3531706.3536456
-tags: []
+tags: [EICS, 2022]
 categories: []
 date: '2022-06-21'
 lastmod: 2022-06-21T15:51:01-07:00
