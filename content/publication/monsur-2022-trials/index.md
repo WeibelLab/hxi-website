@@ -31,7 +31,7 @@ authors:
   - Eric Hekler
   - Job G. Godino
 doi: 10.1186/s13063-021-05938-7
-publication: '*Trials volume 23, Article number: 7 (2022)'
+publication: '*Trials volume 23, Article number: 7 (2022)*'
 publication_short: '*Trials*'
 abstract: '
 <b>Background:</b>
