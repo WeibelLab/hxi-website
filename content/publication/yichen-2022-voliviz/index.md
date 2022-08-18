@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 title: 'Towards Visualization of Time–Series Ecological Momentary Assessment (EMA) Data on Standalone Voice–First Virtual Assistants'
-subtitle: 'ASSETS 2022 - '
+subtitle: 'ASSETS 2022'
 summary: '<b>ASSETS 2022</b><br/>
 To explore the potential opportunities for visualizing time-series based EMA data on standalone IVAs, we designed a prototype system, where older adults are able to query and examine the time–series EMA data on Amazon Echo Show — a widely used commercially available standalone screen–based IVA'
 authors:
