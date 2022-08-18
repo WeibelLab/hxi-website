@@ -31,8 +31,8 @@ authors:
   - Eric Hekler
   - Job G. Godino
 doi: 10.1186/s13063-021-05938-7
-publication: *Trials volume 23, Article number: 7 (2022)
-publication_short: *Trials*
+publication: '*Trials volume 23, Article number: 7 (2022)'
+publication_short: '*Trials*'
 abstract: '
 <b>Background:</b>
 Excess weight gain in young adulthood is associated with future weight gain and increased risk of chronic disease. Although multimodal, technology-based weight-loss interventions have the potential to promote weight loss among young adults, many interventions have limited personalization, and few have been deployed and evaluated for longer than a year. We aim to assess the effects of a highly personalized, 2-year intervention that uses popular mobile and social technologies to promote weight loss among young adults.
