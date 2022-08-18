@@ -52,7 +52,7 @@ image:
   projects:
   slides: ""
   filename: featured.jpg
-date: 2021-07-27T00:00:00Z
+date: '2022-01-03'
 links:
 publishDate: 2021-07-27T00:00:00Z
 ---
