@@ -4,6 +4,7 @@ subtitle: 'Trials 2022'
 summary: '<b>Trials 2022</b><br/>
  The Social Mobile Approaches to Reducing Weight (SMART) 2.0 Study is a 24-month parallel-group randomized controlled trial that will include 642 overweight or obese participants, aged 18–35 years, from universities and community colleges in San Diego, CA.
  '
+tags: [Trials, 2022]
 publication_types:
  #0 = Uncategorized
  #1 = Conference paper
@@ -44,9 +45,7 @@ The Social Mobile Approaches to Reducing Weight (SMART) 2.0 Study is a 24-month 
 We hypothesize that both SMART 2.0 intervention groups will significantly improve weight loss compared to the control group, and the group receiving health coaching will experience the greatest improvement. We further hypothesize that differences in secondary outcomes will favor the intervention groups. There is a critical need to advance understanding of the effectiveness of multimodal, technology-based weight-loss interventions that have the potential for long-term effects and widespread dissemination among young adults. Our findings should inform the implementation of low-cost and scalable interventions for weight loss and risk-reducing health behaviors.
 '
 featured: true
-tags:
-  - Trials
-  - 2022
+tags: [Trials, 2022]
 image:
   caption: ""
   focal_point: ""
