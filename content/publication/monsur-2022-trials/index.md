@@ -1,9 +1,8 @@
 ---
-title: "Social Mobile Approaches to Reducing Weight (SMART) 2.0: protocol of a randomized controlled trial among young adults in university settings"
+title: 'Social Mobile Approaches to Reducing Weight (SMART) 2.0: protocol of a randomized controlled trial among young adults in university settings'
 subtitle: 'Trials 2022'
 summary: '<b>Trials 2022</b><br/>
- The Social Mobile Approaches to Reducing Weight (SMART) 2.0 Study is a 24-month parallel-group randomized controlled trial that will include 642 overweight or obese participants, aged 18–35 years, from universities and community colleges in San Diego, CA.
- '
+ The Social Mobile Approaches to Reducing Weight (SMART) 2.0 Study is a 24-month parallel-group randomized controlled trial that will include 642 overweight or obese participants, aged 18–35 years, from universities and community colleges in San Diego, CA.'
 tags: [Trials, 2022]
 publication_types:
  #0 = Uncategorized
