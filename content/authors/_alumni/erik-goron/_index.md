@@ -9,6 +9,10 @@ social:
 
 weight: -130
 
+_build:
+  render: never
+  list: always
+
 user_groups:
 - Alumni
 ---
