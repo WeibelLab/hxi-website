@@ -10,6 +10,7 @@ authors:
   - Andrew Nguyen
   - Danilo Gasques
   - Steven Rick
+  - Erik Goron
 
 tags:
   - AI
