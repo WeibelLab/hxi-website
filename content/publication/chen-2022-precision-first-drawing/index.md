@@ -13,11 +13,11 @@ authors:
 - Yang Zhang
 - Nadir Weibel
 doi: 10.1109/ISMAR55827.2022.00054
-tags: []
+tags:
+- ISMAR
+- 2022
 date: '2022-10-14'
-lastmod: 2022-10-14T15:51:01-07:00
 featured: false
-draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
