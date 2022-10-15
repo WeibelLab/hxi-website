@@ -12,7 +12,7 @@ authors:
 - Varun Singh
 - Yang Zhang
 - Nadir Weibel
-doi: 10.1109/ISMAR55827
+doi: 10.1109/ISMAR55827.2022.00054
 tags:
 - ISMAR
 - 2022
