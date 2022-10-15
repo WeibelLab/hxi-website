@@ -3,8 +3,7 @@
 
 title: VRContour - Bringing Contour Delineations of Medical Structures Into Virtual Reality
 subtitle: 'ISMAR 2022'
-summary: '<b>ISMAR 2022</b><br/>
- TBC'
+summary: '<b>ISMAR 2022</b>'
 authors:
 - Chen Chen
 - Matin Yarmand
