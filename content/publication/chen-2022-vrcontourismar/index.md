@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: VRContour: Bringing Contour Delineations of Medical Structures Into Virtual Reality
+title: VRContour - Bringing Contour Delineations of Medical Structures Into Virtual Reality
 subtitle: 'ISMAR 2022'
 summary: '<b>ISMAR 2022</b><br/>
  TBC'
