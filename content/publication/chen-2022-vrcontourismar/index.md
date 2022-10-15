@@ -14,8 +14,7 @@ authors:
 - Yang Zhang
 - Nadir Weibel
 doi: 10.1109/ISMAR55827.2022.00020
-tags: [2022]
-categories: []
+tags: []
 date: '2022-10-14'
 lastmod: 2022-10-14T15:51:01-07:00
 featured: false
