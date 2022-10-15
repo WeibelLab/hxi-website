@@ -8,7 +8,7 @@ summary: '<b>ISMAR 2022</b><br/>
 authors:
 - Chen Chen
 - Matin Yarmand
-- Robin Zhuoqun Xu
+- Zhuoqun Robin Xu
 - Varun Singh
 - Yang Zhang
 - Nadir Weibel
