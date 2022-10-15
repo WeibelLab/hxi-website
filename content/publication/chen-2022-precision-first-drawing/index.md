@@ -4,7 +4,7 @@
 title: Investigating Input Modality and Task Geometry on Precision–first 3D Drawing in Virtual Reality
 subtitle: 'ISMAR 2022'
 summary: '<b>ISMAR 2022</b><br/>
- TBC
+ TBC'
 authors:
 - Chen Chen
 - Matin Yarmand
@@ -12,7 +12,7 @@ authors:
 - Varun Singh
 - Yang Zhang
 - Nadir Weibel
-doi: 10.1109/ISMAR55827.2022.00054
+doi: 10.1109/ISMAR55827
 tags:
 - ISMAR
 - 2022
