@@ -8,7 +8,7 @@ authors:
 - Yichen Han
 - Christopher Han
 - Chen Chen
-- Peng Wei Lee (Nova)
+- Nova Lee
 - Michael Hogarth
 - Alison A. Moore
 - Emilia Farcas
