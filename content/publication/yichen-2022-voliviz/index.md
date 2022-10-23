@@ -13,6 +13,7 @@ authors:
 - Alison A. Moore
 - Emilia Farcas
 - Nadir Weibel
+doi: 10.1145/3517428.3550398
 tags: [ASSETS, 2022]
 categories: []
 date: '2022-07-20'
