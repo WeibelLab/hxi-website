@@ -27,7 +27,7 @@ _build:
   list: always
 
 user_groups:
-- Master Students
+- Undergraduate Students
 
 weight: -80
 ---
