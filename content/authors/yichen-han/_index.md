@@ -9,7 +9,7 @@ organizations:
 - name: Carnegie Mellon University
   url: https://cmu.edu/
 - name: The Design Lab @UC San Diego (Alumni)
-  url: https://design.ucsd.edu/
+  url: https://designlab.ucsd.edu/
 - name: Computer Science and Engineering @UC San Diego (Alumni)
   url: https://cse.ucsd.edu/
 
