@@ -6,7 +6,7 @@ authors:
   - Colleen Emmenegger
   - Steven Rick
   - Naba Rizvi
-  - Andrea Hurtlzer (UW)
+  - Andrea Hartzler (UW)
   - Wanda Pratt (UW)
   - Janice Sabin (UW)
 
