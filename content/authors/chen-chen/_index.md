@@ -49,6 +49,6 @@ user_groups:
 - Ph.D Students and Postdocs
 
 ---
-Chen Chen is a Ph.D. student in the Department of Computer Science and Engineering at UC San Diego. His research focus on designing novel input tools, methods, and techniques to enable a more accessible and usable Human-XR Interactions, for general users and domain experts.
+I’m a Computer Science Ph.D. student from the University of California San Diego, affiliating with the Department of Computer Science and Engineering, The Design Lab and The Human-centered eXtended Intelligence Research Lab. My research is on Human-Computer Interactions (HCI), where I work on designing eXtended Reality (XR) User Interfaces and Conversational User Interfaces for Healthcare and General Workspaces. I was also a former Research Scientist Intern at Adobe Research. And my work has been awarded with Qualcomm Innovation Fellowship (Finalist) in 2019, and Adobe Research Fellowship (Finalist) in 2022.
 
-Personal Website: <a href="https://chen-chen.me/">https://chen-chen.me/</a>
+Feel free to contact me by my email: chenchen@ucsd.edu.
