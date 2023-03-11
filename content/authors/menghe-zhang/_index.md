@@ -1,6 +1,6 @@
 ---
 title: Menghe Zhang
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 avatar_filename: avatar
 superuser: false
@@ -27,7 +27,7 @@ organizations:
 education:
   courses:
     - course: MS in Computer Science and Engineering
-      institution: UC San Diego, USA
+      institution: University of California San Diego
       year: 2018
     - course: BS in Artificial Intelligence
       institution: Xiamen University
