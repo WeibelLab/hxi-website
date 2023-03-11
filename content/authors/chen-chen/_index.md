@@ -14,6 +14,9 @@ organizations:
     
 education:
   courses:
+    - course: C.Phil. in Computer Science
+      institution: University of California San Diego, La Jolla, CA, USA
+      year: 2023
     - course: M.S. in Electrical and Computer Engineering
       institution: Carnegie Mellon University, Pittsburgh, PA, USA
       year: 2017
