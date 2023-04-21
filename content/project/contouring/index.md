@@ -5,7 +5,7 @@ authors:
   - Nadir Weibel
   - Matin Yarmand
   - Chen Chen
-  - Michael Sherer
+  - Michael V. Sherer
   - Larry Hernandez
   - James D. Murphy
 tags:
@@ -13,7 +13,7 @@ tags:
   - Education
   - AI
   - Design
-  - MR
+  - XR
 show_related: false
 date: '2021-09-23T00:00:00Z'
 external_link: ''
@@ -26,7 +26,7 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 slides: ''
-lastmod: '2021-09-21T00:21:04.720Z'
+lastmod: '2023-04-20T00:21:04.720Z'
 design:
   columns: '2'
 
@@ -54,9 +54,9 @@ iContour is funded by Agency for Healthcare Research and Quality (AHRQ). It is a
 
 ### Publications
 
+{{< cite page="/publication/yarmand-2023-icontour" view="1" >}}
 {{< cite page="/publication/yarmand-2021-facilitating" view="1" >}}
 {{< cite page="/publication/yarmand-2022-evaluating" view="1" >}}
 {{< cite page="/publication/chen-2022-vrcontoureics" view="1" >}}
 {{< cite page="/publication/chen-2022-vrcontourismar" view="1" >}}
-
 
