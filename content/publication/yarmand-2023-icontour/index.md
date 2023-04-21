@@ -3,7 +3,7 @@
 
 title: 'Design and Development of a Training and Immediate Feedback Tool to Support Healthcare Apprenticeship'
 subtitle: 'CHI 2023'
-summary: '<b>CHI 2023</b><br/>
+summary: '<b>CHI 2023</b><br/>'
 authors:
 - Matin Yarmand
 - Borui Wang
