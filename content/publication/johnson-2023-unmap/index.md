@@ -5,7 +5,7 @@ title: 'UnMapped: Leveraging Experts’ Situated Experiences to Ease Remote Guid
 subtitle: 'CHI 2023'
 summary: '<b>CHI 2023</b><br/>'
 authors:
-- Janet G. Johnson
+- Janet Johnson
 - Tommy Sharkey
 - Iramuali Cynthia Butarbutar
 - Danica Xiong
