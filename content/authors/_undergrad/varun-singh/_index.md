@@ -36,3 +36,5 @@ email: "v7singh@ucsd.edu"
 user_groups:
 - Master Students
 ---
+
+Varun is a M.S./B.S. student in Computer Science at the University of California San Diego, with a minor in business. He is interested in a career in software engineering or in computer vision. 
