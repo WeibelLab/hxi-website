@@ -6,6 +6,8 @@ avatar_filename: avatar
 weight: 30
 
 organizations:
+- name: Human-Centered eXtended Intelligence Lab @UC San Diego
+  url: https://hxi.ucsd.edu/
 - name: The Design Lab @UC San Diego
   url: https://designlab.ucsd.edu/
 - name: Computer Science and Engineering @UC San Diego
