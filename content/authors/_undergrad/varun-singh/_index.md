@@ -1,6 +1,24 @@
 ---
 title: Varun Singh
-role: Undergraduate Student at UCSD<br/> Computer Science
+role: CSE Master Student<br/> Computer Science
+avatar_filename: avatar
+
+weight: 30
+
+organizations:
+- name: The Design Lab @UC San Diego
+  url: https://designlab.ucsd.edu/
+- name: Computer Science and Engineering @UC San Diego
+  url: https://cse.ucsd.edu/
+
+education:
+  courses:
+    - course: M.S. in Computer Science
+      institution: University of California San Diego, La Jolla, CA, USA
+      year: 2024
+    - course: B.S. in Computer Science
+      institution: University of California San Diego, La Jolla, CA, USA
+      year: 2023
 
 social:
   - icon: linkedin
@@ -12,13 +30,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/realvarunsingh
-
-_build:
-  render: never
-  list: always
+superuser: false
+email: "v7singh@ucsd.edu"
 
 user_groups:
-- Undergraduate Students
-
-weight: -84
+- Master Students
 ---
