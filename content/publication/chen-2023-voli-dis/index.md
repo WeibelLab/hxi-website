@@ -15,7 +15,7 @@ publication_types:
   - "1"
 authors:
   - Chen Chen
-  - Ella T. Lifset
+  - Ella Lifset
   - Yichen Han
   - Arkajyoti Roy
   - Michael Hogarth
