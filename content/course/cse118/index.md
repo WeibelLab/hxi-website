@@ -1,6 +1,6 @@
 ---
 title: CSE 118
-summary: Applications in Ubiquitous Computing (Fall 2021)
+summary: Applications in Ubiquitous Computing (Fall Quarter)
 authors: 
   - Nadir Weibel
 date: '2021-09-23T00:00:00Z'
@@ -34,4 +34,4 @@ Successful students in this class often follow up on their design projects with 
 
 
 ### More information
-See CSE 118 (Ubiquitous Computing) Canvas Page here: https://canvas.ucsd.edu/courses/30737
+See CSE 118 (Ubiquitous Computing) on Canvas: https://canvas.ucsd.edu
