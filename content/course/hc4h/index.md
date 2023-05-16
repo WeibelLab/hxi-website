@@ -11,7 +11,7 @@ design:
   columns: '2'
   
 ---
-# HC4H - Human-Centered Computing for Health (Spring 2021)
+# HC4H - Human-Centered Computing for Health (Spring Quarter)
 
 ### Background
 The advent of new mobile and ubiquitous computing technology (tablets, smartphones, tracking devices, depth cameras, wearable devices, augmented reality devices, etc) has created new opportunities to design novel solutions that bring innovation to health and healthcare. The health and healthcare domains, however, are extremely challenging to research and develop technology for. Numerous regulations exist for the protection of patients as well as health data which can impact how easily new technologies might be used. These rules, such as the [Health Insurance Portability and Accountability Act (HIPAA)](https://www.cdc.gov/phlp/publications/topic/hipaa.html), come from federal administrations, such as the [Food and Drug Administration (FDA)](https://www.fda.gov/), as well as institutional bodies, such as human subject protection programs and [Institutional Review Board (IRB)](https://irb.ucsd.edu/).
@@ -34,4 +34,4 @@ Successful students in this class often follow up on their design projects with 
 
 
 ### More information
-See CSE 190/291 (Human-Centered Computing for Health) Canvas Page here: https://canvas.ucsd.edu/courses/25075
+See CSE 190/291 (Human-Centered Computing for Health) on Canvas: https://canvas.ucsd.edu
