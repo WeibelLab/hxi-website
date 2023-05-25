@@ -29,8 +29,7 @@ weight: 40
  
 ------
 ### Overview
-Despite huge advancements in Autonomous Vehicle (AV) technology, real-world adoption is hindered by a lack of calibrated passenger trust in vehicle decisions. In this research agenda, we combine Virtual Reality (VR), biometric measurement, human-centered design, and data science methods to uncover factors impacting trust with Autonomous Vehicles (AVs) at the level of the individual as opposed to taking a one-size-fits-all approach.
-
+Despite huge advancements in Autonomous Vehicle (AV) technology, real-world adoption is hindered by a lack of calibrated passenger trust in vehicle decisions. In this research agenda, we combine Virtual Reality (VR), biometric measurement, human-centered design, and data science methods to uncover factors impacting trust with Autonomous Vehicles (AVs) at the level of the individual as opposed to taking a one-size-fits-all approach.\
 We aim to establish a generalizable theory connecting personal characteristics to AV communications in realistic driving contexts as well as underpin why certain designs are more effective than others at eliciting calibrated trust, improving driving outcomes through enhanced situational awareness, and alleviating stress. This research agenda will inform future driver-AV interactions and impact important design decisions for the automotive and self-driving car industry in the years ahead.
 ------
 
