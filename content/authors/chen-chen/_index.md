@@ -52,6 +52,12 @@ user_groups:
 - Ph.D Students and Postdocs
 
 ---
-I’m a Computer Science Ph.D. candidate from the University of California San Diego, affiliating with the Department of Computer Science and Engineering, The Design Lab and The Human-centered eXtended Intelligence Research Lab. My research is on Human-Computer Interactions (HCI), where I work on designing eXtended Reality (XR) User Interfaces and Conversational User Interfaces for Healthcare and General Workspaces. I was a former Research Scientist Intern at Adobe Research and a former staff researcher in Department of Software and Societal Systems in School of Computer Science at Carnegie Mellon University. My past work has been awarded with Qualcomm Innovation Fellowship (Finalist) in 2019, and Adobe Research Fellowship (Finalist) in 2022. I am an alumni from Carnegie Mellon University (M.S. ECE '17) and The University of Nottingham in the UK (B.E.ng Hons 1st Class EEE '16).
+I’m a Ph.D. candidate in Computer Science from UC San Diego advised by Prof. Nadir Weibel. My thesis committee also includes Prof. James D. Hollan, Prof. Haijun Xia, Prof. William G. Grisworld, Prof. Yang Zhang and Dr. Cuong Nguyen. I am affiliated with the Department of Computer Science and Engineering, The Design Lab, as well as Qualcomm Institute @CalIT2.
 
-Feel free to contact me by my email: chenchen@ucsd.edu.
+My research interest is on Human-Computer Interactions (HCI), Accessibility (A11y) and Healthcare. My thesis aims to **transform today's 2D document interactions into an immersive information experience**.
+
+In summer 2022, I was a former research scientist intern at Adobe Research, working with Dr. Cuong Nguyen, Dr. Jane E. Hoffswell, Dr. Jennifer Healey and Dr. Trung Bui. During 2016 to 2018, I was a research assistant and associate at Carnegie Mellon University, working with Prof. Yuvraj Agarwal, Prof. Chris Harrison, Prof. Yang Zhang (now @UCLA), Prof. Anind K. Dey (now @UW), and Dr. Gierad Laput (now @). In summer 2015, I was a research intern at UoN's Power Electronics and Machines Center, working with Prof. Mark Sumner, Dr. Richard Davies, and Dr. Seksak Pholboon.
+
+I received my M.S. degree in Electrical and Computer Engineering from Carnegie Mellon University (Pittsburgh, PA), and a B.Eng. degree with first class honor in Electrical and Electronic Engineering from the University of Nottingham (Nottingham, UK).
+
+For more information, feel free to visit [my website](https://chen-chen.me) If you are interested in my work, feel free to email me!
