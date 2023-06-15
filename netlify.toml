@@ -49,4 +49,10 @@
   to = "https://app.netlify.com/sites/hxi-ucsd/deploys"
   status = 200
   force = true # COMMENT: ensure that we always redirect
+  
+[[redirects]]
+  from = "/course/cse218/enroll"
+  to = "https://forms.gle/eGcyWzXZqX2AmZRA6"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
 
