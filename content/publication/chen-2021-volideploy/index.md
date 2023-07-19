@@ -3,6 +3,7 @@
 
 title: Screen or No Screen? Lessons Learnt from a Real-World Deployment Study of Using Voice Assistants With and Without Touchscreen for Older Adults
 subtitle: 'ASSETS 2023'
+summary: '<b>DIS 2023</b><br/>'
 authors:
 - Chen Chen
 - Ella Lifset
