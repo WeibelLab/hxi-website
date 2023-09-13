@@ -25,7 +25,7 @@ authors:
 doi: 10.1145/3563703.3596640
 publication: In *Conference on Designing Interactive Systems Conference 2023 (DIS 2021)*
 publication_short: In *CUI 2021*
-abstract: TBC
+abstract: While standalone Voice Assistants (VAs) are promising to support older adults’ daily routine and wellbeing management, onboarding and setting up these devices can be challenging. Although some older adults choose to seek assistance from technicians and adult children, easy set up processes that facilitate independent use are still critical, especially for those who do not have access to external resources. We aim to understand the older adults’ experience while setting up commercially available voice-only and voice-first screen-based VAs. Rooted in participants observations and semi-structured interviews, we designed a within-subject study with 10 older adults using Amazon Echo Dot and Echo Show. We identified the values of the built-in touchscreen and the instruction documents, as well as the impact of form factors, and outline important directions to support older adult independence with VAs.
 featured: true
 tags:
   - DIS
@@ -43,7 +43,7 @@ image:
     - voli
   slides: ""
   filename: featured.jpg
-date: '2023-05-11'
+date: '2023-07-10'
 links:
-publishDate: 2023-05-11T00:00:00Z
+publishDate: 2023-07-10T00:00:00Z
 ---
