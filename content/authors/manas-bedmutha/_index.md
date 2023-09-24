@@ -1,6 +1,6 @@
 ---
 title: Manas Bedmutha
-role: ECE Masters Student
+role: Ph.D. Student
 avatar_filename: avatar
 
 weight: 30
@@ -49,7 +49,7 @@ user_groups:
 - Ph.D Students and Postdocs
 ---
 
-Hello! My name is Manas Bedmutha and I am a <b>Master's student in Electrical and Computer Engineering</b> at UC San Diego (<a href="https://hxi.ucsd.edu/">HXI Lab</a> / <a href="https://design.ucsd.edu">Design Lab</a>).
+Hello! My name is Manas Bedmutha and I am a <b>Ph.D. student in Computer Science</b> at UC San Diego (<a href="https://hxi.ucsd.edu/">HXI Lab</a> / <a href="https://design.ucsd.edu">Design Lab</a>).
 
 In my research, I use signal processing and machine learning on ubiquitous devices to make sense of the world. My work also closely overlaps with UX, Design and Social Sciences. My current focus lies in applying human centered technologies on problems in healthcare, especially for accessibility</a>.
 
