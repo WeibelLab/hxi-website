@@ -46,7 +46,7 @@ email: "mbedmutha@ucsd.edu"
 bio: Manas is currently working on developing social signal processing tools and devices for understanding healthcare interactions better. 
 
 user_groups:
-- Master Students
+- Ph.D Students and Postdocs
 ---
 
 Hello! My name is Manas Bedmutha and I am a <b>Master's student in Electrical and Computer Engineering</b> at UC San Diego (<a href="https://hxi.ucsd.edu/">HXI Lab</a> / <a href="https://design.ucsd.edu">Design Lab</a>).
