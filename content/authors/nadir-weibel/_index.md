@@ -1,6 +1,6 @@
 ---
 title: Nadir Weibel
-role: Associate Professor of Computer Science and Engineering
+role: Professor of Computer Science and Engineering
 avatar_filename: ""
 bio: 
 interests:
@@ -59,6 +59,6 @@ lastmod: 2025-01-01
 
 
 ---
-Dr. Nadir Weibel is an Associate Professor in the [Department of Computer Science and Engineering](https://cse.ucsd.edu) at [UC San Diego](https://ucsd.edu), and the Associate Faculty Director of the [UCSD Design Lab](https://designlab.ucsd.edu/). Dr. Weibel is also a Research Health Science Specialist at the [VA San Diego Health System](https://www.sandiego.va.gov/), and he is affiliated with the [Contextual Robotics Institute](https://contextualrobotics.ucsd.edu/), the [Center for Population and Health Systems](https://cwphs.ucsd.edu/), and the [Research Center on Optimal Digital Ethics](https://recode.health).
+Dr. Nadir Weibel is a Professor in the [Department of Computer Science and Engineering](https://cse.ucsd.edu) at [UC San Diego](https://ucsd.edu), and the Associate Faculty Director of the [UCSD Design Lab](https://designlab.ucsd.edu/). Dr. Weibel is also a Research Health Science Specialist at the [VA San Diego Health System](https://www.sandiego.va.gov/), and he is affiliated with the [Contextual Robotics Institute](https://contextualrobotics.ucsd.edu/), the [Center for Population and Health Systems](https://cwphs.ucsd.edu/), and the [Research Center on Optimal Digital Ethics](https://recode.health).
 
 His work on Human-centered eXtended Intelligence is situated at the intersection of computer science, design, and the health sciences. Current work focuses on Human-Computer Interaction, Artifical Intelligence, and eXtended Reality, investigating tools, techniques, and infrastructure to support the deployment of innovative interactive multimodal and tangible devices in context, studying and quantifying the cognitive consequences of the introduction of this technology in the everyday life.
