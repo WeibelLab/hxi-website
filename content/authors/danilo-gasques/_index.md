@@ -49,7 +49,7 @@ bio: My research focus is on improving remote and co-located surgical mentoring 
 
 
 user_groups:
-- Ph.D Students and Postdocs
+- Alumni
 ---
 
 Hello! My name is Danilo Gasques, and I am a <b>Computer Science Ph.D. Candidate</b> at UC San Diego (<a href="https://www.ubicomp.ucsd.edu/">HXI Lab</a> / <a href="https://design.ucsd.edu">Design Lab</a>).
