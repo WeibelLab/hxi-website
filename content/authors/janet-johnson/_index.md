@@ -37,7 +37,7 @@ education:
 email: ""
 superuser: true
 user_groups: 
-  - Ph.D Students and Postdocs
+  - Alumni
 
 highlight_name: false
 ---
