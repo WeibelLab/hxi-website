@@ -36,6 +36,6 @@ email: ""
 weight: 45
 
 user_groups:
-- Ph.D Students and Postdocs
+- Alumni
 ---
 Menghe Zhang is a Ph.D. student in the Department of Computer Science and Engineering at UC San Diego. Her research interests lie in Mixed Reality, Computer Graphics, and Human-Computer Interaction.
