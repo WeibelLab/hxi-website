@@ -3,8 +3,7 @@
 
 title: Mites - Design and Deployment of a General-Purpose Sensing Infrastructure for Buildings
 subtitle: 'IMWUT 2023'
-summary: '<b>IMWUT 2022</b><br/>
- Real-world deployment of building-scale, general-purpose and high-fiedlity sensing system is challenging! Mites is the first scalable end-to-end hardware-software system for supporting and managing distributed general-purpose sensors in buildings, and has been successfully deployed in Carnegie Mellon University of more than five years.'
+summary: '<b>IMWUT 2023</b>'
 authors:
 - Sudershan Boovaraghavan
 - Chen Chen 
