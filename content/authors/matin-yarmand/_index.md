@@ -33,7 +33,7 @@ education:
     - course: BS in Computer Science with minor in Business
       institution: The University of British Columbia, Vancouver, BC, Canada
       year: 2019
-     - course: MS in Computer Science
+    - course: MS in Computer Science
       institution: University of California San Diego, La Jolla, CA, USA
       year: 2024     
 email: ""
