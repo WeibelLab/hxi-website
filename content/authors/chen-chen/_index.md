@@ -56,7 +56,7 @@ I’m a Ph.D. candidate in Computer Science from UC San Diego advised by Prof. N
 
 My research interest is on Human-Computer Interactions (HCI), Accessibility (A11y) and Healthcare. My thesis aims to **transform today's 2D document interactions into an immersive information experience**.
 
-In summer 2022, I was a former research scientist intern at Adobe Research, working with Dr. Cuong Nguyen, Dr. Jane E. Hoffswell, Dr. Jennifer Healey and Dr. Trung Bui. During 2016 to 2018, I was a research assistant and associate at Carnegie Mellon University, working with Prof. Yuvraj Agarwal, Prof. Chris Harrison, Prof. Yang Zhang (now @UCLA), Prof. Anind K. Dey (now @UW), and Dr. Gierad Laput (now @Apple). In summer 2015, I was a research intern at UoN's Power Electronics and Machines Center, working with Prof. Mark Sumner, Dr. Richard Davies, and Dr. Seksak Pholboon.
+During 2022 to 2024, I was a research scientist intern at Adobe Research, working with Dr. Cuong Nguyen, Dr. Jane Hoffswell, Dr. Jennifer Healey, Dr. Trung Bui, Dr. Thibault Groueix and Dr. Vova Kim. During 2016 to 2018, I was a research assistant and associate at Carnegie Mellon University, working with Prof. Yuvraj Agarwal, Prof. Chris Harrison, Prof. Yang Zhang (now @UCLA), Prof. Anind K. Dey (now @UW), and Dr. Gierad Laput (now @Apple). In summer 2015, I was a research intern at UoN's Power Electronics and Machines Center, working with Prof. Mark Sumner, Dr. Richard Davies, and Dr. Seksak Pholboon.
 
 I received my M.S. degree in Electrical and Computer Engineering from Carnegie Mellon University (Pittsburgh, PA), and a B.Eng. degree with first class honor in Electrical and Electronic Engineering from the University of Nottingham (Nottingham, UK).
 
