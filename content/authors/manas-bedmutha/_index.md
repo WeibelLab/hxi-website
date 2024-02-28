@@ -15,9 +15,9 @@ organizations:
   
 education:
   courses:
-    - course: MS in Electrical & Computer Engineering
+    - course: MS in Computer Science
       institution: UC San Diego, La Jolla, CA, USA
-      year: 2023
+      year: 2024
     - course: BS in Electrical Engineering
       institution: Indian Institute of Technology Gandhinagar, India
       year: 2020
