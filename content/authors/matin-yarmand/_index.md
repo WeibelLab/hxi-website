@@ -1,6 +1,6 @@
 ---
 title: Matin Yarmand
-role: Ph.D. Student
+role: Ph.D. Candidate
 avatar_filename: ""
 bio: 
 interests:
@@ -30,12 +30,15 @@ organizations:
     url: http://ucsd.edu
 education:
   courses:
-    - course: BS in Computer Science with minor in Business
-      institution: The University of British Columbia, Vancouver, BC, Canada
-      year: 2019
+    - course: C.Phil. in Computer Science
+      institution: University of California San Diego, La Jolla, CA, USA
+      year: 2024
     - course: MS in Computer Science
       institution: University of California San Diego, La Jolla, CA, USA
-      year: 2024     
+      year: 2024
+    - course: BS in Computer Science with minor in Business
+      institution: The University of British Columbia, Vancouver, BC, Canada
+      year: 2019  
 email: ""
 superuser: true
 user_groups: 
