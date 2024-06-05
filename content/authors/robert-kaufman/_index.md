@@ -1,6 +1,6 @@
 ---
 title: Robert Kaufman
-role: Ph.D. Student
+role: Ph.D. Candidate
 avatar_filename: ""
 bio: 
 weight: 40
@@ -41,7 +41,7 @@ user_groups:
 
 highlight_name: false
 ---
-Robert is a PhD student in Cognitive Science and a Human-Computer Interaction researcher in the Design Lab at University of California, San Diego. He is broadly interested in how people interact with complex information systems.
+Robert is a PhD Candidate in Cognitive Science and a Human-Computer Interaction researcher in the Design Lab at University of California, San Diego. He is broadly interested in how people interact with complex information systems.
 
 Robert's current research is focused on bridging the "trust gap" between Artificial Intelligence systems and their users in the domains of autonomous driving, healthcare, and social media. Robert has a particular interest in the role of AI explainability and communication, and his interdisciplinary research projects often aim at improving trust between people and intelligent machines using personalized and needs-based approaches.
 
