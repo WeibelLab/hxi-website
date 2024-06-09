@@ -36,7 +36,7 @@ superuser: false
 email: "v7singh@ucsd.edu"
 
 user_groups:
-- Master Students
+- Alumni
 ---
 
 Varun is a M.S./B.S. student in Computer Science at the University of California San Diego, with a minor in business. He is interested in a career in software engineering or in computer vision. During Summer 2022, Varun has been interning at Amazon Inc. as a Software Development Engineer (SDE). While at The Design Lab, his research is mainly focusing on designing eXtended Reality system for healthcare and exploring the tangible interaction metaphors and techniques for future 3D user interfaces. His past research has been published in top HCI and XR conferences such as IEEE ISMAR. 
