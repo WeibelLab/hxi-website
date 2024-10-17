@@ -47,5 +47,5 @@ user_groups:
 ---
 I'm a PhD student in Computer Science & Engineering advised by Nadir Weibel. My research interests lie at the intersection of human-computer interaction, machine learning, & reinforcement learning. I'm interested in leveraging social signal as rewards to improve machine learning systems using varying modalities. I'm also interested in XAI and the personalization of conversational agents. When I'm not working on research you can find me walking my dog around grad housing or at the local tea shop (Paru is my favorite). 
 
-For more information, feel free to visit [my website](https:aabroukh.github.io) 
+For more information, feel free to visit [my website](https://aabroukh.github.io) 
 If you are interested in my work, feel free to reach out! I'm also happy to talk or collaborate on new projects.
