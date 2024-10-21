@@ -54,6 +54,8 @@ iContour is funded by Agency for Healthcare Research and Quality (AHRQ). It is a
 
 ### Publications
 
+{{< cite page="/publication/yarmand-2024-icontourperf" view="1" >}}
+{{< cite page="/publication/yarmand-2024-icontourneeds" view="1" >}}
 {{< cite page="/publication/yarmand-2023-icontour" view="1" >}}
 {{< cite page="/publication/yarmand-2021-facilitating" view="1" >}}
 {{< cite page="/publication/yarmand-2022-evaluating" view="1" >}}
