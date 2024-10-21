@@ -1,9 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: MemoVis - A GenAI-Powered Tool for Creating Companion Reference Images for 3D Design Feedback
+title: 'MemoVis: A GenAI-Powered Tool for Creating Companion Reference Images for 3D Design Feedback'
 subtitle: 'TOCHI 2024'
-summary: '<b>TOCHI 2024</b>'
+summary: '<b>TOCHI 2024</b><br>
+Providing asynchronous feedback is a critical step in the 3D design workflow. A common approach to providing feedback is to pair textual comments with companion reference images, which helps illustrate the gist of text. Ideally, feedback providers should possess 3D and image editing skills to create reference images that can effectively describe what they have in mind. However, they often lack such skills, so they have to resort to sketches or online images which might not match well with the current 3D design. To address this, we introduce MemoVis, a text editor interface that assists feedback providers in creating reference images with generative AI driven by the feedback comments. First, a novel real-time viewpoint suggestion feature, based on a vision-language foundation model, helps feedback providers anchor a comment with a camera viewpoint. Second, given a camera viewpoint, we introduce three types of image modifiers, based on pre-trained 2D generative models, to turn a text comment into an updated version of the 3D scene from that viewpoint.'
 authors:
 - Chen Chen
 - Cuong Nguyen
