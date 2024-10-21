@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: MemoVis: A GenAI-Powered Tool for Creating Companion Reference Images for 3D Design Feedback
+title: MemoVis - A GenAI-Powered Tool for Creating Companion Reference Images for 3D Design Feedback
 subtitle: 'TOCHI 2024'
 summary: '<b>TOCHI 2024</b>'
 authors:
