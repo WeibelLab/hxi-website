@@ -12,7 +12,7 @@ design:
   columns: '2'
   
 ---
-# Human-Centered AI (Winter 2024)
+# Human-Centered AI (Winter Quarter)
 
 ### Background
 We use a specific Data Science Pipeline to drive this course, and discuss specific Human-Centered AI topics and tools related to the different steps of this pipeline. The goal is to be able to use human-centered strategies at every step of the way when developing a Data Science solution. We approach this goal on a week-by-week basis, with every week of the course focusing on a specific part of the pipeline as we outline it below. 
