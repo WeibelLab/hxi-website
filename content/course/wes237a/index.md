@@ -1,6 +1,6 @@
 ---
 title: WES 237a
-summary: Introduction to Embedded System Design (Winter 2021)
+summary: Introduction to Embedded System Design (Winter Quarter)
 authors: 
   - Nadir Weibel
 date: '2021-01-08T00:00:00Z'
