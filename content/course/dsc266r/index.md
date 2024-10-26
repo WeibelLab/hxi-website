@@ -2,7 +2,8 @@
 title: DSC 266R
 summary: Human-Centered AI (Winter Quarter)
 authors: 
-  - Aaron Broukhim, Nadir Weibel
+  - Nadir Weibel
+  - Aaron Broukhim
 date: '2024-10-17T00:00:00Z'
 
 weight: 20  # section position on page
