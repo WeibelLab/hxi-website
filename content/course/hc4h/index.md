@@ -34,4 +34,4 @@ Successful students in this class often follow up on their design projects with 
 
 
 ### More information
-See CSE 190/291 (Human-Centered Computing for Health) on Canvas: https://canvas.ucsd.edu
+See CSE 217 (Human-Centered Computing for Health) on Canvas: https://canvas.ucsd.edu
