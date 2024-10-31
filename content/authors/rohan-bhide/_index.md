@@ -34,6 +34,6 @@ superuser: false
 email: "rbhide@ucsd.edu"
 
 user_groups:
-- Alumni
+  - Masters Students (Alumni)
 ---
 

@@ -17,9 +17,9 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Alumni - Ph.D Students and Postdocs
-    - Alumni - Master Students
-    - Alumni - Undergraduate Students
+    - Ph.D Students and Postdocs (Alumni)
+    - Master Students (Alumni)
+    - Undergraduate Students (Alumni)
 
   sort_by: Params.last_name
   sort_ascending: true

@@ -19,7 +19,7 @@ organizations:
 weight: 31
 
 user_groups:
-  - Alumni - Master Students
+  - Masters Students (Alumni)
 
 ---
 

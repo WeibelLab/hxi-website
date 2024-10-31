@@ -4,7 +4,7 @@ role: CSE Postdoctoral Fellow
 
 weight: 10
 
-#avatar_filename: avatar
+avatar_filename: avatar
 social:
   - icon: envelope
     icon_pack: fas
@@ -16,7 +16,7 @@ social:
 superuser: false
 
 user_groups:
-  - Alumni - Ph.D Students and Postdocs
+  - Ph.D Students and Postdocs (Alumni)
 
 education:
   courses:
