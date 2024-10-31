@@ -3,7 +3,6 @@ title: Vivian Morais
 role: Visiting Researcher<br/> NUTES/UEPB (Brazil)
 avatar_filename: avatar
 
-
 social:
   - icon: linkedin
     icon_pack: fab
