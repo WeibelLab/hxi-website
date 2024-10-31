@@ -14,5 +14,4 @@ _build:
 user_groups:
     - Master Students (Alumni)
 
-weight: -91
 ---

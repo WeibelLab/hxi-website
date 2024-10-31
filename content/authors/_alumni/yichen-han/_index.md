@@ -3,7 +3,6 @@ title: Yichen Han
 role: MS-ECE Student @Carnegie Mellon University
 avatar_filename: avatar
 
-weight: 30
 
 organizations:
 - name: Carnegie Mellon University
@@ -40,7 +39,7 @@ superuser: false
 email: "yichenha@andrew.cmu.edu"
 
 user_groups:
-- Alumni
+    - Master Students (Alumni)
 ---
 
 Yichen Han is a Master student in Electrical and Computer Engineering of Carnegie Mellon University (Pittsburgh, PA). His research interest is combining Artificial Intelligence and Human Computer Interaction to build more trustworthy and unbiased systems. Right now he is a research assistant in the VOLI project focusing on programming with intelligent virtual assistants and data analysis.

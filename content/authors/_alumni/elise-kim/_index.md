@@ -11,5 +11,4 @@ _build:
 user_groups:
     - Undergraduate Students (Alumni)
 
-weight: -78
 ---

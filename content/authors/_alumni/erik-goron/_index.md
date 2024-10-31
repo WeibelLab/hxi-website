@@ -7,7 +7,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/erikgoron/
 
-weight: -130
 
 _build:
   render: never

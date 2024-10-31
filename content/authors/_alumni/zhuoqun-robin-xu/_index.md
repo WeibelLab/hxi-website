@@ -38,10 +38,9 @@ education:
     - course: MS in Computer Science and Engineering, emphasis in Human-Centered Design / Graphics
       institution: UC San Diego
       year: 2021
-weight: -102
 
 user_groups:
-- Alumni
+    - Master Students (Alumni)
 
 external_link: https://www.linkedin.com/in/robinxuz/
 ---

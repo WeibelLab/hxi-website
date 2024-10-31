@@ -25,8 +25,6 @@ education:
       institution: UC San Diego, La Jolla, CA, USA
       year: 2021
 
-weight: -103
-
 user_groups:
     - Master Students (Alumni)
 ---
