@@ -3,8 +3,6 @@ title: Rohan Bhide
 role: CSE Masters Student
 avatar_filename: avatar
 
-weight: 30
-
 organizations:
 - name: UC San Diego
   url: https://ucsd.edu/

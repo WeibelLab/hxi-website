@@ -33,7 +33,6 @@ education:
       institution: Xiamen University
       year: 2015
 email: ""
-weight: 45
 
 user_groups:
     - Ph.D Students (Alumni)

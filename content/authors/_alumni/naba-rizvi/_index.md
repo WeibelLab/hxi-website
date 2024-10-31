@@ -33,14 +33,13 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Alumni
+    - Ph.D Students (Alumni)
+  
 highlight_name: false
 
 _build:
   render: always
   list: always
-
-weight: -110
 
 
 ---

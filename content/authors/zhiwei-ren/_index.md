@@ -14,8 +14,6 @@ social:
     icon_pack: fab
     link: https://github.com/ZhiweiREN97
 
-weight: 32
-
 user_groups:
   - Masters Students (Alumni)
 
