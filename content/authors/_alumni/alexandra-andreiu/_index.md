@@ -12,7 +12,7 @@ _build:
   list: always
 
 user_groups:
-- Alumni
+- Alumni - Ph.D Students and Postdocs
 
 weight: -80
 ---
