@@ -21,7 +21,7 @@ education:
       institution: Universidade Federal de Sao Carlos, Sao Paulo, Brazil
       year: 2014
 
-avatar_filename: avatar
+#avatar_filename: avatar
 social:
 - icon: globe-americas
   icon_pack: fas
