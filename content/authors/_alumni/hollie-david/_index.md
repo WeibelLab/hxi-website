@@ -19,6 +19,6 @@ organizations:
 weight: 31
 
 user_groups:
-- Master Students
+- Alumni
 ---
 
