@@ -19,7 +19,7 @@ content:
   user_groups:
   - Director
   - Ph.D Students and Postdocs
-  - Master Students
+  #- Master Students
   - Undergraduate Students
 
 design:
