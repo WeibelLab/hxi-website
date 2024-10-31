@@ -20,7 +20,7 @@ content:
   - Director
   - Ph.D Students and Postdocs
   #- Master Students
-  - Undergraduate Students
+  #- Undergraduate Students
 
 design:
   show_interests: false
