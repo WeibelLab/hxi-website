@@ -21,7 +21,7 @@ content:
     - Master Students (Alumni)
     - Undergraduate Students (Alumni)
 
-  sort_by: Params.last_name
+  sort_by: Params.title
   sort_ascending: true
 
 
