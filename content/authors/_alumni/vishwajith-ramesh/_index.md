@@ -2,8 +2,6 @@
 title: Vish Ramesh
 role: NIH NLM Postdoctoral Fellow
 
-weight: 10
-
 #avatar_filename: avatar
 social:
   - icon: envelope

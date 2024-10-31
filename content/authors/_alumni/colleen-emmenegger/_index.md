@@ -14,5 +14,4 @@ _build:
 user_groups:
     - Postdocs and Senior Researchers (Alumni)
 
-weight: -101
 ---
