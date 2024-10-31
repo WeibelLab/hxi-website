@@ -14,5 +14,5 @@ _build:
   list: always
 
 user_groups:
-- Alumni
+    - Master Students (Alumni)
 ---

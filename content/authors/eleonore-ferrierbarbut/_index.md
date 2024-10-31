@@ -16,7 +16,7 @@ social:
 superuser: false
 
 user_groups:
-  - Ph.D Students and Postdocs (Alumni)
+    - Postdocs and Senior Researchers (Alumni)
 
 education:
   courses:

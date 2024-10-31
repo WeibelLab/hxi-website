@@ -21,7 +21,7 @@ social:
 superuser: false
 
 user_groups:
-- Alumni
+    - Postdocs and Senior Researchers (Alumni)
 
 education:
   courses:
