@@ -16,6 +16,12 @@ organizations:
   - name: Human-Centered eXtended Intelligence Lab
     url: /
 
+
+_build:
+  render: never
+  list: always
+
+
 user_groups:
   - Masters Students (Alumni)
 

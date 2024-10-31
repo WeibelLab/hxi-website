@@ -14,6 +14,10 @@ social:
     icon_pack: fab
     link: https://github.com/ZhiweiREN97
 
+_build:
+  render: never
+  list: always
+
 user_groups:
   - Masters Students (Alumni)
 

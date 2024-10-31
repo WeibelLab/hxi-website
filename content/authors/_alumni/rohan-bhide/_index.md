@@ -31,6 +31,10 @@ social:
 superuser: false
 email: "rbhide@ucsd.edu"
 
+_build:
+  render: never
+  list: always
+
 user_groups:
   - Masters Students (Alumni)
 ---
