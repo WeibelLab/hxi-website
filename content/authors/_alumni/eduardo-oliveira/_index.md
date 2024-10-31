@@ -2,8 +2,6 @@
 title: Eduardo Oliveira
 role: Visiting Researcher<br/> Universidad Estadual de Paraiba (Brazil)
 
-avatar_filename: avatar
-
 
 social:
   - icon: linkedin

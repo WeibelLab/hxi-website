@@ -2,7 +2,6 @@
 title: Eléonore Ferrier-Barbut
 role: CSE Postdoctoral Fellow
 
-avatar_filename: avatar
 social:
   - icon: envelope
     icon_pack: fas

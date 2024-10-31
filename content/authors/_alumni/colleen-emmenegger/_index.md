@@ -2,8 +2,6 @@
 title: Colleen Emmenegger
 role: Senior Researcher</br> UCSD DesignLab
 
-avatar_filename: avatar
-
 social:
   - icon: linkedin
     icon_pack: fab
