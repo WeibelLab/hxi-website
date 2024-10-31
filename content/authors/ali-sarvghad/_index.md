@@ -2,6 +2,8 @@
 title: Ali Sarvghad
 role: Postdoctoral Researcher
 
+avatar_filename: avatar
+
 social:
   - icon: linkedin
     icon_pack: fab
