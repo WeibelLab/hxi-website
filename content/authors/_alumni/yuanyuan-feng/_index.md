@@ -14,5 +14,4 @@ _build:
 user_groups:
     - Ph.D Students (Alumni)
 
-weight: -99
 ---

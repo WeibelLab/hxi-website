@@ -3,7 +3,7 @@ title: Janet Johnson
 role: Ph.D. Candidate
 avatar_filename: ""
 bio: 
-weight: 40
+
 interests:
   - Human-Computer Interaction
   - Human-Centered Design

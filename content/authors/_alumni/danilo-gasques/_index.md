@@ -2,8 +2,6 @@
 title: Danilo Gasques
 role: Ph.D. Candidate
 
-weight: 30
-
 organizations:
 - name: UC San Diego
   url: https://ucsd.edu/
