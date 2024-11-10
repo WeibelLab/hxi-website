@@ -14,6 +14,9 @@ organizations:
     
 education:
   courses:
+    - course: Ph.D. in Computer Science
+      institution: University of California San Diego, La Jolla, CA, USA
+      year: (Expect) 2025
     - course: C.Phil. in Computer Science
       institution: University of California San Diego, La Jolla, CA, USA
       year: 2023
@@ -37,7 +40,7 @@ social:
     link: https://twitter.com/chen_ucsd
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=z--wnsUAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=z--wnsUAAAAJ
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Chen-Chen-545
@@ -57,10 +60,6 @@ user_groups:
 ---
 I’m a Ph.D. candidate in Computer Science from UC San Diego advised by Prof. Nadir Weibel. My thesis committee also includes Prof. James D. Hollan, Prof. Haijun Xia, Prof. William G. Grisworld, Prof. Yang Zhang and Dr. Cuong Nguyen. I am affiliated with the Department of Computer Science and Engineering, The Design Lab, as well as Qualcomm Institute @CalIT2.
 
-My research interest is on Human-Computer Interactions (HCI), Accessibility (A11y) and Healthcare. My thesis aims to **transform today's 2D document interactions into an immersive information experience**.
+My research interest is on Human-Computer Interactions (HCI), Accessibility (A11y) and Healthcare. My thesis aims to **augment content interaction experiences with 3D, within 3D, and for 3D**. These 3D experiences encompass those **rendered on standard 2D displays**, and those **experienced through emerging head-mounted displays**.
 
-I am current a research intern at Microsoft Research (EPIC). During 2022 to 2024, I was a research scientist intern at Adobe Research, working with Dr. Cuong Nguyen, Dr. Jane Hoffswell, Dr. Jennifer Healey, Dr. Trung Bui, Dr. Thibault Groueix and Dr. Vova Kim. During 2016 to 2018, I was a research assistant and associate at Carnegie Mellon University, working with Prof. Yuvraj Agarwal, Prof. Chris Harrison, Prof. Yang Zhang (now @UCLA), Prof. Anind K. Dey (now @UW), and Dr. Gierad Laput (now @Apple). In summer 2015, I was a research intern at UoN's Power Electronics and Machines Center, working with Prof. Mark Sumner, Dr. Richard Davies, and Dr. Seksak Pholboon.
-
-I received my M.S. degree in Electrical and Computer Engineering from Carnegie Mellon University (Pittsburgh, PA), and a B.Eng. degree with first class honor in Electrical and Electronic Engineering from the University of Nottingham (Nottingham, UK).
-
-For more information, feel free to visit [my website](https://chen-chen.me) If you are interested in my work, feel free to email me!
+I am a former researcher at Microsoft Research, Adobe Research and Carnegie Mellon University. For more information, feel free to visit [my website](https://chen-chen.me). If you are interested in my work, feel free to email me!
