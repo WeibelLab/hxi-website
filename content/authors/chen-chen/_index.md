@@ -20,6 +20,9 @@ education:
     - course: C.Phil. in Computer Science
       institution: University of California San Diego, La Jolla, CA, USA
       year: 2023
+    - course: Certificate, Student-Centered College Teaching and Course Design
+      institution: Teaching + Learning Commons, University of California San Diego, La Jolla, CA, USA
+      year: 2023
     - course: M.S. in Electrical and Computer Engineering
       institution: Carnegie Mellon University, Pittsburgh, PA, USA
       year: 2017
