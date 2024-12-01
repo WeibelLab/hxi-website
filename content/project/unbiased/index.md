@@ -47,7 +47,7 @@ weight: 30
 
 Healthcare bias – based on patients’ race, gender, sexual orientation – and other factors lead to health disparities, such as lack of appropriate treatment and inadequate pain support. Such biases are often unintentional and “hidden” in communication between patients and doctors.
 
-Existing approaches to address hidden bias are limited because they are removed from actual patient-doctor interactions in which bias hides. Technology offers an opportunity to design new approaches that can make hidden bias more visible and thus addressable.
+Existing approaches to address hidden bias are limited because they are removed from actual patient-doctor interactions in which bias hides. Technology offers an opportunity to design new approaches that can make den bias more visible and thus addressable.
 
 We are investigating a new approach to address hidden healthcare bias by improving patient-doctor communication in primary care. This approach monitors body language for signs of bias and provides feedback to raise awareness of patients and doctors for opportunities to adjust their communication style.
 
@@ -73,5 +73,10 @@ UnBIASED ia a 5-year project, funded by the National Library of Medicine (NLMR01
 
 ### Publications
 
+{{< cite page="/publication/chen-2024-toward" view="1" >}}
+{{< cite page="/publication/bedmutha-2024-jamia-open" view="1" >}}
+{{< cite page="/publication/bascom-2024-designing" view="1" >}}
+{{< cite page="/publication/bedmutha-2024-conversense" view="1" >}}
+{{< cite page="/publication/yang-2023-imagining" view="1" >}}
 {{< cite page="/publication/sabin-2021-developing" view="1" >}} 
 {{< cite page="/publication/rick-2020-cognitive" view="1" >}} 

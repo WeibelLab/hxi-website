@@ -4,7 +4,7 @@
 title: 'ConverSense: An Automated Approach to Assess Patient-Provider Interactions using Social Signals'
 subtitle: 'CHI 2024'
 summary: '<b>CHI 2024</b><br>
-Patient-provider communication influences patient health outcomes, and analyzing such communication could help providers identify opportunities for improvement, leading to better care. Interpersonal communication can be assessed through “social-signals” expressed in non-verbal, vocal behaviors like interruptions, turn-taking, and pitch. To automate this assessment, we introduce a machine-learning pipeline that ingests audio-streams of conversations and tracks the magnitude of four social-signals: dominance, interactivity, engagement, and warmth. This pipeline is embedded into ConverSense, a web-application for providers to visualize their communication patterns, both within and across visits. Our user study with 5 clinicians and 10 patient visits demonstrates ConverSense’s potential to provide feedback on communication challenges, as well as the need for this feedback to be contextualized within the specific underlying visit and patient interaction. Through this novel approach that uses data-driven self-reflection, ConverSense can help providers improve their communication with patients to deliver improved quality of care.'
+Analyzing patient-provider communication through social signals like dominance, interactivity, engagement, and warmth can help improve care by identifying opportunities for better interactions. We introduce a machine-learning pipeline embedded in ConverSense, a web application that visualizes communication patterns across visits. A user study with clinicians and patients highlights its potential to provide actionable, context-specific feedback for enhancing communication quality and patient outcomes.'
 authors:
 - Manas Bedmutha
 - Anuujin Tsedenbal
@@ -19,7 +19,7 @@ authors:
 - Wanda Pratt
 - Andrea Hartzler
 - Nadir Weibel
-doi: 10.1145/3613904
+doi: 10.1145/3613904.3641998
 tags:
 - CHI
 - 2024
