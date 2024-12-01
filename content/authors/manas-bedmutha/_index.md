@@ -23,6 +23,12 @@ education:
       year: 2020
 
 avatar_filename: avatar
+interests:
+  - Human Computer Interaction
+  - Machine Learning
+  - Signal processing
+  - Wearable and Ubiquitous Computing
+  - Health
 social:
 - icon: globe-americas
   icon_pack: fas
@@ -49,12 +55,13 @@ user_groups:
 - Ph.D Students and Postdocs
 ---
 
-Hello! My name is Manas Bedmutha and I am a <b>Ph.D. student in Computer Science</b> at UC San Diego (<a href="https://hxi.ucsd.edu/">HXI Lab</a> / <a href="https://design.ucsd.edu">Design Lab</a>).
+Hello! I am Manas Bedmutha, a <b>Ph.D. student in Computer Science</b> at UC San Diego (<a href="https://hxi.ucsd.edu/">HXI Lab</a> / <a href="https://design.ucsd.edu">Design Lab</a>).
 
-In my research, I use signal processing and machine learning on ubiquitous devices to make sense of the world. My work also closely overlaps with UX, Design and Social Sciences. My current focus lies in applying human centered technologies on problems in healthcare, especially for accessibility</a>.
+In my research, I use signal processing and machine learning on ubiquitous devices to interpret and interact with user behaviors. My current focus lies on human-AI interaction with the goal of making AI accessible and trustworthy through novel sensing and interaction ideas.
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 As of 2022, I am open to the job market for opportunities in mobile health sensing, machine learning and software engineering
 {{% /callout %}}
 
 Learn more about me at my website: <b><a href="https://mbedmutha.github.io">https://mbedmutha.github.io</a>
+ -->
