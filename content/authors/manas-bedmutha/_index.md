@@ -59,6 +59,8 @@ Hello! I am Manas Bedmutha, a <b>Ph.D. student in Computer Science</b> at UC San
 
 In my research, I use signal processing and machine learning on ubiquitous devices to interpret and interact with user behaviors. My current focus lies on human-AI interaction with the goal of making AI accessible and trustworthy through novel sensing and interaction ideas.
 
+Please find my CV <a href="https://drive.google.com/file/d/1otMZYBnnLAuI1xuDd-cA1clBNcuj7BaK/view?usp=share_link">here</a>.
+
 <!-- {{% callout note %}}
 As of 2022, I am open to the job market for opportunities in mobile health sensing, machine learning and software engineering
 {{% /callout %}}
