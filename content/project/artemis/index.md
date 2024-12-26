@@ -33,7 +33,7 @@ links: null
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'https://youtu.be/gJoyjm6Ytlc'
+url_video: 'https://www.youtube.com/watch?v=w1u3MKRXWdI'
 slides: ''
 lastmod: '2021-09-21T00:21:04.720Z'
 design:
@@ -57,7 +57,7 @@ In ARTEMIS, expert surgeons in remote sites use *Virtual Reality* to access a 3D
 *More Info here:* http://artemis.surgery
 
 
-{{< youtube gJoyjm6Ytlc >}}
+{{< youtube w1u3MKRXWdI >}}
 
 
 ------
