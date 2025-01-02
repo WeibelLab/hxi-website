@@ -49,7 +49,7 @@ social:
     link: https://www.researchgate.net/profile/Chen-Chen-545
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/chenchenece/
+    link: https://www.linkedin.com/in/chenchenucsd/
   - icon: github
     icon_pack: fab
     link: https://github.com/chenchenece
