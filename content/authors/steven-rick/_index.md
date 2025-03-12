@@ -41,7 +41,7 @@ education:
 superuser: false
 
 user_groups:
-- Ph.D Students and Postdocs
+- Ph.D Students (Alumni)
 ---
 Steven Rick is a Ph.D. Candidate in the Department of Computer Science and Engineering at UC San Diego. His dissertation work focuses on sensing nonverbal communication behavior between doctors and patients. Steven's research lives more generally at the intersection of human behavior, technology, and design.
 
