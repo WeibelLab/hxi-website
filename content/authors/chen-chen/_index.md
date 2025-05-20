@@ -31,6 +31,12 @@ education:
       year: 2016
 
 avatar_filename: avatar
+interests:
+  - Human-Computer Interaction
+  - eXtended Reality
+  - Human-AI Interaction
+  - Wearable and Ubiquitous Computing
+  - Tool Design for Accessibility, Aging and Health
 social:
   - icon: globe-americas
     icon_pack: fas
@@ -64,7 +70,5 @@ user_groups:
 I am an incoming Assistant Professor 🤓 at the Knight Foundation School of Computing and Information Sciences 💻, part of the College of Engineering and Computing at Florida International University 🐅 in Miami 🌴 starting Fall 2025.
 
 I will complete my Ph.D. in Computer Science 💻 from the Department of Computer Science and Engineering and The Design Lab at UC San Diego 🔱. I was a former researcher at Microsoft Research, Adobe Research and Carnegie Mellon University 🐕. My research has been recognized with a Distinguished Paper Award from ACM IMWUT, an Honorable Mention Award from ACM CHI, a Best Poster Runner-Up Award from ACM SenSys, the BP Scholarship, and has been selected as a finalist for the Qualcomm Innovation Fellowship and the Adobe Research Fellowship. I received my M.S. in Electrical and Computer Engineering from Carnegie Mellon University, and a B.Eng. (First Class, Hons.) in Electrical and Electronic Engineering from the University of Nottingham.
-
-I work on Human-Computer Interaction (HCI) research, with primary focus on eXtended Reality (XR), Human-AI interaction (HAX), Creativity Support Tools, as well as Accessibility, Aging and Health.
 
 For more information, feel free to visit [my website](https://chen-chen.me). If you are interested in my work, feel free to email me!
