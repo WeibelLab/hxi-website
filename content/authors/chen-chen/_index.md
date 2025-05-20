@@ -52,7 +52,7 @@ social:
     link: https://www.linkedin.com/in/chenchenucsd/
   - icon: github
     icon_pack: fab
-    link: https://github.com/chenchenece
+    link: https://github.com/chenchen-hci
 
 superuser: false
 email: "chenchen@ucsd.edu"
@@ -61,8 +61,10 @@ user_groups:
 - Ph.D Students and Postdocs
 
 ---
-I’m a Ph.D. candidate in Computer Science from UC San Diego advised by Prof. Nadir Weibel. My thesis committee also includes Prof. James D. Hollan, Prof. Haijun Xia, Prof. William G. Grisworld, Prof. Yang Zhang and Dr. Cuong Nguyen. I am affiliated with the Department of Computer Science and Engineering, The Design Lab, as well as Qualcomm Institute @CalIT2.
+I am an incoming Assistant Professor 🤓 at the Knight Foundation School of Computing and Information Sciences 💻, part of the College of Engineering and Computing at Florida International University 🐅 in Miami 🌴 starting Fall 2025.
 
-My research interest is on Human-Computer Interactions (HCI), Accessibility (A11y) and Healthcare. My thesis aims to **augment content interaction experiences with 3D, within 3D, and for 3D**. These 3D experiences encompass those **rendered on standard 2D displays**, and those **experienced through emerging head-mounted displays**.
+I will complete my Ph.D. in Computer Science 💻 from the Department of Computer Science and Engineering and The Design Lab at UC San Diego 🔱. I was a former researcher at Microsoft Research, Adobe Research and Carnegie Mellon University 🐕. My research has been recognized with a Distinguished Paper Award from ACM IMWUT, an Honorable Mention Award from ACM CHI, a Best Poster Runner-Up Award from ACM SenSys, the BP Scholarship, and has been selected as a finalist for the Qualcomm Innovation Fellowship and the Adobe Research Fellowship. I received my M.S. in Electrical and Computer Engineering from Carnegie Mellon University, and a B.Eng. (First Class, Hons.) in Electrical and Electronic Engineering from the University of Nottingham.
 
-I am a former researcher at Microsoft Research, Adobe Research and Carnegie Mellon University. For more information, feel free to visit [my website](https://chen-chen.me). If you are interested in my work, feel free to email me!
+I work on Human-Computer Interaction (HCI) research, with primary focus on eXtended Reality (XR), Human-AI interaction (HAX), Creativity Support Tools, as well as Accessibility, Aging and Health.
+
+For more information, feel free to visit [my website](https://chen-chen.me). If you are interested in my work, feel free to email me!
