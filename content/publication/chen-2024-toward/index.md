@@ -17,8 +17,7 @@ authors:
 - Trevor Cohen 
 links:
   - icon_pack: fab
-    icon: book
-    name: PMC
+    name: PubMed
     url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12099337/'
 tags:
 - AMIA
