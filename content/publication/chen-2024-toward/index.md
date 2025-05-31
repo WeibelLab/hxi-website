@@ -15,7 +15,7 @@ authors:
 - Nadir Weibel
 - Andrea Hartzler
 - Trevor Cohen 
-doi: https://pmc.ncbi.nlm.nih.gov/articles/PMC12099337/
+link: https://pmc.ncbi.nlm.nih.gov/articles/PMC12099337/
 tags:
 - AMIA
 - 2024
