@@ -3,7 +3,7 @@
 
 title: '“I’d be watching him contour till 10 o’clock at night”: Understanding Tensions between Teaching Methods and Learning Needs in Healthcare Apprenticeship'
 subtitle: 'CHI 2024'
-summary: '<b>CHI 2024</b><br/>'
+summary: '<b>CHI 2024</b><br/>Through interviews, workshops, and a global survey, this study uncovered gaps between how contouring is taught and what residents need to learn effectively. While faculty often focus on efficiency, residents seek timely, varied, and cognitively rich feedback. Key challenges include limited support for sharing reasoning and balancing clinical with teaching responsibilities. Sociotechnical solutions are proposed to bridge these gaps, such as using senior learners for peer teaching and capturing cognitive insights through in-situ video feedback.'
 authors:
 - Matin Yarmand
 - Chen Chen

@@ -3,7 +3,7 @@
 
 title: Screen or No Screen? Lessons Learnt from a Real-World Deployment Study of Using Voice Assistants With and Without Touchscreen for Older Adults
 subtitle: 'ASSETS 2023'
-summary: '<b>ASSETS 2023</b><br/>'
+summary: '<b>ASSETS 2023</b><br/>A 40-day deployment study with independently living older adults explored how built-in touchscreens on voice assistants like the Echo Show support use and setup. While participants valued visual feedback, they still preferred speaking over touching. Findings highlight the importance of designing senior-friendly voice-first interfaces that blend multimodal interaction with intuitive, accessible features for healthcare and daily support.'
 authors:
 - Chen Chen
 - Ella Lifset
