@@ -3,7 +3,7 @@
 
 title: 'Paperproof: a paper-digital proof-editing system'
 subtitle: ''
-summary: ''
+summary: '<b>CHI 2008</b><br/>Paperproof enables capturing handwritten proof edits on paper and synchronizing them with digital documents, streamlining the proofreading process by integrating paper annotations into electronic workflows.'
 authors:
 - Nadir Weibel
 - Adriana Ispas
