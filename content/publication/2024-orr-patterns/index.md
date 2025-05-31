@@ -7,7 +7,7 @@ authors:
 - EAM Duran
 - B Wang
 - M Yarmand
-- LA D''Souza
+- LA D'Souza
 - N Weibel
 - EF Gillespie
 - JD Murphy
