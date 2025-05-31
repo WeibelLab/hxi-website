@@ -11,6 +11,7 @@ authors:
 - Monica Tentori
 - Kristof Van Laerhoven
 - Nadir Weibel
+doi: 10.1145/3689820
 tags:
 - Communications of the ACM
 - 2025

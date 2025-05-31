@@ -8,6 +8,7 @@ authors:
 - Kevin Patrick
 - Heidi Rataj
 - Nadir Weibel
+doi: 10.1145/3675094.3678422
 tags:
 - UbiComp
 - 2024

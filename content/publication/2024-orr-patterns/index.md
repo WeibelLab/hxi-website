@@ -12,6 +12,7 @@ authors:
 - EF Gillespie
 - JD Murphy
 - M Sherer
+doi: 10.1016/j.ijrobp.2024.07.2199
 tags:
 - IJROBP
 - 2024

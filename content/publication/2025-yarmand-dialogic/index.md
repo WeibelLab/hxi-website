@@ -9,6 +9,7 @@ authors:
 - Eric Hekler
 - Nadir Weibel
 - April Wang
+doi: 10.1145/3706598.3713698
 tags:
 - CHI
 - 2025

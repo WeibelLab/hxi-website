@@ -6,6 +6,7 @@ authors:
 - Matin Yarmand
 - Haowei Li
 - Nadir Weibel
+doi: 10.1145/3706598.3713995
 tags:
 - CHI
 - 2025

@@ -7,6 +7,7 @@ authors:
 - Aaron Broukhim
 - David Kirsh
 - Nadir Weibel
+doi: 10.1145/3706598.3713088
 tags:
 - CHI
 - 2025

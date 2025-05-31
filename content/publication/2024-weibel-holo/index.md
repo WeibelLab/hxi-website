@@ -11,7 +11,7 @@ authors:
 - Teri McQuaid
 - Emily St Germain
 - Brett C Meyer
-doi: 
+doi: 10.1089/tmj.2024.0229
 tags:
 - Telemedicine
 - 2024

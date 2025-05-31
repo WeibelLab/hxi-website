@@ -20,7 +20,7 @@ authors:
 - Dawn M Meyer
 - Thomas M Hemmen
 - Brett C Meyer
-doi: 
+doi: 10.1161/SVIN.124.001713
 tags:
 - Stroke
 - 2025

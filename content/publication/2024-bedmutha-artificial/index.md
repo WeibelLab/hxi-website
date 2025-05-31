@@ -13,7 +13,10 @@ authors:
 - Sabrina Mangal
 - Brian R. Wood
 - Janice Sabin
-- others
+- Wanda Pratt
+- Nadir Weibel
+- Andrea L Hartzler
+doi: 10.1093/jamiaopen/ooae106 
 tags:
 - JAMIA
 - 2024

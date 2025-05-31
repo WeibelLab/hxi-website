@@ -8,6 +8,7 @@ authors:
 - Manas Satish Bedmutha
 - David Kirsh
 - Nadir Weibel
+doi: 10.1145/3706598.3713188
 tags:
 - CHI
 - 2025
