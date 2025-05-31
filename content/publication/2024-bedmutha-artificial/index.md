@@ -26,7 +26,7 @@ image:
 projects: []
 publishDate: '2024-01-01T00:00:00Z'
 publication_types:
-- '1'
+- '2'
 abstract: 'Artificial intelligence-generated feedback on social signals in patient--provider communication: technical performance, feedback usability, and impact'
 publication: '*JAMIA Open*'
 ---
