@@ -1,7 +1,7 @@
 ---
 title: 'Artificial intelligence-generated feedback on social signals in patient--provider communication: technical performance, feedback usability, and impact'
 subtitle: 'JAMIA Open'
-summary: 'This study evaluates an AI system that provides automated feedback on social communication during primary care visits. By analyzing real clinical conversations, the system detects social signals and offers targeted feedback to clinicians. Results show that the feedback is technically reliable, usable, and has the potential to improve communication skills and patient care.'
+summary: '<b>JAMIA Open 2024</b><br>This study evaluates an AI system that provides automated feedback on social communication during primary care visits. By analyzing real clinical conversations, the system detects social signals and offers targeted feedback to clinicians. Results show that the feedback is technically reliable, usable, and has the potential to improve communication skills and patient care.'
 authors:
 - Manas Satish Bedmutha
 - Emily Bascom
