@@ -1,7 +1,7 @@
 ---
 title: 'Holo-Stroke: Assessing for Immersive Stroke Care Through Stroke Hologram Teleportation'
 subtitle: 'Telemedicine and e-Health 2024'
-summary: 'Telemedicine and e-Health 2024 — We introduce Holo-Stroke, an immersive telehealth system that uses holographic projection to support stroke assessment.'
+summary: 'Augmented reality enables the wearer to see both their physical environment and virtual objects. Holograms could allow 3D video of providers to be transmitted to distant sites, allowing patients to interact with virtual providers as if they are in the same physical space. Our aim was to determine if Tele-Stroke augmented with Holo-Stroke, compared with Tele-Stroke alone, could improve satisfaction and perception of immersion for the patient.'
 authors:
 - Nadir Weibel
 - Ben Alwood
