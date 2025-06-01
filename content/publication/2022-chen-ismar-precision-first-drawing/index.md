@@ -3,7 +3,7 @@
 
 title: Investigating Input Modality and Task Geometry on Precision–first 3D Drawing in Virtual Reality
 subtitle: 'ISMAR 2022'
-summary: '<b>ISMAR 2022</b><br/>Study of input modality and geometry on precision 3D drawing accuracy in VR.'
+summary: '<b>ISMAR 2022</b><br/>Study on tracing non-planar 3-D curves in VR shows controllers or stylus pens improve accuracy by about 30 % over bare-hand input, with highest precision on high-curvature paths oriented left-right or forward-backward—insights that guide the design of precise 3-D drawing tools.'
 authors:
 - Chen Chen
 - Matin Yarmand

@@ -3,7 +3,7 @@
 
 title: 'Design and Development of a Training and Immediate Feedback Tool to Support Healthcare Apprenticeship'
 subtitle: 'CHI 2023'
-summary: '<b>CHI 2023</b><br/>'
+summary: '<b>CHI 2023</b><br/>We present a prototype platform for tumor-contouring training that gives radiation-oncology residents overlap scores, visual cues for over- or under-contoured regions, and toxicity forecasts, enriching apprenticeship learning with timely, detailed feedback.'
 authors:
 - Matin Yarmand
 - Borui Wang

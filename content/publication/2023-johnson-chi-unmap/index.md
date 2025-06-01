@@ -3,7 +3,7 @@
 
 title: 'UnMapped: Leveraging Experts’ Situated Experiences to Ease Remote Guidance in Collaborative Mixed Reality'
 subtitle: 'CHI 2023'
-summary: '<b>CHI 2023</b><br/>'
+summary: '<b>CHI 2023</b><br/>UnMapped merges a live 3-D “window” into the novice’s scene with a static 3-D replica of the expert’s own desk, letting mentors anchor instructions to familiar spatial landmarks. Compared with fully immersive views, this hybrid layout sped up remote guidance, reduced communication overhead, and eased expert workload.'
 authors:
 - Janet Johnson
 - Tommy Sharkey

@@ -3,7 +3,7 @@
 
 title: Mites - Design and Deployment of a General-Purpose Sensing Infrastructure for Buildings
 subtitle: 'IMWUT 2023'
-summary: '<b>IMWUT 2023</b><br/>Mites sensor is a platform that monitors buildings’ environment, activity, and energy with year‑long insights.'
+summary: '<b>IMWUT 2023</b><br/>Mites is a scalable hardware–software platform that deploys hundreds of privacy-aware, high-fidelity sensors across entire buildings—demonstrated with 314 nodes over five years in a five-story campus hall—to power diverse, machine-learning smart-building applications.'
 authors:
 - Sudershan Boovaraghavan
 - Chen Chen 

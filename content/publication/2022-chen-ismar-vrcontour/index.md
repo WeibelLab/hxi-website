@@ -3,7 +3,7 @@
 
 title: VRContour - Bringing Contour Delineations of Medical Structures Into Virtual Reality
 subtitle: 'ISMAR 2022'
-summary: '<b>ISMAR 2022</b><br/>VRContour brings tumor delineation into immersive VR, improving spatial accuracy.'
+summary: '<b>ISMAR 2022</b><br/>VRContour moves radiotherapy contouring from 2-D monitors into immersive VR—combining a tracked tablet with a VR stylus—to let clinicians manipulate full 3-D anatomy, boosting precision and cutting mental load and frustration in a within-subject study of eight users.'
 authors:
 - Chen Chen
 - Matin Yarmand
