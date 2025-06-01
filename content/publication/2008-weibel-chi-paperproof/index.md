@@ -9,7 +9,7 @@ authors:
 - Adriana Ispas
 - Beat Signer
 - Moira C Norrie
-tag: 10.1145/1358628.1358682
+doi: 10.1145/1358628.1358682
 tags: []
 categories: []
 date: '2008-01-01'
