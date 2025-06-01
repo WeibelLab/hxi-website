@@ -3,7 +3,7 @@
 
 title: A systematic approach to the development of e-commerce sites for mass customization
 subtitle: ''
-summary: ''
+summary: '<b>IEEE e-TEC 2005</b><br/>Presents a step-by-step methodology for building e-commerce sites that support mass-customized products, outlining design principles, workflow integration, and implementation guidelines.'
 authors:
 - Andrea Lombardoni
 - Moira Norrie
