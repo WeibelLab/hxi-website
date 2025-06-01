@@ -3,8 +3,7 @@
 
 title: Exploring Needs and Design Opportunities for Virtual Reality-based Contour Delineations of Medical Structures
 subtitle: 'EICS 2022'
-summary: '<b>EICS 2022</b><br/>Clinician interviews reveal design needs for immersive VR contouring workflows.'
- We present an exploratory study that uses iterative design to understand needs and opportunities to bring contour delineation into an immersive 3D space, such as the one enabled by today’s head-mounted VR displays'
+summary: '<b>EICS 2022</b><br/>We present an exploratory study that uses iterative design to understand needs and opportunities to bring contour delineation into an immersive 3D space, such as the one enabled by today’s head-mounted VR displays'
 authors:
 - Chen Chen
 - Matin Yarmand
