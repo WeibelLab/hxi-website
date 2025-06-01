@@ -3,8 +3,7 @@
 
 title: PaperToPlace - Transforming Instruction Documents into Spatialized and Context-Aware Mixed Reality Experiences
 subtitle: 'UIST 2023'
-summary: '<b>UIST 2023</b><br/>Transforms paper instructions into spatial MR experiences anchored in the workspace.'
- Paper instructions are a mainstream medium for sharing knowledge. However, consuming such instructions and translating them into activities can be inefficient due to the lack of connectivity with the physical environment. PaperToPlace is a novel workflow comprising an authoring pipeline, which allows the authors to rapidly transform and spatialize existing paper instructions into an MR experience, and a consumption pipeline, which computationally places each instruction step at an optimal location that is easy to read and does not occlude key interaction areas. This is a collaborative project with Adobe Research.'
+summary: '<b>UIST 2023</b><br/>PaperToPlace is a novel workflow comprising an authoring pipeline, which allows the authors to rapidly transform and spatialize existing paper instructions into an MR experience, and a consumption pipeline, which computationally places each instruction step at an optimal location that is easy to read and does not occlude key interaction areas.'
 authors:
 - Chen Chen
 - Cuong Nguyen

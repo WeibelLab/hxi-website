@@ -3,8 +3,7 @@
 
 title: Embodied Exploration - Facilitating Remote Accessibility Assessment for Wheelchair Users with Virtual Reality
 subtitle: 'ASSETS 2023'
-summary: '<b>ASSETS 2023</b><br/>VR tool lets wheelchair users remotely assess physical environments for accessibility.'
- Assessing accessibility for wheelchair users can be challenging, due to lack of accessibility details needed for individual users. Embodied Exploration is a VR technique to deliver the experience of a physical visit while keeping the convenience of remote assessment. Embodied Exploration allows wheelchair users to explore high-fidelity digital replicas of physical environments with themselves embodied by avatars, leveraging the increasingly affordable VR headsets.'
+summary: '<b>ASSETS 2023</b><br/>Assessing accessibility for wheelchair users can be challenging, due to lack of accessibility details needed for individual users. Embodied Exploration is a VR technique to deliver the experience of a physical visit while keeping the convenience of remote assessment. Embodied Exploration allows wheelchair users to explore high-fidelity digital replicas of physical environments with themselves embodied by avatars, leveraging the increasingly affordable VR headsets.'
 authors:
 - Siyou Pei
 - Alexander Chen
