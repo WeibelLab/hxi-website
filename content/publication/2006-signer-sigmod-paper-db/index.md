@@ -11,6 +11,7 @@ authors:
 - Rudi Belotti
 - Corsin Decurtins
 - Nadir Weibel
+doi: 10.1145/1142473.1142581
 tags: []
 categories: []
 date: '2006-01-01'

@@ -9,6 +9,7 @@ authors:
 - Moira C Norrie
 - Beat Signer
 - Nadir Weibel
+doi: 10.1109/AXMEDIS.2007.22
 tags: []
 categories: []
 date: '2007-01-01'

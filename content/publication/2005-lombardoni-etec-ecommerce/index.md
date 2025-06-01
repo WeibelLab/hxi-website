@@ -10,6 +10,7 @@ authors:
 - Nadir Weibel
 - Axel Vogelsang
 - Mathias Althaus
+doi: 10.1109/EEE.2005.22
 tags: []
 categories: []
 date: '2005-01-01'

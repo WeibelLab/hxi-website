@@ -9,6 +9,7 @@ authors:
 - Moira C Norrie
 - Elke Reuss
 - Nadir Weibel
+doi: 10.1049/cp:20081104
 tags: []
 categories: []
 date: '2008-01-01'

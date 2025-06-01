@@ -8,6 +8,7 @@ authors:
 - Nadir Weibel
 - Moira C Norrie
 - Beat Signer
+doi: 10.1145/1284420.1284428
 tags: []
 categories: []
 date: '2007-01-01'
