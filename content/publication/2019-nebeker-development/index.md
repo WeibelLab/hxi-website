@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: DEVELOPMENT OF A DECISION-MAKING CHECKLIST TOOL TO SUPPORT SELECTING TECHNOLOGY
-  IN DIGITAL HEALTH RESEARCH
+title: 'Development Of a Decision-Making Checklist Tool To Support Selecting Technology In Digital Health Research'
 subtitle: ''
 summary: ''
 authors:
