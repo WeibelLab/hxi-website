@@ -3,7 +3,7 @@
 
 title: Context-aware platform for mobile data management
 subtitle: ''
-summary: '<b>WiNet 2007</b><br/>Context‑aware platform adapts mobile data management to location and network conditions.'
+summary: '<b>WiNet 2007</b><br/>Platform integrating context sensing, middleware, and adaptive query processing to deliver location- and context-aware mobile database services that optimize data retrieval based on user’s environment and device capabilities.'
 authors:
 - Moira C Norrie
 - Beat Signer

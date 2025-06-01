@@ -3,7 +3,7 @@
 
 title: An integrative approach to understanding flight crew activity
 subtitle: ''
-summary: ''
+summary: '<b>JCEDM 2013</b><br/>Multimodal study combines digital pens, video, and cockpit instrumentation to analyze pilot decision processes during flight. By synchronizing pen-based notes with audio-video and flight data, the approach reveals patterns of communication and workload. Findings inform design of cockpit interfaces to enhance situational awareness and reduce errors.'
 authors:
 - Edwin Hutchins
 - Nadir Weibel

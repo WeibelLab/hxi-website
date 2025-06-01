@@ -3,7 +3,7 @@
 
 title: A pen-based toolkit for authoring collaborative language activities
 subtitle: ''
-summary: ''
+summary: '<b>CSCW 2012</b><br/>Pen-based toolkit enables educators to create collaborative language-learning exercises by combining paper worksheets with digital pens, automatically syncing handwritten responses to shared tablets. Instructors define prompts on paper; student answers are captured digitally for group review, fostering interactive peer feedback. Usability tests show increased engagement and seamless transition between analog and digital environments.'
 authors:
 - Anne Marie Piper
 - Nadir Weibel

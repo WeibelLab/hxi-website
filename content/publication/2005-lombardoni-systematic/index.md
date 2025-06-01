@@ -3,7 +3,7 @@
 
 title: A systematic approach to the development of e-commerce sites for mass customization
 subtitle: ''
-summary: '<b>e-TEC 2005</b><br/>We introduce a systematic design methodology to streamline the creation of complex, highly-customizable e-commerce sites; an accompanying tool converts a product’s attribute model into a complete web storefront, illustrated by building a site for made-to-order T-shirts..'
+summary: '<b>e-TEC 2005</b><br/>A systematic methodology guides design of complex, customizable e-commerce sites by modeling product attributes and generating the finished online store, demonstrated through a made-to-order T-shirt case study.'
 authors:
 - Andrea Lombardoni
 - Moira Norrie
@@ -34,7 +34,7 @@ projects: []
 publishDate: '2021-09-23T22:50:31.095819Z'
 publication_types:
 - '1'
-abstract: "E-commerce Web sites that sell highly customized products tend to be very complex in terms of the underlying logical model of the customization process. We present a systematic approach to guide the design process of such complex Web sites by providing a clear methodology that reduces errors and assists the Web architect. We also describe our application that helps Web architects go from the definition of the product's attributes to the generation of the finished Web application that sells the product. The approach is presented in terms of a case study involving the development of a Web site that sells customizable T-shirts."
+abstract: ''
 publication: '*2005 IEEE International Conference on e-Technology, e-Commerce and
   e-Service*'
 ---

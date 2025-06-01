@@ -4,7 +4,7 @@
 title: "Let's look at the cockpit: exploring mobile eye-tracking for observational\
   \ research on the flight deck"
 subtitle: ''
-summary: ''
+summary: '<b>ETRA 2012</b><br/>Mobile eye-tracking system records pilot gaze during flight simulations to study cockpit workload and information-seeking behavior. Data analysis reveals patterns of visual attention linked to task complexity, informing design of adaptive cockpit interfaces. Field tests show the platform collects high-fidelity gaze data without interfering with pilot performance.'
 authors:
 - Nadir Weibel
 - Adam Fouse

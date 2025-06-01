@@ -3,7 +3,7 @@
 
 title: A model for mapping between printed and digital document instances
 subtitle: ''
-summary: '<b>DocEng 2007</b><br/>Model aligning printed and digital document instances via unique identifiers for bi‑directional sync.'
+summary: '<b>DocEng 2007</b><br/>Formal model linking printed documents and their digital counterparts, enabling bidirectional navigation and synchronization so changes in print or PDF update the other, supporting consistent document workflows.'
 authors:
 - Nadir Weibel
 - Moira C Norrie

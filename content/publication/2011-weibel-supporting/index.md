@@ -3,7 +3,7 @@
 
 title: Supporting an integrated paper-digital workflow for observational research
 subtitle: ''
-summary: ''
+summary: '<b>IUI 2011</b><br/>Paper-digital workflow tool lets researchers annotate paper field notes while simultaneously digitizing observations to a database for analysis. The system tracks handwritten entries and timestamps, linking them to corresponding digital records, enabling smoother transitions between physical note-taking and software review. Field evaluations show reduced transcription errors and improved research efficiency in observational studies.'
 authors:
 - Nadir Weibel
 - Adam Fouse

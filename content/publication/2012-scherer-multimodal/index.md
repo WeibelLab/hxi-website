@@ -3,7 +3,7 @@
 
 title: Multimodal prediction of expertise and leadership in learning groups
 subtitle: ''
-summary: ''
+summary: '<b>ICMI 2012</b><br/>Multimodal system analyzes speech, gesture, and facial cues from group interactions to predict individual expertise and leadership roles in collaborative learning. By training machine learning models on synchronized audio-visual data, the approach identifies patterns of influence and knowledge sharing. Results show the model predicts leadership emergence with over 80% accuracy, guiding interventions for effective team facilitation.'
 authors:
 - Stefan Scherer
 - Nadir Weibel

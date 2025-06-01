@@ -3,7 +3,7 @@
 
 title: Reifying social movement trajectories
 subtitle: ''
-summary: ''
+summary: '<b>CHI 2013</b><br/>Social movement trajectories are visualized as interactive path animations, allowing analysts to track group mobilization over time and geography. By mapping social media streams onto a dynamic spatial interface, the system highlights hotspots of activity and narrative shifts. Evaluation with activists shows improved understanding of movement evolution and identification of influential events.'
 authors:
 - Adam Fouse
 - Nadir Weibel

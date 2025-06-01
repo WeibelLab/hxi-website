@@ -4,7 +4,7 @@
 title: A paper-digital interface for information capture and display in time-critical
   medical work
 subtitle: ''
-summary: ''
+summary: '<b>PervasiveHealth 2012</b><br/>Paper-digital interface captures handwritten medical notes during emergencies and displays patient data on tablets instantly, improving coordination and reducing errors under pressure. The system integrates pen-based input with live digital visualization, ensuring critical information is always visible to care teams. Simulation evaluations demonstrate significant speed and accuracy gains compared to manual record-keeping.'
 authors:
 - Aleksandra Sarcevic
 - Nadir Weibel

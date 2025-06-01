@@ -4,7 +4,7 @@
 title: 'TAP & PLAY: an end-user toolkit for authoring interactive pen and paper language
   activities'
 subtitle: ''
-summary: ''
+summary: '<b>CHI 2012</b><br/>The TAP & PLAY toolkit allows educators to design interactive language exercises on paper, where learners tap printed prompts with a digital pen to receive instant audio feedback and gamified quizzes on tablet devices. The system bridges paper and digital learning by converting pen strokes into digital events, fostering active participation and immediate correction. Deployment in classrooms shows increased student motivation and measurable language gains.'
 authors:
 - Anne Marie Piper
 - Nadir Weibel

@@ -3,7 +3,7 @@
 
 title: 'Projector phone use: practices and social implications'
 subtitle: ''
-summary: ''
+summary: '<b>PUC 2012</b><br/>Projector phones enable sharing mobile content on nearby surfaces, integrating seamlessly into social contexts by adapting projection to group dynamics. Ethnographic field studies reveal practices such as collaborative viewing, spontaneous presentations, and privacy management through projection angle. Results highlight design opportunities for enhancing social interaction and content exchange in mobile environments.'
 authors:
 - Lisa G Cowan
 - Nadir Weibel

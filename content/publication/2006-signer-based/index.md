@@ -3,7 +3,7 @@
 
 title: Paper-based mobile access to databases
 subtitle: ''
-summary: '<b>SIGMOD 2006</b><br/>Paper interfaces encode database queries that mobile devices retrieve on‑the‑fly.'
+summary: '<b>SIGMOD 2006</b><br/>Paper-based cards with encoded IDs link to live databases, letting users scan printed pages to fetch and update records on mobile devices for seamless offline-to-online workflows. The system demonstrates low-cost, instant database access in field scenarios by combining printed media with RFID scanning for real-time data retrieval.'
 authors:
 - Beat Signer
 - Moira C Norrie

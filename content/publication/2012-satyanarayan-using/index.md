@@ -3,7 +3,7 @@
 
 title: Using overlays to support collaborative interaction with display walls
 subtitle: ''
-summary: ''
+summary: '<b>IUI 2012</b><br/>Overlays allow multiple users to annotate ultra-scale display walls simultaneously by projecting personalized transparent layers, enabling private notes and group discussion without obscuring base content. Each participant’s input appears on separate virtual layers, reducing interference and enhancing coordination. User feedback indicates overlays improve task parallelism and decrease communication overhead in collaborative teams.'
 authors:
 - Arvind Satyanarayan
 - Nadir Weibel

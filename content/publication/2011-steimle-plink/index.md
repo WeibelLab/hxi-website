@@ -3,7 +3,7 @@
 
 title: 'Plink: paper-based links for cross-media information spaces'
 subtitle: ''
-summary: ''
+summary: '<b>CHI 2011</b><br/>Plink uses printed paper as hyperlinks to digital content by embedding touch-sensitive markers; tapping a page region with a digital pen opens related multimedia or web pages on a nearby device. This cross-media linking blends physical and digital reading seamlessly, reducing context switching. User tests report improved information retrieval speed and user satisfaction over manual lookups.'
 authors:
 - Jürgen Steimle
 - Nadir Weibel

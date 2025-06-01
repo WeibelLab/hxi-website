@@ -3,7 +3,7 @@
 
 title: 'AwareNews: a context-aware, ambient news service'
 subtitle: ''
-summary: '<b>IET DL 2008</b><br/>Context‑aware ambient news service pushes personalized articles without explicit queries.'
+summary: '<b>IET DL 2008</b><br/>Ambient news system delivering personalized headlines based on user’s location, time, and activity—automatically pushing relevant updates via mobile devices or ambient displays without requiring manual queries.'
 authors:
 - Corsin Decurtins
 - Moira C Norrie

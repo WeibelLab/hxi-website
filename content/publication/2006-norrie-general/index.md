@@ -3,7 +3,7 @@
 
 title: General framework for the rapid development of interactive paper applications
 subtitle: ''
-summary: '<b>CoPADD 2006</b><br/>Rapid-creation framework for interactive paper applications combining digital and physical media.'
+summary: '<b>CoPADD 2006</b><br/>Framework for rapid development of interactive paper applications, pairing printed documents with simple sensing to enable dynamic, tangible interactions in mixed-media workflows.'
 authors:
 - Moira C Norrie
 - Beat Signer

@@ -4,7 +4,7 @@
 title: Microanalysis of active reading behavior to inform design of interactive desktop
   workspaces
 subtitle: ''
-summary: ''
+summary: '<b>ITS 2012</b><br/>Detailed study of reading activities uses video and gaze tracking to capture how users annotate, scroll, and reference documents on desktop displays. Analysis identifies patterns such as frequent context-switching and multitasking, guiding design of interactive workspaces that integrate pen, touch, and keyboard inputs. Recommendations include adaptive layouts and gesture shortcuts to reduce cognitive load during active reading sessions.'
 authors:
 - Matthew Hong
 - Anne Marie Piper
