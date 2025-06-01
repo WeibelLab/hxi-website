@@ -3,7 +3,7 @@
 
 title: 'Paperproof: a paper-digital proof-editing system'
 subtitle: ''
-summary: '<b>CHI 2008</b><br/>PaperProof captures handwritten proofreading edits and merges them into digital documents.'
+summary: '<b>CHI 2008</b><br/>PaperProof is a paper-digital proof-editing application that allows users to edit digital documents by means of gesture-based mark-up of their printed versions. This enables users to switch seamlessly back and forth between paper and digital instances of a document throughout the document lifecycle,'
 authors:
 - Nadir Weibel
 - Adriana Ispas
