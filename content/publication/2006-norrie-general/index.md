@@ -3,7 +3,7 @@
 
 title: General framework for the rapid development of interactive paper applications
 subtitle: ''
-summary: ''
+summary: '<b>CoPADD 2006</b><br/>A framework that supports rapid creation of interactive paper applications by combining digital and physical media. Architecture components handle digital input capture, processing, and output, enabling printouts to become interactive interfaces.'
 authors:
 - Moira C Norrie
 - Beat Signer

@@ -3,7 +3,7 @@
 
 title: Semantic eInk--Pen and Paper-based Interaction with the Semantic Desktop
 subtitle: ''
-summary: ''
+summary: '<b>DAS 2008</b><br/>Pen-and-paper interactions extended with semantic capabilities, linking handwritten notes to digital desktop resources. The system captures eInk input, interprets semantics, and synchronizes annotations with the Semantic Desktop, enhancing user workflows.'
 authors:
 - Marcus Liwicki
 - Kinga Schumacher

@@ -3,7 +3,7 @@
 
 title: Paper-based mobile access to databases
 subtitle: ''
-summary: ''
+summary: '<b>SIGMOD 2006</b><br/>A system where paper interfaces encode queries to a backend database, allowing users to scan printed tokens and retrieve digital data on mobile devices. Example workflows demonstrate how database interactions can happen seamlessly from paper to phone, bridging physical documents and information systems.'
 authors:
 - Beat Signer
 - Moira C Norrie

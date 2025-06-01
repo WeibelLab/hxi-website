@@ -3,7 +3,7 @@
 
 title: Interactive paper as a reading medium in digital libraries
 subtitle: ''
-summary: ''
+summary: '<b>ECDL 2008</b><br/>A system enables paper documents to serve as interactive reading devices within digital libraries by linking printed text to digital resources. Users can tap or scan paper pages to access related metadata and digital content, enhancing reading experiences and search capabilities.'
 authors:
 - Moira C Norrie
 - Beat Signer

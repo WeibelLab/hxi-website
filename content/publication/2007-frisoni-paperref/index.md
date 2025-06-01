@@ -3,7 +3,7 @@
 
 title: 'PaperRef: a PDF-based Interactive Reference System Term Project'
 subtitle: ''
-summary: ''
+summary: '<b>ETH Zurich Term Project 2007</b><br/>An interactive reference system built on PDF documents that embeds metadata and hyperlinks to improve navigation and information retrieval. The design demonstrates how extending static PDFs with embedded interactive features can streamline access to related resources and citations.'
 authors:
 - Monica Frisoni
 - Moira C Norrie

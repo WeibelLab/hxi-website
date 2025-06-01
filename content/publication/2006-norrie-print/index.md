@@ -3,7 +3,7 @@
 
 title: 'Print-n-link: weaving the paper web'
 subtitle: ''
-summary: ''
+summary: '<b>DocEng 2006</b><br/>Print-n-link embeds interactive hyperlinks into printed documents, enabling users to tap or scan paper to access related digital content. Example applications show how “weaving the paper web” transforms static printouts into dynamic, interactive media.'
 authors:
 - Moira C Norrie
 - Beat Signer

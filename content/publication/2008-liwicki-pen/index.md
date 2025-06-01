@@ -3,7 +3,7 @@
 
 title: Pen and paper-based interaction with the Semantic Desktop
 subtitle: ''
-summary: ''
+summary: '<b>DAS 2008</b><br/>Integration of pen-and-paper interaction with the Semantic Desktop, allowing handwritten notes to be captured, interpreted, and linked to digital desktop objects. Architecture details demonstrate how users can seamlessly annotate and retrieve digital content directly from paper.'
 authors:
 - Marcus Liwicki
 - Kinga Schumacher

@@ -3,7 +3,7 @@
 
 title: A Publishing Infrastructure for Interactive Paper Documents
 subtitle: ''
-summary: ''
+summary: '<b>ETH PhD Thesis 2009</b><br/>Describes a comprehensive publishing infrastructure that enables interactive paper documents by embedding links to digital content. It details system architecture, data workflows, and user interaction models for creating and maintaining interactive printed media.'
 authors:
 - Nadir Weibel
 tags: []
