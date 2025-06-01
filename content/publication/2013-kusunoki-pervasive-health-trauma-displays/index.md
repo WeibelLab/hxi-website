@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Opportunities for blended interaction in emergency rooms: Coupling displays
-  with digital pen input'
+title: 'Opportunities for blended interaction in emergency rooms: Coupling displays with digital pen input'
 subtitle: ''
-summary: ''
+summary: '<b>Pervasive Health 2013</b><br/>We use the findings from two participatory design workshops and prototype evaluation to develop the basis for designing information displays with digital pen input.'
 authors:
 - Diana Kusunoki
 - Aleksandra Sarcevic
 - Nadir Weibel
 - Randall S Burd
+doi: 10.4108/icst.pervasivehealth.2013.25203
 tags: []
 categories: []
 date: '2013-01-01'
@@ -34,7 +34,7 @@ projects: []
 publishDate: '2021-09-23T22:50:36.980319Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'We use the findings from two participatory design workshops and prototype evaluation to develop the basis for designing information displays with digital pen input.'
 publication: '*Proceedings of the 7th International Conference on Pervasive Computing
   Technologies for Healthcare*'
 ---
