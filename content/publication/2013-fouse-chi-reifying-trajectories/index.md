@@ -9,6 +9,7 @@ authors:
 - Nadir Weibel
 - Christine Johnson
 - James D Hollan
+doi: 10.1145/2470654.2481408
 tags: []
 categories: []
 date: '2013-01-01'
@@ -33,7 +34,7 @@ projects: []
 publishDate: '2021-09-23T22:50:36.786829Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'In this paper we describe the development of a novel paper-digital interface for recording movement trajectories, designed to assist ethnographers and ethologists in analysis of social movement. While we focus on development of a system to aid analysis of elephant movement, the resulting interaction techniques and facilities are quite general. The paper highlights how our design evolved to balance the goals of researchers, their current practices, and the challenges of integrating the relatively unconstrained world of pen and paper with the relatively constrained world of digital systems.'
 publication: '*Proceedings of the SIGCHI Conference on Human Factors in Computing
   Systems*'
 ---

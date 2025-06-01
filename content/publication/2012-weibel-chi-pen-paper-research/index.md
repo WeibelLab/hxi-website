@@ -11,6 +11,7 @@ authors:
 - Whitney Friedman
 - Edwin Hutchins
 - James Hollan
+doi: 10.1145/2207676.2208590
 tags: []
 categories: []
 date: '2012-01-01'
@@ -35,7 +36,9 @@ projects: []
 publishDate: '2021-09-23T22:50:34.677037Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Researchers from many disciplines are taking advantage of increasingly inexpensive digital video to capture extensive records of human activity in real-world settings. The ability to record and share such data has created a critical moment in the practice and scope of behavioral research. While recent work is beginning to develop techniques for visualizing and interacting with integrated multimodal information collected during field research, navigating and analyzing these large datasets remains challenging and tools are especially needed to support the early stages of data exploration.<br/><br/>
+
+In this paper we describe digital pen and paper practices in observational research and their integration with ChronoViz, a tool for annotating, visualizing, and analyzing multimodal data. The goal is to better support researchers both in the field, while collecting data, and later in the lab, during analysis. We document the co-evolution of notetaking practices and system features as 28 participants used the tool during an 18-month deployment.'
 publication: '*Proceedings of the SIGCHI Conference on Human Factors in Computing
   Systems*'
 ---

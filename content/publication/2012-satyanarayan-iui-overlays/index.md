@@ -8,6 +8,7 @@ authors:
 - Arvind Satyanarayan
 - Nadir Weibel
 - James Hollan
+doi: 10.1145/2166966.2166987
 tags: []
 categories: []
 date: '2012-01-01'
@@ -32,7 +33,7 @@ projects: []
 publishDate: '2021-09-23T22:50:33.429598Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Large-scale display walls, and the high-resolution visualizations they support, promise to become ubiquitous. Natural interaction with them, especially in collaborative environments, is increasingly important and yet remains an on-going challenge. Part of the problem is a resolution mismatch between low-resolution input devices and high-resolution display walls. In addition, enabling concurrent use by multiple users is difficult - for example, how would this large workspace be managed for multiple users and what novel collaborative interactions could occur? In this paper, we present an overlay interface element superimposed on wall-display applications to help constrain interaction, focus attention on subsections of a display wall, and facilitate a collaborative multi-user workflow.'
 publication: '*Proceedings of the 2012 ACM international conference on Intelligent
   User Interfaces*'
 ---

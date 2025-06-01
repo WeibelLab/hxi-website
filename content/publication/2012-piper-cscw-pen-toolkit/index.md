@@ -8,6 +8,7 @@ authors:
 - Anne Marie Piper
 - Nadir Weibel
 - James D Hollan
+doi: 10.1145/2141512.2141597
 tags: []
 categories: []
 date: '2012-01-01'
@@ -32,7 +33,7 @@ projects: []
 publishDate: '2021-09-23T22:50:33.950875Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Hybrid paper-digital interfaces enabled by digital pens are a promising approach for supporting collaborative language, communication, and socialization activities. Digital pens enhance interaction with traditional paper content by playing and recording audio and recognizing handwriting and gestures. Currently, generating custom interactive paper documents involves some programming, limiting its use by many user groups (e.g., educators and families) who might especially benefit from application of hybrid paper-digital interfaces in their practices. To address this need, we developed an end-user Toolkit for Authoring Pen and Paper Language Activities (TAP & PLAY). End-users are able to quickly create custom interactive materials to support collocated interaction between children, teachers, and family members.'
 publication: '*Proceedings of the ACM 2012 Conference on Computer Supported Cooperative
   Work Companion*'
 ---
