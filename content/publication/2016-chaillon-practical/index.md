@@ -4,7 +4,7 @@
 title: A practical online tool to estimate antiretroviral coverage for HIV infected
   and susceptible populations needed to reduce local HIV epidemics
 subtitle: ''
-summary: ''
+summary: '<b>Scientific Reports 2016</b><br/>Online modeling tool estimates ART coverage needed to curb local HIV epidemics.'
 authors:
 - Antoine Chaillon
 - Martin Hoenigl

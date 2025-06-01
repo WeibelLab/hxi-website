@@ -1,7 +1,7 @@
 ---
 title: "How do Older Adults Set Up Voice Assistants? Lessons Learned from a Deployment Experience for Older Adults to Set Up Standalone Voice Assistants"
 subtitle: 'DIS 2023'
-summary: '<b>DIS 2023</b><br/>Older adults often face challenges when setting up voice assistants independently, especially without help from family or technicians. Through a within-subject study using both the Echo Dot and Echo Show, key barriers and supports were identified. The built-in screen and printed instructions proved helpful, with design insights highlighting how interface design and physical form factor can better promote autonomy in setup and use.'
+summary: '<b>DIS 2023</b><br/>Diary study uncovers setup hurdles with voice assistants and suggests UI tweaks.'
 publication_types:
  #0 = Uncategorized
  #1 = Conference paper

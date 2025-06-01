@@ -3,7 +3,7 @@
 
 title: Producing interactive paper documents based on multi-channel content publishing
 subtitle: ''
-summary: '<b>AXMEDIS 2007</b><br/>Method for creating interactive paper documents by integrating multi-channel digital content—text, audio, video—into printed media. The approach details content packaging, link encoding, and user interaction patterns, showing how printed documents can offer dynamic, multimedia experiences.'
+summary: '<b>AXMEDIS 2007</b><br/>Method for creating multimedia interactive paper integrating audio and video content.'
 authors:
 - Michael Grossniklaus
 - Moira C Norrie

@@ -1,7 +1,7 @@
 ---
 title: "Toward a Unified Metadata Schema for Ecological Momentary Assessment with Voice-First Virtual Assistants"
 subtitle: 'CUI 2021'
-summary: '<b>CUI 2021</b><br/>
+summary: '<b>CUI 2021</b><br/>Metadata schema standardizes EMA data capture via voice assistants.'
  We designed a novel unified metadata schema to enable Human-Computer Interaction (HCI), user experience (UX), and behavioral health researchers to rapidly prototype Ecological Momentary Assessment (EMA) data collection applications on different voice-first smart devices with built-in IVAs.'
 publication_types:
  #0 = Uncategorized

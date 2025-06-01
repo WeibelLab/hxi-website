@@ -3,7 +3,7 @@
 
 title: Physician activity during outpatient visits and subjective workload
 subtitle: ''
-summary: ''
+summary: '<b>JBI 2017</b><br/>Observational study quantifies physician attention split between patients and EHRs, informing design to ease workload.'
 authors:
 - Alan Calvitti
 - Harry Hochheiser

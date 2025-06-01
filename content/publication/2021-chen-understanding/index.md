@@ -4,7 +4,7 @@
 title: Understanding Barriers and Design Opportunities to Improve Healthcare and QOL
   for Older Adults through Voice Assistants
 subtitle: 'ASSETS 2021'
-summary: '<b>ASSETS 2021</b><br/>
+summary: '<b>ASSETS 2021</b><br/>Identifies barriers and design needs for older adults using voice assistants.'
 In this paper we focus on the processes of care delivery and QOL enhancements for older adults as a collaborative task between patients and providers. By interviewing 16 older adults living independently or semi–independently and 5 providers, we identified 12 barriers that older adults might encounter during daily routine and while managing health'
 authors:
 - Chen Chen

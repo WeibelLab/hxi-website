@@ -3,7 +3,7 @@
 
 title: 'Enhancing Accuracy, Time Spent, and Ubiquity in Critical Healthcare Delineation via Cross-Device Contouring'
 subtitle: 'DIS 2024'
-summary: '<b>DIS 2024</b><br/>Tumor contouring, a time-critical clinical task, is typically limited to desktop use. Based on clinician input, a cross-device system was developed to enable contouring on mobile touchscreens. In comparative studies, mobile use achieved similar accuracy with faster performance, offering new design directions for more flexible and efficient cancer treatment workflows.'
+summary: '<b>DIS 2024</b><br/>Cross‑device contouring lets oncologists use mobile touchscreens to cut planning time while preserving accuracy.'
 authors:
 - Matin Yarmand
 - Chen Chen

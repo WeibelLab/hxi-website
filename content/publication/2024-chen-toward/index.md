@@ -3,7 +3,7 @@
 
 title: 'Toward Automated Detection of Biased Social Signals from the Content of Clinical Conversations'
 subtitle: 'AMIA 2024'
-summary: '<b>AMIA 2024</b><br>
+summary: '<b>AMIA 2024</b><br/>Prototype pipeline combining speech‑to‑text and NLP detects biased social signals in clinics.'
 Implicit bias in patient-provider communication can lead to healthcare inequities, yet it is challenging to detect. Using ASR and NLP, we developed a pipeline to analyze social signals in audio recordings of 782 primary care visits, achieving 90.1% accuracy and fairness across patient groups. The analysis revealed significant disparities in provider behaviors, with more patient-centered communication observed toward white patients, highlighting the potential of automated tools to uncover biases and promote equitable healthcare.'
 authors:
 - Feng Chen

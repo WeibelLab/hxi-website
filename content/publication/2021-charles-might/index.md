@@ -4,7 +4,7 @@
 title: How might an intelligent voice assistant address older adults' health-related
   needs?
 subtitle: 'JAGS 2021'
-summary: '<b>JAGS 2021</b><br/>
+summary: '<b>J Am Geriatr Soc 2021</b><br/>Design opportunities for voice assistants to support older adults’ health management.'
 As the elderly population and associated number of persons with dementia increase, so does the need for decision-making capacity assessments (DMCAs). Many healthcare professionals (HCPs), however, do not feel prepared to conduct DMCAs. We have provided 4-h DMCA workshops to HCPs since 2006 and offered physicians either a 3-h or 2-day DMCA workshop from 2013 to present. We evaluated the effectiveness of the workshops on self-reported key concepts of capacit'
 authors:
 - K Charles

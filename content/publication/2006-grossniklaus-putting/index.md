@@ -3,7 +3,7 @@
 
 title: Putting location-based services on the map
 subtitle: ''
-summary: '<b>W2GIS 2006</b><br/>A framework integrates location-based services onto interactive maps, enabling web and mobile apps to query and display spatial data in real time. Architecture details and example use cases demonstrate how mapping location-based information enhances usability and flexibility.'
+summary: '<b>W2GIS 2006</b><br/>A framework integrates location-based services onto interactive maps, enabling web and mobile apps to query and display spatial data in real time.'
 authors:
 - Michael Grossniklaus
 - Moira C Norrie
