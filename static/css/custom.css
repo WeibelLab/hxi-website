@@ -1,4 +1,4 @@
-/* Hide the “Latest” (last-modified) line on author pages */
-.author-meta .post-meta-item--modified {
+/* Completely hide the “Latest” (Recent Posts) section on all author pages */
+#recent-posts {
   display: none !important;
 }

@@ -147,7 +147,7 @@ cms:
 icon:
   pack:
     ai: true
-author:
+authors:
   show_posts: false
   search_exclude: true
 assets:
