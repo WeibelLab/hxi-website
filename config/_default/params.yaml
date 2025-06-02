@@ -147,9 +147,6 @@ cms:
 icon:
   pack:
     ai: true
-authors:
+author:
   show_posts: false
   search_exclude: true
-assets:
-  css:
-    - css/custom.css
