@@ -1,14 +1,15 @@
-/* Hide the entire “Latest” heading + post list on author pages */
-.author-posts-section,
-.author-post-list,
-.author-latest {
-  display: none !important;
-}
-
-/* In case Wowchemy uses different container names: also hide any “section-title” inside an author-posts wrapper */
-.author-posts .section-title {
-  display: none !important;
+/* Hide any block titled “Latest” on author pages */
+.author-posts h2.section-title,
+.author-posts h1.section-title {
+  visibility: hidden !important;
+  height: 0;
+  margin: 0;
+  padding: 0;
+  line-height: 0;
 }
 .author-posts .article-list {
-  display: none !important;
+  visibility: hidden !important;
+  height: 0;
+  margin: 0;
+  padding: 0;
 }
