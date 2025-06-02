@@ -2,10 +2,6 @@
 title: Nadir Weibel
 role: Professor of Computer Science and Engineering
 show_posts: false 
-
-# Hide the “Latest” badge entirely:
-search_exclude: true
-
 avatar_filename: ""
 bio: "Designing AI-powered XR systems for critical healthcare."
 interests:
@@ -59,11 +55,14 @@ user_groups:
 #  - Master Students
 #  - Undergraduate Students
 #  - Alumni
-lastmod: 2025-06-01
+
+# Hide the “Latest” badge entirely:
+#lastmod: 2025-06-01
+search_exclude: true
+hide_meta: true
 
 # feature your top 3 publications on the sidebar:
 featuredPubCount: 3
-
 highlight_name: true
 
 
