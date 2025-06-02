@@ -1,7 +1,6 @@
 ---
 title: Nadir Weibel
 role: Professor of Computer Science and Engineering
-show_posts: false 
 avatar_filename: ""
 bio:
 interests:
@@ -57,9 +56,10 @@ user_groups:
 #  - Alumni
 
 # Hide the “Latest” badge entirely:
-#lastmod: 2025-06-01
-search_exclude: true
+lastmod: 2025-06-01
+#search_exclude: true
 hide_meta: true
+show_posts: false 
 
 # feature your top 3 publications on the sidebar:
 featuredPubCount: 3
