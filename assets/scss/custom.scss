@@ -31,3 +31,8 @@ nav#navbar-main li.nav-item {
 ul.network-icon {
     padding-bottom: 30px;
 }
+
+/* Hide the “Latest” block on every author page */
+.author-posts.latest {
+  display: none !important;
+}
