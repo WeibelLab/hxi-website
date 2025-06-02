@@ -62,7 +62,8 @@ featuredPubCount: 3
 highlight_name: true
 
 # Hide the “Latest” badge entirely:
-show_posts: false
+disable_post_section: true
+
 ---
 Dr. Nadir Weibel is a Professor in the [Department of Computer Science and Engineering](https://cse.ucsd.edu) at [UC San Diego](https://ucsd.edu), and the Associate Faculty Director of the [UCSD Design Lab](https://designlab.ucsd.edu/). Dr. Weibel is also a Research Health Science Specialist at the [VA San Diego Health System](https://www.sandiego.va.gov/), and he is affiliated with the [Contextual Robotics Institute](https://contextualrobotics.ucsd.edu/), the [Center for Population and Health Systems](https://cwphs.ucsd.edu/), and the [Research Center on Optimal Digital Ethics](https://recode.health).
 
