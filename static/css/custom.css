@@ -1,4 +1,4 @@
-/* Completely hide the “Latest” (Recent Posts) section on all author pages */
-#recent-posts {
+/* Hide the entire “Latest” section on author pages */
+.author-latest {
   display: none !important;
 }
