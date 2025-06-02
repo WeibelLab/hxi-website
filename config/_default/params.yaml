@@ -150,3 +150,7 @@ icon:
 author:
   show_posts: false
   search_exclude: true
+authors:
+  nadir-weibel:
+    hideSections:
+      - posts
