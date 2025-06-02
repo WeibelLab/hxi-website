@@ -1,6 +1,7 @@
 ---
 title: Nadir Weibel
 role: Professor of Computer Science and Engineering
+show_posts: false
 avatar_filename: ""
 bio: 
 interests:
