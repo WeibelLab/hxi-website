@@ -55,22 +55,13 @@ user_groups:
 #  - Undergraduate Students
 #  - Alumni
 
-# Hide the “Latest” badge entirely:
 lastmod: 2025-06-01
-#search_exclude: true
-hide_meta: true
-show_posts: false 
 
 # feature your top 3 publications on the sidebar:
 featuredPubCount: 3
 highlight_name: true
 
-hideSections:
-  - posts
-  - publications
-  - projects
-  - talks
-
+# Hide the “Latest” badge entirely:
 metadataOptions:
   showPosts: false
 ---
