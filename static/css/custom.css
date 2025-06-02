@@ -1,0 +1,4 @@
+/* Hide the “Latest” (last-modified) line on author pages */
+.author-meta .post-meta-item--modified {
+  display: none !important;
+}

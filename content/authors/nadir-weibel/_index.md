@@ -5,7 +5,7 @@ show_posts: false
 avatar_filename: ""
 bio:
 interests:
-  - Human-Computer Interaction 2
+  - Human-Computer Interaction
   - Artificial Intelligence
   - Ubiquitous Computing
   - Human-Centered Design
