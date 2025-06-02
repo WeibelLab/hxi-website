@@ -1,0 +1,34 @@
+{{- $author := . -}}
+{{- partialCached "head.html" (dict "context" . "template" "author/single") -}}
+
+<body class="author-single">
+  {{- partialCached "header.html" . -}}
+
+  <main id="content" class="content">
+    <div class="container">
+      <section class="author-hero">
+        <div class="row align-items-center">
+          <div class="col-md-3 text-center">
+            {{ if $author.Params.avatar_filename }}
+              <img src="{{ $author.Params.avatar_filename | absURL }}" alt="{{ $author.Title }}" class="avatar-img">
+            {{ end }}
+          </div>
+          <div class="col-md-9">
+            <h1>{{ $author.Title }}</h1>
+            {{ if $author.Params.role }}
+              <p class="role">{{ $author.Params.role }}</p>
+            {{ end }}
+          </div>
+        </div>
+      </section>
+
+      <section class="author-bio">
+        {{ $author.Content }}
+      </section>
+
+      {{/* NOTE: We deliberately omit the „Latest posts” partial here. */}}
+    </div>
+  </main>
+
+  {{- partialCached "footer.html" . -}}
+</body>
