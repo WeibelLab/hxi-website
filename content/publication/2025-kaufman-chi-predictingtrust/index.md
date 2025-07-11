@@ -5,7 +5,7 @@ summary: '<b>CHI 2025</b><br>Trust in autonomous vehicles varies widely among in
 authors:
 - Robert A. Kaufman
 - Emi Lee
-- Manas Satish Bedmutha
+- Manas Bedmutha
 - David Kirsh
 - Nadir Weibel
 doi: 10.1145/3706598.3713188

@@ -20,7 +20,7 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 slides: ''
-lastmod: '2023-05-25T00:00:00Z'
+lastmod: '2025-07-11T00:00:00Z'
 design:
   columns: '2'
 
@@ -34,6 +34,11 @@ Despite huge advancements in Autonomous Vehicle (AV) technology, real-world adop
 We aim to establish a generalizable theory connecting personal characteristics to AV communications in realistic driving contexts as well as underpin why certain designs are more effective than others at eliciting calibrated trust, improving driving outcomes through enhanced situational awareness, and alleviating stress. This research agenda will inform future driver-AV interactions and impact important design decisions for the automotive and self-driving car industry in the years ahead.
 
 ------
-
 ### Funding and External Collaborations
 This work is done as part of a collaboration between the UCSD departments of Cognitive Science, Computer Science and Engineering, and external industry partners.
+
+------
+### Publications
+
+{{< cite page="/publication/kaufman-2025-chi-predictingtrust" view="1" >}}
+{{< cite page="/publication/kaufman-2025-chi-whatdidmycarsay" view="1" >}}
