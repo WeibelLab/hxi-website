@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2025-07-20T00:00:00Z'
 publication_types:
-- '1'
+- '2'
 abstract: 'The rising prevalence of mental health concerns among students is prompting universities to explore innovative solutions to support student well-being. This paper describes the protocol for the development, implementation, and evaluation of a mobile app designed to address the mental health and wellness needs of students. This project employs a student-centered approach, partnering with students from the initial needs analysis through to the final design and implementation stages. The app aims to increase the use of campus resources by improving awareness through user-designated preferences. It links to student EHRs for coordinated care. A logic model and evaluation plan guide its integration, with biannual assessments tracking mental health trends, feasibility, and impact. Over 600 survey responses were collected as of March 2025, with more data collection underway. Findings aim to inform similar digital mental health initiatives.'
 publication: '*JMIR Research Protocols*'
 ---
