@@ -1,6 +1,6 @@
 ---
 title: Robert Kaufman
-role: Ph.D. Candidate (Co-Advised with David Kirsh)
+role: Ph.D. Candidate <br/>(Co-Advised with David Kirsh)
 avatar_filename: ""
 bio: 
 weight: 40
