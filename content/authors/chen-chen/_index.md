@@ -64,7 +64,7 @@ superuser: false
 email: "chechen@fiu.edu"
 
 user_groups:
-- Ph.D Students and Postdocs
+    - Ph.D Students (Alumni)
 
 ---
 I am an incoming Assistant Professor 🤓 at the Knight Foundation School of Computing and Information Sciences 💻, part of the College of Engineering and Computing at Florida International University 🐅 in Miami 🌴 starting Fall 2025.
