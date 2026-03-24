@@ -1,6 +1,6 @@
 ---
 title: Menghe Zhang
-role: Ph.D. Candidate
+role: Ph.D. Candidate<br/>(Co-Advised with Jurgen Schulze)
 
 avatar_filename: avatar
 superuser: false

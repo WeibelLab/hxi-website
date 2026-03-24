@@ -1,6 +1,6 @@
 ---
 title: Weichen Liu
-role: Ph.D. Student
+role: Ph.D. Student<br/>(Co-Advised with Jurgen Schulze)
 
 avatar_filename: avatar
 superuser: false

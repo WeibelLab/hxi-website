@@ -1,6 +1,6 @@
 ---
 title: Yonatan Vaizman
-role: Ph.D. Student at UCSD<br/> Electrical and Computer Engineering
+role: Ph.D. Student at UCSD<br/> Electrical and Computer Engineering<br/>(Co-Advised with Gert Lanckriet)
 
 social:
   - icon: linkedin
