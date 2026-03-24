@@ -3,7 +3,7 @@ title: Manas Bedmutha
 role: Ph.D. Student
 avatar_filename: avatar
 
-weight: 30
+weight: -40
 
 organizations:
 - name: UC San Diego

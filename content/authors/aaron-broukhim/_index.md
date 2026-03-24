@@ -2,7 +2,7 @@
 title: Aaron Broukhim
 role: Ph.D. Student
 
-weight: 50
+weight: -40
 
 organizations:
   - name: HXI

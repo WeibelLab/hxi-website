@@ -3,7 +3,7 @@ title: Isaac Bouchard
 role: Ph.D. Student<br/>(Co-Advised with Lizz Eikey)
 avatar_filename: avatar
 
-weight: 30
+weight: -20
 
 organizations:
 - name: UC San Diego

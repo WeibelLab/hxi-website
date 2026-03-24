@@ -3,7 +3,7 @@ title: Poorva Bedmutha
 role: Ph.D. Student<br/>(Co-Advised with Karandeep Singh)
 avatar_filename: avatar
 
-weight: 30
+weight: -30
 
 organizations:
 - name: UC San Diego
