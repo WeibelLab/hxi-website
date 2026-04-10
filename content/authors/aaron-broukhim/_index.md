@@ -21,6 +21,9 @@ education:
     - course: B.S. in Cognitive Science with a Specialization in Machine Learning and Neural Computation
       institution: University of California San Diego, San Diego, CA, USA
       year: 2021
+    - course: M.S. in Computer Science and Engineering *(en route to Ph.D.)*
+      institution: University of California San Diego, San Diego, CA, USA
+      year: 2025
 
 avatar_filename: avatar
 social:
