@@ -50,8 +50,8 @@ user_groups:
 - Ph.D Students and Postdocs
 
 ---
-I’m a 4th year PhD student in Computer Science & Engineering at UC San Diego. I’m a part of Nadir Weibel’s HXI Lab and Eshin Jolly’s SciMinds Lab. My research interests lie at the intersection of reinforcement learning, social signals, and mental health. Specifically, I work on finetuning conversational audio systems and the application of preference learning frameworks to the audio domain.
+I’m a 4th year PhD student in Computer Science & Engineering at UC San Diego. I’m a part of Nadir Weibel’s [HXI Lab](https://hxi.ucsd.edu/) and Eshin Jolly’s [SciMinds Lab](https://sciminds.ucsd.edu/). My research interests lie at the intersection of reinforcement learning, social signals, and mental health. Specifically, I work on finetuning conversational audio systems and the application of preference learning frameworks to the audio domain.
 
 If you are interested in my work, feel free to reach out. I’m always happy to talk or collaborate on new projects!
 
-Outsie the lab you can find me and my [dog](https://imgur.com/a/mia-i9Ivp6w) at your local matcha & tea shop. My favorite is [Paru](https://paruteabar.com/).
+Outside the lab you can find me and my [dog](https://imgur.com/a/mia-i9Ivp6w) at your local matcha & tea shop. My favorite is [Paru](https://paruteabar.com/).
