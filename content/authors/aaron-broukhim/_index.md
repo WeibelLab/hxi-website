@@ -13,7 +13,9 @@ organizations:
     url: https://cse.ucsd.edu/
   - name: Cognitive Media Lab
     url: https://cognitivemedialab.ucsd.edu/
-    
+  - name: SciMinds Lab
+    url: https://sciminds.ucsd.edu/
+
 education:
   courses:
     - course: B.S. in Cognitive Science with a Specialization in Machine Learning and Neural Computation
@@ -45,7 +47,8 @@ user_groups:
 - Ph.D Students and Postdocs
 
 ---
-I'm a PhD student in Computer Science & Engineering advised by Nadir Weibel. My research interests lie at the intersection of human-computer interaction, machine learning, & reinforcement learning. I'm interested in leveraging social signal as rewards to improve machine learning systems using varying modalities. I'm also interested in XAI and the personalization of conversational agents. When I'm not working on research you can find me walking my dog around grad housing or at the local tea shop (Paru is my favorite). 
+I’m a 4th year PhD student in Computer Science & Engineering at UC San Diego. I’m a part of Nadir Weibel’s HXI Lab and Eshin Jolly’s SciMinds Lab. My research interests lie at the intersection of reinforcement learning, social signals, and mental health. Specifically, I work on finetuning conversational audio systems and the application of preference learning frameworks to the audio domain.
 
-For more information, feel free to visit [my website](https://aabroukh.github.io) 
-If you are interested in my work, feel free to reach out! I'm also happy to talk or collaborate on new projects.
+If you are interested in my work, feel free to reach out. I’m always happy to talk or collaborate on new projects!
+
+Outsie the lab you can find me and my [dog](https://imgur.com/a/mia-i9Ivp6w) at your local matcha & tea shop. My favorite is [Paru](https://paruteabar.com/).

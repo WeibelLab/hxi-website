@@ -1,7 +1,7 @@
 ---
 title: Isaac Bouchard
 role: Ph.D. Student<br/>(Co-Advised with Lizz Eikey)
-avatar_filename: avatar
+avatar_filename: isaac_avatar
 
 weight: -20
 
@@ -12,39 +12,41 @@ organizations:
   url: https://design.ucsd.edu/
 - name: HXI
   url: https://hxi.ucsd.edu/
-  
+- name: Herbert Wertheim School of Public Health and Human Longevity Science
+  url: https://hwsph.ucsd.edu/
+- name: MiD Lab
+  url: https://mentalhealthindesign.weebly.com/
+
 education:
   courses:
-    # - course: MS in Computer Science
-    #   institution: UC San Diego, La Jolla, CA, USA
-    #   year: 2024
-#    - course: BS in Electrical Engineering
-#      institution: Indian Institute of Technology Gandhinagar, India
-#      year: 2020
+    - course: MA in Clinical Psychology
+      institution: California State University, Northridge
+      year: 2025
+    - course: BS in Psychological and Brain Sciences
+      institution: UC Santa Barbara
+      year: 2023
 
 avatar_filename: avatar
 interests:
-#  - Human Computer Interaction
-#  - Machine Learning
-#  - Signal processing
-#  - Wearable and Ubiquitous Computing
-#  - Health
+  - Implementation Science
+  - Chronic Disease Prevention
+  - Precision Medicine
 social:
-- icon: globe-americas
-  icon_pack: fas
+# - icon: globe-americas
+#   icon_pack: fas
 #  link: 'https://mbedmutha.github.io/'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ibouchard@ucsd.edu'
 - icon: google-scholar
   icon_pack: ai
-#  link: https://scholar.google.com/citations?user=pQatwE0AAAAJ
-- icon: github
-  icon_pack: fab
-#  link: https://github.com/mbedmutha/
+  link: https://scholar.google.com/citations?hl=en&user=kN4p0eAAAAAJ
+# - icon: github
+#   icon_pack: fab
+# #  link: https://github.com/mbedmutha/
 - icon: linkedin
   icon_pack: fab
-#  link: https://www.linkedin.com/in/manas-bedmutha/
+  link: https://www.linkedin.com/in/isaac-bouchard/
 superuser: false
 email: "ibouchard@ucsd.edu"
 
