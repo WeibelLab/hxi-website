@@ -1,6 +1,6 @@
 ---
 title: Chen Chen
-role: Ph.D. Candidate
+role: Ph.D. Alumni
 
 weight: 50
 
@@ -67,9 +67,9 @@ user_groups:
     - Ph.D Students (Alumni)
 
 ---
-I am an incoming Assistant Professor 🤓 at the Knight Foundation School of Computing and Information Sciences 💻, part of the College of Engineering and Computing at Florida International University 🐅 in Miami 🌴 starting Fall 2025.
+I am a tenure-track Assistant Professor 🤓 at the Knight Foundation School of Computing and Information Sciences 💻, part of the College of Engineering and Computing at Florida International University 🐅 in Miami 🌴 starting Fall 2025.
 
-I will complete my Ph.D. in Computer Science 💻 from the Department of Computer Science and Engineering and The Design Lab at UC San Diego 🔱. I was a former researcher at Microsoft Research, Adobe Research and Carnegie Mellon University 🐕. My research has been recognized with a Distinguished Paper Award from ACM IMWUT, an Honorable Mention Award from ACM CHI, a Best Poster Runner-Up Award from ACM SenSys, the BP Scholarship, and has been selected as a finalist for the Qualcomm Innovation Fellowship and the Adobe Research Fellowship. I received my M.S. in Electrical and Computer Engineering from Carnegie Mellon University, and a B.Eng. (First Class, Hons.) in Electrical and Electronic Engineering from the University of Nottingham.
+I completed my Ph.D. in Computer Science 💻 from the Department of Computer Science and Engineering and The Design Lab at UC San Diego 🔱 in June, 2025. I was a former researcher at Microsoft Research, Adobe Research and Carnegie Mellon University 🐕. My research has been recognized with a Distinguished Paper Award from ACM IMWUT, an Honorable Mention Award from ACM CHI, a Best Poster Runner-Up Award from ACM SenSys, the BP Scholarship, and has been selected as a finalist for the Qualcomm Innovation Fellowship and the Adobe Research Fellowship. I received my M.S. in Electrical and Computer Engineering from Carnegie Mellon University, and a B.Eng. (First Class, Hons.) in Electrical and Electronic Engineering from the University of Nottingham.
 
 For more information, feel free to visit [my website](https://chen-chen.me). If you are interested in my work, feel free to email me!
 
