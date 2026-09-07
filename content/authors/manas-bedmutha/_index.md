@@ -1,6 +1,6 @@
 ---
 title: Manas Bedmutha
-role: Ph.D. Student
+role: Ph.D. Candidate
 avatar_filename: avatar
 
 weight: -40
@@ -15,9 +15,6 @@ organizations:
   
 education:
   courses:
-    # - course: MS in Computer Science
-    #   institution: UC San Diego, La Jolla, CA, USA
-    #   year: 2024
     - course: BS in Electrical Engineering
       institution: Indian Institute of Technology Gandhinagar, India
       year: 2020
