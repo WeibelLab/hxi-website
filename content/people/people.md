@@ -18,7 +18,7 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Director
-  - Ph.D Students and Postdocs
+  - Ph.D Students, Researchers, and Postdocs
   - Master Students
   - Undergraduate Students
 

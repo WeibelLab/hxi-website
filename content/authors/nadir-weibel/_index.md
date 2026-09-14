@@ -50,7 +50,7 @@ email: "weibel@ucsd.edu"
 superuser: true
 user_groups:
   - Director
-#  - Ph.D Students and Postdocs
+#  - Ph.D Students, Researchers, and Postdocs
 #  - Master Students
 #  - Undergraduate Students
 #  - Alumni

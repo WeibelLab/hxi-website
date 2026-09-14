@@ -16,7 +16,7 @@ design:
     image: 
 ---
 
-The **HXI** Research Lab is part of the [Computer Science & Engineering Deopartment](http://cse.ucsd.edu) at UCSD, and partners with the [DesignLab](https://designlab.ucsd.edu/), the [Contextual Robotics Institute](https://contextualrobotics.ucsd.edu/), the [Center for Wireless and Population Health Systems (CWPHS)](http://cwphs.ucsd.edu/), and the [Research Center on Optimal Digital Ethics (ReCODE)](https://recode.health/).
+The **HXI** Research Lab is part of the [Computer Science & Engineering Department](http://cse.ucsd.edu) at UCSD, and partners with the [DesignLab](https://designlab.ucsd.edu/), the [Contextual Robotics Institute](https://contextualrobotics.ucsd.edu/), the [Center for Wireless and Population Health Systems (CWPHS)](http://cwphs.ucsd.edu/), and the [Research Center on Optimal Digital Ethics (ReCODE)](https://recode.health/).
 
 <div style="display: flex; justify-content:space-around; align-items: center;">
 <img style="max-width: 400px;" src="/images/hxi.png"/>

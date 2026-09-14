@@ -36,6 +36,6 @@ _build:
   list: always
 
 user_groups:
-  - Masters Students (Alumni)
+  - Master Students (Alumni)
 ---
 

@@ -19,7 +19,6 @@ education:
       institution: Indian Institute of Technology Gandhinagar, India
       year: 2020
 
-avatar_filename: avatar
 interests:
   - Human Computer Interaction
   - Machine Learning
@@ -49,7 +48,7 @@ email: "mbedmutha@ucsd.edu"
 bio: Manas is currently working on developing technologies for supporting social wellbeing -- across in-person conversations (social signal processing) as well as building digital just-in-time interventions (JITAIs) for social engagement
 
 user_groups:
-- Ph.D Students and Postdocs
+- Ph.D Students, Researchers, and Postdocs
 ---
 
 Hello! I am Manas Bedmutha, a <b>Ph.D. student in Computer Science</b> at UC San Diego (<a href="https://hxi.ucsd.edu/">HXI Lab</a> / <a href="https://design.ucsd.edu">Design Lab</a>).

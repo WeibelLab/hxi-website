@@ -26,7 +26,6 @@ education:
       institution: Pune University, Pune, India
       year: 2022
 
-avatar_filename: avatar
 interests:
  - Human Computer Interaction
  - Machine Learning
@@ -58,7 +57,7 @@ email: "pbedmutha@ucsd.edu"
 bio: Poorva is currently a PhD student in the HXI lab co-advised with Karandeep Singh), in the Department of Biomedical Informatics, and the Jacobs Center for Health Innovation.
 
 user_groups:
-- Ph.D Students and Postdocs
+- Ph.D Students, Researchers, and Postdocs
 ---
 
 

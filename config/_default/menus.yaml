@@ -23,7 +23,7 @@ main:
     url: faq
     weight: 60
   - name: All FAQs
-    url: faq
+    url: all-faqs
     parent: FAQ
     weight: 61
   - name: Join the HXI Lab
@@ -42,7 +42,7 @@ main:
     url: faq/teaching
     parent: FAQ
     weight: 65
-  - name: Ph.D. and M.S. Commitees
+  - name: Ph.D. and M.S. Committees
     url: faq/phd-master-committees
     parent: FAQ
     weight: 66
@@ -54,7 +54,7 @@ main:
     url: faq/employers
     parent: FAQ
     weight: 68
-  - name: Indipendent Research
+  - name: Independent Research
     url: faq/independent-group-research
     parent: FAQ
     weight: 69

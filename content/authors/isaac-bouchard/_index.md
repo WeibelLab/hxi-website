@@ -26,7 +26,6 @@ education:
       institution: UC Santa Barbara
       year: 2023
 
-avatar_filename: avatar
 interests:
   - Implementation Science
   - Chronic Disease Prevention
@@ -54,5 +53,5 @@ email: "ibouchard@ucsd.edu"
 bio: Isaac grew up in the San Francisco Bay Area. He graduated with a Bachelor of Science in Psychological and Brain Sciences with a minor in Applied Psychology from UCSB. Prior to joining UCSD, he received his Master of Arts in Clinical Psychology with an emphasis in Clinical Research from California State University, Northridge. During his master’s program, he served as a Dissemination and Implementation Science intern at UCSD. His research interests lie in the areas of dissemination and implementation science, digital health tools, and community-based participatory research. Aside from research, Isaac loves to rock climb, read fiction, and hike.
 
 user_groups:
-- Ph.D Students and Postdocs
+- Ph.D Students, Researchers, and Postdocs
 ---

@@ -23,7 +23,7 @@ _build:
 
 
 user_groups:
-  - Masters Students (Alumni)
+  - Master Students (Alumni)
 
 ---
 

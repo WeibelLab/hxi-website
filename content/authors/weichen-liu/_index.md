@@ -1,6 +1,6 @@
 ---
 title: Weichen Liu
-role: Ph.D. Student<br/>(Co-Advised with Jurgen Schulze)
+role: Ph.D. Candidate<br/>(Co-Advised with Jurgen Schulze)
 
 avatar_filename: avatar
 superuser: false
@@ -23,6 +23,6 @@ email: ""
 weight: -50
 
 user_groups:
-- Ph.D Students and Postdocs
+- Ph.D Students, Researchers, and Postdocs
 ---
 Weichen Liu is a Ph.D. student in the Department of Computer Science and Engineering at UC San Diego.
