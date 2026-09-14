@@ -13,9 +13,12 @@ organizations:
 interests:
 
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:gstrudler@ucsd.edu'
 
 superuser: false
-email: ""
+email: "gstrudler@ucsd.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
