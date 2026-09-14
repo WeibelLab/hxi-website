@@ -4,6 +4,7 @@ summary: Human-Centered AI (Winter Quarter)
 authors: 
   - Nadir Weibel
   - Aaron Broukhim
+  - Janet Johnson
 date: '2024-10-17T00:00:00Z'
 
 weight: 20  # section position on page

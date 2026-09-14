@@ -15,11 +15,10 @@ authors:
   - Erik Goron
 
 tags:
+  - HealthCare
   - AI
-  - MR
-  - Stroke
-  - Design
-  - Health
+  - XR
+  - Sensing
 
 show_related: false
 
@@ -49,7 +48,17 @@ weight: 30
 
 Stroke is a major leading cause of death and disability in the United States and stroke-related care poses a significant burden on the population. Recombinant Tissue Plasminogen Activator is the only therapy for stroke but it is utilized in less than 5% of acute strokes due to the narrow therapeutic time window for intervention, within 3 hours of the onset of symptoms. Stroke assessment is currently hindered by human analysis. Accurately diagnosing a stroke as soon as possible after the onset of symptoms requires a stroke specialist and adjunctive imaging techniques. Additionally, stroke outcome prediction is currently crude, and stroke deficit scales are generally unable to predict if a patient will do well or very poorly.
 
-The UbiStroke team is developing techniques to reliably identify and quantify the degree of different stroke-related deficits, through an accurate per-patient stroke signature that will help to more precisely assess patients’ deficits. The UbiStroke system exploits multiple sensors and generate a stroke assessment based on body posture, facial droop, pupil tracking, speech patterns, and other symptoms of stroke. We are evaluating UbiStroke’s introduction into the clinical setting to assist the clinician-performed NIHSS exam.
+Two lines of work address that gap from opposite ends: making the deficits themselves measurable, and moving the expertise to wherever the patient is.
+
+------
+
+### UbiStroke
+
+**UbiStroke** develops techniques to reliably identify and quantify the degree of different stroke-related deficits, through an accurate per-patient stroke signature that will help to more precisely assess patients' deficits. The system exploits multiple sensors and generates a stroke assessment based on body posture, facial droop, pupil tracking, speech patterns, and other symptoms of stroke. We are evaluating UbiStroke's introduction into the clinical setting to assist the clinician-performed NIHSS exam.
+
+------
+
+### HoloStroke
 
 **HoloStroke** grew out of UbiStroke and asks how mixed reality can extend stroke care beyond the bedside. Using the HoloLens, holograms of a patient, or of their imaging, are placed in three-dimensional space and can be transmitted to a distant site, letting a remote stroke neurologist assess and interact as if present in the same room.
 
@@ -74,7 +83,7 @@ UbiStroke and HoloStroke are a collaboration with the [UCSD Stroke Center](https
 {{< cite page="/publication/2026-liu-jscd-holostroke-ii" view="1" >}}
 {{< cite page="/publication/2025-weibel-stroke-holostroke-cta" view="1" >}}
 {{< cite page="/publication/2024-weibel-telemedicine-holostroke" view="1" >}}
-{{< cite page="/publication/2020-ramesh-assessing" view="1" >}}
 {{< cite page="/publication/2020-ramesh-developing" view="1" >}}
+{{< cite page="/publication/2020-ramesh-assessing" view="1" >}}
 {{< cite page="/publication/2018-ramesh-stroke" view="1" >}}
 {{< cite page="/publication/2017-ramesh-exploring" view="1" >}}

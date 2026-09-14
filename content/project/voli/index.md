@@ -11,13 +11,10 @@ authors:
   - Mike Hogarth
 
 tags:
-  - Health
-  - Voice
-  - NLP
-  - Older Adults 
+  - HealthCare
   - AI
-  - Design
-
+  - Language
+  - Earlier
 show_related: false
 
 date: '2021-09-23T00:00:00Z'
@@ -65,15 +62,4 @@ VOLI is a NIH/NSF Smart and Connected Health (SCH) funded by the National Instit
 <img src="/images/nih-nia.jpg" style="height: 40px;">
 
 </div>
-
-------
-
-### Publications
-
-{{< cite page="/publication/2023-chen-assets-volideploy" view="1" >}} 
-{{< cite page="/publication/2023-chen-dis-voli" view="1" >}} 
-{{< cite page="/publication/2022-yichen-voliviz" view="1" >}} 
-{{< cite page="/publication/2021-chen-understanding" view="1" >}} 
-{{< cite page="/publication/2021-chen-cui-voli" view="1" >}} 
-{{< cite page="/publication/2021-charles-might" view="1" >}} 
 

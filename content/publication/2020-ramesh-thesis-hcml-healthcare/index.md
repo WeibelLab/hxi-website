@@ -1,7 +1,7 @@
 ---
 title: 'Human-Centered Machine Learning for Healthcare: Examples in Neurology and Pulmonology'
 subtitle: 'Ph.D. Dissertation 2020'
-summary: '<b>Ph.D. Dissertation 2020</b><br/>Machine learning (ML) in healthcare has enabled the automatic detection of diseases from medical images or sensors with high accuracy, often outperforming domain experts. Unfortunately, there is a large variance between how such diagnostic aids perform in research settings and in the real-world.<br/><br/><i>Ph.D. Dissertation, UC San Diego. Advised by Nadir Weibel, Cauwenberghs, Gert.</i>'
+summary: '<b>Ph.D. Dissertation 2020</b><br/>Machine learning (ML) in healthcare has enabled the automatic detection of diseases from medical images or sensors with high accuracy, often outperforming domain experts. Unfortunately, there is a large variance between how such diagnostic aids perform in research settings and in the real-world.<br/><br/><i>Ph.D. Dissertation, UC San Diego. Advised by Nadir Weibel and Gert Cauwenberghs.</i>'
 authors:
 - Vish Ramesh
 tags:

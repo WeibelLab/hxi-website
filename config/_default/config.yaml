@@ -7,6 +7,10 @@ title: HXI - Human-centered eXtended Intelligence # Website name
 baseurl: '' # Website URL
 copyright: 'HXI@UCSD © {year}' # Footer text, e.g. '© {year} Me'
 
+# Publish pages dated in the future. Accepted-but-not-yet-presented papers are
+# dated at their conference date, which is often months ahead.
+buildFuture: true
+
 ############################
 ## LANGUAGE
 ############################

@@ -7,11 +7,12 @@ authors:
   - Gabriella Strudler
   - Canwen Wang
   - Chen Chen
+  - Maca Peralta
 
 tags:
-  - Health
+  - HealthCare
   - AI
-  - Design
+  - Language
 
 show_related: false
 
@@ -51,6 +52,13 @@ ConversHIVe is funded by the [California HIV/AIDS Research Program (CHRP)](https
 The work is a collaboration between the [HXI Lab](https://hxi.ucsd.edu) and the [Owen Clinic](https://health.ucsd.edu/care/infectious-diseases/hiv-owen-clinic/) at UC San Diego, the [AntiViral Research Center (AVRC)](https://avrc.ucsd.edu/) Community Advisory Board, and San Diego community-based organizations including Christie's Place, San Ysidro Health Center, and Father Joe's Villages.
 
 <div style="display: flex; justify-content:space-around; align-items: center;">
+<img src="/images/chrp.png" style="height: 75px;">
 <img src="/images/avrc.png" style="height: 90px;">
 <img src="/images/ucsd_som.jpg" style="height: 120px;">
 </div>
+
+------
+
+### Publications
+
+{{< cite page="/publication/2026-chidambaram-uist-affadapt" view="1" >}}

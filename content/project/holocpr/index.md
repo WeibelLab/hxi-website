@@ -8,10 +8,9 @@ authors:
   - Madhuri Gubbala
 
 tags:
-  - MR
-  - Design
-  - Health
-
+  - HealthCare
+  - XR
+  - Earlier
 show_related: false
 
 date: '2021-09-23T00:00:00Z'
@@ -42,11 +41,4 @@ Performing time-critical procedures such as Cardiopulmonary Resuscitation (CPR) 
 To better understand the use of mixed reality for resuscitation guidance, we investigate if spatially localized instructions are better than those on a 2D screen. We propose Mixed Reality (MR) as a compelling medium to support time-critical emergencies, and study its use in this context through an iterative user-centered design process. 
 
 Our research outlines a number of key considerations for the design of time-critical emergency interfaces that led to the creation of HoloCPR, an MR application providing real-time instructions for resuscitation for novices through a combination of visual and spatial cues.
-
-------
-
-### Publications
-
-{{< cite page="/publication/2018-johnson-holocpr" view="1" >}}
-{{< cite page="/publication/2018-gasques-realtime" view="1" >}}
 

@@ -4,14 +4,14 @@ summary: Research on what students will share, and under what conditions, carrie
 authors:
   - Nadir Weibel
   - Manas Bedmutha
-  - Mohammad Gholami
+  - Maryam Gholami
   - Poorva Bedmutha
   - Isaac Bouchard
 
 tags:
-  - Health
+  - MentalHealth
   - AI
-  - Design
+  - Sensing
 
 show_related: false
 
@@ -46,17 +46,11 @@ This research also connects to the lab's work on just-in-time adaptive intervent
 
 ### Collaborations
 
-This research is conducted with UC San Diego Student Health and Well-Being, Counseling and Psychological Services (CAPS), and the [Center for Wireless and Population Health Systems](https://cwphs.ucsd.edu/), in collaboration with the WILLO team.
+This research is conducted in partnership with the [Joan &amp; Irwin Jacobs Center for Health Innovation (JCHI)](https://healthinnovation.ucsd.edu/) at UC San Diego Health, our principal collaborator on this work.
+
+It also involves UC San Diego Student Health and Well-Being, Counseling and Psychological Services (CAPS), and the [Center for Wireless and Population Health Systems](https://cwphs.ucsd.edu/), together with the WILLO team.
 
 <div style="display: flex; justify-content:space-around; align-items: center;">
-<img src="/images/qi.png" style="height: 100px;">
+<img src="/images/jchi.svg" style="height: 60px;">
 </div>
 
-------
-
-### Publications
-
-{{< cite page="/publication/2026-bedmutha-ih-college-mental-health" view="1" >}}
-{{< cite page="/publication/2026-james-ih-wellness-prescribed" view="1" >}}
-{{< cite page="/publication/2026-bedmutha-chi-campus-access" view="1" >}}
-{{< cite page="/publication/2025-gholami-jmir-willo_protocol" view="1" >}}

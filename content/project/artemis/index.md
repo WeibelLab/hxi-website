@@ -11,15 +11,9 @@ authors:
   - Zhuoqun Robin Xu
 
 tags:
-  - MR
-  - AR
-  - VR
-  - CV
-  - Telementoring
-  - Collaboration  
-  - Surgery
-  - Health
-  - Design
+  - HealthCare
+  - Collaboration
+  - XR
 
 show_related: false
 
@@ -73,12 +67,4 @@ This project has been funded by the Naval Medical Center San Diego.
 <img src="/images/robotics-institute-front.jpg" style="height: 200px;"> 
 <img src="/images/NMCSD_logo.png" style="height: 150px;">
 </div>
-
-------
-
-### Publications
-
-{{< cite page="/publication/2021-gasques-chi-artemis" view="1" >}}
-{{< cite page="/publication/2020-weibel-artemis" view="1" >}}
-{{< cite page="/publication/2017-gasques-exploring" view="1" >}}
 

@@ -1,12 +1,15 @@
 ---
-title: 'CLARO: Inspectable Disagreement in AI-Supported Civic Deliberation'
-summary: A deliberation system that makes disagreement inspectable rather than resolving it, separating whose interests are at stake from what the evidence says.
+title: 'CLARO: Turning Complexity into Clarity'
+summary: A UC San Diego Design Lab platform for collaborative, data-driven decision-making on complex societal challenges, combining data integration, modeling, simulation, and immersive visualization.
 authors:
   - Nadir Weibel
+  - Debmalya Pal
+  - Hridy
 
 tags:
+  - Society
   - AI
-  - Design
+  - XR
 
 show_related: false
 
@@ -27,20 +30,27 @@ weight: 20
 
 ### Overview
 
-Civic decisions are made by a few on behalf of many, and deliberation is how those affected get to contribute. Access to it is uneven. A decision's record reflects mainly the interests able to reach it, and the judgments that resolved everything else stay invisible.
+Challenges like climate, housing, health, and neighborhood revitalization are deeply interconnected, and the tools used to reason about them are not. Dashboards, static reports, and siloed studies produce disjointed analysis and contradictory recommendations, and qualitative evidence rarely sits alongside the quantitative. Decision-making also tends to exclude the perspectives most affected by the outcome.
 
-**CLARO** is a deliberation system that makes disagreement inspectable rather than resolving it. A People × Domain structure separates stakeholder interests and priorities from domain evidence, constraints, and uncertainty. Bounded cross-examination then lets agents test each other's claims and assumptions, and whatever remains is typed as empirical, value-based, framing-related, or epistemic.
+**CLARO** (Collaborative Lab for Analytics, Reality-modeling, and Observation) is a platform for building interactive simulations that make advanced data modeling and scenario planning usable by policymakers, planners, and communities. In Spanish, *claro* means *clear*.
 
-The distinction matters because these conflicts behave differently. Cross-examination narrows disagreements that evidence can settle far more often than it narrows conflicts of value, which it cannot settle at all. Surfacing that difference is the point.
+The platform is organized as four layers: data ingestion, modeling, simulation, and visualization. Structured and unstructured sources (text, audio, video) feed a modeling layer built on knowledge graphs, large language models, and retrieval-augmented generation. Above it sit digital twin, GIS, and game-engine simulation, and a visualization layer spanning 2D, 3D, voice, and VR/AR/XR. A conversational interface lets a user pose a question in natural language and receive generated maps, charts, and scenarios.
 
-CLARO issues no policy recommendation and is not a substitute for public participation. It is a tool for examining competing perspectives before deciding.
+The design goal is a shared view: the same underlying data, rendered through whichever lens a given stakeholder works in, so that technical expertise is not a precondition for participating in the decision.
+
+CLARO formalizes an intersection the Design Lab has worked in for years, bringing together humanity-centered design, systems and behavioral modeling, and computing power.
+
+### Current use case
+
+**San Diego affordable housing.** CLARO is being applied to help policymakers and developers identify and assess land opportunity, using live data from the California Housing Partnership (CHPD) and SANDAG.
 
 ------
 
 ### Funding and External Collaborations
 
-CLARO is a collaboration between the [HXI Lab](https://hxi.ucsd.edu) and [The Design Lab](https://designlab.ucsd.edu/) at UC San Diego.
+CLARO is a strategic initiative of [The Design Lab](https://designlab.ucsd.edu/) at UC San Diego, developed in collaboration with the San Diego Supercomputer Center and its Artificial Intelligence and Data Innovation Lab (ADIL), which provides data ingestion, storage, and API infrastructure. Nadir Weibel serves as advisor and co-leads the interface and visualization and conversational AI workstreams. NVIDIA platforms, including Omniverse and Video Search and Summarization, are under evaluation for immersive visualization and urban sensing.
 
 <div style="display: flex; justify-content:space-around; align-items: center;">
-<img src="/images/hxi.png" style="height: 100px;">
+<img src="/images/hxi-icon.png" style="height: 60px;">
+<img src="/images/sdsc.svg" style="height: 55px;">
 </div>

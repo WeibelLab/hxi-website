@@ -3,6 +3,8 @@ title: CSE 217 (formerly 190/291)
 summary: HC4H - Human-Centered Computing for Health (Spring Quarter)
 authors: 
   - Nadir Weibel
+  - Manas Bedmutha
+  - Matin Yarmand
 date: '2024-10-26T00:00:00Z'
 
 weight: 30  # section position on page

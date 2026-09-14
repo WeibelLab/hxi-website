@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-title: Archived Research Projects
+title: Earlier Research Projects
 #headless: true  # This file represents a page section.
 
 weight: 10
@@ -18,9 +18,9 @@ design:
   #   2 = Compact  
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 
 ---
-<center>Previous research projects that are not currently running within the HXI Research lab are listed below</center>
+Research at HXI runs in lines that build on each other. The projects below come from earlier phases of that work, and the methods, systems, and collaborations they established carry into what the lab does today.

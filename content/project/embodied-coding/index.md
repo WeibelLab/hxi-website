@@ -7,9 +7,9 @@ authors:
   - Ying Wu
   - Timothy Wood
 tags:
-  - MR
   - Education
-  - Embodied Cognition
+  - XR
+  - Earlier
 show_related: false
 date: '2021-09-23T00:00:00Z'
 external_link: ''
@@ -62,8 +62,3 @@ The Embodied Coding project is an NSF Education & Human Resource funded project 
 ​
 </div>
 ​
-<!-- ------
-​
-### Publications -->
-​
-<!-- {{< cite page="/publication/2021-chen-cui-voli" view="1" >}}  -->

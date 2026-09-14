@@ -8,9 +8,9 @@ authors:
   - Janet Johnson
 
 tags:
-  - MR
-  - Design
-
+  - Collaboration
+  - XR
+  - Earlier
 show_related: false
 
 date: '2021-09-27T00:00:00Z'
@@ -62,8 +62,3 @@ UnBIASED ia a 5-year project, funded by the National Library of Medicine (NLMR01
 
 ------
 --->
-### Publications
-
-{{< cite page="/publication/2019-gasques-pintar" view="1" >}} 
-{{< cite page="/publication/2019-gasques-you" view="1" >}} 
-

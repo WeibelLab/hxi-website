@@ -10,13 +10,15 @@ authors:
   - Manas Bedmutha
   - Aaron Broukhim
   - Isaac Bouchard
+  - Canwen Wang
+  - Gabriella Strudler
+  - Maca Peralta
 
 tags:
-  - Health
-  - Mental Health
+  - MentalHealth
   - AI
-  - JITAI
-  - Mobile Sensing
+  - Sensing
+  - Language
 
 show_related: false
 
@@ -62,9 +64,3 @@ UNDERSTAND is funded by the National Institute of Mental Health (NIMH) at NIH, w
 <img src="/images/NIH_Logo.jpg" style="height: 90px;">
 <img src="/images/ucsd_som.jpg" style="height: 110px;">
 </div>
-
-------
-
-### Publications
-
-*Publications from UNDERSTAND will be listed here as the project's first results appear.*

@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
+  command = "hugo --gc --minify --buildFuture -b $URL"
   publish = "public"
 
 [build.environment]
@@ -13,7 +13,7 @@
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
@@ -56,3 +56,28 @@
   status = 200
   force = true # COMMENT: ensure that we always redirect
 
+
+# Project slug renames (2026-09-14). Keep old URLs working.
+[[redirects]]
+  from = "/project/vehicles"
+  to = "/project/smart-vehicles/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/project/vehicles/*"
+  to = "/project/smart-vehicles/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/project/ubistroke"
+  to = "/project/stroke/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/project/ubistroke/*"
+  to = "/project/stroke/"
+  status = 301
+  force = true

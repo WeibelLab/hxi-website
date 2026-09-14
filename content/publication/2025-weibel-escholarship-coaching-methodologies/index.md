@@ -18,7 +18,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-projects: []
+projects: ['smart-vehicles']
 publishDate: '2025-06-30T00:00:00Z'
 publication_types:
 - '4'

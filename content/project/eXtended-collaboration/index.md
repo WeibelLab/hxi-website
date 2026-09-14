@@ -10,10 +10,8 @@ authors:
   - Lauren Sy
 
 tags:
-  - MR
-  - Collaboration  
-  - Communication
-  - Design
+  - Collaboration
+  - XR
 
 show_related: false
 
@@ -50,10 +48,4 @@ This project enables the design of XR-mediated remote collaboration systems that
 
 The eXtended Collaboration project builds on a number of efforts spanning across the [ARTEMIS](/project/artemis/), [HoloCPR](/project/holocpr), and other AR/VR projects, and investigates in-depth the remote collaboration aspect in Mixed Reality.
 
-
-------
-
-### Publications
-
-{{< cite page="/publication/2021-johnson-you" view="1" >}}
 

@@ -4,8 +4,8 @@ subtitle: 'arXiv preprint 2026'
 summary: '<b>arXiv preprint 2026</b><br/>Preference-based reinforcement learning (PbRL) is the dominant framework for aligning AI systems to human preferences. However, evaluation protocols for such data were designed for text and have not been validated for speech.'
 authors:
 - Aaron Broukhim
-- Eshin Jolly
 - Nadir Weibel
+- Eshin Jolly
 doi: 10.48550/arXiv.2602.22710
 tags:
 - Preprint

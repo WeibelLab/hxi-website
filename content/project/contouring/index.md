@@ -1,6 +1,6 @@
 ---
-title: 'iContour'
-summary: A Mobile System to Support Interactive Contouring and Feedback in Radiation Oncology Training
+title: 'Contouring: Interactive Training and Feedback in Radiation Oncology'
+summary: Interactive systems that teach radiation oncology residents to contour, spanning mobile and cross-device practice, immersive VR contouring, a completed randomized trial, and automated tutoring built on the errors trainees actually make.
 authors: 
   - Nadir Weibel
   - Matin Yarmand
@@ -9,10 +9,9 @@ authors:
   - Larry Hernandez
   - James D. Murphy
 tags:
-  - Health
+  - HealthCare
   - Education
   - AI
-  - Design
   - XR
 show_related: false
 date: '2021-09-23T00:00:00Z'
@@ -39,16 +38,26 @@ Treating patients with safe and effective radiation therapy depends critically o
 
 Poor radiation planning has detrimental consequences on patient well-being. Radiation plans that deviate from protocol specifications have substantially decreased survival compared to patients with compliant radiation plans. Given the impact of contouring on patient outcomes, many contouring resources exist. However, practice guidelines rarely translate into real-world clinical practices, primarily due to ineffective methods of development, delivery, and access.
 
-In collaboration with the department of Radiation Medicine at UCSD, we strive to identify and address shortcomings in radiation oncology education: our efforts aim to transform the traditional 1-on-1 healthcare training into personalized and timely AI and peer support. We have also introduced novel sketching techniques in Virtual Reality to support 3D exploration and annotation in medical images, through the VRContour line of work.
+In collaboration with the department of Radiation Medicine at UCSD, we work to replace the traditional one-to-one apprenticeship model with training that is personalized, timely, and available whenever a resident is ready to practice. Three systems carry that agenda.
 
-The randomized international trial of iContour has since completed, and secondary analyses have characterized the specific, site-dependent contouring mistakes residents make before and after their clinical rotations.
+------
+### iContour
 
+**iContour** is a web-based contouring platform that presents anonymized DICOM cases and gives residents immediate, structured feedback as they delineate. It grew out of needfinding with residents and attendings about when and how contouring feedback actually reaches a trainee, and out of measurements showing that everyday touch devices are accurate enough for real delineation work.
 
+A randomized international trial of iContour has now completed. Secondary analyses of that trial characterize the specific, site-dependent mistakes residents make before and after their clinical rotations, showing that contouring errors are predictable rather than idiosyncratic.
+
+------
+### VRContour
+
+**VRContour** asks what contouring becomes when the anatomy is no longer flat. Residents and attendings work slice by slice on 2D displays even though the structures they are outlining are volumetric. VRContour brings delineation into virtual reality, with sketching techniques designed for 3D exploration and annotation of medical images, and studies which parts of the task actually benefit from immersion.
+
+------
 ### iConTutor
 
-**iConTutor** is the next stage of this work. Where iContour delivered contouring practice and feedback, iConTutor aims to turn that into personalized tutoring: using the errors a trainee actually makes, at the disease site they are actually rotating through, to decide what feedback they should see and when.
+**iConTutor** is the next stage. Where iContour delivered practice and feedback, iConTutor aims to turn that into personalized tutoring: using the errors a trainee actually makes, at the disease site they are actually rotating through, to decide what feedback they should see and when.
 
-The randomized trial of iContour and the secondary analyses of resident contouring mistakes provide the evidence base. Those analyses show that errors are predictable and site-dependent, which is what makes targeted, automated tutoring plausible rather than generic.
+The completed trial and the mistake analyses are the evidence base. Because errors are predictable and site-dependent, targeted automated tutoring becomes plausible where generic feedback would not be.
 
 ------
 
@@ -61,16 +70,17 @@ iContour is funded by Agency for Healthcare Research and Quality (AHRQ). It is a
 <img src="/images/ahrq-logo.png" style="height: 120px;">
 </div>
 
+------
+
 ### Publications
 
 {{< cite page="/publication/2026-yarmand-tochi-goldilocks-contouring" view="1" >}}
 {{< cite page="/publication/2026-nguyen-ijrobp-contouring-changes" view="1" >}}
-{{< cite page="/publication/2024-orr-ijrobp-contouring-mistakes" view="1" >}}
 {{< cite page="/publication/2024-yarmand-dis-icontour-crossdevice" view="1" >}}
 {{< cite page="/publication/2024-yarmand-chi-icontour-needfinding" view="1" >}}
+{{< cite page="/publication/2024-orr-ijrobp-contouring-mistakes" view="1" >}}
 {{< cite page="/publication/2023-yarmand-chi-icontour" view="1" >}}
-{{< cite page="/publication/2021-yarmand-facilitating" view="1" >}}
-{{< cite page="/publication/2022-yarmand-evaluating" view="1" >}}
-{{< cite page="/publication/2022-chen-eics-vrcontour" view="1" >}}
 {{< cite page="/publication/2022-chen-ismar-vrcontour" view="1" >}}
-
+{{< cite page="/publication/2022-chen-eics-vrcontour" view="1" >}}
+{{< cite page="/publication/2022-yarmand-evaluating" view="1" >}}
+{{< cite page="/publication/2021-yarmand-facilitating" view="1" >}}

@@ -3,6 +3,7 @@ title: CSE 118
 summary: Applications in Ubiquitous Computing (Fall Quarter)
 authors: 
   - Nadir Weibel
+  - Chen Chen
 date: '2021-09-23T00:00:00Z'
 
 weight: 20  # section position on page

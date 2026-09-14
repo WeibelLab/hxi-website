@@ -6,7 +6,7 @@ authors:
 - Rebe James
 - Manas Bedmutha
 - Sneha Lakshmanan
-- Mohammad Gholami
+- Maryam Gholami
 - David Wing
 - Kevin Patrick
 - Nadir Weibel

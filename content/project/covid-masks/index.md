@@ -6,9 +6,9 @@ authors:
   - Nadir Weibel
   - Shiv Patel
 tags:
-  - COVID
-  - PPE
-  - 3D-Printing
+  - HealthCare
+  - Fabrication
+  - Earlier
 show_related: false
 date: '2021-09-23T00:00:00Z'
 external_link: ''

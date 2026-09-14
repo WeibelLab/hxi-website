@@ -1,7 +1,7 @@
 ---
 title: 'Improving Human-Autonomous Vehicle Interaction in Complex Systems'
 subtitle: 'Ph.D. Dissertation 2025'
-summary: '<b>Ph.D. Dissertation 2025</b><br/>Advances in Autonomous Vehicle (AV) technology promise significant individual and societal benefits. However, unresolved questions about how to meet the informational needs of riders hinder real-world adoption.<br/><br/><i>Ph.D. Dissertation, UC San Diego. Advised by Nadir Weibel, Kirsh, David.</i>'
+summary: '<b>Ph.D. Dissertation 2025</b><br/>Advances in Autonomous Vehicle (AV) technology promise significant individual and societal benefits. However, unresolved questions about how to meet the informational needs of riders hinder real-world adoption.<br/><br/><i>Ph.D. Dissertation, UC San Diego. Advised by Nadir Weibel and David Kirsh.</i>'
 authors:
 - Robert Kaufman
 tags:

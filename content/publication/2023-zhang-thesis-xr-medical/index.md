@@ -1,7 +1,7 @@
 ---
 title: 'eXtended Reality Support for Invasive Medical Procedures with Enhanced 3D Imaging'
 subtitle: 'Ph.D. Dissertation 2023'
-summary: '<b>Ph.D. Dissertation 2023</b><br/>Invasive medical procedures are essential in healthcare, but clinicians can only be effective in performing them when they are able to precisely understand an individual patient''s anatomy. While training and multi-year experience form the basis for any medical procedure, individualized medical imaging plays a critical and continuous role across both the educational context and the everyday practice of these procedures.<br/><br/><i>Ph.D. Dissertation, UC San Diego. Advised by Nadir Weibel, Schulze, Jürgen P.</i>'
+summary: '<b>Ph.D. Dissertation 2023</b><br/>Invasive medical procedures are essential in healthcare, but clinicians can only be effective in performing them when they are able to precisely understand an individual patient''s anatomy. While training and multi-year experience form the basis for any medical procedure, individualized medical imaging plays a critical and continuous role across both the educational context and the everyday practice of these procedures.<br/><br/><i>Ph.D. Dissertation, UC San Diego. Advised by Nadir Weibel and Jürgen P. Schulze.</i>'
 authors:
 - Menghe Zhang
 tags:

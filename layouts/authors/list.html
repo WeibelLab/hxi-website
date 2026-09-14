@@ -1,0 +1,95 @@
+{{/*
+  Local override of the Wowchemy author profile template.
+
+  Upstream renders a single "Latest" list containing every page the person is an
+  author of, with no grouping and no limit. On a senior profile that is ~190 bare
+  links (publications, projects and courses mixed together, running back to 2005).
+
+  This version groups the same content under headings and caps the publication
+  list, with a link through to the full, filterable publication index.
+
+  When the Wowchemy module is updated, re-diff against
+  wowchemy-hugo-modules/wowchemy/layouts/authors/list.html
+*/}}
+{{- define "main" -}}
+
+{{/* Number of publications to show before linking out. */}}
+{{ $pub_limit := 20 }}
+
+{{/* If an account has not been created for this user, just display their name as the title. */}}
+{{ if not .File }}
+<div class="universal-wrapper pt-3">
+  <h1>{{ .Title }}</h1>
+</div>
+{{ end }}
+
+<section id="profile-page" class="pt-5">
+  <div class="container">
+    {{/* Show the About widget if an account exists for this user. */}}
+    {{ if .File }}
+      {{ $widget := "widgets/about.html" }}
+      {{ $username := (path.Base (path.Split .Path).Dir) }}
+      {{ $params := dict "root" $ "page" . "author" $username }}
+      {{ partial $widget $params }}
+    {{end}}
+
+    {{ $query := where .Pages ".IsNode" false }}
+
+    {{ $projects := where $query "Section" "in" (slice "project" "project-old") }}
+    {{ $courses  := where $query "Section" "course" }}
+    {{ $pubs     := where $query "Section" "publication" }}
+    {{ $other    := where $query "Section" "not in" (slice "project" "project-old" "course" "publication") }}
+
+    {{ with $projects }}
+    <div class="article-widget content-widget-hr">
+      <h3>Research Projects</h3>
+      <ul>
+        {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+
+    {{ with $courses }}
+    <div class="article-widget content-widget-hr">
+      <h3>Teaching</h3>
+      <ul>
+        {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+
+    {{ with $pubs }}
+    <div class="article-widget content-widget-hr">
+      <h3>Recent Publications</h3>
+      <ul>
+        {{ range first $pub_limit . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+      {{ if gt (len .) $pub_limit }}
+      <p class="mt-2">
+        <a href="{{ "/publication/" | relLangURL }}">See all {{ len . }} publications</a>
+      </p>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{ with $other }}
+    <div class="article-widget content-widget-hr">
+      <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
+      <ul>
+        {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+
+  </div>
+</section>
+
+{{- end -}}

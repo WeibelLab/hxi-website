@@ -8,9 +8,8 @@ authors:
   - Janet Johnson
 
 tags:
-  - Ethics
-  - Digital Health
-  - Health
+  - HealthCare
+  - Society
 
 show_related: false
 
@@ -70,13 +69,3 @@ ReCODE Health is supported by University of California San Diego, and its progra
 <img src="/images/ibm.jpg" style="height: 70px;"> 
 </div>
 
-------
-
-### Publications
-
-{{< cite page="/publication/2016-bloss-jmir-human-subject-protection" view="1" >}}
-{{< cite page="/publication/2018-dunseath-nih" view="1" >}}
-{{< cite page="/publication/2015-nebeker-future-of-privacy-challenges" view="1" >}}
-{{< cite page="/publication/2017-nebeker-ethical" view="1" >}}
-{{< cite page="/publication/2019-nebeker-development" view="1" >}}
-{{< cite page="/publication/2017-weibel-hiv" view="1" >}}

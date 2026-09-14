@@ -8,8 +8,7 @@ authors:
   - Scott Klemmer
 tags:
   - Education
-  - Design
-  - Interaction
+  - Earlier
 show_related: false
 date: '2021-09-29T00:00:00Z'
 external_link: ''
@@ -47,10 +46,3 @@ Our works in this space are well-recognized in the media: <a href="https://ucsdn
 ### Funding and External Collaborations
 
 This project is a collaboration between Computer Science and Engineering (CSE) and Cognitive Science (COGS) departments at UC San Diego and Carnegie Mellon University.
-
-
-### Publications
-
-{{< cite page="/publication/2021-yarmand-feels" view="1" >}}
-{{< cite page="/publication/2021-yarmand-cscw-confusion" view="1" >}}
-
