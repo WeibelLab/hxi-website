@@ -2,28 +2,49 @@
 # Netlify "ignore" command: decides whether a commit deploys.
 #   exit 0 = skip the build   exit 1 = build
 #
-# Policy is set by the DEPLOY_POLICY environment variable in the Netlify UI
-# (Site configuration -> Environment variables). Deliberately NOT set in
-# netlify.toml, so the policy can be changed without a commit.
+# Policy comes from DEPLOY_POLICY, set in the Netlify UI (Site configuration ->
+# Environment variables). Deliberately NOT declared in netlify.toml, so the
+# policy can change without a commit.
 #
-#   unset / "manual"  Nothing deploys unless the commit says [deploy].
-#                     Use while the credit budget is tight (300/month plan).
-#   "auto"            Everything deploys except commits saying [skip build].
-#                     Use once the open source plan (10,000 credits) is active.
+#   unset / "manual"  Deploy only when the commit message contains [deploy].
+#   "auto"            Deploy everything except commits containing [skip build].
 #
-# A deploy can always be fired by hand, regardless of policy, from the Netlify
-# UI or a build hook. Build hooks bypass this script entirely.
+# Failure mode is deliberate: if the commit message cannot be determined, this
+# BUILDS. A wasted build is recoverable; a gate that silently holds every commit
+# forever is not.
 
 set -uo pipefail
 
-msg="$(git log -1 --pretty=%B "${COMMIT_REF:-HEAD}" 2>/dev/null || git log -1 --pretty=%B)"
 policy="${DEPLOY_POLICY:-manual}"
+ref="${COMMIT_REF:-HEAD}"
 
-echo "netlify-ignore: policy=${policy}"
+# Try several ways to read the commit message; Netlify's checkout is shallow and
+# the ref is not always reachable.
+msg=""
+for attempt in \
+  "git log -1 --pretty=%B $ref" \
+  "git log -1 --pretty=%B" \
+  "git show -s --format=%B $ref" \
+  "git show -s --format=%B"
+do
+  msg="$($attempt 2>/dev/null)" || true
+  [ -n "${msg//[[:space:]]/}" ] && break
+done
+
+echo "netlify-ignore: policy=${policy} ref=${ref}"
+echo "netlify-ignore: commit message read as:"
+echo "---8<---"
+echo "$msg"
+echo "--->8---"
+
+if [ -z "${msg//[[:space:]]/}" ]; then
+  echo "netlify-ignore: could not read the commit message, building to be safe"
+  exit 1
+fi
 
 # An explicit skip wins under either policy.
 if printf '%s' "$msg" | grep -qiF '[skip build]'; then
-  echo "netlify-ignore: commit marked [skip build], not deploying"
+  echo "netlify-ignore: marked [skip build], holding"
   exit 0
 fi
 
@@ -33,7 +54,7 @@ if [ "$policy" = "auto" ]; then
 fi
 
 if printf '%s' "$msg" | grep -qiF '[deploy]'; then
-  echo "netlify-ignore: commit marked [deploy], deploying"
+  echo "netlify-ignore: marked [deploy], deploying"
   exit 1
 fi
 
