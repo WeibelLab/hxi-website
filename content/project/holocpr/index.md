@@ -30,7 +30,7 @@ lastmod: '2021-09-21T00:21:04.720Z'
 design:
   columns: '2'
 
-weight: 55
+weight: 75
 ---
 
 ------
@@ -47,6 +47,6 @@ Our research outlines a number of key considerations for the design of time-crit
 
 ### Publications
 
-{{< cite page="/publication/johnson-2018-holocpr" view="1" >}}
-{{< cite page="/publication/gasques-2018-realtime" view="1" >}}
+{{< cite page="/publication/2018-johnson-holocpr" view="1" >}}
+{{< cite page="/publication/2018-gasques-realtime" view="1" >}}
 

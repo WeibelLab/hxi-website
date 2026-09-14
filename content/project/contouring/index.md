@@ -30,7 +30,7 @@ lastmod: '2023-04-20T00:21:04.720Z'
 design:
   columns: '2'
 
-weight: 40
+weight: 25
 ---
  
 ------
@@ -39,7 +39,16 @@ Treating patients with safe and effective radiation therapy depends critically o
 
 Poor radiation planning has detrimental consequences on patient well-being. Radiation plans that deviate from protocol specifications have substantially decreased survival compared to patients with compliant radiation plans. Given the impact of contouring on patient outcomes, many contouring resources exist. However, practice guidelines rarely translate into real-world clinical practices, primarily due to ineffective methods of development, delivery, and access.
 
-In collaboration with the department of Radiation Medicine at UCSD, we strive to identify and address shortcomings in radiation oncology education: our efforts aim to transform the traditional 1-on-1 healthcare training into personalized and timely AI and peer support. We also plan to introduce novel sketching techniques in Virtual Reality to support 3D exploration and annotation in medical images. 
+In collaboration with the department of Radiation Medicine at UCSD, we strive to identify and address shortcomings in radiation oncology education: our efforts aim to transform the traditional 1-on-1 healthcare training into personalized and timely AI and peer support. We have also introduced novel sketching techniques in Virtual Reality to support 3D exploration and annotation in medical images, through the VRContour line of work.
+
+The randomized international trial of iContour has since completed, and secondary analyses have characterized the specific, site-dependent contouring mistakes residents make before and after their clinical rotations.
+
+
+### iConTutor
+
+**iConTutor** is the next stage of this work. Where iContour delivered contouring practice and feedback, iConTutor aims to turn that into personalized tutoring: using the errors a trainee actually makes, at the disease site they are actually rotating through, to decide what feedback they should see and when.
+
+The randomized trial of iContour and the secondary analyses of resident contouring mistakes provide the evidence base. Those analyses show that errors are predictable and site-dependent, which is what makes targeted, automated tutoring plausible rather than generic.
 
 ------
 
@@ -54,11 +63,14 @@ iContour is funded by Agency for Healthcare Research and Quality (AHRQ). It is a
 
 ### Publications
 
-{{< cite page="/publication/yarmand-2024-icontourperf" view="1" >}}
-{{< cite page="/publication/yarmand-2024-icontourneeds" view="1" >}}
-{{< cite page="/publication/yarmand-2023-icontour" view="1" >}}
-{{< cite page="/publication/yarmand-2021-facilitating" view="1" >}}
-{{< cite page="/publication/yarmand-2022-evaluating" view="1" >}}
-{{< cite page="/publication/chen-2022-vrcontoureics" view="1" >}}
-{{< cite page="/publication/chen-2022-vrcontourismar" view="1" >}}
+{{< cite page="/publication/2026-yarmand-tochi-goldilocks-contouring" view="1" >}}
+{{< cite page="/publication/2026-nguyen-ijrobp-contouring-changes" view="1" >}}
+{{< cite page="/publication/2024-orr-ijrobp-contouring-mistakes" view="1" >}}
+{{< cite page="/publication/2024-yarmand-dis-icontour-crossdevice" view="1" >}}
+{{< cite page="/publication/2024-yarmand-chi-icontour-needfinding" view="1" >}}
+{{< cite page="/publication/2023-yarmand-chi-icontour" view="1" >}}
+{{< cite page="/publication/2021-yarmand-facilitating" view="1" >}}
+{{< cite page="/publication/2022-yarmand-evaluating" view="1" >}}
+{{< cite page="/publication/2022-chen-eics-vrcontour" view="1" >}}
+{{< cite page="/publication/2022-chen-ismar-vrcontour" view="1" >}}
 

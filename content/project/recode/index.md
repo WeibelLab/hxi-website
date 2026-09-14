@@ -30,7 +30,7 @@ lastmod: '2021-09-21T00:21:04.720Z'
 design:
   columns: '2'
 
-weight: 70
+weight: 85
 
 ---
 
@@ -74,9 +74,9 @@ ReCODE Health is supported by University of California San Diego, and its progra
 
 ### Publications
 
-{{< cite page="/publication/bloss-2016-reimagining" view="1" >}}
-{{< cite page="/publication/dunseath-2018-nih" view="1" >}}
-{{< cite page="/publication/nebeker-2015-new" view="1" >}}
-{{< cite page="/publication/nebeker-2017-ethical" view="1" >}}
-{{< cite page="/publication/nebeker-2019-dewvelopment" view="1" >}}
-{{< cite page="/publication/weibel-2017-hiv" view="1" >}}
+{{< cite page="/publication/2016-bloss-jmir-human-subject-protection" view="1" >}}
+{{< cite page="/publication/2018-dunseath-nih" view="1" >}}
+{{< cite page="/publication/2015-nebeker-future-of-privacy-challenges" view="1" >}}
+{{< cite page="/publication/2017-nebeker-ethical" view="1" >}}
+{{< cite page="/publication/2019-nebeker-development" view="1" >}}
+{{< cite page="/publication/2017-weibel-hiv" view="1" >}}

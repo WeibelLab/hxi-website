@@ -22,7 +22,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-projects: []
+projects: ['contouring']
 publishDate: '2024-01-01T00:00:00Z'
 publication_types:
 - '1'

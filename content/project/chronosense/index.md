@@ -33,7 +33,7 @@ lastmod: '2021-09-27T00:21:04.720Z'
 design:
   columns: '2'
 
-weight: 50
+weight: 70
 ---
 
 <small> *Screenshot of the ChronoSense UI. This tool enables a user to simultaneously capture multiple streams of multimodal data for use at a later point in time. It also allows for real-time and near-time analysis through it's extensible plugin interface.*</small>
@@ -50,7 +50,7 @@ Moving beyond observational research we enter into interventional studies, where
 
 ### Publications
 
-{{< cite page="/publication/weibel-2015-lab" view="1" >}}
-{{< cite page="/publication/weibel-2016-hands" view="1" >}}
-{{< cite page="/publication/weibel-2017-new" view="1" >}}
+{{< cite page="/publication/2015-weibel-puc-lab-in-a-box" view="1" >}}
+{{< cite page="/publication/2016-weibel-hands" view="1" >}}
+{{< cite page="/publication/2017-weibel-new" view="1" >}}
 

@@ -43,16 +43,16 @@ superuser: false
 email: "gasques@ucsd.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focus is on improving remote and co-located surgical mentoring and training as well as creating intefaces for surgical guidance through eXtended Reality technology.
-
-
+bio:
 user_groups:
     - Ph.D Students (Alumni)
 ---
 
-Hello! My name is Danilo Gasques, and I am a <b>Computer Science Ph.D. Candidate</b> at UC San Diego (<a href="https://www.ubicomp.ucsd.edu/">HXI Lab</a> / <a href="https://design.ucsd.edu">Design Lab</a>).
+Hello! My name is Danilo Gasques, and I am a <b>Computer Science Ph.D. Candidate</b> at UC San Diego (<a href="https://hxi.ucsd.edu/">HXI Lab</a> / <a href="https://design.ucsd.edu">Design Lab</a>).
 
 In my research, I use <i>mixed methods</i> to better understand user goals, co-design with stakeholders, and evaluate and explain interventions. I also develop prototypes, tools, and systems. For example, <a href="https://dl.acm.org/doi/10.1145/3290607.3312847">tools to facilitate the rapid-prototyping of Augmented Reality applications</a>.
+
+My research focus is on improving remote and co-located surgical mentoring and training as well as creating interfaces for surgical guidance through eXtended Reality technology.
 
 {{% callout note %}}
 As of 2020, I am excited to share that my research is supported by an <a href="https://www.intuitive.com/en-us/about-us/company/grant-programs">Intuitive Surgical Ph.D. Research Fellowship</a>.

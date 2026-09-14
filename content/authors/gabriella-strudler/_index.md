@@ -1,6 +1,6 @@
 ---
 title: Gabriella Strudler
-role: Research Assistant
+role: Research Associate
 
 avatar_filename: avatar
 

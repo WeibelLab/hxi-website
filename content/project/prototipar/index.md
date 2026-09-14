@@ -28,7 +28,7 @@ lastmod: '2021-09-27T00:21:04.720Z'
 design:
   columns: '2'
 
-weight: 30
+weight: 65
 ---
 
 [//]: # (
@@ -64,6 +64,6 @@ UnBIASED ia a 5-year project, funded by the National Library of Medicine (NLMR01
 --->
 ### Publications
 
-{{< cite page="/publication/gasques-2019-pintar" view="1" >}} 
-{{< cite page="/publication/gasques-2019-you" view="1" >}} 
+{{< cite page="/publication/2019-gasques-pintar" view="1" >}} 
+{{< cite page="/publication/2019-gasques-you" view="1" >}} 
 

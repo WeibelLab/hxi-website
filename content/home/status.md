@@ -20,4 +20,8 @@ design:
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6d02b1d0-aca7-48d5-8696-8bd877f9817c/deploy-status)](https://app.netlify.com/sites/hxi-ucsd/deploys)
 
+<a href="https://www.netlify.com"><img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" height="40"/></a>
+
+This site is powered by <a href="https://www.netlify.com">Netlify</a>.
+
 </center>

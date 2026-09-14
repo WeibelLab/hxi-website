@@ -35,7 +35,7 @@ lastmod: '2025-07-11T00:21:04.720Z'
 design:
   columns: '2'
 
-weight: 30
+weight: 10
 ---
 
 [//]: # (
@@ -54,26 +54,17 @@ By targeting transdiagnostic mechanisms such as emotional dysregulation, interpe
 
 ------
 
-<!-- ### Funding and External Collaborations
+### Funding and External Collaborations
 
-UnBIASED ia a 5-year project, funded by the National Library of Medicine (NLMR01LM013301), and it is a collaboration between the University of Washington and the [HXI Lab](https://hxi.ucsd.edu) at UC San Diego. Our ultimate goal is to create tools to support patients and the next generation of doctors to have bias-free interactions that promote healthcare access, quality, and equity.
-
+UNDERSTAND is funded by the National Institute of Mental Health (NIMH) at NIH, with the funded project starting 1 August 2026. It is a collaboration between the [HXI Lab](https://hxi.ucsd.edu) and the UC San Diego Department of Psychiatry and the Herbert Wertheim School of Public Health, bringing together expertise in DBT, clinical psychology, digital mental health, and ubiquitous sensing.
 
 <div style="display: flex; justify-content:space-around; align-items: center;">
-<img src="/images/UW.png" style="height: 50px;"> 
-<img src="/images/NIH_Logo.jpg" style="height: 80px;"> 
-<img src="/images/nih-nlm.png" style="height: 50px;">
+<img src="/images/NIH_Logo.jpg" style="height: 90px;">
+<img src="/images/ucsd_som.jpg" style="height: 110px;">
 </div>
 
 ------
 
 ### Publications
 
-{{< cite page="/publication/chen-2024-toward" view="1" >}}
-{{< cite page="/publication/bedmutha-2024-jamia-open" view="1" >}}
-{{< cite page="/publication/bascom-2024-designing" view="1" >}}
-{{< cite page="/publication/bedmutha-2024-conversense" view="1" >}}
-{{< cite page="/publication/yang-2023-imagining" view="1" >}}
-{{< cite page="/publication/sabin-2021-developing" view="1" >}} 
-{{< cite page="/publication/rick-2020-cognitive" view="1" >}} 
- -->
+*Publications from UNDERSTAND will be listed here as the project's first results appear.*

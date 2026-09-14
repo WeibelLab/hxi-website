@@ -39,7 +39,7 @@ lastmod: '2021-09-21T00:21:04.720Z'
 design:
   columns: '2'
 
-weight: 1
+weight: 45
 ---
 
 <small> *Artistic rendering of ARTEMIS and its features. Left: a Novice Surgeon in Augmented Reality receiving help from a remote expert. Right: a Remote Expert Surgeon in VR interacting with a 3D point-cloud of the patient, and engaging with the novice on a surgical procedure.*</small>
@@ -78,7 +78,7 @@ This project has been funded by the Naval Medical Center San Diego.
 
 ### Publications
 
-{{< cite page="/publication/artemis-chi2021" view="1" >}}
-{{< cite page="/publication/weibel-2020-artemis" view="1" >}}
-{{< cite page="/publication/gasques-2017-exploring" view="1" >}}
+{{< cite page="/publication/2021-gasques-chi-artemis" view="1" >}}
+{{< cite page="/publication/2020-weibel-artemis" view="1" >}}
+{{< cite page="/publication/2017-gasques-exploring" view="1" >}}
 

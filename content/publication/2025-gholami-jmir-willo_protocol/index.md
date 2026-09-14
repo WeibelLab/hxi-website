@@ -29,7 +29,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-projects: []
+projects: ['willo']
 publishDate: '2025-07-20T00:00:00Z'
 publication_types:
 - '2'

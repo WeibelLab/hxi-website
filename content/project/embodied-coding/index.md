@@ -26,7 +26,7 @@ lastmod: '2021-09-21T00:21:04.720Z'
 design:
   columns: '2'
 
-weight: 60
+weight: 80
 
 
 ---
@@ -66,4 +66,4 @@ The Embodied Coding project is an NSF Education & Human Resource funded project 
 ​
 ### Publications -->
 ​
-<!-- {{< cite page="/publication/volis-cui2021" view="1" >}}  -->
+<!-- {{< cite page="/publication/2021-chen-cui-voli" view="1" >}}  -->

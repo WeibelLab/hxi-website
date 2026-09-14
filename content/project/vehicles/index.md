@@ -40,5 +40,5 @@ This work is done as part of a collaboration between the UCSD departments of Cog
 ------
 ### Publications
 
-{{< cite page="/publication/kaufman-2025-chi-predictingtrust" view="1" >}}
-{{< cite page="/publication/kaufman-2025-chi-whatdidmycarsay" view="1" >}}
+{{< cite page="/publication/2025-kaufman-chi-predictingtrust" view="1" >}}
+{{< cite page="/publication/2025-kaufman-chi-whatdidmycarsay" view="1" >}}

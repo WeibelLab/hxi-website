@@ -34,7 +34,7 @@ lastmod: '2021-09-21T00:21:04.720Z'
 design:
   columns: '2'
 
-weight: 30
+weight: 35
 ---
 
 [//]: # (
@@ -71,12 +71,19 @@ UnBIASED ia a 5-year project, funded by the National Library of Medicine (NLMR01
 
 ------
 
+
+### SocialLM
+
+Assessing communication at scale is the bottleneck. **SocialLM** asks whether large language models can track social behaviors directly from clinical transcripts without fine-tuning, and finds that they can, but unevenly: performance varies by patient race and by segment of the visit. Because that variability is itself an equity problem, the work introduces an agreement-weighted ensemble that improves both accuracy and stability, giving a practical route to social signal tracking at scale.
+
+
 ### Publications
 
-{{< cite page="/publication/chen-2024-toward" view="1" >}}
-{{< cite page="/publication/bedmutha-2024-jamia-open" view="1" >}}
-{{< cite page="/publication/bascom-2024-designing" view="1" >}}
-{{< cite page="/publication/bedmutha-2024-conversense" view="1" >}}
-{{< cite page="/publication/yang-2023-imagining" view="1" >}}
-{{< cite page="/publication/sabin-2021-developing" view="1" >}} 
-{{< cite page="/publication/rick-2020-cognitive" view="1" >}} 
+{{< cite page="/publication/2026-bedmutha-chil-sociallm" view="1" >}}
+{{< cite page="/publication/2024-chen-amia-toward" view="1" >}}
+{{< cite page="/publication/2024-bedmutha-jamiaopen-unbiased-ai" view="1" >}}
+{{< cite page="/publication/2024-bascom-chi-unbiased-design" view="1" >}}
+{{< cite page="/publication/2024-bedmutha-chi-conversense" view="1" >}}
+{{< cite page="/publication/2023-yang-amia-imagining" view="1" >}}
+{{< cite page="/publication/2021-sabin-developing" view="1" >}} 
+{{< cite page="/publication/2020-rick-cognitive" view="1" >}} 

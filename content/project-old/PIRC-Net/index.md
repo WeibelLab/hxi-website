@@ -70,5 +70,5 @@ PIRC-Net is a project in collaboration between the CSE Department, the Center fo
 
 ### Publications
 
-{{< cite page="/publication/thangarajan-2015-analyzing" view="1" >}} 
-{{< cite page="/publication/weibel-2017-hiv" view="1" >}} 
+{{< cite page="/publication/2015-thangarajan-wirelesshealth-hiv-social-media" view="1" >}} 
+{{< cite page="/publication/2017-weibel-hiv" view="1" >}} 

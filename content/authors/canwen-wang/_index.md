@@ -1,6 +1,6 @@
 ---
 title: Canwen Wang
-role: Research Assistant
+role: Research Associate
 
 avatar_filename: avatar
 

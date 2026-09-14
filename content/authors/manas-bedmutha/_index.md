@@ -45,8 +45,7 @@ superuser: false
 email: "mbedmutha@ucsd.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Manas is currently working on developing technologies for supporting social wellbeing -- across in-person conversations (social signal processing) as well as building digital just-in-time interventions (JITAIs) for social engagement
-
+bio:
 user_groups:
 - Ph.D Students, Researchers, and Postdocs
 ---
@@ -54,6 +53,8 @@ user_groups:
 Hello! I am Manas Bedmutha, a <b>Ph.D. student in Computer Science</b> at UC San Diego (<a href="https://hxi.ucsd.edu/">HXI Lab</a> / <a href="https://design.ucsd.edu">Design Lab</a>).
 
 In my research, I use signal processing and machine learning on ubiquitous devices to interpret and interact with user behaviors. My current focus lies on human-AI interaction with the goal of making AI accessible and trustworthy through novel sensing and interaction ideas.
+
+I am currently working on developing technologies for supporting social wellbeing, across in-person conversations (social signal processing) as well as building digital just-in-time interventions (JITAIs) for social engagement.
 
 Please find my CV <a href="https://drive.google.com/file/d/1op85WtACLcwo3qB_ECkxrF7_H2VtFtVT/view?usp=sharing">here</a>.
 

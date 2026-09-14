@@ -32,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['PIRC-Net', 'recode']
 publishDate: '2021-09-23T22:50:45.644700Z'
 publication_types:
 - '1'

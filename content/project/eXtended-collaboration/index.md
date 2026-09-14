@@ -33,7 +33,7 @@ lastmod: '2021-09-21T00:21:04.720Z'
 design:
   columns: '2'
 
-weight: 35
+weight: 55
 ---
 
 ------
@@ -55,5 +55,5 @@ The eXtended Collaboration project builds on a number of efforts spanning across
 
 ### Publications
 
-{{< cite page="/publication/johnson-2021-you" view="1" >}}
+{{< cite page="/publication/2021-johnson-you" view="1" >}}
 

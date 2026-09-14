@@ -26,7 +26,7 @@ lastmod: '2021-09-21T00:21:04.720Z'
 design:
   columns: '2'
 
-weight: 40
+weight: 60
 ---
  
 ------
@@ -51,6 +51,6 @@ This project is a collaboration between Computer Science and Engineering (CSE) a
 
 ### Publications
 
-{{< cite page="/publication/yarmand-2021-feels" view="1" >}}
-{{< cite page="/publication/yarmand-2021-confusion" view="1" >}}
+{{< cite page="/publication/2021-yarmand-feels" view="1" >}}
+{{< cite page="/publication/2021-yarmand-cscw-confusion" view="1" >}}
 
