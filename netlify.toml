@@ -1,6 +1,13 @@
 [build]
   command = "hugo --gc --minify --buildFuture -b $URL"
   publish = "public"
+  # Whether a commit deploys is decided by scripts/netlify-ignore.sh, driven by
+  # the DEPLOY_POLICY environment variable set in the Netlify UI. Default
+  # (unset) is "manual": nothing deploys unless the commit message says
+  # [deploy]. Set DEPLOY_POLICY=auto once the credit budget allows.
+  # DEPLOY_POLICY is intentionally not declared in this file, so the policy can
+  # be changed from the UI without a commit.
+  ignore = "bash scripts/netlify-ignore.sh"
 
 [build.environment]
   HUGO_VERSION = "0.89.2"
@@ -79,5 +86,17 @@
 [[redirects]]
   from = "/project/ubistroke/*"
   to = "/project/stroke/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/author/hridy"
+  to = "/author/hridyanshu/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/author/hridy/*"
+  to = "/author/hridyanshu/"
   status = 301
   force = true

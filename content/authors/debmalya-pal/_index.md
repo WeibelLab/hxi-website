@@ -2,6 +2,8 @@
 title: Debmalya Pal
 role: Master Student
 
+avatar_filename: avatar
+
 weight: 10
 
 organizations:
@@ -10,14 +12,20 @@ organizations:
   - name: HXI
     url: https://hxi.ucsd.edu/
 
+interests:
+
 social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:d2pal@ucsd.edu'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/debmalya-pal/
 
 superuser: false
 email: "d2pal@ucsd.edu"
 
+# Short bio (displayed in user profile at end of posts)
 bio:
 
 user_groups:

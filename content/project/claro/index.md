@@ -4,7 +4,7 @@ summary: A UC San Diego Design Lab platform for collaborative, data-driven decis
 authors:
   - Nadir Weibel
   - Debmalya Pal
-  - Hridy
+  - Hridyanshu
 
 tags:
   - Society
