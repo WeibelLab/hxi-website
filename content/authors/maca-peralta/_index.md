@@ -13,9 +13,12 @@ organizations:
 interests:
 
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:peraltam@umich.edu'
 
 superuser: false
-email: ""
+email: "peraltam@umich.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio:

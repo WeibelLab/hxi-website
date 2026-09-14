@@ -13,9 +13,12 @@ organizations:
 interests:
 
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:canwenw@andrew.cmu.edu'
 
 superuser: false
-email: ""
+email: "canwenw@andrew.cmu.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
