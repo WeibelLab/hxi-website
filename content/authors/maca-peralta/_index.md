@@ -16,6 +16,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:peraltam@umich.edu'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/macarena-peralta/
 
 superuser: false
 email: "peraltam@umich.edu"

@@ -2,6 +2,8 @@
 title: Canwen Wang
 role: Research Assistant
 
+avatar_filename: avatar
+
 weight: -5
 
 organizations:
@@ -16,6 +18,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:canwenw@andrew.cmu.edu'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=x6jgA4cAAAAJ&hl=en
 
 superuser: false
 email: "canwenw@andrew.cmu.edu"

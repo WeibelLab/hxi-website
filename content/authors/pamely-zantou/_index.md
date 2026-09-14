@@ -2,6 +2,8 @@
 title: Pamely Zantou
 role: Ph.D. Student<br/>(Co-Advised with Edward Wang)
 
+avatar_filename: avatar
+
 weight: -10
 
 organizations:
@@ -16,6 +18,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:pzantou@ucsd.edu'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/pamely-zantou/
 
 superuser: false
 email: "pzantou@ucsd.edu"

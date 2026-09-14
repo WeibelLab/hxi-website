@@ -2,6 +2,8 @@
 title: Gabriella Strudler
 role: Research Assistant
 
+avatar_filename: avatar
+
 weight: 0
 
 organizations:
@@ -16,6 +18,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:gstrudler@ucsd.edu'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/gabriella-strudler/
 
 superuser: false
 email: "gstrudler@ucsd.edu"
