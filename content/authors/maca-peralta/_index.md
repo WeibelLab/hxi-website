@@ -2,6 +2,8 @@
 title: Maca Peralta
 role: Ph.D. Student
 
+avatar_filename: avatar
+
 weight: -15
 
 organizations:
