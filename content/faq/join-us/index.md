@@ -29,7 +29,7 @@ Please browse through our page to see a list of our [current lab members](https:
 <a name="phd"/>
 
 ### Ph.D. Students
-***For the academic year 2022/2023 the HXI lab is NOT looking for new Prospective Ph.D. Students.***
+***For the academic year 2027/2028 the HXI lab IS looking for new Prospective Ph.D. Students.***
 
 As a Ph.D. student you engage with the HXI lab over several years doing fundamental and applied research towards the accomplishment of your Ph.D. Thesis.
 
