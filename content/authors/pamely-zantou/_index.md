@@ -21,6 +21,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/pamely-zantou/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/pamely
+  - icon: dblp
+    icon_pack: ai
+    link: https://dblp.org/pid/355/4521.html
 
 superuser: false
 email: "pzantou@ucsd.edu"
