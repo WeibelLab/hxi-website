@@ -3,11 +3,12 @@
 
 title: 'Reducing alarm fatigue: exploring decision structures, risks, and design'
 subtitle: 'EAI Endorsed Trans 2017'
-summary: '<b>EAI Endorsed Trans 2017</b>'
+summary: '<b>EAI Endorsed Trans 2017</b><br>Automated patient monitoring systems suer from several design problems. Among them, alarm fatigue is one of the most critical issues, as evidenced by the Sentinel Event Alert that The Joint Commission – the U.S.'
 authors:
 - Mustafa Hussain
 - James Dewey
 - Nadir Weibel
+doi: 10.4108/eai.13-7-2017.152886
 tags: []
 categories: []
 date: '2017-01-01'
@@ -32,6 +33,6 @@ projects: []
 publishDate: '2021-09-23T22:50:50.362324Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Automated patient monitoring systems suer from several design problems. Among them, alarm fatigue is one of the most critical issues, as evidenced by the Sentinel Event Alert that The Joint Commission – the U.S. hospital-accrediting body – recently issued. In this study, we explore fast-and-frugal heuristics that may be used to prioritize patient alarms, while continuing to monitor patient physiological state. By using a combination of human factors methodologies and the theory of Distributed Cognition (DCog), we studied alarm fatigue and its relationship to the underlying hospital systems. We identified three specific factors that we envision to be helpful for clinical personnel: ventilator presence, number of intravenous drips, and number of medications. We discuss their application in daily hospital operation. We also address cost-benefit considerations and possible monitor designs.'
 publication: '*EAI Endorsed Transactions on Pervasive Health and Technology*'
 ---

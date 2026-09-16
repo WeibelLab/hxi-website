@@ -3,7 +3,7 @@
 
 title: 'MotionDraw: a tool for enhancing art and performance using kinect'
 subtitle: 'CHI EA 2013'
-summary: '<b>CHI EA 2013</b>'
+summary: '<b>CHI EA 2013</b><br>Contemporary staged performances frequently utilize advanced lighting and projection techniques. The design and creation of these stage effects are rarely accessible to the actual performers and must be designed by professional lighting designers or highly-paid programmers.'
 authors:
 - Danilo Gasques
 - Emily Grenader
@@ -35,6 +35,6 @@ projects: []
 publishDate: '2021-09-23T22:50:35.998655Z'
 publication_types:
 - '6'
-abstract: ''
+abstract: 'Contemporary staged performances frequently utilize advanced lighting and projection techniques. The design and creation of these stage effects are rarely accessible to the actual performers and must be designed by professional lighting designers or highly-paid programmers. With MotionDraw we want to create an affordable system that is easily controlled and manipulated by performers. With intuitive gestures, non-specialized users can control the MotionDraw visual library and interact with the captured visual record of their own movements. Possible uses for our system grew out of research with dancers and performers, and the current technical implementation sets a framework for including additional visual libraries and capabilities.'
 publication: "*CHI'13 Extended Abstracts on Human Factors in Computing Systems*"
 ---

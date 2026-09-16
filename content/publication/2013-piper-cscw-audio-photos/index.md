@@ -3,7 +3,7 @@
 
 title: 'Audio-enhanced paper photos: encouraging social interaction at age 105'
 subtitle: 'CSCW 2013'
-summary: '<b>CSCW 2013</b>'
+summary: '<b>CSCW 2013</b><br>Photographs are powerful and pervasive media that facilitate communication and support reminiscence. Adding audio narrations to traditional paper photographs combines the familiarity of paper photos with the nuanced richness of voice.'
 authors:
 - Anne Marie Piper
 - Nadir Weibel
@@ -32,7 +32,7 @@ projects: []
 publishDate: '2021-09-23T22:50:36.287201Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Photographs are powerful and pervasive media that facilitate communication and support reminiscence. Adding audio narrations to traditional paper photographs combines the familiarity of paper photos with the nuanced richness of voice. We enable creation of and interaction with audio-enhanced paper photographs through custom software deployed on a digital pen. This paper reports on use of a paper-digital photo album by an older adult (Ethel, age 105), her extended family, and nursing staff over a five-month field deployment. The interactive photo album was found to be easy to use and accessible, effectively engaged Ethel''s and family members'' interest, and provided a focal point for communication and social interaction. Family and caregivers report improvements in Ethel''s social interaction. We discuss the properties of our audio-enhanced paper approach that make it a promising medium for engaging older adults and distill general design considerations for paper-digital photo albums.'
 publication: '*Proceedings of the 2013 conference on Computer supported cooperative
   work*'
 ---

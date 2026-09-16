@@ -4,7 +4,7 @@
 title: 'Nurture-Empower-Support: A Human-Centered Approach to Understand and Support
   ICU Families'
 subtitle: 'PervasiveHealth 2019'
-summary: '<b>PervasiveHealth 2019</b>'
+summary: '<b>PervasiveHealth 2019</b><br>Family members have been shown to be integral to the well-being and recovery of patients in Intensive Care Units (ICUs). Watching a loved one fight a critical illness, however, can be a terrifying and life-altering experience.'
 authors:
 - Janet Johnson
 - Evan Schmitz
@@ -34,7 +34,7 @@ projects: []
 publishDate: '2021-09-23T22:50:54.364320Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Family members have been shown to be integral to the well-being and recovery of patients in Intensive Care Units (ICUs). Watching a loved one fight a critical illness, however, can be a terrifying and life-altering experience. We present the results of a need-finding process aimed to investigate how interventions in the ICU can be designed to facilitate family member support in the ICU. We first delve into an in-depth 3-month ethnographic study to understand the complex ICU environment and to observe family-care team interactions. We then capture family experiences using journals and semi-structured interviews with a total of 23 family members. Based on these investigations, we propose NES (Nurture-Empower-Support), a three-stage framework to aid the creation of a holistic system that supports the dynamic needs of families in the ICU.'
 publication: '*Proceedings of the 13th EAI International Conference on Pervasive Computing
   Technologies for Healthcare*'
 ---

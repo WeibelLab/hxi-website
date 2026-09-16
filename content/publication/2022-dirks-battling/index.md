@@ -27,7 +27,7 @@ authors:
   - Nadir Weibel
   - Andrea Hartzler
 
-doi: doi.org/10.1145/3491101.3519825
+doi: 10.1145/3491101.3519825
 publication: '*CHI Conference on Human Factors in Computing Systems Extended Abstracts*'
 publication_short: '*CHI 2022*'
 abstract: 'Although clinical training in implicit bias is essential for healthcare equity, major gaps remain both for effective educational strategies and for tools to help identify implicit bias. To understand the perspectives of clinicians on the design of these needed strategies and tools, we conducted 21 semi-structured interviews with primary care clinicians about their perspectives and design recommendations for tools to improve patient-centered communication and to help mitigate implicit bias. Participants generated three types of solutions to improve communication and raise awareness of implicit bias: digital nudges, guided reflection, and data-driven feedback. Given the nuance of implicit bias communication feedback, these findings illustrate innovative design directions for communication training strategies that clinicians may find acceptable. Improving communication skills through individual feedback designed by clinicians for clinicians has the potential to improve healthcare equity.'

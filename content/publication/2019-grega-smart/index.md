@@ -3,7 +3,7 @@
 
 title: 'SMART 2.0: A Multimodal Weight Loss Intervention for Young Adults'
 subtitle: 'CHI EA 2019'
-summary: '<b>CHI EA 2019</b>'
+summary: '<b>CHI EA 2019</b><br>A significant number of young Americans are vulnerable to excess weight gain, especially during the college years. While technology-based weight loss interventions have the potential to be very engaging, short-term approaches showed limited success.'
 authors:
 - Lisa M Grega
 - Nadir Weibel
@@ -35,7 +35,7 @@ projects: []
 publishDate: '2021-09-23T22:50:53.562743Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'A significant number of young Americans are vulnerable to excess weight gain, especially during the college years. While technology-based weight loss interventions have the potential to be very engaging, short-term approaches showed limited success. In our work we aim to better understand the impact of long-term, multimodal, technology-based weight loss interventions, and study their potential for greater effect among college students. In this paper we lay the basis for our approach towards a multimodal health intervention for young adults: we present formative work based on interviews and a design workshop with 26 young adults. We discuss our intervention at the intersection of user feedback, empirical evidence from previous work, and behavior change theory.'
 publication: '*Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing
   Systems*'
 ---

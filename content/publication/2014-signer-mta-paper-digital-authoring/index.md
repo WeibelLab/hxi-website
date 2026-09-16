@@ -3,12 +3,13 @@
 
 title: Advanced authoring of paper-digital systems
 subtitle: 'MTAP 2014'
-summary: '<b>MTAP 2014</b>'
+summary: '<b>MTAP 2014</b><br>Over the last decade, there has been an increasing interest in paper-digital systems that allow regular paper documents to be augmented or integrated with digital information and services.'
 authors:
 - Beat Signer
 - Moira C Norrie
 - Nadir Weibel
 - Adriana Ispas
+doi: 10.1007/s11042-012-1217-7
 tags: []
 categories: []
 date: '2014-01-01'
@@ -33,6 +34,6 @@ projects: []
 publishDate: '2021-09-23T22:50:35.397257Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Over the last decade, there has been an increasing interest in paper-digital systems that allow regular paper documents to be augmented or integrated with digital information and services. Although a wide variety of technical solutions and applications have been proposed, they all rely on some means of specifying links from areas within paper pages to digital services where these areas correspond to elements of the document''s artwork. Various frameworks and tools are available to support the development of paper-digital applications, but they tend to either require some programming skills or focus on specific application domains. We present an advanced publishing solution that is based on an authoring rather than programming approach to the production of interactive paper documents. Our solution is fully general and we describe how it uses concepts of templates and variable content elements to reduce redundancies and increase the flexibility in developing paper-digital applications.'
 publication: '*Multimedia tools and applications*'
 ---

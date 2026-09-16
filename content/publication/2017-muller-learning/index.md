@@ -3,7 +3,7 @@
 
 title: 'Learning from failure: designing for complex sociotechnical systems'
 subtitle: 'UbiComp 2017'
-summary: '<b>UbiComp 2017</b>'
+summary: '<b>UbiComp 2017</b><br>As ubiquitous computing solutions are becoming part of everyday life, their design has to account for the challenges of complex sociotechnical systems. Unexpected behavior and interactions between multiple systems, users and stakeholders challenge design methods and raise the risk of failure.'
 authors:
 - Lars Müller
 - Matthias Budde
@@ -35,7 +35,7 @@ projects: []
 publishDate: '2021-09-23T22:50:48.474812Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'As ubiquitous computing solutions are becoming part of everyday life, their design has to account for the challenges of complex sociotechnical systems. Unexpected behavior and interactions between multiple systems, users and stakeholders challenge design methods and raise the risk of failure. This workshop provides an opportunity for the UbiComp community to reflect on these failures and juxtapose them with human-centered design methods. Through short participant authored failure reports, hands-on design sessions in groups and all-group discussion, we will share challenges and reflect on lessons learned for the design of complex sociotechnical systems.'
 publication: '*Proceedings of the 2017 ACM International Joint Conference on Pervasive
   and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium
   on Wearable Computers*'

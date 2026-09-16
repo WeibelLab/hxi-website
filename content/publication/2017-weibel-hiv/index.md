@@ -12,7 +12,7 @@ authors:
 - Amarnath Gupta
 - Susan Little
 tags: []
-categories: ['PIRC-Net', 'recode']
+categories: []
 date: '2017-01-01'
 lastmod: 2021-09-23T15:50:45-07:00
 featured: false
@@ -32,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ['PIRC-Net', 'recode']
+projects: []
 publishDate: '2021-09-23T22:50:45.644700Z'
 publication_types:
 - '1'

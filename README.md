@@ -94,6 +94,126 @@ automatically.
 The theme itself is not in this repository. It is pulled in as a Hugo module, pinned in
 `go.mod`, so there is nothing to edit there and upgrading it is deliberately not routine.
 
+## The site, page by page
+
+Screenshots are the top of each page at 1280px wide. They are stored in
+`docs/screenshots/` and are only for this README; nothing on the site uses them.
+
+### Home
+
+<img src="docs/screenshots/home.png" width="380">
+
+[hxi.ucsd.edu](https://hxi.ucsd.edu/). The lab's one-paragraph description, a photo
+slider, what the lab does, the calls to action, the partner logos and the funding note.
+
+The page is a stack of widget files in `content/home/`, ordered by `weight`:
+`welcome.md` (10), `slider.md` (20), `intro.md` (30), `cta.md` (40), `partners.md` (50),
+`support.md` (60) and `status.md` (100). Each is a `blank` widget holding its own
+Markdown, except `slider.md`, which lists the rotating images. `content/home/index.md`
+only marks the folder as a widget page.
+
+### Research
+
+<img src="docs/screenshots/research.png" width="380">
+
+[hxi.ucsd.edu/research/](https://hxi.ucsd.edu/research/). Every project, split into
+"Current Research Projects" and "Earlier Projects".
+
+Two portfolio widgets over the same 22 folders in `content/project/`:
+`content/research/research.md` renders the current section and excludes anything tagged
+`Earlier`; `content/research/foundations.md` renders the earlier section and selects on
+that same tag. A project moves between the two by gaining or losing the tag. The Domain
+and Technology button rows are declared as `filter_axes` in `research.md`, combined by
+`assets/js/project-filters.js`, and rendered by
+`layouts/partials/widgets/portfolio.html`. They filter both sections at once.
+
+### People
+
+<img src="docs/screenshots/people.png" width="380">
+
+[hxi.ucsd.edu/people/](https://hxi.ucsd.edu/people/). Current members, grouped by
+Director, Ph.D students, Master students and so on.
+
+A people widget, `content/people/people.md`, over the profile folders in
+`content/authors/`. The headings are the `user_groups` list in that widget file, and a
+person appears under a heading because their own `_index.md` names it.
+`layouts/authors/list.html` does the grouping.
+
+### Alumni
+
+<img src="docs/screenshots/alumni.png" width="380">
+
+[hxi.ucsd.edu/alumni/](https://hxi.ucsd.edu/alumni/). Former members, same layout,
+different groups.
+
+`content/alumni/alumni.md`, built the same way. Former members' profile folders live in
+`content/authors/_alumni/`, and their `user_groups` values carry the `(Alumni)` suffix.
+
+### Publications
+
+<img src="docs/screenshots/publications.png" width="380">
+
+[hxi.ucsd.edu/publication/](https://hxi.ucsd.edu/publication/). The full list, newest
+first, with a search box and Type and Date filters.
+
+One entry per folder in `content/publication/`. `layouts/section/publication.html`
+overrides the theme's ordering so that preprints sort after peer-reviewed papers within
+the same year. The intro text and the link to `hxi.bib` live in
+`content/publication/_index.md`.
+
+### Teaching
+
+<img src="docs/screenshots/teaching.png" width="380">
+
+[hxi.ucsd.edu/teaching/](https://hxi.ucsd.edu/teaching/). The courses the lab teaches.
+
+One folder per course in `content/course/` (`cse118`, `cse165`, `dsc266r`, `hc4h`,
+`hcai`, `wes237a`), with the page intro in `content/course/_index.md`.
+
+### FAQ
+
+<img src="docs/screenshots/faq.png" width="380">
+
+[hxi.ucsd.edu/faq/](https://hxi.ucsd.edu/faq/). Joining the lab, contacting Nadir,
+committee requests, recommendation letters, access to software and data.
+
+One folder per question in `content/faq/`, listed by `content/faq/_index.md`. The
+question is the page title and the one-line summary under it is its `summary` field.
+
+### A project page
+
+<img src="docs/screenshots/project-page.png" width="380">
+
+[hxi.ucsd.edu/project/simulated-patients/](https://hxi.ucsd.edu/project/simulated-patients/). One project, with its description, images, funders and publication list.
+
+`content/project/simulated-patients/index.md` plus the images in the same folder. The
+publication list at the bottom is generated: it is every paper whose `projects:` field
+names this folder. The funder logos come from `static/images/`.
+
+### A publication page
+
+<img src="docs/screenshots/publication-page.png" width="380">
+
+[hxi.ucsd.edu/publication/2025-chidambaram-uist-drivesimquest/](https://hxi.ucsd.edu/publication/2025-chidambaram-uist-drivesimquest/). One paper: authors, abstract, venue, and the Cite, Project, DOI, Publisher and arXiv
+buttons.
+
+`content/publication/2025-chidambaram-uist-drivesimquest/index.md` plus `cite.bib` and
+an optional `featured.*` image. Author names that match a folder in `content/authors/`
+become links and render in bold. The Cite button serves `cite.bib`, and the same file
+feeds the site-wide `hxi.bib` export.
+
+### An author page
+
+<img src="docs/screenshots/author-page.png" width="380">
+
+[hxi.ucsd.edu/author/nadir-weibel/](https://hxi.ucsd.edu/author/nadir-weibel/). One
+person: bio, interests, education, links, and every paper that names them.
+
+`content/authors/nadir-weibel/_index.md` plus `avatar.jpg`. The publication list is
+generated from the `authors:` field of every publication, so a profile never lists its
+own papers. Every current and former member has one of these pages, including people who
+are not on `/people` any more.
+
 ## I just want to add a paper or update my profile
 
 You do not need to install anything, and you do not need to know Hugo or Markdown.
@@ -107,7 +227,7 @@ If you would rather do it by hand, the two things you are most likely to touch a
 
 | What | Where |
 |---|---|
-| A publication | `content/publication/<year>-<lastname>-<venue>-<short>/` — `index.md` plus `cite.bib` |
+| A publication | `content/publication/<year>-<lastname>-<venue>-<short>/` ,  `index.md` plus `cite.bib` |
 | A person | `content/authors/<firstname-lastname>/_index.md`, plus `avatar.jpg` in the same folder |
 | A project | `content/project/<slug>/index.md` |
 
@@ -164,7 +284,7 @@ hugo server
 ```
 
 Then open http://localhost:1313. Restart the server after changing anything in `config/`,
-`static/`, `assets/js/`, or `layouts/`, and after renaming a folder — live reload does not
+`static/`, `assets/js/`, or `layouts/`, and after renaming a folder ,  live reload does not
 pick those up reliably and will quietly serve stale content.
 
 ## Layout overrides
