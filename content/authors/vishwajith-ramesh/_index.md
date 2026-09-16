@@ -1,6 +1,6 @@
 ---
 title: Vish Ramesh
-role: NIH NLM Postdoctoral Fellow<br/>(Co-Advised with <a href="https://jacobsschool.ucsd.edu/node/3271" target="hxi-external" rel="noopener">Gert Cauwenberghs</a>, BioE)
+role: NIH NLM Postdoctoral Fellow<br/>(Co-Advised with <a href="https://jacobsschool.ucsd.edu/node/3271" target="hxi-external" rel="noopener">Gert Cauwenberghs</a>, Bioengineering)
 
 
 social:
