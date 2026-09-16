@@ -1,6 +1,6 @@
 ---
 title: Robert Kaufman
-role: Ph.D. Alumni<br/>(Co-Advised with David Kirsh)
+role: Ph.D. Alumni<br/>(Co-Advised with <a href="https://cogsci.ucsd.edu/people/faculty/david-kirsh.html" target="hxi-external" rel="noopener">David Kirsh</a>, CogSci)
 avatar_filename: ""
 bio: 
 weight: 40

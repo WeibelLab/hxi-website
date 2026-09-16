@@ -1,6 +1,6 @@
 ---
 title: Poorva Bedmutha
-role: Ph.D. Student<br/>(Co-Advised with Karandeep Singh)
+role: Ph.D. Student<br/>(Co-Advised with <a href="https://profiles.ucsd.edu/karandeep.singh" target="hxi-external" rel="noopener">Karandeep Singh</a>, DBMI)
 avatar_filename: avatar
 
 weight: -30

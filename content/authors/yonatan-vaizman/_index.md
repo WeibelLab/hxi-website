@@ -1,6 +1,6 @@
 ---
 title: Yonatan Vaizman
-role: Ph.D. Alumni<br/>(Co-Advised with Gert Lanckriet)
+role: Ph.D. Alumni<br/>(Co-Advised with <a href="http://eceweb.ucsd.edu/~gert/" target="hxi-external" rel="noopener">Gert Lanckriet</a>, ECE)
 
 social:
   - icon: linkedin

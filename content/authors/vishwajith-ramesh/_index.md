@@ -1,6 +1,6 @@
 ---
 title: Vish Ramesh
-role: NIH NLM Postdoctoral Fellow<br/>(Co-Advised with Gert Cauwenberghs)
+role: NIH NLM Postdoctoral Fellow<br/>(Co-Advised with <a href="https://jacobsschool.ucsd.edu/node/3271" target="hxi-external" rel="noopener">Gert Cauwenberghs</a>, BioE)
 
 
 social:
@@ -48,4 +48,3 @@ Through a start-up and a continued interdisciplinary career in academia, Vish ho
 - [Siebel Scholarship ($35,000)](https://ucsdnews.ucsd.edu/pressrelease/five-uc-san-diego-bioengineering-graduate-students-honored-as-siebel-scholars) - Outstanding academic performance and leadership (2020)
 - [NSF Graduate Research Fellowship ($138,000)](https://www.nsfgrfp.org/) - Prestigious grant to support PhD Research (2017)
 - [UCSD Chancellor’s Research Excellence Scholarship ($50,000)](https://cse.ucsd.edu/node/976/) - To support PhD research on "Stroke-Kinect: A Sensor-Based Approach Towards Creating a Multimodal Stroke Signature" (2017)
-
