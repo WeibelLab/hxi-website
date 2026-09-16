@@ -93,6 +93,43 @@ Commit as often as you like; it costs nothing. Your change goes live at the next
 **Do not put `[deploy]` in a commit message** unless you are the one releasing the queue,
 because it publishes everything anyone else has queued too.
 
+## Seeing your change before it publishes
+
+Because publishing is batched, a commit sits in the repo for a while before it reaches
+hxi.ucsd.edu. There is no preview on the hosting side either: Netlify's pull-request
+previews run through the same gate as production, so opening a PR does not build you one.
+That leaves two routes.
+
+**Have the assistant read the file back.** Quick, needs nothing installed, and it is what
+the packaged skill does after every commit: it re-reads what it wrote and checks it against
+the conventions that fail silently, such as the group string on a profile or the project
+slug on a paper. This catches most mistakes, but it is not a picture of the page. A chat
+assistant in a browser has no shell, so it genuinely cannot render the site; if one offers
+to, it is wrong.
+
+**Run the site yourself.** The only way to actually look at the page:
+
+```bash
+git clone https://github.com/WeibelLab/hxi-website.git
+cd hxi-website
+hugo server
+```
+
+Then open http://localhost:1313. In Claude Code, which does have a shell, you can ask
+Claude to do this for you and it will start the preview and check the page.
+
+Hugo must be the **extended** build, version 0.89.2, the version Netlify uses. Newer
+versions break this theme's pinned modules, so `brew install hugo` will not work. Get it
+from [the v0.89.2 release page](https://github.com/gohugoio/hugo/releases/tag/v0.89.2).
+
+Two things that otherwise waste an afternoon:
+
+- **Restart the server** after changing anything in `config/`, `static/`, `assets/js/` or
+  `layouts/`, and after renaming a folder. Live reload misses those and quietly serves
+  stale content, which looks exactly like your change not working.
+- **A clean build is not proof.** A wrong `user_groups` value or a nonexistent project slug
+  builds without complaint and simply omits your content. Open the page and look for it.
+
 ## Conventions that matter
 
 These are the ones that fail *silently*, producing a clean build with your content missing:
@@ -114,19 +151,6 @@ The full publication list is exported as BibTeX at
 [hxi.ucsd.edu/hxi.bib](https://hxi.ucsd.edu/hxi.bib), generated at build time from each
 publication's own `cite.bib`. There is no hand-maintained master `.bib` file, deliberately:
 the previous one silently went stale for four years.
-
-## Building locally
-
-Requires Hugo **extended** 0.89.2, the version Netlify uses. Newer versions break this
-theme's pinned modules.
-
-```bash
-hugo server
-```
-
-Then open http://localhost:1313. Restart the server after changing anything in `config/`,
-`static/`, `assets/js/` or `layouts/`, and after renaming a folder. Live reload does not
-pick those up reliably and will quietly serve stale content.
 
 ## Layout overrides
 
