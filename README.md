@@ -138,6 +138,12 @@ Everything in `layouts/` overrides the theme. Keep this list short.
 | `layouts/authors/list.html` | Groups people by `user_groups` on `/people` and `/alumni` |
 | `layouts/partials/widgets/portfolio.html` | Adds `exclude_tags` and two-axis filtering on `/research` |
 | `layouts/publication/list.bib` | Generates the combined BibTeX export |
+| `layouts/_default/_markup/render-link.html` | Sends external links to one shared tab instead of a new tab each |
+
+External links open in a single shared tab named `hxi-external`, rather than a new tab
+per click. The render hook above covers links written in content;
+`assets/js/external-links.js` covers the ones theme templates generate, such as DOI and
+publication buttons.
 
 Screenshots in `docs/screenshots/` are used only by this README.
 

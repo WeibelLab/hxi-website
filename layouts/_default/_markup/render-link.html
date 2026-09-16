@@ -1,0 +1,14 @@
+{{- /* Link render hook.
+
+  Overrides the theme, which sends every external link to target="_blank" and so
+  opens a new tab on every click. External links here share a single named tab
+  instead: the first one opens it, and later ones replace its contents, so a
+  reader accumulates one extra tab rather than a dozen.
+
+  rel="noopener" is kept, without it the opened page can reach back through
+  window.opener. Internal links are untouched and stay in the current tab. */ -}}
+{{- $external := or (strings.HasPrefix .Destination "http://") (strings.HasPrefix .Destination "https://") -}}
+<a href="{{ .Destination | safeURL }}"
+  {{- with .Title }} title="{{ . }}"{{ end }}
+  {{- if $external }} target="hxi-external" rel="noopener"{{ end -}}
+>{{ .Text | safeHTML }}</a>

@@ -99,7 +99,7 @@ copyright_license:
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
-plugins_js: ['slider-shuffle', 'project-filters']
+plugins_js: ['slider-shuffle', 'project-filters', 'external-links']
 avatar:
   gravatar: false
   shape: circle
