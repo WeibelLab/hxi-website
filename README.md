@@ -66,7 +66,7 @@ The theme itself is a Hugo module pinned in `go.mod` and is not in this reposito
 ## I just want to add a paper or update my profile
 
 You do not need to know Hugo or Markdown. Ask Claude or ChatGPT to do it, using the lab's
-packaged helper. Ask Nadir for `hxi-website.zip` (Claude) or `hxi-website-chatgpt.zip`
+packaged helper. Ask Nadir for `hxi-website-claude.zip` (Claude) or `hxi-website-chatgpt.zip`
 (ChatGPT, which also works for Gemini and Copilot).
 
 You will need **write access to this repository**. Send Nadir your GitHub username.
@@ -76,7 +76,7 @@ The same Claude package installs three ways, and it is one skill, not three:
 | Where you work | Install | Reaches the repo via |
 |---|---|---|
 | claude.ai or the Claude desktop app | Settings, Capabilities, Skills, Upload skill | a GitHub connector you authorize |
-| **Claude Code** | `unzip hxi-website.zip -d ~/.claude/skills/` | the `git` already on your machine |
+| **Claude Code** | `unzip hxi-website-claude.zip -d ~/.claude/skills/` | the `git` already on your machine |
 | ChatGPT, Gemini, Copilot | attach `hxi-website-reference.md` from the ChatGPT zip | nothing; it writes the files and you paste them into github.com |
 
 **Claude Code is the one worth having** if you already use it. It is the only route that
