@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Print-n-link: weaving the paper web'
-subtitle: ''
+subtitle: 'DocEng 2006'
 summary: '<b>DocEng 2006</b><br/>Print-n-Link uses technologies for interactive paper to enhance the reading process by enabling users to access digital information and/or searches for cited documents from a printed version of a publication using a digital pen for interaction, enabling tactile paper pages to launch web-like navigation and layered electronic content.'
 
 authors:

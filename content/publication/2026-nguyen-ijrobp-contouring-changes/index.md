@@ -14,6 +14,7 @@ authors:
 - James D. Murphy
 - Michael Sherer
 doi: 10.1016/j.ijrobp.2026.04.032
+categories: ['contouring']
 tags:
 - IJROBP
 - 2026

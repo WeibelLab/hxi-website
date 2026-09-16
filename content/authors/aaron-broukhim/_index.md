@@ -44,6 +44,7 @@ social:
     link: https://www.linkedin.com/in/aabroukh/
 
 superuser: false
+highlight_name: true
 email: "aabroukh@ucsd.edu"
 
 user_groups:

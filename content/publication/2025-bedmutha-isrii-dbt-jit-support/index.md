@@ -11,6 +11,7 @@ authors:
 - Raeanne Moore
 - Eric Granholm
 - Nadir Weibel
+categories: ['understand']
 tags:
 - Poster
 - Mental Health

@@ -1,6 +1,6 @@
 ---
 title: 'Contouring: Interactive Training and Feedback in Radiation Oncology'
-summary: Interactive systems that teach radiation oncology residents to contour, spanning mobile and cross-device practice, immersive VR contouring, a completed randomized trial, and automated tutoring built on the errors trainees actually make.
+summary: 'Interactive training systems for radiation oncology contouring: iContour, VRContour, and iConTutor deliver practice, immersive delineation, and automated feedback to residents.'
 authors: 
   - Nadir Weibel
   - Matin Yarmand
@@ -69,18 +69,3 @@ iContour is funded by Agency for Healthcare Research and Quality (AHRQ). It is a
 <img src="/images/ucsd_som.jpg" style="height: 150px;"> 
 <img src="/images/ahrq-logo.png" style="height: 120px;">
 </div>
-
-------
-
-### Publications
-
-{{< cite page="/publication/2026-yarmand-tochi-goldilocks-contouring" view="1" >}}
-{{< cite page="/publication/2026-nguyen-ijrobp-contouring-changes" view="1" >}}
-{{< cite page="/publication/2024-yarmand-dis-icontour-crossdevice" view="1" >}}
-{{< cite page="/publication/2024-yarmand-chi-icontour-needfinding" view="1" >}}
-{{< cite page="/publication/2024-orr-ijrobp-contouring-mistakes" view="1" >}}
-{{< cite page="/publication/2023-yarmand-chi-icontour" view="1" >}}
-{{< cite page="/publication/2022-chen-ismar-vrcontour" view="1" >}}
-{{< cite page="/publication/2022-chen-eics-vrcontour" view="1" >}}
-{{< cite page="/publication/2022-yarmand-evaluating" view="1" >}}
-{{< cite page="/publication/2021-yarmand-facilitating" view="1" >}}

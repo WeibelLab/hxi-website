@@ -13,7 +13,7 @@ authors:
 - Lauren Sy
 - Nadir Weibel
 tags: [CHI, 2023]
-categories: []
+categories: ['eXtended-collaboration']
 date: '2023-04-19'
 lastmod: 2023-04-20T15:50:59-07:00
 featured: false
@@ -33,7 +33,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['eXtended-collaboration']
 publishDate: '2021-04-19T22:50:59.299117Z'
 publication_types:
 - '1'

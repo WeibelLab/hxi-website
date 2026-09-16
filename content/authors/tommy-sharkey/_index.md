@@ -1,6 +1,6 @@
 ---
 title: Tommy Sharkey
-role: Ph.D. Student
+role: Ph.D. Alumni
 avatar_filename: ""
 bio: 
 interests:
@@ -41,7 +41,7 @@ email: ""
 superuser: false
 user_groups:
     - Ph.D Students (Alumni)
-highlight_name: false
+highlight_name: true
 
 ---
 

@@ -3,8 +3,8 @@
 
 title: Using participatory design to inform the Connected and Open Research Ethics
   (CORE) commons
-subtitle: ''
-summary: ''
+subtitle: 'Sci Eng Ethics 2020'
+summary: '<b>Sci Eng Ethics 2020</b>'
 authors:
 - John Harlow
 - Nadir Weibel

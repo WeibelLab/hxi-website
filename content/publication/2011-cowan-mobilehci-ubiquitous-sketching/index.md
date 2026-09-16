@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Ubiquitous sketching for social media
-subtitle: ''
+subtitle: 'MobileHCI 2011'
 summary: '<b>Mobile HCI 2011</b><br/>Sketch-driven social media tool lets users draw on paper that is auto-uploaded to online platforms via smartphone capture. Low-latency image processing recognizes sketches and converts them into shareable digital content, enabling instant social sharing without specialized hardware. Field studies demonstrate increased user engagement and creativity compared to text-only posting.'
 authors:
 - Lisa G Cowan

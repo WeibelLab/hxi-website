@@ -1,6 +1,6 @@
 ---
 title: 'PrototipAR/PintAR: Rapid Prototyping in Augmented Reality'
-summary: An interactive prototyping tool that explores Augmented Reality for the design of interactive spatial experiences.
+summary: 'Sketch-based prototyping for augmented reality: designers draw spatial experiences directly in the space where they will be used.'
 authors: 
   - Nadir Weibel
   - Danilo Gasques
@@ -49,16 +49,3 @@ an aerial overview of digital content to facilitate debugging through a world-in
 
 ------
 <!---
-### Funding and External Collaborations
-
-UnBIASED ia a 5-year project, funded by the National Library of Medicine (NLMR01LM013301), and it is a collaboration between the University of Washington and the [HXI Lab](https://hxi.ucsd.edu) at UC San Diego. Our ultimate goal is to create tools to support patients and the next generation of doctors to have bias-free interactions that promote healthcare access, quality, and equity.
-
-
-<div style="display: flex; justify-content:space-around; align-items: center;">
-<img src="/images/UW.png" style="height: 50px;"> 
-<img src="/images/NIH_Logo.jpg" style="height: 80px;"> 
-<img src="/images/nih-nlm.png" style="height: 50px;">
-</div>
-
-------
---->

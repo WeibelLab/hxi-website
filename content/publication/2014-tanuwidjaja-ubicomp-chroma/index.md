@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Chroma: a wearable augmented-reality solution for color blindness'
-subtitle: ''
-summary: ''
+subtitle: 'UbiComp 2014'
+summary: '<b>UbiComp 2014</b>'
 authors:
 - Enrico Tanuwidjaja
 - Derek Huynh

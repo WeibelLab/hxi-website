@@ -28,6 +28,7 @@ publication_short: In *CUI 2021*
 abstract: "Ecological momentary assessment (EMA) is used to evaluate subjects’ behaviors and moods in their natural environments, yet collecting real-time and self-report data with EMA is challenging due to user burden. Integrating voice into EMA data collection platforms through today's intelligent virtual assistants (IVAs) is promising due to hands-free and eye-free nature. However, efficiently managing conversations and EMAs is non-trivial and time consuming due to the ambiguity of the voice input. We approach this problem by rethinking the data modeling of EMA questions and what is needed to deploy them on voice-first user interfaces. We propose a unified metadata schema that models EMA questions and the necessary attributes to effectively and efficiently integrate voice as a new EMA modality. Our schema allows user experience researchers to write simple rules that can be rendered at run-time, instead of having to edit the source code. We showcase an example EMA survey implemented with our schema, which can run on multiple voice-only and voice-first devices. We believe that our work will accelerate the iterative prototyping and design process of real-world voice-based EMA data collection platforms."
 featured: true
 projects: ['voli']
+categories: ['voli']
 tags:
   - CUI
   - 2021

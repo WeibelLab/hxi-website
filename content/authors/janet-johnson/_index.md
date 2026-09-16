@@ -1,6 +1,6 @@
 ---
 title: Janet Johnson
-role: Ph.D. Candidate
+role: Ph.D. Alumni
 avatar_filename: ""
 bio: 
 
@@ -39,7 +39,7 @@ superuser: true
 user_groups: 
     - Ph.D Students (Alumni)
 
-highlight_name: false
+highlight_name: true
 ---
 Janet Johnson is a Ph.D. Candidate in the Department of Computer Science and Engineering at UC San Diego. Her research focuses on understanding how to best support Mixed Reality mediated synchronous collaboration.
 

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'AwareNews: a context-aware, ambient news service'
-subtitle: ''
+subtitle: 'IET 2008'
 summary: '<b>IET DL 2008</b><br/>Ambient news system delivering personalized headlines based on user’s location, time, and activity—automatically pushing relevant updates via mobile devices or ambient displays without requiring manual queries.'
 authors:
 - Corsin Decurtins

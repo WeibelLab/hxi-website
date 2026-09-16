@@ -12,6 +12,7 @@ authors:
 - Emily St Germain
 - Brett C Meyer
 doi: 10.1089/tmj.2024.0229
+categories: ['holostroke']
 tags:
 - Telemedicine
 - 2024
@@ -21,7 +22,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-projects: ['stroke']
+projects: ['holostroke']
 publishDate: '2024-10-01T00:00:00Z'
 publication_types:
 - '2'

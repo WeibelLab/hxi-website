@@ -11,7 +11,7 @@ authors:
 - James D. Murphy
 - Nadir Weibel
 tags: [CHI, 2024]
-categories: []
+categories: ['contouring']
 date: '2024-02-23'
 lastmod: 2024-02-23T00:50:59-07:00
 featured: false

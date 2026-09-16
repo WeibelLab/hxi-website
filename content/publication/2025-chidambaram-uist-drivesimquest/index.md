@@ -9,6 +9,7 @@ authors:
 - Nadir Weibel
 - Chen Chen
 doi: 10.1145/3746058.3758372
+categories: ['smart-vehicles']
 tags:
 - UIST
 - 2025

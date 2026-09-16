@@ -47,6 +47,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/isaac-bouchard/
 superuser: false
+highlight_name: true
 email: "ibouchard@ucsd.edu"
 
 # Short bio (displayed in user profile at end of posts)

@@ -1,6 +1,6 @@
 ---
 title: 'UnBIASED: Understanding Biased patient-provider Interactions And Supporting Enhanced Discourse'
-summary: A Social Signal Processing approach to address hidden healthcare bias by improving patient-doctor communication in primary care.
+summary: 'Social signal processing for hidden bias in primary care: automated analysis of patient-provider communication, and feedback designed together with patients and doctors.'
 authors: 
   - Nadir Weibel
   - Colleen Emmenegger
@@ -44,7 +44,7 @@ weight: 35
 
 ### Overview
 
-Healthcare bias – based on patients’ race, gender, sexual orientation – and other factors lead to health disparities, such as lack of appropriate treatment and inadequate pain support. Such biases are often unintentional and “hidden” in communication between patients and doctors.
+Healthcare bias, based on patients’ race, gender, sexual orientation, and other factors, leads to health disparities, such as lack of appropriate treatment and inadequate pain support. Such biases are often unintentional and “hidden” in communication between patients and doctors.
 
 Existing approaches to address hidden bias are limited because they are removed from actual patient-doctor interactions in which bias hides. Technology offers an opportunity to design new approaches that can make den bias more visible and thus addressable.
 
@@ -55,6 +55,12 @@ We are partnering closely with patients and doctors to ensure this approach is g
 *More Info here:* http://unbiased.health
 
 
+------
+
+
+### SocialLM
+
+Assessing communication at scale is the bottleneck. **SocialLM** asks whether large language models can track social behaviors directly from clinical transcripts without fine-tuning, and finds that they can, but unevenly: performance varies by patient race and by segment of the visit. Because that variability is itself an equity problem, the work introduces an agreement-weighted ensemble that improves both accuracy and stability, giving a practical route to social signal tracking at scale.
 ------
 
 ### Funding and External Collaborations
@@ -68,9 +74,3 @@ UnBIASED ia a 5-year project, funded by the National Library of Medicine (NLMR01
 <img src="/images/nih-nlm.png" style="height: 50px;">
 </div>
 
-------
-
-
-### SocialLM
-
-Assessing communication at scale is the bottleneck. **SocialLM** asks whether large language models can track social behaviors directly from clinical transcripts without fine-tuning, and finds that they can, but unevenly: performance varies by patient race and by segment of the visit. Because that variability is itself an equity problem, the work introduces an agreement-weighted ensemble that improves both accuracy and stability, giving a practical route to social signal tracking at scale.

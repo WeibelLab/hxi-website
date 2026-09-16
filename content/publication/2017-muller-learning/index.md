@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Learning from failure: designing for complex sociotechnical systems'
-subtitle: ''
-summary: ''
+subtitle: 'UbiComp 2017'
+summary: '<b>UbiComp 2017</b>'
 authors:
 - Lars Müller
 - Matthias Budde

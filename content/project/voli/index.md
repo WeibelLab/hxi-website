@@ -1,6 +1,6 @@
 ---
 title: 'VOLI: Voice Assistant for Quality of Life and Healthcare Improvement in Aging Populations'
-summary: A personalized and context-aware voice-based digital assistant to improve the quality of life and the healthcare of older adults.
+summary: 'A context-aware voice assistant for older adults, supporting everyday quality of life and connecting them to their healthcare.'
 authors: 
   - Nadir Weibel
   - Chen Chen
@@ -62,4 +62,3 @@ VOLI is a NIH/NSF Smart and Connected Health (SCH) funded by the National Instit
 <img src="/images/nih-nia.jpg" style="height: 40px;">
 
 </div>
-

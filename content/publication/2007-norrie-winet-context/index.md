@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Context-aware platform for mobile data management
-subtitle: ''
+subtitle: 'Wireless Networks 2007'
 summary: '<b>WiNet 2007</b><br/>Platform integrating context sensing, middleware, and adaptive query processing to deliver location- and context-aware mobile database services that optimize data retrieval based on user’s environment and device capabilities.'
 authors:
 - Moira C Norrie

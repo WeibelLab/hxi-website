@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Abstract P307: The ALPHA Sign in the Diagnosis of Potential Stroke'
-subtitle: ''
+subtitle: 'Stroke 2021'
 summary: '<b>Stroke 2021</b><br/>The ALPHA sign—subtle self-support gestures of an impaired limb—proved highly specific (86 %) with a 90 % positive predictive value for acute CNS lesions in a 63-patient video review, indicating useful early stroke recognition despite moderate sensitivity.'
 authors:
 - Edward Labin

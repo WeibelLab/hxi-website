@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Realtime guidance for cardiopulmonary resuscitation in Mixed Reality (Demo - PervasiveHealth 2018)
-subtitle: ''
-summary: ''
+title: 'Realtime Guidance for Cardiopulmonary Resuscitation in Mixed Reality'
+subtitle: 'PervasiveHealth 2018 (Demo)'
+summary: '<b>PervasiveHealth 2018 (Demo)</b><br>Cardiopulmonary Resuscitation (CPR) is a life-saving procedure that gives a cardiac arrest victim a second chance. The application window is short as the chances of survival falls drastically with every minute without resuscitation.'
 authors:
 - Danilo Gasques
 - Janet Johnson
 - Nadir Weibel
 tags: []
-categories: []
+categories: ['holocpr', 'extended-reality']
 date: '2018-01-01'
 lastmod: 2021-09-23T15:50:51-07:00
 featured: false
@@ -32,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ['holocpr']
+projects: ['holocpr', 'extended-reality']
 publishDate: '2021-09-23T22:50:51.677264Z'
 publication_types:
 - '1'

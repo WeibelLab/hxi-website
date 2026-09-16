@@ -18,6 +18,7 @@ authors:
 - Amy Radonich
 - Nadir Weibel
 doi: 10.1080/01616412.2026.2714537
+categories: ['holostroke']
 tags:
 - Neurological Research
 - 2026
@@ -27,7 +28,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-projects: ['stroke']
+projects: ['holostroke']
 publishDate: '2026-01-01T00:00:00Z'
 publication_types:
 - '2'

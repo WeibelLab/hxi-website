@@ -1,6 +1,6 @@
 ---
 title: 'UNDERSTAND: Uplifting the New generation through DBT Education and Resilience for Social Triggers, Anxiety, Negativity, and Depression'
-summary: A digital mental health study to explore the design, development and deployment of Dialectical Behavior Therapy (DBT) 
+summary: 'A mobile health system pairing wearable sensing and machine learning with just-in-time adaptive interventions, targeting emotional dysregulation and other transdiagnostic mechanisms in the moment.'
 authors: 
   - Nadir Weibel
   - Eric Granholm
@@ -48,11 +48,17 @@ weight: 10
 
 ### Overview
 
-Many college students experience comorbid depression and anxiety, exacerbating symptom severity and functional impairment. While evidence-based treatments like CBT and DBT demonstrate efficacy, they lack real-time, context-aware delivery at moments of heightened distress.
+Many college students experience depression and anxiety together, which compounds both symptom severity and functional impairment. Treatments like CBT and DBT work, but they are delivered on a schedule. The skill a student needs is taught in a session on Tuesday and required at 2am on Saturday, and the gap between those two moments is where the intervention fails.
 
-We are developing a mobile health (mHealth) system that leverages ubiquitous computing, wearable sensing, and machine learning to detect physiological and socio-behavioral indicators of distress in situ. Upon detection, the system delivers Just-In-Time Adaptive Interventions (JITAI) informed by DBT principles to provide personalized, contextually relevant support.
+UNDERSTAND closes that gap with three components.
 
-By targeting transdiagnostic mechanisms such as emotional dysregulation, interpersonal challenges, and cognitive distortions, our approach aims to improve scalability and relevance across diverse populations with comorbid mood and anxiety disorders.
+**Sensing.** Wearables and phones carry signals that precede and accompany distress: physiological arousal, sleep and activity disruption, changes in social behavior and interaction patterns. We instrument these continuously and in daily life, so that the system is reading the situation as it develops rather than reconstructing it afterwards from self-report.
+
+**AI.** Machine learning models turn those raw streams into an estimate of when someone is struggling and when they are receptive, which is the harder of the two questions. Large language models then generate the support itself, and our work constrains that generation so the model stays inside the skills and principles of DBT rather than producing generic encouragement that sounds therapeutic without being it.
+
+**Just-in-time adaptive intervention.** The decision of what to deliver, when, and whether to deliver anything at all is the intervention. JITAI makes that decision continuously from the sensed context, offering a DBT skill at the moment it applies, and staying silent when an interruption would do more harm than good.
+
+By targeting transdiagnostic mechanisms such as emotional dysregulation, interpersonal difficulty, and cognitive distortion, the approach is designed to generalize across populations with comorbid mood and anxiety disorders rather than to a single diagnosis.
 
 ------
 

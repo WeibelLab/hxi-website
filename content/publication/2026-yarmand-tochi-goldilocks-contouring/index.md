@@ -10,6 +10,7 @@ authors:
 - Michael Sherer
 - Nadir Weibel
 doi: 10.1145/3797889
+categories: ['contouring']
 tags:
 - ACM TOCHI
 - 2026

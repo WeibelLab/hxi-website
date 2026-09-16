@@ -7,6 +7,7 @@ title: Victoria Chentsova
 role: Ph.D. Student
 
 superuser: false
+highlight_name: true
 
 organizations:
   - name: UC San Diego

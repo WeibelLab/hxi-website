@@ -1,9 +1,10 @@
 ---
 title: Menghe Zhang
-role: Ph.D. Candidate<br/>(Co-Advised with Jurgen Schulze)
+role: Ph.D. Alumni<br/>(Co-Advised with Jurgen Schulze)
 
 avatar_filename: avatar
 superuser: false
+highlight_name: true
 interests:
   - Mixed Reality
   - Computer Graphics

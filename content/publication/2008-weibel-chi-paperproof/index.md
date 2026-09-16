@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Paperproof: a paper-digital proof-editing system'
-subtitle: ''
+subtitle: 'CHI EA 2008'
 summary: '<b>CHI 2008</b><br/>PaperProof is a paper-digital proof-editing application that allows users to edit digital documents by means of gesture-based mark-up of their printed versions. This enables users to switch seamlessly back and forth between paper and digital instances of a document throughout the document lifecycle,'
 authors:
 - Nadir Weibel

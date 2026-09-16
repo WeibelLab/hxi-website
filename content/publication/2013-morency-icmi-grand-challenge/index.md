@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: ICMI 2013 grand challenge workshop on multimodal learning analytics
-subtitle: ''
+subtitle: 'ICMI 2013'
 summary: '<b>ICMI 2013</b><br/>This Grand Challenge evaluates predicting group dynamics and problem-solving success using multimodal data (speech, digital pen, video) from learning contexts. Results show reliable prediction of domain expertise and task outcomes across modalities, demonstrating that rich multimodal signals alone—independent of content analysis—can effectively assess group learning interactions.'
 authors:
 - Louis-Philippe Morency

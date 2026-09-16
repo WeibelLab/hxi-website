@@ -2,10 +2,10 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'MotionDraw: a tool for enhancing art and performance using kinect'
-subtitle: ''
-summary: ''
+subtitle: 'CHI EA 2013'
+summary: '<b>CHI EA 2013</b>'
 authors:
-- Danilo Gasques Rodrigues
+- Danilo Gasques
 - Emily Grenader
 - Fernando da Silva Nos
 - Marcel de Sena Dall'Agnol

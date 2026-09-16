@@ -14,6 +14,7 @@ social:
     link: 'mailto:hul020@ucsd.edu'
 
 superuser: false
+highlight_name: true
 email: "hul020@ucsd.edu"
 
 bio:

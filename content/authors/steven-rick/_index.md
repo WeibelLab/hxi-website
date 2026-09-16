@@ -1,6 +1,6 @@
 ---
 title: Steven Rick
-role: Ph.D. Candidate
+role: Ph.D. Alumni
 
 weight: 20
 
@@ -39,6 +39,7 @@ education:
       year: 2013
 
 superuser: false
+highlight_name: true
 
 user_groups:
 - Ph.D Students (Alumni)

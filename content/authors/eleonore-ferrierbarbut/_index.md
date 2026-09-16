@@ -11,6 +11,7 @@ social:
     link: https://www.linkedin.com/in/eleonore-ferrier-barbut-a890b3130
   
 superuser: false
+highlight_name: true
 
 user_groups:
     - Postdocs and Senior Researchers (Alumni)

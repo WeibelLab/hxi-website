@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Promoting active aging with a paper-based SNS application
-subtitle: ''
-summary: ''
+subtitle: 'PervasiveHealth 2015'
+summary: '<b>PervasiveHealth 2015</b><br>Social Networking Sites have become useful tools to strengthen communication with family and friends. Older adults, however, are often hesitant to use SNSs and are reluctant adopters of modern communication media.'
 authors:
 - Raymundo Cornejo
 - Nadir Weibel
@@ -33,7 +33,7 @@ projects: []
 publishDate: '2021-09-23T22:50:42.320012Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Social Networking Sites have become useful tools to strengthen communication with family and friends. Older adults, however, are often hesitant to use SNSs and are reluctant adopters of modern communication media. This results in an asymmetric condition, where younger and older adults use different'
 publication: '*2015 9th International Conference on Pervasive Computing Technologies
   for Healthcare (PervasiveHealth)*'
 ---

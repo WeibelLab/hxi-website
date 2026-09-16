@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Factors affecting physician-patient communication in the medical exam room
-subtitle: ''
+subtitle: 'HCII 2013'
 summary: '<b>ICHCI 2009</b><br/>This study examines physician–patient–interpreter communication in a health clinic using Distributed Cognition, highlighting how EMRs, paper documents, and exam room layout influence information flow. Findings suggest redesigning clinical spaces and technologies to support collaborative interaction, improve patient understanding, and enhance health literacy for LEP patients.'
 authors:
 - Jennifer Lyons

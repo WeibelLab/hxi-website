@@ -3,8 +3,8 @@
 
 title: 'Nurture-Empower-Support: A Human-Centered Approach to Understand and Support
   ICU Families'
-subtitle: ''
-summary: ''
+subtitle: 'PervasiveHealth 2019'
+summary: '<b>PervasiveHealth 2019</b>'
 authors:
 - Janet Johnson
 - Evan Schmitz

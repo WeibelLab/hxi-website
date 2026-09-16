@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Advanced authoring of paper-digital systems
-subtitle: ''
-summary: ''
+subtitle: 'MTAP 2014'
+summary: '<b>MTAP 2014</b>'
 authors:
 - Beat Signer
 - Moira C Norrie

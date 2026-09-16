@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Symposium: WISH-Workgroup on Interactive Systems in Healthcare'
-subtitle: ''
-summary: ''
+subtitle: 'CHI EA 2019'
+summary: '<b>CHI EA 2019</b>'
 authors:
 - Nadir Weibel
 - Kim Unertl

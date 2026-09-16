@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Development of an erythropoietin prescription simulator to improve abilities for the prescription of erythropoietin stimulating agents: Is it feasible?'
-subtitle: ''
+subtitle: 'BMC Nephrology 2011'
 summary: '<b>BMC Nephrology 2007</b><br/>Simulator trains nephrologists on erythropoietin dosing by modeling different half-lives (24, 48, 138 h) and intervals (weekly vs. monthly) to maintain hemoglobin at 11–12 g/dL. Weekly dosing of a short–half-life agent yielded the tightest Hb control, while monthly long–acting dosing led to frequent overshoots unless corrected through repeated practice.'
 authors:
 - Luca Gabutti

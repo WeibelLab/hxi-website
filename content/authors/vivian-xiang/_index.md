@@ -14,6 +14,7 @@ social:
     link: 'mailto:vxiang@ucsd.edu'
 
 superuser: false
+highlight_name: true
 email: "vxiang@ucsd.edu"
 
 bio:

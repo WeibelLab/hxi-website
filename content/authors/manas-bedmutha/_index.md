@@ -42,6 +42,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/manas-bedmutha/
 superuser: false
+highlight_name: true
 email: "mbedmutha@ucsd.edu"
 
 # Short bio (displayed in user profile at end of posts)

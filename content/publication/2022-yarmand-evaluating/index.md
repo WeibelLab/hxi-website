@@ -13,7 +13,7 @@ authors:
 - Nadir Weibel
 - James D Murphy
 tags: [ASTRO, 2022]
-categories: []
+categories: ['contouring']
 date: '2022-01-01'
 lastmod: 2022-09-23T15:50:59-07:00
 featured: false

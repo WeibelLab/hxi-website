@@ -122,3 +122,16 @@ ul.network-icon {
   font-style: italic;
   opacity: 0.6;
 }
+
+/* Publication `categories:` mirror `projects:` so that Hugo's related-content
+   index has a meaningful signal (tags on this site are venue acronyms and years,
+   which made "Related" mean "same conference or same year"). The category chip
+   itself is redundant, since the page already links its projects, and it renders
+   raw slugs. Hide the chip, keep the index. `projects` cannot be used as an index
+   directly: params.yaml defines a site-level `projects` map and Hugo's param
+   lookup then returns that map for pages without the field, failing the build. */
+.pub .article-metadata .article-categories,
+.pub .article-metadata .article-categories + .middot-divider,
+.pub .article-metadata .middot-divider:has(+ .article-categories) {
+  display: none;
+}

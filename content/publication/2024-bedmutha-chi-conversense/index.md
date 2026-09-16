@@ -20,6 +20,7 @@ authors:
 - Andrea Hartzler
 - Nadir Weibel
 doi: 10.1145/3613904.3641998
+categories: ['unbiased', 'simulated-patients']
 tags:
 - CHI
 - 2024
@@ -39,7 +40,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ['unbiased']
+projects: ['unbiased', 'simulated-patients']
 publishDate: '2024-05-11T22:51:00.801838Z'
 publication_types:
 - '1'

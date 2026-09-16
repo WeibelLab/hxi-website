@@ -3,8 +3,8 @@
 
 title: 'Eyes on the clinic: accelerating meaningful interface analysis through unobtrusive
   eye tracking'
-subtitle: ''
-summary: ''
+subtitle: 'PervasiveHealth 2015'
+summary: '<b>PervasiveHealth 2015</b><br>Electronic medical records (EMRs) are changing the way physicians work and how medical staff care for patients. While their widespread adoption promise many benefits and computationally powerful features for end users, they may also carry with them other unintended and troubling consequences.'
 authors:
 - Steven Rick
 - Alan Calvitti

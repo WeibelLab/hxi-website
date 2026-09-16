@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Adjacent Display of Relevant Discussion Helps Resolve Confusion
-subtitle: ''
+subtitle: 'CSCW 2021'
 summary: '<b>CSCW 2021</b><br/>Adjacent Display of Relevant Discussion (ADRD) keeps a video’s comment thread in sync with playback time, showing on-topic Q&A beside the video and— in a 20-person study—helping viewers quickly resolve confusions, explore comments, and interact more with the content.'
 authors:
 - Matin Yarmand
@@ -10,7 +10,7 @@ authors:
 - Scott Klemmer
 doi: 10.1145/3449217
 tags: []
-categories: []
+categories: ['learning-at-scale']
 date: '2021-01-01'
 lastmod: 2021-09-23T15:51:01-07:00
 featured: true

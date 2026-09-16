@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Interactive space: a prototyping framework for touch and gesture on and above the desktop'
-subtitle: ''
+subtitle: 'CHI EA 2013'
 summary: '<b>CHI 2013</b><br/>Framework supporting the rapid prototyping of touch and gesture interfaces in real-world settings using a portable system with semi-automatic calibration. Designed to enable evaluation of electronic medical record interfaces in clinical environments, it simplifies setup by combining on- and above-desktop interaction and includes an SDK and calibration tools. Preliminary evaluation highlights its flexibility and ease of use.'
 authors:
 - Yang Liu

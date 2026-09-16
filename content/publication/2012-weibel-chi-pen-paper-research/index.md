@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Digital pen and paper practices in observational research
-subtitle: ''
+subtitle: 'CHI 2012'
 summary: '<b>CHI 2012</b><br/>Digital pen-and-paper system records researchers’ handwritten field notes and automatically tags them with audio/video captured during observations, enabling seamless review of multimodal data. The system links ink strokes to contextual media, improving recall and reducing manual transcription efforts. Field studies show significant increases in data accuracy and efficiency compared to traditional note-taking methods.'
 authors:
 - Nadir Weibel

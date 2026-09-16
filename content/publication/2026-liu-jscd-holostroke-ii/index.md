@@ -15,6 +15,7 @@ authors:
 - Nadir Weibel
 - Brett C. Meyer
 doi: 10.1016/j.jstrokecerebrovasdis.2025.108524
+categories: ['holostroke']
 tags:
 - J Stroke Cerebrovasc Dis
 - 2026
@@ -24,7 +25,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-projects: ['stroke']
+projects: ['holostroke']
 publishDate: '2026-01-01T00:00:00Z'
 publication_types:
 - '2'

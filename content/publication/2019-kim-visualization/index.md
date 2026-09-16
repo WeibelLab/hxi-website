@@ -3,8 +3,8 @@
 
 title: VISUALIZATION OF INFORMATION FLOW IN LONGITUDINAL ELECTRONIC HEALTH RECORDS
   USING CIRCULAR LAYOUT
-subtitle: ''
-summary: ''
+subtitle: 'Ann Behav Med 2019'
+summary: '<b>Ann Behav Med 2019</b>'
 authors:
 - Jihoon Kim
 - Hai Yang

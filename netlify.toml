@@ -78,18 +78,6 @@
   force = true
 
 [[redirects]]
-  from = "/project/ubistroke"
-  to = "/project/stroke/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/project/ubistroke/*"
-  to = "/project/stroke/"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/author/hridy"
   to = "/author/hridyanshu/"
   status = 301
@@ -98,5 +86,32 @@
 [[redirects]]
   from = "/author/hridy/*"
   to = "/author/hridyanshu/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/project/convershive"
+  to = "/project/simulated-patients/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/project/convershive/*"
+  to = "/project/simulated-patients/"
+  status = 301
+  force = true
+
+
+# /project/stroke/ was live briefly as a combined page; HoloStroke and UbiStroke
+# are separate projects and have their own pages.
+[[redirects]]
+  from = "/project/stroke"
+  to = "/project/holostroke/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/project/stroke/*"
+  to = "/project/holostroke/"
   status = 301
   force = true

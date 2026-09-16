@@ -17,6 +17,7 @@ social:
     icon_pack: fas
     link: https://vishramesh.com/
 superuser: false
+highlight_name: true
 
 user_groups:
     - Postdocs and Senior Researchers (Alumni)

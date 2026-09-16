@@ -1,2 +1,7 @@
 **/.DS_Store
 public/
+
+# Hugo build cache. Regenerated on every build and restored on Netlify by
+# netlify-plugin-hugo-cache-resources. Committing it churns on every image
+# change and causes needless conflicts between contributors.
+resources/_gen/

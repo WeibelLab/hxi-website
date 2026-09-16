@@ -52,7 +52,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects, bibtex]
   section: [HTML, RSS]
 markup:
   defaultMarkdownHandler: goldmark
@@ -69,19 +69,41 @@ imaging:
   quality: 75
   anchor: smart
 timeout: 600000
+# Combined BibTeX export of all publications, generated at build time from each
+# publication's own cite.bib (layouts/publication/list.bib). Served at
+# /hxi.bib (layouts/index.bib).
+outputFormats:
+  bibtex:
+    mediaType: application/x-bibtex
+    baseName: hxi
+    isPlainText: true
+    notAlternative: true
+
+mediaTypes:
+  application/x-bibtex:
+    suffixes:
+      - bib
+
 taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
   author: authors
+# "Related" content. Publication tags here are overwhelmingly venue acronyms and
+# years (median tags per publication: 0), so weighting tags highly made "related"
+# mean "same conference or same year", which read as random. `categories` carries
+# the project slugs (mirrored from `projects:`), which is the real signal.
+# Note: `projects` itself cannot be used as an index. params.yaml defines a
+# site-level `projects` map, so Hugo's param lookup returns that map for any page
+# lacking the field and the build fails with "indexing currently not supported".
 related:
   threshold: 80
   includeNewer: true
   toLower: true
   indices:
-    - name: tags
-      weight: 100
     - name: categories
-      weight: 70
+      weight: 100
+    - name: tags
+      weight: 25
 
 

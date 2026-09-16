@@ -2,15 +2,15 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'SIG: Spatiality of Augmented Reality User Interfaces'
-subtitle: ''
-summary: ''
+subtitle: 'CHI EA 2019'
+summary: '<b>CHI EA 2019</b>'
 authors:
 - Alla Vovk
-- Danilo Gasques Rodrigues
+- Danilo Gasques
 - Fridolin Wild
 - Nadir Weibel
 tags: []
-categories: []
+categories: ['extended-reality']
 date: '2019-01-01'
 lastmod: 2021-09-23T15:50:53-07:00
 featured: false
@@ -29,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['extended-reality']
 publishDate: '2021-09-23T22:50:53.292651Z'
 publication_types:
 - '1'

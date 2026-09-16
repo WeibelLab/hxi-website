@@ -61,6 +61,7 @@ social:
     link: https://github.com/cshciprof
 
 superuser: false
+highlight_name: true
 email: "chechen@fiu.edu"
 
 user_groups:

@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Validating free-text order entry for a note-centric EHR
-subtitle: ''
-summary: ''
+subtitle: 'AMIA 2015'
+summary: '<b>AMIA 2015</b><br>Electronic Health Records (EHRs) have increased the utility and portability of health information by storing it in structured formats. However, EHRs separate this structured data from the rich, free-text descriptions of clinical notes.'
 authors:
 - Adam Rule
 - Steven Rick

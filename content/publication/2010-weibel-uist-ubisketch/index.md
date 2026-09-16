@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Enabling social interactions through real-time sketch-based communication
-subtitle: ''
+subtitle: 'UIST Adjunct 2010'
 summary: '<b>UIST 2010</b><br/>UbiSketch is a tool for ubiquitous real-time sketch-based communication enabling people to create doodles, drawings, and notes with digital pens and paper and publish them quickly and easily via their mobile phones'
 authors:
 - Nadir Weibel

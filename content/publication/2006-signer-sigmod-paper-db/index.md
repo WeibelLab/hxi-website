@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Paper-based mobile access to databases
-subtitle: ''
+subtitle: 'SIGMOD 2006'
 summary: '<b>SIGMOD 2006</b><br/>Paper-based cards with encoded IDs link to live databases, letting users scan printed pages to fetch and update records on mobile devices for seamless offline-to-online workflows. The system demonstrates low-cost, instant database access in field scenarios by combining printed media with RFID scanning for real-time data retrieval.'
 authors:
 - Beat Signer

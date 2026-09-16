@@ -2,10 +2,10 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'NeuroPose: geriatric rehabilitation in the home using a webcam and pose estimation'
-subtitle: ''
-summary: ''
+subtitle: 'IUI 2019'
+summary: '<b>IUI 2019</b><br>Many chronic diseases and common risks to elderly patients can be assessed and treated through standardized training and rehabilitation programs.'
 authors:
-- Steven R Rick
+- Steven Rick
 - Shubha Bhaskaran
 - Yajie Sun
 - Sarah McEwen

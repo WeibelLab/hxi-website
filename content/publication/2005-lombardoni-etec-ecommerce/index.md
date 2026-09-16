@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: A systematic approach to the development of e-commerce sites for mass customization
-subtitle: ''
+subtitle: 'EEE 2005'
 summary: '<b>e-TEC 2005</b><br/>A systematic methodology guides design of complex, customizable e-commerce sites by modeling product attributes and generating the finished online store, demonstrated through a made-to-order T-shirt case study.'
 authors:
 - Andrea Lombardoni

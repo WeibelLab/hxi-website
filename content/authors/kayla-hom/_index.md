@@ -14,6 +14,7 @@ social:
     link: 'mailto:krhom@ucsd.edu'
 
 superuser: false
+highlight_name: true
 email: "krhom@ucsd.edu"
 
 bio:

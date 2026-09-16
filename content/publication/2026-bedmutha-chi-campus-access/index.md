@@ -12,6 +12,7 @@ authors:
 - Heidi Rataj
 - Nadir Weibel
 doi: 10.1145/3772363.3799024
+categories: ['willo']
 tags:
 - CHI EA
 - 2026

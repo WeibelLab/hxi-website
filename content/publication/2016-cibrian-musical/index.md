@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: A musical interactive surface to support the multi-sensory stimulation of children
-subtitle: ''
-summary: ''
+subtitle: 'PervasiveHealth 2016'
+summary: '<b>PervasiveHealth 2016</b><br>Interactive surfaces are promising to support multi-sensory stimulation during early development of children and for therapy for children with autism, as they offer a casual and engaging experience in a multi-sensory environment.'
 authors:
 - Franceli L Cibrian
 - Monica Tentori
@@ -32,7 +32,7 @@ projects: []
 publishDate: '2021-09-23T22:50:46.961791Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Interactive surfaces are promising to support multi-sensory stimulation during early development of children and for therapy for children with autism, as they offer a casual and engaging experience in a multi-sensory environment. In this paper, we present preliminary results of two field deployment'
 publication: '*Proceedings of the 10th EAI International Conference on Pervasive Computing
   Technologies for Healthcare*'
 ---

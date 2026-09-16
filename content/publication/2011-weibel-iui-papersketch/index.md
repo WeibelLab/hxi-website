@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'PaperSketch: a paper-digital collaborative remote sketching tool'
-subtitle: ''
+subtitle: 'IUI 2011'
 summary: '<b>IUI 2011</b><br/>PaperSketch bridges paper and digital whiteboards for remote teams by capturing sketches on paper and streaming them live to a shared canvas. Low-latency ink recognition ensures that collaborators see each other’s drawings in real time, enabling fluid, co-located feels despite physical distance. User studies indicate increased creativity and coordination compared to voice-only collaboration.'
 authors:
 - Nadir Weibel

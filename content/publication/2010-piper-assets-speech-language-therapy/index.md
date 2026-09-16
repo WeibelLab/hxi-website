@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Introducing multimodal paper-digital interfaces for speech-language therapy
-subtitle: ''
+subtitle: 'ASSETS 2010'
 summary: '<b>ASSETS 2010</b><br/>A multimodal interface combines printed worksheets with digital tablets and speech recognition to support speech-language therapy exercises. Users write or tap on paper prompts to trigger audio feedback, while the system provides real-time pronunciation guidance, enhancing patient engagement and clinician efficiency. Qualitative evaluation shows improved therapy outcomes by blending tactile and audiovisual modalities.'
 authors:
 - Anne Marie Piper

@@ -1,6 +1,6 @@
 ---
 title: 'CLARO: Turning Complexity into Clarity'
-summary: A UC San Diego Design Lab platform for collaborative, data-driven decision-making on complex societal challenges, combining data integration, modeling, simulation, and immersive visualization.
+summary: 'A Design Lab platform for collaborative, data-driven decisions on complex societal problems, combining data integration, modeling, simulation, and immersive visualization.'
 authors:
   - Nadir Weibel
   - Debmalya Pal

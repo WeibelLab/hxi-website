@@ -14,7 +14,7 @@ authors:
 - Nadir Weibel
 doi: 10.1145/3531706.3536456
 tags: [EICS, 2022]
-categories: []
+categories: ['contouring']
 date: '2022-06-21'
 lastmod: 2022-06-21T15:51:01-07:00
 featured: false

@@ -20,7 +20,8 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-projects: []
+projects: ['unbiased']
+categories: ['unbiased']
 publishDate: '2024-01-01T00:00:00Z'
 publication_types:
 - '1'

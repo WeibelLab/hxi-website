@@ -4,8 +4,8 @@
 title: 'Grindr users take more risks, but are more open to human immunodeficiency
   virus (HIV) pre-exposure prophylaxis: could this dating app provide a platform for
   HIV prevention outreach?'
-subtitle: ''
-summary: ''
+subtitle: 'CID 2020'
+summary: '<b>CID 2020</b>'
 authors:
 - Martin Hoenigl
 - Susan J Little

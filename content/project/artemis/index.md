@@ -1,6 +1,6 @@
 ---
 title: 'ARTEMIS: Augmented Reality Technology-Enabled reMote Integrated Surgery'
-summary: A Collaborative Mixed-Reality System for immersive Surgical Telementoring.
+summary: 'Surgical telementoring in mixed reality: a remote expert sees the novice''s operating field in three dimensions and guides the procedure from anywhere.'
 authors: 
   - Nadir Weibel
   - Michael Yip
@@ -67,4 +67,3 @@ This project has been funded by the Naval Medical Center San Diego.
 <img src="/images/robotics-institute-front.jpg" style="height: 200px;"> 
 <img src="/images/NMCSD_logo.png" style="height: 150px;">
 </div>
-

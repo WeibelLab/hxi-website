@@ -14,6 +14,7 @@ social:
     link: 'mailto:hal065@ucsd.edu'
 
 superuser: false
+highlight_name: true
 email: "hal065@ucsd.edu"
 
 bio:

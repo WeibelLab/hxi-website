@@ -1,6 +1,6 @@
 ---
 title: Robert Kaufman
-role: Ph.D. Candidate <br/>(Co-Advised with David Kirsh)
+role: Ph.D. Alumni<br/>(Co-Advised with David Kirsh)
 avatar_filename: ""
 bio: 
 weight: 40
@@ -39,7 +39,7 @@ superuser: true
 user_groups: 
     - Ph.D Students (Alumni)
 
-highlight_name: false
+highlight_name: true
 ---
 Robert is a PhD Candidate in Cognitive Science and a Human-Computer Interaction researcher in the Design Lab at University of California, San Diego. He is broadly interested in how people interact with complex information systems.
 

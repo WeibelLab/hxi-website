@@ -1,6 +1,6 @@
 ---
 title: Naba Rizvi
-role: Ph.D. Student
+role: Ph.D. Alumni
 avatar_filename: ""
 bio: 
 interests:
@@ -35,7 +35,7 @@ superuser: true
 user_groups:
     - Ph.D Students (Alumni)
   
-highlight_name: false
+highlight_name: true
 
 _build:
   render: always

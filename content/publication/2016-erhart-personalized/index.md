@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Personalized multimodal computer interfaces for the motor impaired
-subtitle: ''
-summary: ''
+subtitle: 'PervasiveHealth 2016'
+summary: '<b>PervasiveHealth 2016</b><br>Severe motor disorders such as LIS and ALS are characterized by an inability to move or communicate effectively. Though it is essential to provide assistance to these groups, motor and cognitive function within these groups varies so widely that one static design cannot serve the group as a whole.'
 authors:
 - Matthew Erhart
 - Angie Nguyen
@@ -35,7 +35,7 @@ projects: []
 publishDate: '2021-09-23T22:50:47.193427Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Severe motor disorders such as LIS and ALS are characterized by an inability to move or communicate effectively. Though it is essential to provide assistance to these groups, motor and cognitive function within these groups varies so widely that one static design cannot serve the group as a whole. D'
 publication: '*Proceedings of the 10th EAI International Conference on Pervasive Computing
   Technologies for Healthcare*'
 ---

@@ -3,8 +3,8 @@
 
 title: 'Interpreter-mediated physician-patient communication: Opportunities for multimodal
   healthcare interfaces'
-subtitle: ''
-summary: ''
+subtitle: 'PervasiveHealth 2013'
+summary: '<b>PervasiveHealth 2013</b><br>Patient-centered health care and increased efficency are major goals of modern medicine. Research has shown that higher patient health literacy is linked to more successful health outcomes and the shift to electronic medical records (EMR) is hoped to increase efficency.'
 authors:
 - Nadir Weibel
 - Colleen Emmenegger
@@ -36,7 +36,7 @@ projects: []
 publishDate: '2021-09-23T22:50:39.448902Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Patient-centered health care and increased efficency are major goals of modern medicine. Research has shown that higher patient health literacy is linked to more successful health outcomes and the shift to electronic medical records (EMR) is hoped to increase efficency. Although EMR systems are desi'
 publication: '*2013 7th International Conference on Pervasive Computing Technologies
   for Healthcare and Workshops*'
 ---

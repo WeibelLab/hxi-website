@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Pintar: Sketching spatial experiences in augmented reality'
-subtitle: ''
-summary: ''
+title: 'PintAR: Sketching Spatial Experiences in Augmented Reality'
+subtitle: 'DIS 2019'
+summary: '<b>DIS 2019</b><br>In this demo, we present PintAR: an interactive prototyping tool that explores Augmented Reality for the design of interactive spatial experiences. Our system aims to remedy the lack of tools for rapid-prototyping situated experiences in AR without programming or 3D modeling.'
 authors:
 - Danilo Gasques
-- Janet G Johnson
+- Janet Johnson
 - Tommy Sharkey
 - Nadir Weibel
 tags: []
-categories: []
+categories: ['prototipar', 'extended-reality']
 date: '2019-01-01'
 lastmod: 2021-09-23T15:50:54-07:00
 featured: false
@@ -30,10 +30,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ['prototipar']
+projects: ['prototipar', 'extended-reality']
 publishDate: '2021-09-23T22:50:54.629750Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'In this demo, we present PintAR: an interactive prototyping tool that explores Augmented Reality for the design of interactive spatial experiences. Our system aims to remedy the lack of tools for rapid-prototyping situated experiences in AR without programming or 3D modeling. PintAR combines a digital paper and pen interface with a head-mounted display to allow users to sketch and interact with digital content in their environment. Users can take PintAR anywhere, leveraging objects and information available in the real world to bring context to their prototypes.'
 publication: '*Proceedings of DIS 2019, International Confenrence Designing Interactive Systems*'
 ---

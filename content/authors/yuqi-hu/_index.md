@@ -2,6 +2,9 @@
 title: Yuqi Hu
 role: Undergraduate Student
 
+# Placeholder. Replace avatar.jpg with a real photo and this keeps working.
+avatar_filename: avatar
+
 weight: 20
 
 organizations:
@@ -16,6 +19,7 @@ social:
     link: 'mailto:y7hu@ucsd.edu'
 
 superuser: false
+highlight_name: true
 email: "y7hu@ucsd.edu"
 
 bio:
@@ -23,3 +27,5 @@ bio:
 user_groups:
   - Undergraduate Students
 ---
+
+Yuqi Hu is an undergraduate student at UC San Diego and a member of the HXI Lab.

@@ -3,8 +3,8 @@
 
 title: 'Balancing design tensions: iterative display design to support ad hoc and
   multidisciplinary medical teamwork'
-subtitle: ''
-summary: ''
+subtitle: 'CHI 2014'
+summary: '<b>CHI 2014</b>'
 authors:
 - Diana S Kusunoki
 - Aleksandra Sarcevic

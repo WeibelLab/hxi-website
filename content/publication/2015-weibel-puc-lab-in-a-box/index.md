@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'LAB-IN-A-BOX: semi-automatic tracking of activity in the medical office'
-subtitle: ''
-summary: ''
+subtitle: 'PUC 2015'
+summary: '<b>PUC 2015</b><br>Patient-centered healthcare and increased efficiency are major goals of modern medicine, and physician–patient interaction and communication are a cornerstone of clinical encounters.'
 authors:
 - Nadir Weibel
 - Steven Rick
@@ -13,7 +13,7 @@ authors:
 - Zia Agha
 doi: 10.1007/s00779-014-0821-0
 tags: []
-categories: []
+categories: ['chronosense']
 date: '2015-01-01'
 lastmod: 2021-09-23T15:50:41-07:00
 featured: true

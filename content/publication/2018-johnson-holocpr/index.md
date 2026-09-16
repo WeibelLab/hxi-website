@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Holocpr: Designing and evaluating a mixed reality interface for time-critical emergencies (Pervasive Health 2018)'
-subtitle: ''
-summary: ''
+title: 'HoloCPR: Designing and Evaluating a Mixed Reality Interface for Time-Critical Emergencies'
+subtitle: 'PervasiveHealth 2018'
+summary: '<b>PervasiveHealth 2018</b><br>Performing time-critical procedures such as Cardiopulmonary Resuscitation (CPR) usually requires trained individuals on the scene. Even when step by step instructions are available, most bystanders do not attempt resuscitation due to panic or fear of failing, often at the cost of the victim''s life.'
 authors:
 - Janet Johnson
 - Danilo Gasques
@@ -16,7 +16,7 @@ tags:
 
 doi: "10.1145/3240925.3240984"
 
-categories: []
+categories: ['holocpr', 'extended-reality']
 date: '2018-01-01'
 lastmod: 2021-09-23T15:50:51-07:00
 featured: true
@@ -39,7 +39,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ['holocpr']
+projects: ['holocpr', 'extended-reality']
 publishDate: '2021-09-23T22:50:51.425471Z'
 publication_types:
 - '1'

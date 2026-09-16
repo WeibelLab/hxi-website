@@ -13,7 +13,7 @@ authors:
 - Evan Schmitz
 - Nadir Weibel
 tags: [CHI, 2021]
-categories: []
+categories: ['eXtended-collaboration']
 date: '2021-01-01'
 lastmod: 2021-09-23T15:50:59-07:00
 featured: false

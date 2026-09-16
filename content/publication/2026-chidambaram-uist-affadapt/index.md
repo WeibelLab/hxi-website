@@ -11,6 +11,7 @@ authors:
 - Manas Bedmutha
 - Nadir Weibel
 doi: 10.1145/3830397.3841841
+categories: ['simulated-patients']
 tags:
 - UIST
 - 2026
@@ -20,7 +21,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-projects: ['convershive']
+projects: ['simulated-patients']
 publishDate: '2026-08-15T00:00:00Z'
 publication_types:
 - '1'

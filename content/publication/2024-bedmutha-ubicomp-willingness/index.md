@@ -3,7 +3,7 @@ title: 'Exploring User Willingness towards Mobile Sensing and Intervention: A Ca
 subtitle: 'UbiComp 2024'
 summary: '<b>UbiComp 2024</b><br>User preferences for mobile sensing and mental health interventions vary significantly across data types, with some sensors more acceptable than others. A university-wide survey reveals that individuals willing to share one type of data are often open to others, highlighting distinct engagement patterns. These insights support the design of inclusive, scalable mental health apps tailored to student needs.'
 authors:
-- Manas Satish Bedmutha
+- Manas Bedmutha
 - Sahithi Karumudi
 - Kevin Patrick
 - Heidi Rataj
@@ -18,7 +18,8 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-projects: []
+projects: ['willo']
+categories: ['willo']
 publishDate: '2024-01-01T00:00:00Z'
 publication_types:
 - '1'

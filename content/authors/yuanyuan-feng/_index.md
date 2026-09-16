@@ -7,6 +7,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/judyfeng88/
 
+highlight_name: true
+
 user_groups:
     - Ph.D Students (Alumni)
 

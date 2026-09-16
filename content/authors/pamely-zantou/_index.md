@@ -29,6 +29,7 @@ social:
     link: https://dblp.org/pid/355/4521.html
 
 superuser: false
+highlight_name: true
 email: "pzantou@ucsd.edu"
 
 # Short bio (displayed in user profile at end of posts)
@@ -37,3 +38,5 @@ bio:
 user_groups:
   - Ph.D Students, Researchers, and Postdocs
 ---
+
+Pamely Zantou is a Ph.D. student at UC San Diego, co-advised with Edward Wang, and a member of the HXI Lab.

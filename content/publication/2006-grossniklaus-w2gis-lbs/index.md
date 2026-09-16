@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Putting location-based services on the map
-subtitle: ''
+subtitle: 'W2GIS 2006'
 summary: '<b>W2GIS 2006</b><br/>Architecture and prototype integrating spatial context into web applications, mapping location-based services onto a unified model that supports dynamic, map-centric content on mobile devices. Demonstrated how a single framework can drive multiple location-aware features without rewriting backend logic.'
 authors:
 - Michael Grossniklaus

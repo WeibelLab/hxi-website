@@ -14,6 +14,7 @@ social:
     link: 'mailto:phathiram@ucsd.edu'
 
 superuser: false
+highlight_name: true
 email: "phathiram@ucsd.edu"
 
 bio:

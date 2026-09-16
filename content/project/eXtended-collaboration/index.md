@@ -1,6 +1,6 @@
 ---
 title: 'eXtended Collaboration'
-summary: Designing XR-mediated remote collaboration systems that exploit the strengths of spatial computing.
+summary: 'XR systems for remote collaboration on physical tasks, using spatial computing and alternate 3D representations to reduce the effort of communicating across distance.'
 authors: 
   - Nadir Weibel
   - Janet Johnson
@@ -47,5 +47,3 @@ This project enables the design of XR-mediated remote collaboration systems that
 ### Funding and External Collaborations
 
 The eXtended Collaboration project builds on a number of efforts spanning across the [ARTEMIS](/project/artemis/), [HoloCPR](/project/holocpr), and other AR/VR projects, and investigates in-depth the remote collaboration aspect in Mixed Reality.
-
-

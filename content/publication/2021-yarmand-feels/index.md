@@ -12,7 +12,7 @@ authors:
 - Scott Klemmer
 - Nadir Weibel
 tags: [CHI, 2021]
-categories: []
+categories: ['learning-at-scale']
 date: '2021-01-01'
 lastmod: 2021-09-23T15:51:00-07:00
 featured: true

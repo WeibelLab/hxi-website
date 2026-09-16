@@ -12,6 +12,7 @@ authors:
 - Heidi Rataj
 - Nadir Weibel
 doi: 10.1145/3786579.3804948
+categories: ['willo']
 tags:
 - ACM IH
 - 2026

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Exploring pen and paper interaction with high-resolution wall displays
-subtitle: ''
+subtitle: 'UIST Adjunct 2010'
 summary: '<b>UIST 2010</b><br/>Hiperpaper integrates pen-and-paper controls with ultra-scale wall displays, allowing users to sketch on standard paper that appears at full resolution on massive screens. The system uses overhead cameras to capture ink and position data, enabling seamless transitions between tangible and digital drawing. Participants reported improved accuracy and fluidity when switching across mediums compared to typical tablet-only workflows.'
 authors:
 - Nadir Weibel

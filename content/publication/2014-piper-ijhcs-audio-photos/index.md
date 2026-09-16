@@ -3,8 +3,8 @@
 
 title: Designing audio-enhanced paper photos for older adult emotional wellbeing in
   communication therapy
-subtitle: ''
-summary: ''
+subtitle: 'IJHCS 2014'
+summary: '<b>IJHCS 2014</b>'
 authors:
 - Anne Marie Piper
 - Nadir Weibel

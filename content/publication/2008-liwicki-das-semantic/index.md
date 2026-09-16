@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Semantic eInk: Pen and Paper-based Interaction with the Semantic Desktop'
-subtitle: ''
+subtitle: 'DAS 2008'
 summary: '<b>ICDAR 2008</b><br/>System for semantic annotation of handwritten notes overlaying digital context, enabling seamless integration of pen-based input with document analysis to support advanced search and retrieval of handwritten content.'
 authors:
 - Marcus Liwicki

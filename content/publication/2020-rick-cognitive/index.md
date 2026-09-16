@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Cognitive Bias in Patient-Provider Communication: Sensing and Design to Reduce Health Disparities'
-subtitle: ''
-summary: ''
+subtitle: 'CHI Workshop 2020'
+summary: '<b>CHI Workshop 2020</b><br>Cognitive bias is pervasive in healthcare. It drives differential diagnosis and timely recognition of acute onset illness, but it also contributes to healthcare inequity.'
 authors:
 - Steven Rick
 - Erin Beneteau
@@ -17,7 +17,7 @@ authors:
 
 doi: []
 tags: []
-categories: []
+categories: ['unbiased']
 date: '2020-04-01'
 lastmod: 2021-09-27T15:50:53-07:00
 featured: true

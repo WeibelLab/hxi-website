@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'SMART 2.0: A Multimodal Weight Loss Intervention for Young Adults'
-subtitle: ''
-summary: ''
+subtitle: 'CHI EA 2019'
+summary: '<b>CHI EA 2019</b>'
 authors:
 - Lisa M Grega
 - Nadir Weibel

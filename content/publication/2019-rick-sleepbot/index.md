@@ -2,10 +2,10 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'SleepBot: encouraging sleep hygiene using an intelligent chatbot'
-subtitle: ''
-summary: ''
+subtitle: 'IUI 2019'
+summary: '<b>IUI 2019</b><br>Maintaining good sleep hygiene is a constant challenge in modern lives. Sleep habits are hard to monitor and record, especially when most sleep monitoring programs overlook the necessity of calculating user input.'
 authors:
-- Steven R Rick
+- Steven Rick
 - Aaron Paul Goldberg
 - Nadir Weibel
 doi: 10.1145/3308557.3308712

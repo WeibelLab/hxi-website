@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Reducing alarm fatigue: exploring decision structures, risks, and design'
-subtitle: ''
-summary: ''
+subtitle: 'EAI Endorsed Trans 2017'
+summary: '<b>EAI Endorsed Trans 2017</b>'
 authors:
 - Mustafa Hussain
 - James Dewey

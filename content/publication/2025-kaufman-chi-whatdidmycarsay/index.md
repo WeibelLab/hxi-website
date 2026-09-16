@@ -3,11 +3,12 @@ title: 'What did my car say? impact of autonomous vehicle explanation errors and
 subtitle: 'CHI 2025'
 summary: '<b>CHI 2025</b><br>Explanation errors from autonomous vehicles undermine user comfort, trust, and satisfaction—particularly in unfamiliar or non-routine driving contexts. Through a driving simulator study, the work shows that even subtle inaccuracies in how AVs communicate can erode user confidence, emphasizing the need for clear, context-aware explanations to foster reliable human-machine interaction.'
 authors:
-- Robert A. Kaufman
+- Robert Kaufman
 - Aaron Broukhim
 - David Kirsh
 - Nadir Weibel
 doi: 10.1145/3706598.3713088
+categories: ['smart-vehicles']
 tags:
 - CHI
 - 2025

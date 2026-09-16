@@ -1,6 +1,6 @@
 ---
 title: 'RECODE|Health: Research Center for Optimal Digital Ethics'
-summary: 'We conduct, support and disseminate empirical research to inform ethical digital health research practices.'
+summary: 'Empirical research and practical guidance for the ethics of digital health research, spanning consent, privacy, and the terms under which data is collected.'
 authors: 
   - Nadir Weibel
   - Camille Nebeker
@@ -68,4 +68,3 @@ ReCODE Health is supported by University of California San Diego, and its progra
 <img src="/images/NSF_Logo.png" style="height: 100px;">
 <img src="/images/ibm.jpg" style="height: 70px;"> 
 </div>
-

@@ -17,7 +17,8 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-projects: []
+projects: ['preference-learning']
+categories: ['preference-learning']
 publishDate: '2025-11-17T00:00:00Z'
 publication_types:
 - '3'

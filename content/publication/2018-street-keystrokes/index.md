@@ -3,8 +3,8 @@
 
 title: 'Keystrokes, mouse clicks, and gazing at the computer: how physician interaction
   with the EHR affects patient participation'
-subtitle: ''
-summary: ''
+subtitle: 'JGIM 2018'
+summary: '<b>JGIM 2018</b>'
 authors:
 - Richard L Street
 - Lin Liu

@@ -14,6 +14,7 @@ social:
     link: 'mailto:kpaliwal@ucsd.edu'
 
 superuser: false
+highlight_name: true
 email: "kpaliwal@ucsd.edu"
 
 bio:

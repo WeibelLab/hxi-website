@@ -1,6 +1,6 @@
 ---
 title: 'A Human-Centered Approach for a Student Mental Health and Well-Being Mobile App: Protocol for Development, Implementation, and Evaluation'
-subtitle: ''
+subtitle: 'JMIR Research Protocols 2025'
 summary: '<b>JMIR Research Protocols</b><br>The rising prevalence of mental health concerns among students is prompting universities to explore innovative solutions to support student well-being. This paper describes the protocol for the development, implementation, and evaluation of the Willo mobile app designed to address the mental health and wellness needs of students.'
 authors:
 - Maryam Gholami
@@ -17,6 +17,7 @@ authors:
 - Karandeep Singh
 - Kevin Patrick
 doi: 10.2196/68368
+categories: ['willo']
 tags:
 - student mental health
 - digital well-being

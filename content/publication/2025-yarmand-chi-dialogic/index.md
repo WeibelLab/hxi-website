@@ -19,7 +19,8 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-projects: []
+projects: ['learning-at-scale']
+categories: ['learning-at-scale']
 publishDate: '2025-01-01T00:00:00Z'
 publication_types:
 - '1'

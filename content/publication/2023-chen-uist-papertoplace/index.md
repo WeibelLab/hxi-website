@@ -13,7 +13,7 @@ authors:
 - Nadir Weibel
 doi: 10.1145/3586183.3606832
 tags: [UIST, 2023]
-categories: []
+categories: ['mixed-dimensional']
 date: '2023-10-29'
 lastmod: 2023-10-29T00:00:01-07:00
 featured: false
@@ -32,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['mixed-dimensional']
 publishDate: '2023-10-29T00:00:01-07:00'
 publication_types:
 - '1'

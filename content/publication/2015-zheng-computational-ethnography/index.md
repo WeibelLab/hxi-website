@@ -3,8 +3,8 @@
 
 title: 'Computational ethnography: automated and unobtrusive means for collecting
   data in situ for human--computer interaction evaluation studies'
-subtitle: ''
-summary: ''
+subtitle: 'Cognitive Informatics for Biomedicine 2015'
+summary: '<b>Cognitive Informatics for Biomedicine 2015</b>'
 authors:
 - Kai Zheng
 - David A Hanauer

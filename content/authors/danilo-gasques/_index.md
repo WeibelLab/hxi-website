@@ -1,6 +1,6 @@
 ---
 title: Danilo Gasques
-role: Ph.D. Candidate
+role: Ph.D. Alumni
 
 organizations:
 - name: UC San Diego
@@ -40,6 +40,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/danilogasques/
 superuser: false
+highlight_name: true
 email: "gasques@ucsd.edu"
 
 # Short bio (displayed in user profile at end of posts)

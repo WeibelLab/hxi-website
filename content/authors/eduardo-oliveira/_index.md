@@ -9,6 +9,8 @@ social:
     link: https://www.linkedin.com/in/edujvo
 
 
+highlight_name: true
+
 user_groups:
     - Postdocs and Senior Researchers (Alumni)
 

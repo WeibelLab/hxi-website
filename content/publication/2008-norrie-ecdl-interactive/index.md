@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Interactive paper as a reading medium in digital libraries
-subtitle: ''
+subtitle: 'ECDL 2008'
 summary: '<b>ECDL 2008</b><br/>Interactive paper extensions for digital libraries let readers tap or annotate printed pages to fetch definitions, citations, and multimedia content, creating a seamless link between physical documents and library databases to enhance reading and exploration.'
 authors:
 - Moira C Norrie

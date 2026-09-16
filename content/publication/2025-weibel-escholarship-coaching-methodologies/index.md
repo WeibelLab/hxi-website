@@ -9,6 +9,7 @@ authors:
 - Elysia Mac
 - Huimeng Lu
 - Vivian Xiang
+categories: ['smart-vehicles']
 tags:
 - Technical Report
 - 2025

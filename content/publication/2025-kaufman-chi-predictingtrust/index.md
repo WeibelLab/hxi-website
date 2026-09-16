@@ -3,12 +3,13 @@ title: 'Predicting trust in autonomous vehicles: Modeling young adult psychosoci
 subtitle: 'CHI 2025'
 summary: '<b>CHI 2025</b><br>Trust in autonomous vehicles varies widely among individuals, and this study uses machine learning to identify the key factors influencing young adults’ trust. Surveying over 1,400 participants, the analysis reveals that perceptions of AV risks and benefits, usability attitudes, institutional trust, prior experience, and mental models are the strongest predictors of trust—while psychosocial traits and driving styles play a lesser role. These findings underscore the need to account for individual differences when designing trustworthy AV systems.'
 authors:
-- Robert A. Kaufman
+- Robert Kaufman
 - Emi Lee
 - Manas Bedmutha
 - David Kirsh
 - Nadir Weibel
 doi: 10.1145/3706598.3713188
+categories: ['smart-vehicles']
 tags:
 - CHI
 - 2025

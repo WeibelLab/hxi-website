@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Audio-enhanced paper photos: encouraging social interaction at age 105'
-subtitle: ''
-summary: ''
+subtitle: 'CSCW 2013'
+summary: '<b>CSCW 2013</b>'
 authors:
 - Anne Marie Piper
 - Nadir Weibel

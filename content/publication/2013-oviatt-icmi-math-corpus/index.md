@@ -3,8 +3,8 @@
 
 title: 'Multimodal learning analytics: Description of math data corpus for ICMI grand
   challenge workshop'
-subtitle: ''
-summary: ''
+subtitle: 'ICMI 2013'
+summary: '<b>ICMI 2013</b>'
 authors:
 - Sharon Oviatt
 - Adrienne Cohen

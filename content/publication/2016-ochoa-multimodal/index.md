@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Multimodal learning analytics data challenges
-subtitle: ''
-summary: ''
+subtitle: 'LAK 2016'
+summary: '<b>LAK 2016</b><br>This is a proposal for organizing a Multimodal Learning Analytics (MLA) data challenge as part of the workshop offering of the Learning Analytics and Knowledge (LAK) conference.'
 authors:
 - Xavier Ochoa
 - Marcelo Worsley
@@ -33,7 +33,7 @@ projects: []
 publishDate: '2021-09-23T22:50:43.593471Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'This is a proposal for organizing a Multimodal Learning Analytics (MLA) data challenge as part of the workshop offering of the Learning Analytics and Knowledge (LAK) conference. It explains the motivation of the event, its objectives, target groups, expected format, organization, dissemination strategy and schedule.'
 publication: '*Proceedings of the sixth international conference on Learning Analytics
   & Knowledge*'
 ---

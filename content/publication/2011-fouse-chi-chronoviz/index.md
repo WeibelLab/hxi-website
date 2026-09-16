@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'ChronoViz: a system for supporting navigation of time-coded data'
-subtitle: ''
+subtitle: 'CHI EA 2011'
 summary: '<b>CHI 2011</b><br/>ChronoViz synchronizes multiple time-coded data streams—video, audio, and transcripts—into a unified timeline interface, enabling researchers to navigate and annotate complex, multimodal datasets efficiently. Interactive filters allow quick exploration of temporal patterns, while linked views highlight relevant segments across sources. User feedback indicates significant reductions in analysis time for ethnographic studies.'
 authors:
 - Adam Fouse

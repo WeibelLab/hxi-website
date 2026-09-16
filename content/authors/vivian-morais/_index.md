@@ -8,6 +8,8 @@ social:
     link: https://www.linkedin.com/in/vivian-morais-579281a8/
 
 
+highlight_name: true
+
 user_groups:
     - Postdocs and Senior Researchers (Alumni)
 

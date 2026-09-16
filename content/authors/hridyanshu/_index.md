@@ -23,6 +23,7 @@ social:
     link: https://www.linkedin.com/in/hridyanshu/
 
 superuser: false
+highlight_name: true
 email: "hlnu@ucsd.edu"
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,3 +32,5 @@ bio:
 user_groups:
   - Undergraduate Students
 ---
+
+Hridyanshu is an undergraduate student at UC San Diego and a member of the HXI Lab, working on the [CLARO](/project/claro/) project.

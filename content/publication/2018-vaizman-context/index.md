@@ -3,8 +3,8 @@
 
 title: 'Context recognition in-the-wild: Unified model for multi-modal sensors and
   multi-label classification'
-subtitle: ''
-summary: ''
+subtitle: 'IMWUT 2018'
+summary: '<b>IMWUT 2018</b>'
 authors:
 - Yonatan Vaizman
 - Nadir Weibel

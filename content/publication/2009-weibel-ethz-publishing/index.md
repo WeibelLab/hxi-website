@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: A Publishing Infrastructure for Interactive Paper Documents
-subtitle: ''
+subtitle: 'Ph.D. Dissertation, ETH Zurich 2009'
 summary: '<b>ETH Zurich 2009</b><br/>Comprehensive infrastructure enables authors to embed interactive metadata and links within printed documents, seamlessly connecting paper pages to digital content repositories. The framework automates generation of both print and electronic formats, supporting clickable annotations, dynamic retrieval of multimedia, and integrated publication workflows. This work underpins many follow-on interactive-paper systems by providing scalable, end-to-end tooling.'
 authors:
 - Nadir Weibel

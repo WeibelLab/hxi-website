@@ -15,7 +15,7 @@ authors:
 - James D. Murphy
 - Nadir Weibel
 tags: [DIS, 2024]
-categories: []
+categories: ['contouring']
 date: '2024-06-09'
 lastmod: 2024-06-09T00:50:59-07:00
 featured: false

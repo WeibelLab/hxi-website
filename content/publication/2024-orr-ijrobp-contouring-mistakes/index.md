@@ -6,13 +6,14 @@ authors:
 - ME Orr
 - EAM Duran
 - B Wang
-- M Yarmand
+- Matin Yarmand
 - LA D'Souza
-- N Weibel
+- Nadir Weibel
 - EF Gillespie
 - JD Murphy
 - M Sherer
 doi: 10.1016/j.ijrobp.2024.07.2199
+categories: ['contouring']
 tags:
 - IJROBP
 - 2024

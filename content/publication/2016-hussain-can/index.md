@@ -3,8 +3,8 @@
 
 title: Can DiCoT Improve Infection Control? A Distributed Cognition Study of Information
   Flow in Intensive Care
-subtitle: ''
-summary: ''
+subtitle: 'CHI EA 2016'
+summary: '<b>CHI EA 2016</b>'
 authors:
 - Mustafa Hussain
 - Nadir Weibel

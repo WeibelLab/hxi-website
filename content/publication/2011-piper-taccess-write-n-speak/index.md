@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Write-n-speak: authoring multimodal digital-paper materials for speech-language therapy'
-subtitle: ''
+subtitle: 'ACM TACCESS 2011'
 summary: '<b>TACCESS 2021</b><br/>Digital‐paper toolkit Enable creation of custom aphasia therapy materials using multimodal digital pen, including interactive worksheets, voice‐tagged photographs, and interactive stickers. Twelve‐week deployment with a therapist‐client dyad demonstrated improved engagement and personalization in speech‐language therapy, highlighting potential for broader clinical use.'
 authors:
 - Anne Marie Piper

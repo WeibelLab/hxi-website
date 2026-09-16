@@ -1,6 +1,6 @@
 ---
 title: 'DIY Masks'
-summary: A pair of DIY masks in response to the COVID-19 shortage of masks.
+summary: 'Two do-it-yourself mask designs built during the COVID-19 shortage, with tested filtration performance and open instructions for making them.'
 authors: 
   - Tommy Sharkey
   - Nadir Weibel

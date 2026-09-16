@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: A model for mapping between printed and digital document instances
-subtitle: ''
+subtitle: 'DocEng 2007'
 summary: '<b>DocEng 2007</b><br/>Formal model linking printed documents and their digital counterparts, enabling bidirectional navigation and synchronization so changes in print or PDF update the other, supporting consistent document workflows.'
 authors:
 - Nadir Weibel

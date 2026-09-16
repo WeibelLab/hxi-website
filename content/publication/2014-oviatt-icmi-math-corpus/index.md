@@ -3,12 +3,12 @@
 
 title: 'Multimodal learning analytics data resources: Description of math data corpus
   and coded documents'
-subtitle: ''
-summary: ''
+subtitle: 'ICMI 2014'
+summary: '<b>ICMI 2014</b>'
 authors:
 - Sharon Oviatt
 - A Cohen
-- N Weibel
+- Nadir Weibel
 - K Hang
 - K Thompson
 tags: []

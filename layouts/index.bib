@@ -1,0 +1,15 @@
+{{- /* Combined BibTeX export of every publication on the site, served at /hxi.bib.
+
+   Built by concatenating each publication bundle's own cite.bib, so it cannot go
+   stale: adding a publication adds it here automatically. This replaces the old
+   hand-maintained weibel.bib, which silently stopped being updated in 2021. */ -}}
+{{- printf "%% HXI Lab @ UC San Diego -- complete publication list\n" -}}
+{{- printf "%% https://hxi.ucsd.edu/publication/\n" -}}
+{{- printf "%% Generated automatically from the site on %s. Do not edit by hand.\n" (now.Format "2006-01-02") -}}
+{{- $pages := where site.RegularPages "Section" "publication" -}}
+{{- printf "%% %d entries.\n" (len $pages) -}}
+{{- range (sort $pages "Date" "desc") -}}
+  {{- with .Resources.GetMatch "cite.bib" -}}
+    {{- printf "\n%s\n" (trim .Content "\n \t") -}}
+  {{- end -}}
+{{- end -}}

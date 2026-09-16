@@ -2,15 +2,15 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Development Of a Decision-Making Checklist Tool To Support Selecting Technology In Digital Health Research'
-subtitle: ''
-summary: ''
+subtitle: 'Ann Behav Med 2019'
+summary: '<b>Ann Behav Med 2019</b>'
 authors:
 - Camille Nebeker
 - Rebecca Bartlett Ellis
 - Nadir Weibel
 - John Torous
 tags: []
-categories: []
+categories: ['recode']
 date: '2019-01-01'
 lastmod: 2021-09-23T15:50:55-07:00
 featured: false

@@ -19,7 +19,8 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-projects: []
+projects: ['unbiased']
+categories: ['unbiased']
 publishDate: '2026-04-08T00:00:00Z'
 publication_types:
 - '3'

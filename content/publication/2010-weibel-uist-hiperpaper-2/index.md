@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Hiperpaper: introducing pen and paper interfaces for ultra-scale wall displays'
-subtitle: ''
+subtitle: 'UIST Adjunct 2010'
 summary: '<b>UIST 2010</b><br/>We introduce HIPerPaper, a novel digital pen and paper interface that enables natural interaction with the HIPerSpace wall, a 31.8 by 7.5 foot tiled wall display of 268,720,000 pixels. HIPerPaper provides a flexible, portable, and inexpensive medium for interacting with large high-resolution wall displays.'
 authors:
 - Nadir Weibel

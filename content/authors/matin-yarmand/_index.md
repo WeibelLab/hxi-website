@@ -1,6 +1,6 @@
 ---
 title: Matin Yarmand
-role: Ph.D. Candidate
+role: Ph.D. Alumni
 avatar_filename: ""
 bio: 
 interests:
@@ -44,7 +44,7 @@ superuser: true
 user_groups: 
     - Ph.D Students (Alumni)
 
-highlight_name: false
+highlight_name: true
 
 weight: 60
 ---

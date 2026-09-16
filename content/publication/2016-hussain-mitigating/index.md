@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Mitigating medical alarm fatigue with cognitive heuristics.
-subtitle: ''
-summary: ''
+subtitle: 'PervasiveHealth 2016'
+summary: '<b>PervasiveHealth 2016</b><br>Automated patient monitoring systems su er from several design problems. Among them, alarm fatigue is one of the most critical issues, as evidenced by the Sentinel Event Alert that The Joint Commission - the U.S.'
 authors:
 - Mustafa Hussain
 - James Dewey
@@ -32,6 +32,6 @@ projects: []
 publishDate: '2021-09-23T22:50:44.637921Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Automated patient monitoring systems su er from several design problems. Among them, alarm fatigue is one of the most critical issues, as evidenced by the Sentinel Event Alert that The Joint Commission - the U.S. hospital-accrediting body - recently issued. In this study, we explore fast-and-frugal'
 publication: '*PervasiveHealth*'
 ---

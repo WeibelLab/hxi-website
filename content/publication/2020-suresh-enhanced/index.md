@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Enhanced ultrasound systems and methods
-subtitle: ''
-summary: ''
+title: 'Enhanced Ultrasound Systems and Methods'
+subtitle: 'US Patent Application 2020'
+summary: '<b>US Patent Application 2020</b><br>Systems, devices, and methods are disclosed for an enhanced ultrasound system. A system may include an ultrasound probe. The system may include processing circuitry communicatively coupled to the ultrasound probe.'
 authors:
 - Preetham Suresh
 - Danilo Gasques
 - Nadir Weibel
 - Elizabeth A Anderson
 tags: []
-categories: []
+categories: ['extended-reality']
 date: '2020-06-01'
 lastmod: 2021-09-23T15:50:57-07:00
 featured: false
@@ -33,10 +33,10 @@ links:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [ultrasound]
+projects: ['extended-reality']
 publishDate: '2021-09-23T22:50:57.744994Z'
 publication_types:
 - '8'
 abstract: 'Systems, devices, and methods are disclosed for an enhanced ultrasound system. A system may include an ultrasound probe. The system may include processing circuitry communicatively coupled to the ultrasound probe. The system may also include an AR device receiving image information from the processing circuitry and displaying one or more ultrasound images from the ultrasound probe in the field of view of an operator.'
-publication: ''
+publication: '*US Patent Application 16/643,505*'
 ---

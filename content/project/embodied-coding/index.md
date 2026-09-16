@@ -1,6 +1,6 @@
 ---
 title: 'Embodied Coding'
-summary: An AR/VR Programming IDE that centers around the use of Embodied tools and metaphors instead of the traditional wall of text
+summary: 'A programming environment in AR and VR built on embodied tools and spatial metaphors rather than the traditional wall of text.'
 authors: 
   - Tommy Sharkey
   - Robert Twomey

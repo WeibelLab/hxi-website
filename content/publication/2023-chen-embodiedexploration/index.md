@@ -16,7 +16,7 @@ authors:
 - Yang Zhang
 doi: 10.1145/3597638.3608410
 tags: [ASSETS, 2023]
-categories: []
+categories: ['extended-reality']
 date: '2023-07-18'
 lastmod: 2023-07-18T15:51:01-07:00
 featured: false
@@ -35,7 +35,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['extended-reality']
 publishDate: '2023-10-22T00:00:01-07:00'
 publication_types:
 - '1'

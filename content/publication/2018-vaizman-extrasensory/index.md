@@ -3,8 +3,8 @@
 
 title: 'Extrasensory app: Data collection in-the-wild with rich user interface to
   self-report behavior'
-subtitle: ''
-summary: ''
+subtitle: 'CHI 2018'
+summary: '<b>CHI 2018</b>'
 authors:
 - Yonatan Vaizman
 - Katherine Ellis

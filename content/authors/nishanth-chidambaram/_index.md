@@ -14,6 +14,7 @@ social:
     link: 'mailto:nchidambaram@ucsd.edu'
 
 superuser: false
+highlight_name: true
 email: "nchidambaram@ucsd.edu"
 
 bio:

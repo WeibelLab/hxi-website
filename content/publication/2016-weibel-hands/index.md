@@ -3,8 +3,8 @@
 
 title: 'Hands That Speak: An Integrated Approach to Studying Complex Human Communicative
   Body Movements'
-subtitle: ''
-summary: ''
+subtitle: 'HICSS 2016'
+summary: '<b>HICSS 2016</b><br>Gestures, the visible body movements that are ubiquitous in human behavior, are key elements of natural communication. Understanding them is fundamental to designing computing applications with more natural forms of interaction.'
 authors:
 - Nadir Weibel
 - So-One Hwang
@@ -14,7 +14,7 @@ authors:
 - Jim Hollan
 doi: 10.1109/HICSS.2016.82
 tags: []
-categories: []
+categories: ['chronosense']
 date: '2016-01-01'
 lastmod: 2021-09-23T15:50:43-07:00
 featured: false

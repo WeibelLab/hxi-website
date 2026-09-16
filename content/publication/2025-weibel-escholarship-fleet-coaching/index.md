@@ -11,6 +11,7 @@ authors:
 - Vivian Xiang
 - Gabriella Strudler
 - Pari Hathiram
+categories: ['smart-vehicles']
 tags:
 - Technical Report
 - 2025

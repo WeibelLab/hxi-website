@@ -14,6 +14,7 @@ social:
     link: 'mailto:eal003@ucsd.edu'
 
 superuser: false
+highlight_name: true
 email: "eal003@ucsd.edu"
 
 bio:

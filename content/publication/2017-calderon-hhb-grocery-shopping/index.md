@@ -3,8 +3,8 @@
 
 title: What happens when parents and children go grocery shopping? An observational
   study of Latino dyads in Southern California, USA
-subtitle: ''
-summary: ''
+subtitle: 'Health Educ Behav 2017'
+summary: '<b>Health Educ Behav 2017</b>'
 authors:
 - Joanna Calderon
 - Guadalupe X Ayala

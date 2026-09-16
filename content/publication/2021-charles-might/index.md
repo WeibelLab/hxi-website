@@ -6,16 +6,16 @@ subtitle: 'JAGS 2021'
 summary: '<b>J Am Geriatr Soc 2021</b><br/>Brief (2–4 h) workshops boosted clinicians’ self-rated comfort and understanding of decision-making-capacity assessments, with post-session gains in 50–90 % of participants (p < 0.001), showing an efficient way to address a growing training gap.'
 authors:
 - K Charles
-- C Chen
-- J Johnson
+- Chen Chen
+- Janet Johnson
 - A Lee
 - E Lifset
 - M Hogarth
-- N Weibel
+- Nadir Weibel
 - E Farcas
 - A Moore
 tags: [JAGS, 2021]
-categories: []
+categories: ['voli']
 date: '2021-01-01'
 lastmod: 2021-09-23T15:50:59-07:00
 featured: false

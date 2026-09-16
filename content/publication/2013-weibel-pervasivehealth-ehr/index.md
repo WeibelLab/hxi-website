@@ -3,8 +3,8 @@
 
 title: Multimodal data analysis and visualization to study the usage of electronic
   health records
-subtitle: ''
-summary: ''
+subtitle: 'PervasiveHealth 2013'
+summary: '<b>PervasiveHealth 2013</b><br>Understanding interaction with Electronic Health Records (EHR), often means to understand the multimodal nature of the physician-patient interaction, as well as the interaction with other materials (e.g.'
 authors:
 - Nadir Weibel
 - Shazia Ashfaq
@@ -35,7 +35,7 @@ projects: []
 publishDate: '2021-09-23T22:50:38.344189Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Understanding interaction with Electronic Health Records (EHR), often means to understand the multimodal nature of the physician-patient interaction, as well as the interaction with other materials (e.g. paper charts), in addition to analyze the tasks fulfilled by the doctor on his computerized syst'
 publication: '*2013 7th International Conference on Pervasive Computing Technologies
   for Healthcare and Workshops*'
 ---
