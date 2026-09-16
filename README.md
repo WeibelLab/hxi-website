@@ -8,6 +8,92 @@ at UC San Diego, directed by [Nadir Weibel](https://hxi.ucsd.edu/author/nadir-we
 Built with [Hugo](https://gohugo.io) and the Wowchemy Research Group theme, hosted on
 Netlify.
 
+## How the site is put together
+
+Everything a visitor sees comes from Markdown files under `content/`. There is no database
+and no admin interface. A page is a folder, and the folder holds both the text and the
+images that belong to it.
+
+### The unit of content is a folder, not a file
+
+Publications, people and projects each live in their own folder, with an `index.md`
+(or `_index.md` for people) plus whatever assets belong to that item:
+
+```
+content/publication/2025-chidambaram-uist-drivesimquest/
+    index.md          the metadata and abstract
+    cite.bib          the BibTeX entry
+    featured.jpg      optional image, picked up automatically by filename
+
+content/authors/manas-bedmutha/
+    _index.md         name, role, links, which group they appear under
+    avatar.jpg        referenced as `avatar_filename: avatar`, without the extension
+```
+
+Hugo finds `featured.*` and `avatar.*` by name, so you never write an image path. The
+folder name becomes the URL, which is why renaming one breaks every link pointing at it.
+
+### What each section is
+
+| Folder | Becomes | Holds |
+|---|---|---|
+| `content/publication/` | `/publication/` | 181 papers, one folder each |
+| `content/project/` | `/research/` | 22 projects, one folder each |
+| `content/authors/` | `/people/` and `/alumni/` | current members; `_alumni/` holds former ones |
+| `content/course/` | `/teaching/` | courses |
+| `content/faq/` | `/faq/` | joining the lab, contact, meeting us |
+| `content/home/` | the front page | the front page's building blocks, see below |
+| `content/research/`, `content/people/`, `content/alumni/` | those pages | not content, but the *assembly instructions* for them |
+| `content/project-old/`, `content/archive/` | nothing | retired material, kept for reference |
+
+### Pages are assembled from widgets
+
+The front page, `/research`, and `/people` do not exist as documents. Each is built by
+stacking widget files in order of a `weight` value, smallest first. The front page stacks
+`content/home/welcome.md`, `slider.md`, `intro.md`, `cta.md`, `partners.md` and
+`support.md`.
+
+`/research` is two widgets over the same set of project folders:
+`research.md` renders "Current Research Projects" and `foundations.md` renders "Earlier
+Projects". A project moves between them by adding or removing the `Earlier` tag, not by
+moving the folder. Both sections are filtered by the same two-axis Domain and Technology
+control, defined in `research.md`.
+
+`/people` and `/alumni` work the same way over `content/authors/`. Which heading a person
+appears under is decided entirely by the `user_groups` value in their profile.
+
+### How things find each other
+
+Three fields do nearly all the cross-linking, and each one fails silently when wrong:
+
+- **`authors:`** on a publication. A name that slugifies to a folder in `content/authors/`
+  becomes a link to that person, shows the paper on their page, and renders their name in
+  bold as a lab member. A name that does not match simply renders as plain text.
+- **`projects:`** on a publication. Names a project folder. The paper then appears in that
+  project's publication list, and the project appears on the paper's page. The project page
+  needs no edit; the list is generated.
+- **`categories:`** on a publication. Mirrors `projects:` and exists only to drive the
+  "Related" suggestions, because Hugo cannot index the `projects` field directly. It is
+  hidden from view by CSS.
+
+Tags and publication types are also taxonomies, so `/tag/CHI/` and similar pages exist
+automatically.
+
+### Everything else
+
+| Path | What it controls |
+|---|---|
+| `config/_default/config.yaml` | site-wide Hugo settings, taxonomies, related-content weights |
+| `config/_default/params.yaml` | theme options, colours, fonts, plugins |
+| `config/_default/menus.yaml` | the navigation bar |
+| `layouts/` | the four templates that override the theme, listed near the end of this file |
+| `assets/` | custom SCSS and the JavaScript for the research-page filters |
+| `static/images/` | logos used in the funding rows on project pages |
+| `netlify.toml` | build command, redirects, and the deploy gate |
+
+The theme itself is not in this repository. It is pulled in as a Hugo module, pinned in
+`go.mod`, so there is nothing to edit there and upgrading it is deliberately not routine.
+
 ## I just want to add a paper or update my profile
 
 You do not need to install anything, and you do not need to know Hugo or Markdown.
