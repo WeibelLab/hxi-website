@@ -65,12 +65,24 @@ The theme itself is a Hugo module pinned in `go.mod` and is not in this reposito
 
 ## I just want to add a paper or update my profile
 
-You do not need to install anything, and you do not need to know Hugo or Markdown.
-Ask Claude or ChatGPT to do it, using the lab's packaged helper. Nadir has the files and
-the setup instructions; ask him for `hxi-website.zip` (Claude) or
-`hxi-website-chatgpt.zip` (ChatGPT, which also works for Gemini and Copilot).
+You do not need to know Hugo or Markdown. Ask Claude or ChatGPT to do it, using the lab's
+packaged helper. Ask Nadir for `hxi-website.zip` (Claude) or `hxi-website-chatgpt.zip`
+(ChatGPT, which also works for Gemini and Copilot).
 
 You will need **write access to this repository**. Send Nadir your GitHub username.
+
+The same Claude package installs three ways, and it is one skill, not three:
+
+| Where you work | Install | Reaches the repo via |
+|---|---|---|
+| claude.ai or the Claude desktop app | Settings, Capabilities, Skills, Upload skill | a GitHub connector you authorize |
+| **Claude Code** | `unzip hxi-website.zip -d ~/.claude/skills/` | the `git` already on your machine |
+| ChatGPT, Gemini, Copilot | attach `hxi-website-reference.md` from the ChatGPT zip | nothing; it writes the files and you paste them into github.com |
+
+**Claude Code is the one worth having** if you already use it. It is the only route that
+can run the site and show you the page before it publishes, because it has a shell. The
+browser versions cannot, and should say so rather than implying a change was checked
+visually.
 
 If you would rather do it by hand, copy the shape of an existing neighbour rather than
 writing a file from scratch. The paths are in the tables above.
