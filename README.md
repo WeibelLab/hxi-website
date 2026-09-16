@@ -10,9 +10,6 @@ Netlify. Everything a visitor sees comes from Markdown files under `content/`. T
 database and no admin interface, so editing the site means editing text files in this
 repository.
 
-It currently holds 179 publications, 22 projects, and profiles for every current and
-former member of the lab.
-
 ## The site, page by page
 
 | | |
@@ -100,9 +97,9 @@ because it publishes everything anyone else has queued too.
 
 These are the ones that fail *silently*, producing a clean build with your content missing:
 
-- **`user_groups` must match one of eight exact strings.** `Ph.D` has one period and
-  `Master` is singular. A value not on the list removes the person from `/people` with no
-  error. See any existing profile for the list.
+- **`user_groups` must match one of the strings the people widget lists.** `Ph.D` has one period and
+  `Master` is singular. A value not on that list removes the person from `/people` with no
+  error. Copy it from an existing profile rather than retyping it.
 - **`projects:` values are project folder names.** A slug that does not exist just does
   nothing.
 - **Spell out every author**, in paper order, never "et al.". A misspelled name silently
