@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /project/remote-classrooms/
 title: 'Mitigating Uncertainty in Online Learning at Scale'
 summary: 'Learning aids for online education at scale: minimally-invasive context about a learner drives timely AI and peer support.'
 authors: 

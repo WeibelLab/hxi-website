@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /author/hridy/
 title: Hridyanshu
 role: Undergraduate Student
 

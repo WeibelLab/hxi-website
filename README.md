@@ -157,6 +157,39 @@ These are the ones that fail *silently*, producing a clean build with your conte
 - Future dates are fine. The site builds with `buildFuture`, so an accepted paper can
   carry its real conference date.
 
+## Old URLs
+
+Renaming a project folder changes its URL and breaks every link anyone already has. Keep
+the old URL working by listing it as an alias on the page that should now receive the
+traffic. Rename `willo` to `student-wellbeing`, and in
+`content/project/student-wellbeing/index.md`:
+
+```yaml
+---
+aliases:
+  - /project/willo/
+title: 'Student Mental Health and Well-Being: Research with WILLO'
+```
+
+Four things to get right:
+
+- **Leading and trailing slashes, and the section prefix.** `/project/willo/`, not `willo`.
+- **Lowercase.** Hugo lowercases every URL, so an alias with capitals never matches.
+- **The alias goes on the destination page.** The old folder no longer exists.
+- **Never alias a path a real page occupies.** The redirect is forced, so it would shadow
+  that page and make it unreachable.
+
+Aliases work the same way on author profiles. `/author/hridy/` sits in
+`content/authors/hridyanshu/_index.md`.
+
+Check it with `hugo server` and visit the old URL. Hugo writes a small stub page at every
+alias path, which is what makes this testable locally. At build time
+`layouts/index.redirects` turns the same front matter into forced 301s in `public/_redirects`,
+and that is what production serves. The stub and the 301 land on the same page.
+
+`netlify.toml` holds the redirects that have no page to live in: wildcards, off-site
+destinations such as `/join`, and rewrites that keep the URL bar unchanged such as `/weibel`.
+
 ## Bibliography
 
 The full publication list is exported as BibTeX at
@@ -173,8 +206,9 @@ Everything in `layouts/` overrides the theme. Keep this list short.
 | `layouts/section/publication.html` | Sorts preprints last within each year |
 | `layouts/authors/list.html` | Groups people by `user_groups` on `/people` and `/alumni` |
 | `layouts/partials/widgets/portfolio.html` | Adds `exclude_tags` and two-axis filtering on `/research` |
-| `layouts/publication/list.bib` | Generates the combined BibTeX export |
+| `layouts/index.bib` | Generates the combined BibTeX export |
 | `layouts/_default/_markup/render-link.html` | Sends external links to one shared tab instead of a new tab each |
+| `layouts/index.redirects` | Compiles page `aliases:` into forced 301s in `_redirects` |
 
 External links open in a single shared tab named `hxi-external`, rather than a new tab
 per click. The render hook above covers links written in content;

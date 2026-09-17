@@ -1,4 +1,7 @@
 ---
+aliases:
+  - /project/triton-mask/
+  - /project/silicone-half-mask/
 title: 'DIY Masks'
 summary: 'Two do-it-yourself mask designs built during the COVID-19 shortage, with tested filtration performance and open instructions for making them.'
 authors: 

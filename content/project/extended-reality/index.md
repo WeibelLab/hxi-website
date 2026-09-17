@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /project/acuvr/
 title: 'Designing and Studying eXtended Reality'
 summary: 'Foundational XR research at HXI: interaction techniques for headsets and spatial displays, and immersive environments used as controlled settings for studying behavior.'
 authors:

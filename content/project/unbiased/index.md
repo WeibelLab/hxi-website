@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /project/sociallm/
 title: 'UnBIASED: Understanding Biased patient-provider Interactions And Supporting Enhanced Discourse'
 summary: 'Social signal processing for hidden bias in primary care: automated analysis of patient-provider communication, and feedback designed together with patients and doctors.'
 authors: 

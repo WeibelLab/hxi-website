@@ -1,4 +1,8 @@
 ---
+aliases:
+  - /project/memovis/
+  - /project/papertoplace/
+  - /project/sweeperbot/
 title: 'Mixed-Dimensional Information Spaces'
 summary: 'Interfaces spanning 2D documents and 3D space: MemoVis, PaperToPlace, and SweeperBot support design feedback, spatialized instructions, and accessible 3D browsing.'
 authors:

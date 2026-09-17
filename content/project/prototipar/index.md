@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /project/pintar/
 title: 'PrototipAR/PintAR: Rapid Prototyping in Augmented Reality'
 summary: 'Sketch-based prototyping for augmented reality: designers draw spatial experiences directly in the space where they will be used.'
 authors: 

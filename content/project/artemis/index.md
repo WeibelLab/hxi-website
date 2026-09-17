@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /project/lifesaver/
 title: 'ARTEMIS: Augmented Reality Technology-Enabled reMote Integrated Surgery'
 summary: 'Surgical telementoring in mixed reality: a remote expert sees the novice''s operating field in three dimensions and guides the procedure from anywhere.'
 authors: 

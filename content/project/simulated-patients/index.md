@@ -1,4 +1,8 @@
 ---
+aliases:
+  - /project/convershive/
+  - /project/convershive-live/
+  - /project/empathiq/
 title: 'Simulated Patients for Clinical Communication Training'
 summary: 'An AI training platform for clinical communication: LLM-driven simulated patients stage difficult conversations, and social signal processing turns each rehearsal into interpretable feedback.'
 authors:

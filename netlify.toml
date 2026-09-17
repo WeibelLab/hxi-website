@@ -63,55 +63,6 @@
   status = 200
   force = true # COMMENT: ensure that we always redirect
 
-
-# Project slug renames (2026-09-14). Keep old URLs working.
-[[redirects]]
-  from = "/project/vehicles"
-  to = "/project/smart-vehicles/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/project/vehicles/*"
-  to = "/project/smart-vehicles/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/author/hridy"
-  to = "/author/hridyanshu/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/author/hridy/*"
-  to = "/author/hridyanshu/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/project/convershive"
-  to = "/project/simulated-patients/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/project/convershive/*"
-  to = "/project/simulated-patients/"
-  status = 301
-  force = true
-
-
-# /project/stroke/ was live briefly as a combined page; HoloStroke and UbiStroke
-# are separate projects and have their own pages.
-[[redirects]]
-  from = "/project/stroke"
-  to = "/project/holostroke/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/project/stroke/*"
-  to = "/project/holostroke/"
-  status = 301
-  force = true
+# Old project and author URLs are declared as `aliases:` in each page's front
+# matter. Wowchemy's `redirects` output format compiles them into public/_redirects
+# at build time, so they move with the page if a folder is ever renamed again.

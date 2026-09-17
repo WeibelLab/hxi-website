@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /project/stroke/
 title: 'HoloStroke: Holographic Telestroke and Remote Assessment'
 summary: 'Mixed reality for stroke care at a distance: holograms of a patient, or of their imaging, are placed in three-dimensional space and transmitted to a remote stroke neurologist.'
 authors:

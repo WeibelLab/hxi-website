@@ -1,4 +1,7 @@
 ---
+aliases:
+  - /project/vehicles/
+  - /project/drivesimquest/
 title: 'Designing Smart and Autonomous Vehicles'
 summary: 'Human-centered design and evaluation of automated driving, from the explanations an autonomous vehicle gives its passenger to the sensing and coaching of the person behind the wheel.'
 authors: 

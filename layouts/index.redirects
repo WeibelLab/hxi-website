@@ -1,0 +1,13 @@
+# Netlify redirects
+# Generated from each page's `aliases:` front matter by layouts/index.redirects.
+
+{{/* `301!` forces the redirect. Hugo also writes a meta-refresh stub page at
+     every alias path, so that old URLs resolve under `hugo server` where this
+     file is never read. On Netlify a static file shadows an unforced rule, and
+     the stub would win; the `!` keeps the 301. */ -}}
+{{- range .Site.Pages -}}
+{{- $target := .RelPermalink -}}
+{{- range .Aliases }}
+{{ . | relLangURL }} {{ $target }} 301!
+{{- end -}}
+{{- end }}
