@@ -13,6 +13,18 @@ organizations:
     url: https://hxi.ucsd.edu/
 
 interests:
+  - Mixed Reality
+  - Human-Computer Interaction
+  - Human-Centered Design
+
+education:
+  courses:
+    - course: M.S. in Information
+      institution: University of Michigan School of Information, Ann Arbor, MI, USA
+      year: 2026
+    - course: B.S.E. in Computer Science and Engineering
+      institution: University of Michigan College of Engineering, Ann Arbor, MI, USA
+      year: 2024
 
 social:
   - icon: envelope
@@ -21,6 +33,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/macarena-peralta/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=TsDjXb8AAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/MacaPeralta
 
 superuser: false
 highlight_name: true
