@@ -19,8 +19,10 @@ interests:
   - Wearable and Ubiquitous Computing
 
 education:
-  - course: BS in Cognitive Science + Design and Interaction, 2026
-    institution: UC San Diego
+  courses:
+    - course: BS in Cognitive Science + Design and Interaction
+      institution: UC San Diego
+      year: 2026
 
 social:
   - icon: envelope
