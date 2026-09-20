@@ -13,6 +13,14 @@ organizations:
     url: https://hxi.ucsd.edu/
 
 interests:
+  - Healthcare
+  - Safety-critical coaching systems
+  - Assistive technology
+  - Wearable and Ubiquitous Computing
+
+education:
+  - course: BS in Cognitive Science + Design and Interaction, 2026
+    institution: UC San Diego
 
 social:
   - icon: envelope
@@ -27,10 +35,14 @@ highlight_name: true
 email: "gstrudler@ucsd.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Research Associate in the HXI Lab exploring accessibility, healthcare, and assistive technology.
 
 user_groups:
   - Ph.D Students, Researchers, and Postdocs
 ---
 
-Gabriella Strudler is a Research Associate in the HXI Lab at UC San Diego, contributing to the [Simulated Patients for Clinical Communication Training](/project/simulated-patients/), [UNDERSTAND](/project/understand/), and [Designing Smart and Autonomous Vehicles](/project/smart-vehicles/) projects.
+Gabriella is a San Diego native and graduated from UCSD with a Bachelor of Science in Cognitive Science with a specialization in Human Computer Interaction. Her experience designing for some of the world's leading surf companies has shaped her perspective on the relationship between people, technology, and their environments.
+
+Her research interests lie at the intersection of accessibility and healthcare, exploring how technology can improve experiences for both patients and healthcare providers. She is particularly interested in ubiquitous computing and assistive technologies, including Augmentative and Alternative Communication (AAC) devices, and how they can be thoughtfully integrated into everyday life and care.
+
+Outside of research, Gabriella loves to spend time in the ocean, camping and painting.
