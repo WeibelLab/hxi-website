@@ -21,7 +21,7 @@ slides: ''
 design:
   columns: '2'
 
-weight: 52
+weight: 17
 ---
 
 ------
