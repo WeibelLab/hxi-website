@@ -12,3 +12,6 @@
   {{- with .Title }} title="{{ . }}"{{ end }}
   {{- if $external }} target="hxi-external" rel="noopener"{{ end -}}
 >{{ .Text | safeHTML }}</a>
+{{- /* Trims this file's trailing newline, which would otherwise be emitted
+     after the anchor and show up as a space before any following comma or
+     period. */ -}}
