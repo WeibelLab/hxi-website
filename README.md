@@ -105,6 +105,12 @@ Commit as often as you like; it costs nothing. Your change goes live at the next
 **Do not put `[deploy]` in a commit message** unless you are the one releasing the queue,
 because it publishes everything anyone else has queued too.
 
+There is a second way to publish that costs no credits at all: building the site locally
+and uploading the result, so Netlify never runs a build. That is
+`scripts/deploy-manual.sh`, it needs a Netlify token, and the trade-offs and traps are in
+[scripts/README-deploy.md](scripts/README-deploy.md). Worth knowing it exists; only whoever
+holds the token can run it.
+
 ## Seeing your change before it publishes
 
 Because publishing is batched, a commit sits in the repo for a while before it reaches
