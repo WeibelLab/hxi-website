@@ -5,3 +5,6 @@ public/
 # netlify-plugin-hugo-cache-resources. Committing it churns on every image
 # change and causes needless conflicts between contributors.
 resources/_gen/
+
+# Hugo rewrites this with the local module cache path on every build.
+assets/jsconfig.json
