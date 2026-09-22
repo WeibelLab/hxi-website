@@ -5,6 +5,21 @@
      every alias path, so that old URLs resolve under `hugo server` where this
      file is never read. On Netlify a static file shadows an unforced rule, and
      the stub would win; the `!` keeps the 301. */ -}}
+# Rewrites that have no page to live in. These are duplicated from netlify.toml
+# on purpose: netlify.toml is only read when Netlify runs the build itself, so a
+# manual deploy of a locally built site would otherwise drop them. Netlify
+# processes this file top to bottom, and netlify.toml rules still take
+# precedence on a git build, so the duplication is harmless.
+/weibel /author/nadir-weibel/ 200!
+/weibel/cv /author/nadir-weibel/CV_NadirWeibel.pdf 200!
+/publications /publication 200!
+/join https://forms.gle/w7WswQadg2s79wbU8 200!
+# 301, not the 200 proxy netlify.toml used: a proxied fetch of the Netlify
+# dashboard carries no login session and returns 500. A redirect opens it in
+# the browser, signed in.
+/deploy https://app.netlify.com/sites/hxi-ucsd/deploys 301!
+/course/cse218/enroll https://forms.gle/eGcyWzXZqX2AmZRA6 200!
+
 {{- range .Site.Pages -}}
 {{- $target := .RelPermalink -}}
 {{- range .Aliases }}
