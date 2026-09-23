@@ -13,6 +13,20 @@ organizations:
     url: https://hxi.ucsd.edu/
 
 interests:
+  - Machine Learning
+  - Mobile Sensing
+  - Speech & Audio ML
+  - Conversational Agents/LLMs
+  - Human-Computer Interaction
+
+education:
+  courses:
+    - course: M.S. in Electrical and Computer Engineering (Advanced Study)
+      institution: Carnegie Mellon University, Electrical and Computer Engineering, USA
+      year: 2023
+    - course: B.S.E. in Software Engineering
+      institution: University of Abomey-Calavi, Benin
+      year: 2019
 
 social:
   - icon: envelope
@@ -39,4 +53,4 @@ user_groups:
   - Ph.D Students, Researchers, and Postdocs
 ---
 
-Pamely Zantou is a Ph.D. student at UC San Diego, co-advised with Edward Wang, and a member of the HXI Lab.
+Pamely Zantou is a Ph.D. student and a member of the HXI Lab at UC San Diego, contributing to the [UNDERSTAND](/project/understand/) project.
