@@ -1,5 +1,10 @@
 ---
 title: Vish Ramesh
+
+# Other spellings this person publishes under, matched by
+# scripts/sync-project-authors.py.
+name_variants:
+  - Vishwajith Ramesh
 role: NIH NLM Postdoctoral Fellow<br/>(Co-Advised with <a href="https://jacobsschool.ucsd.edu/node/3271" target="hxi-external" rel="noopener">Gert Cauwenberghs</a>, Bioengineering)
 
 

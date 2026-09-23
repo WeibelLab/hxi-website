@@ -12,6 +12,17 @@ without a profile (external co-authors) are never added, because Hugo would
 render them as plain text and the project page already names its external
 collaborators in prose.
 
+Matching is by exact name, because names are close enough to collide: the lab
+has both a Chen Chen and a Feng Chen. When a publication spells someone
+differently from their profile title, list the variants in that profile:
+
+    title: Vish Ramesh
+    name_variants:
+      - Vishwajith Ramesh
+
+Without that, the person is silently skipped and the check stays green. Run
+--report-variants to list non-member names that resemble a profile.
+
 New names are inserted after the last lab member already listed, so the lab
 stays grouped ahead of entries like "Andrea Hartzler (UW)".
 
@@ -58,8 +69,11 @@ def get_list(block, name):
 
 
 def lab_members():
-    """Map each person's display name to their profile slug."""
-    people = {}
+    """Map every name a person publishes under to their profile slug.
+
+    The profile title, plus any `name_variants`, all point at the same slug.
+    """
+    people, canonical_for = {}, {}
     for directory in sorted(glob.glob(os.path.join(REPO, "content/authors/*/"))):
         slug = os.path.basename(directory.rstrip("/"))
         if slug.startswith("_"):
@@ -71,9 +85,14 @@ def lab_members():
         if not block:
             continue
         match = re.search(r"^title:\s*(.+)$", block, re.M)
-        if match:
-            people[match.group(1).strip().strip("\"'")] = slug
-    return people
+        if not match:
+            continue
+        canonical = match.group(1).strip().strip("\"'")
+        people[canonical] = slug
+        canonical_for[slug] = canonical
+        for variant in get_list(block, "name_variants"):
+            people[variant] = slug
+    return people, canonical_for
 
 
 def authors_by_project():
@@ -108,10 +127,43 @@ def insert(text, additions, members):
     return text[: match.start(2)] + "\n".join(lines) + "\n" + text[match.end(2):]
 
 
+def report_variants():
+    """Flag non-member author names that look like an existing profile.
+
+    Advisory only: a close name is as likely to be a different person (Chen Chen
+    and Feng Chen) as a spelling variant, so this never fails a build. A real
+    match is fixed by adding `name_variants` to that person's profile.
+    """
+    import difflib
+
+    members, _ = lab_members()
+    unknown = set()
+    for path in sorted(glob.glob(os.path.join(REPO, "content/publication/*/index.md"))):
+        block, _ = front_matter(path)
+        if not block or not get_list(block, "projects"):
+            continue
+        for author in get_list(block, "authors"):
+            if author not in members:
+                unknown.add(author)
+
+    hits = 0
+    for name in sorted(unknown):
+        close = difflib.get_close_matches(name, members.keys(), n=1, cutoff=0.75)
+        if close:
+            print("  %-28s resembles %r" % (name, close[0]))
+            hits += 1
+    print("\n%d of %d non-member names resemble a profile." % (hits, len(unknown)))
+    print("If one is the same person, add it under name_variants in their profile.")
+
+
 def main():
+    if "--report-variants" in sys.argv:
+        report_variants()
+        return
+
     check = "--check" in sys.argv
     dry_run = check or "--dry-run" in sys.argv
-    members = lab_members()
+    members, canonical_for = lab_members()
     changed = added = 0
 
     for project, authors in sorted(authors_by_project().items()):
@@ -123,7 +175,17 @@ def main():
         if not block:
             continue
         listed = get_list(block, "authors")
-        additions = [a for a in authors if a in members and a not in listed]
+        listed_slugs = {members[a] for a in listed if a in members}
+        # Add the profile title, not the spelling the paper used: Hugo keys the
+        # author taxonomy on the title, and any other spelling renders as plain
+        # text and never links to the person.
+        additions = []
+        for author in authors:
+            slug = members.get(author)
+            if slug is None or slug in listed_slugs:
+                continue
+            listed_slugs.add(slug)
+            additions.append(canonical_for[slug])
         if not additions:
             continue
         print("%-22s + %s" % (project, ", ".join(additions)))

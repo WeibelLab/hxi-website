@@ -1,11 +1,12 @@
-# Content checks that must hold for any commit that could be published.
+# Keeps project author lists in step with the publications attached to them.
 #
-# This runs on push, so drift is caught before a deploy is attempted. That
-# matters on the Netlify free plan: a failed build costs the same credits as a
-# successful one, and this check is free.
+# On a push to main the sync RUNS and commits its result back, so nobody has to
+# notice a red X and repush. On a pull request it only checks, because a PR from
+# a fork cannot be written to.
 #
-# The same check guards scripts/deploy-manual.sh (the credit-free upload route)
-# and the build command in netlify.toml. This is the earliest of the three.
+# The same script guards scripts/deploy-manual.sh and the netlify.toml build
+# command. Those remain as backstops for anything that reaches a deploy without
+# passing through here.
 
 name: Content checks
 
@@ -16,13 +17,45 @@ on:
   workflow_dispatch:
 
 jobs:
-  project-authors:
-    name: Project authors match their publications
+  sync-project-authors:
+    name: Sync project authors from publications
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
-      # scripts/sync-project-authors.py uses only the standard library, so the
-      # runner's bundled python needs no setup step.
-      - name: Check project author lists
+      # On a pull request, report and fail without writing.
+      - name: Check only (pull request)
+        if: github.event_name == 'pull_request'
         run: python3 scripts/sync-project-authors.py --check
+
+      - name: Sync
+        if: github.event_name != 'pull_request'
+        run: python3 scripts/sync-project-authors.py
+
+      # Advisory: names on publications that resemble a profile but do not match
+      # it exactly, which the sync silently skips. Never fails the run, because a
+      # close name is as often a different person (Chen Chen / Feng Chen).
+      - name: Report possible name variants
+        if: github.event_name != 'pull_request'
+        run: python3 scripts/sync-project-authors.py --report-variants
+
+      - name: Commit the result
+        if: github.event_name != 'pull_request'
+        run: |
+          if git diff --quiet; then
+            echo "project authors already in step with the publications"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          # [skip build] keeps scripts/netlify-ignore.sh from spending credits on
+          # this commit. Pushes made with GITHUB_TOKEN do not trigger workflows,
+          # so this cannot loop.
+          git commit -m "Sync project authors from their publications [skip build]" \
+                     -m "Applied automatically by .github/workflows/content-checks.yml."
+          git push
+          echo "committed:"
+          git show --stat --oneline HEAD | head -20
