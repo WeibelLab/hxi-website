@@ -1,0 +1,28 @@
+# Content checks that must hold for any commit that could be published.
+#
+# This runs on push, so drift is caught before a deploy is attempted. That
+# matters on the Netlify free plan: a failed build costs the same credits as a
+# successful one, and this check is free.
+#
+# The same check guards scripts/deploy-manual.sh (the credit-free upload route)
+# and the build command in netlify.toml. This is the earliest of the three.
+
+name: Content checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  project-authors:
+    name: Project authors match their publications
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # scripts/sync-project-authors.py uses only the standard library, so the
+      # runner's bundled python needs no setup step.
+      - name: Check project author lists
+        run: python3 scripts/sync-project-authors.py --check

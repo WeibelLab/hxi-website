@@ -40,6 +40,14 @@ ok "hugo $have matches netlify.toml"
 
 cd "$REPO"
 
+# Project author lists are derived from the publications attached to each project.
+# Checked before the clean-tree test, so the fix can be reviewed and committed in
+# the same pass rather than landing as an uncommitted edit mid-deploy.
+python3 "$REPO/scripts/sync-project-authors.py" --check \
+  || die "project pages are missing lab members who appear on their publications.
+       Run the command above, review the diff, and commit."
+ok "project authors match the publications"
+
 # Deploy only what is committed, so the live site maps to a known commit.
 [ -z "$(git status --porcelain)" ] || die "working tree is dirty. Commit first, so
        the deploy corresponds to a commit you can point at later:

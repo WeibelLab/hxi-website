@@ -8,6 +8,7 @@ authors:
   - Colleen Emmenegger
   - Steven Rick
   - Naba Rizvi
+  - Manas Bedmutha
   - Andrea Hartzler (UW)
   - Wanda Pratt (UW)
   - Janice Sabin (UW)
@@ -63,6 +64,7 @@ We are partnering closely with patients and doctors to ensure this approach is g
 ### SocialLM
 
 Assessing communication at scale is the bottleneck. **SocialLM** asks whether large language models can track social behaviors directly from clinical transcripts without fine-tuning, and finds that they can, but unevenly: performance varies by patient race and by segment of the visit. Because that variability is itself an equity problem, the work introduces an agreement-weighted ensemble that improves both accuracy and stability, giving a practical route to social signal tracking at scale.
+
 ------
 
 ### Funding and External Collaborations

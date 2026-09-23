@@ -46,7 +46,7 @@ This human-centered AR coding platform is being developed for the creation of th
 
 *More Info here:* https://xrdesign.github.io/
 
-​
+
 ------
 ​
 ### Funding and External Collaborations
