@@ -9,6 +9,7 @@ authors:
   - Brett C. Meyer
   - Danilo Gasques
   - Steven Rick
+  - Vish Ramesh
 
 tags:
   - HealthCare
