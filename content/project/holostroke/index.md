@@ -7,8 +7,6 @@ authors:
   - Nadir Weibel
   - Weichen Liu
   - Brett C. Meyer
-  - Danilo Gasques
-  - Steven Rick
   - Vish Ramesh
 
 tags:
