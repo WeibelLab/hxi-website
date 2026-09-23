@@ -1,6 +1,6 @@
 ---
 title: WES 237a
-summary: Introduction to Embedded System Design (Winter Quarter)
+summary: <span class="course-name">Introduction to Embedded System Design</span><span class="course-term">(Winter Quarter)</span>
 authors: 
   - Nadir Weibel
   - Chen Chen
@@ -14,6 +14,8 @@ design:
   
 ---
 # Introduction to Embedded System Design (Winter Quarter)
+
+![Embedded system on a circuit board](banner.webp)
 
 ### Course Description
 WES 237A - Introduction to Embedded System Design - is a Masters of Advanced Study course in the Wireless and Embedded Systems (WES) program.

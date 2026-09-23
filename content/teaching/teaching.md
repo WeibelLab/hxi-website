@@ -28,6 +28,6 @@ design:
   flip_alt_rows: false
 
 ---
-We currently teach classes that span across the [Computer Science (CSE)](http://cse.ucsd.edu) and the [Cognitive Science (COGS)](http://cogsci.ucsd.edu) departments. Classes are interdisciplinary and focus on Human-Computer Interaction and Design at different levels. 
+We currently teach classes that span the [Computer Science (CSE)](http://cse.ucsd.edu), [Cognitive Science (COGS)](http://cogsci.ucsd.edu), [Design (DSGN)](https://designlab.ucsd.edu/) and [Data Science (DSC)](https://datascience.ucsd.edu/) programs, as well as the [Wireless and Embedded Systems (WES)](https://jacobsschool.ucsd.edu/mas) Master of Advanced Study. Classes are interdisciplinary and focus on Human-Computer Interaction, Artificial Intelligence, and Design at different levels. 
 
 If you are interested in any of our classes, please explore the options below.

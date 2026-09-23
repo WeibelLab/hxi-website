@@ -135,3 +135,121 @@ ul.network-icon {
 .pub .article-metadata .middot-divider:has(+ .article-categories) {
   display: none;
 }
+
+/* Teaching cards: the course code stays at the theme's default size in the
+   heading; the class name underneath it is the part that should read large,
+   with the quarter smaller on its own line below. */
+#teaching .card-text .article-style {
+  .course-name {
+    display: block;
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.3;
+    margin-bottom: 0.15rem;
+  }
+
+  .course-term {
+    font-size: 0.85rem;
+    opacity: 0.75;
+  }
+
+  p { margin-bottom: 0; }
+}
+
+/* Top navigation bar and its dropdowns: a deeper navy blue than the ocean
+   theme's #3f51b5 primary. Scoped to the navbar so links, buttons and the rest
+   of the theme keep the primary colour. The dropdown menu is styled explicitly
+   because it inherits the theme primary separately from the bar itself. */
+.navbar.navbar-light {
+  background-color: #0d1f45 !important;
+  border-bottom: 3px solid #c29640;
+
+  .navbar-brand,
+  .nav-link,
+  .navbar-nav .nav-link {
+    color: #ffffff !important;
+  }
+
+  .navbar-brand:hover,
+  .nav-link:hover,
+  .navbar-nav .active > .nav-link {
+    color: #ffffff !important;
+    opacity: 0.85;
+  }
+
+  .navbar-toggler-icon {
+    filter: invert(1);
+  }
+}
+
+/* The ocean theme sets `.dropdown-menu { background-color: #3f51b5 !important }`,
+   so this matches the same selector (and the .show state Bootstrap adds when the
+   menu opens) to keep the FAQ menu in step with the navy bar. */
+.dropdown-menu,
+.dropdown-menu.show,
+.navbar .dropdown-menu,
+.navbar .dropdown-menu.show {
+  background-color: #0d1f45 !important;
+  border-color: rgba(255, 255, 255, 0.15) !important;
+}
+
+.dropdown-menu .dropdown-item,
+.dropdown-menu.show .dropdown-item {
+  /* The theme paints each item too (`.dropdown-item { background-color: #3f51b5
+     !important }`), which sits on top of the menu background, so the items have
+     to be cleared as well or the menu still reads purple. */
+  background-color: transparent !important;
+  color: #ffffff !important;
+}
+
+.dropdown-menu .dropdown-item:hover,
+.dropdown-menu .dropdown-item:focus,
+.dropdown-menu .dropdown-item.active {
+  background-color: rgba(255, 255, 255, 0.06) !important;
+  color: #c29640 !important;
+}
+
+/* Contact page: the widget emits every detail as an <li> in one full-width
+   list, so each item takes a whole line and most of the page width is empty.
+   Lay them out in columns instead. The address and directions are long, so
+   they span the full width; the short items (email, phone, rooms) pair up. */
+#contact {
+  .fa-ul {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.6rem 2.5rem;
+    margin-left: 1.8em;
+  }
+
+  /* address (3rd) and directions (4th) read better across the full width */
+  .fa-ul > li:nth-child(3),
+  .fa-ul > li:nth-child(4) {
+    grid-column: 1 / -1;
+  }
+
+  .fa-ul > li {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  #contact .fa-ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* The multi-pin map uses #hxi-map rather than the theme's #map (so the theme's
+   own single-marker map does not initialise), which also means it misses the
+   theme's height rule. Leaflet needs an explicit height or the container
+   collapses to zero and no tiles are visible. */
+#hxi-map {
+  height: 400px;
+  width: 100%;
+  margin-top: 1.5rem;
+  border-radius: 4px;
+  z-index: 0;
+}
+
+@media (max-width: 767px) {
+  #hxi-map { height: 300px; }
+}

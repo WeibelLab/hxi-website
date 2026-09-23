@@ -1,6 +1,6 @@
 ---
 title: CSE 118
-summary: Applications in Ubiquitous Computing (Fall Quarter)
+summary: <span class="course-name">Applications in Ubiquitous Computing</span><span class="course-term">(Fall Quarter)</span>
 authors: 
   - Nadir Weibel
   - Chen Chen
@@ -13,6 +13,8 @@ design:
   
 ---
 # Applications in Ubiquitous Computing (Fall 2021)
+
+![Connected devices in ubiquitous computing](banner.png)
 
 ### Background
 "The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it" (M. Weiser)

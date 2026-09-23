@@ -44,23 +44,23 @@ contact_links:
   - icon: building
     icon_pack: fas
     name: Prof. Weibel's Office in CSE - CSE 3224
-    link: 'https://map.concept3d.com/?id=1005#!m/164780'
+    link: 'https://maps.app.goo.gl/V8MLNenNCS1fhB33A'
   - icon: building
     icon_pack: fas
     name: Prof. Weibel's Office in DIB - DIB 360
-    link: 'https://goo.gl/maps/FaX3JPoK6MqLBYWSA'
+    link: 'https://maps.app.goo.gl/3mSxY2gvZQMmvWT27'
   - icon: users
     icon_pack: fas
     name: Ph.D. students Lab in CSE - CSE 2238
-    link: 'https://map.concept3d.com/?id=1005#!m/164780'
+    link: 'https://maps.app.goo.gl/V8MLNenNCS1fhB33A'
   - icon: users
     icon_pack: fas
     name: HCI Collaboratory in DIB - DIB 340+337
-    link: 'https://goo.gl/maps/FaX3JPoK6MqLBYWSA'
+    link: 'https://maps.app.goo.gl/3mSxY2gvZQMmvWT27'
   - icon: users
     icon_pack: fas
     name: CSE Undergraduate Lab in CSE - CSE 2217
-    link: 'https://map.concept3d.com/?id=1005#!m/164780'
+    link: 'https://maps.app.goo.gl/V8MLNenNCS1fhB33A'
 
 # Site header
 
@@ -99,7 +99,7 @@ copyright_license:
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
-plugins_js: ['slider-shuffle', 'project-filters', 'external-links']
+plugins_js: ['slider-shuffle', 'project-filters', 'external-links', 'contact-map']
 avatar:
   gravatar: false
   shape: circle
@@ -135,6 +135,18 @@ map:
   provider: mapnik
   api_key: ''
   zoom: 15
+  # The lab sits in two buildings. Rendered by the local contact widget
+  # override plus assets/js/contact-map.js; the upstream widget supports a
+  # single marker only.
+  locations:
+    - name: Computer Science and Engineering (CSE)
+      description: "Prof. Weibel's office CSE 3224 &middot; Ph.D. students lab CSE 2238 &middot; CSE 2217"
+      lat: '32.8818006'
+      lng: '-117.2335235'
+    - name: Design and Innovation Building (DIB)
+      description: "Prof. Weibel's office DIB 360 &middot; HCI Collaboratory DIB 340+337"
+      lat: '32.8794117'
+      lng: '-117.2322377'
 marketing:
   google_analytics: 'G-04M585SDRK'
   google_tag_manager: ''

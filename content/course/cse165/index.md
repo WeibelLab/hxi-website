@@ -1,6 +1,6 @@
 ---
 title: CSE 165
-summary: 3D User Interaction (Spring Quarter)
+summary: <span class="course-name">3D User Interaction</span><span class="course-term">(Spring Quarter)</span>
 authors: 
   - Nadir Weibel
   - Weichen Liu
@@ -15,6 +15,8 @@ design:
   
 ---
 # 3D User Interaction (Spring Quarter)
+
+![3D user interaction in virtual reality](banner.webp)
 
 ### Background
 From video games to mobile augmented reality, 3D interaction is everywhere. Choosing to use 3D input or 3D displays is not by itself enough: 3D user interfaces (3D UIs) have to be designed carefully for the experience to work.
