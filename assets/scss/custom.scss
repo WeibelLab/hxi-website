@@ -182,6 +182,17 @@ ul.network-icon {
   }
 }
 
+/* Below the navbar-expand-lg breakpoint the menu collapses into a panel that is
+   a separate element from the bar. The theme paints that panel #3f51b5, so on a
+   phone the open menu reads purple under a navy bar. `.collapsing` is the class
+   Bootstrap applies mid-animation, before `.show`. */
+.navbar.navbar-light .navbar-collapse,
+#navbar-content,
+#navbar-content.show,
+#navbar-content.collapsing {
+  background-color: #0d1f45 !important;
+}
+
 /* The ocean theme sets `.dropdown-menu { background-color: #3f51b5 !important }`,
    so this matches the same selector (and the .show state Bootstrap adds when the
    menu opens) to keep the FAQ menu in step with the navy bar. */
