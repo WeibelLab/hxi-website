@@ -10,6 +10,9 @@ authors:
   - Nadir Weibel
   - Matin Yarmand
   - Chen Chen
+  - Danilo Gasques
+  - Joyce Lu
+  - Yunhao Luo
   - Michael V. Sherer
   - Larry Hernandez
   - James D. Murphy

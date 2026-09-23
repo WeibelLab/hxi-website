@@ -15,6 +15,9 @@ authors:
   - Huimeng Lu
   - Pari Hathiram
   - Emi Lee
+  - Manas Bedmutha
+  - Chen Chen
+  - Aaron Broukhim
 tags:
   - Mobility
   - Society

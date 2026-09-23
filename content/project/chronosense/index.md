@@ -7,6 +7,7 @@ authors:
   - Richard Duong
   - Vish Ramesh
   - Nadir Weibel
+  - Colleen Emmenegger
   - Gauri Iyer
   - Calvin Chan
 

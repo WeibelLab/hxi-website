@@ -6,6 +6,7 @@ summary: 'Learning aids for online education at scale: minimally-invasive contex
 authors: 
   - Nadir Weibel
   - Matin Yarmand
+  - Haowei Li
   - Jaemarie Solyst
   - Scott Klemmer
 tags:

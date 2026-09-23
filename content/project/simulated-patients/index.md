@@ -12,6 +12,10 @@ authors:
   - Canwen Wang
   - Chen Chen
   - Maca Peralta
+  - Nishanth Chidambaram
+  - Kaustubh Paliwal
+  - Kayla Hom
+  - Steven Rick
 
 tags:
   - HealthCare

@@ -10,6 +10,8 @@ authors:
   - Danilo Gasques
   - Tommy Sharkey
   - Janet Johnson
+  - Steven Rick
+  - Yuanyuan Feng
   - Zhuoqun Robin Xu
 
 tags:

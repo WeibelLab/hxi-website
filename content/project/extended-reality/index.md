@@ -10,6 +10,8 @@ authors:
   - Danilo Gasques
   - Janet Johnson
   - Menghe Zhang
+  - Tommy Sharkey
+  - Matin Yarmand
 
 tags:
   - XR

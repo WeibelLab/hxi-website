@@ -78,7 +78,9 @@ def lab_members():
 
 def authors_by_project():
     seen = collections.defaultdict(list)
-    for path in glob.glob(os.path.join(REPO, "content/publication/*/index.md")):
+    # sorted(): glob returns filesystem order, which differs between macOS and the
+    # Linux CI runner, and that would change the order names are inserted in.
+    for path in sorted(glob.glob(os.path.join(REPO, "content/publication/*/index.md"))):
         block, _ = front_matter(path)
         if not block:
             continue
