@@ -160,9 +160,17 @@ ul.network-icon {
    theme's #3f51b5 primary. Scoped to the navbar so links, buttons and the rest
    of the theme keep the primary colour. The dropdown menu is styled explicitly
    because it inherits the theme primary separately from the bar itself. */
+/* The acronym letters in the navbar brand, marked up by
+   layouts/partials/navbar.html. Gold against the navy bar, matching the poster. */
+.navbar.navbar-light .navbar-brand .brand-hxi {
+  color: #edb92e;
+}
+
 .navbar.navbar-light {
   background-color: #0d1f45 !important;
-  border-bottom: 3px solid #c29640;
+  /* UCSD gold, pulled back from the official #ffcd00, which read too yellow
+     on screen. Replaced #c29640, sampled from a printed logo, which read muddy. */
+  border-bottom: 3px solid #edb92e;
 
   .navbar-brand,
   .nav-link,
@@ -217,7 +225,7 @@ ul.network-icon {
 .dropdown-menu .dropdown-item:focus,
 .dropdown-menu .dropdown-item.active {
   background-color: rgba(255, 255, 255, 0.06) !important;
-  color: #c29640 !important;
+  color: #edb92e !important;
 }
 
 /* Contact page: the widget emits every detail as an <li> in one full-width
@@ -263,4 +271,229 @@ ul.network-icon {
 
 @media (max-width: 767px) {
   #hxi-map { height: 300px; }
+}
+
+/* The four research concepts, as a band of outlined pills under the homepage
+   intro. Navy band with gold outlines, echoing the navbar.
+
+   Styled off .hxi-concept-pills and the section id rather than design.css_class:
+   this Wowchemy version does not emit css_class on a blank widget, so the
+   section carries only "home-section wg-blank dark". */
+#concepts {
+  padding-top: 2.4rem;
+  padding-bottom: 2.6rem;
+}
+
+.hxi-concept-pills {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.85rem 1rem;
+}
+
+.hxi-concept-pills li {
+  border: 2px solid #edb92e;
+  border-radius: 999px;
+  color: #edb92e;
+  padding: 0.5rem 1.4rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  line-height: 1.35;
+  list-style: none;
+}
+
+/* Below ~575px four nowrap pills overflow the viewport, so let them wrap. */
+@media (max-width: 575px) {
+  .hxi-concept-pills li {
+    white-space: normal;
+    text-align: center;
+    font-size: 0.76rem;
+  }
+}
+
+/* Homepage focus section: Janet's three-circle drawing with one paragraph per
+   area beside it. The drawing is static/images/hxi-venn.png, her original
+   linework with each disc recoloured; static/images/hxi.png keeps the flat
+   blue original. Heading colours match the discs. */
+.hxi-focus {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+}
+
+.hxi-focus-venn {
+  flex: 0 0 38%;
+  margin: 0;
+}
+
+.hxi-focus-venn img {
+  width: 100%;
+  height: auto;
+}
+
+.hxi-focus-list {
+  flex: 1 1 auto;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.hxi-focus-list li {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+.hxi-focus-list li:last-child {
+  margin-bottom: 0;
+}
+
+/* The bullet picks up its disc colour from the heading. */
+.hxi-focus-list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.42em;
+  width: 0.62rem;
+  height: 0.62rem;
+  border-radius: 50%;
+  background: currentColor;
+}
+
+.hxi-focus-list li:nth-child(1) { color: #0d1f45; }
+.hxi-focus-list li:nth-child(2) { color: #2e6db0; }
+.hxi-focus-list li:nth-child(3) { color: #a57c12; }
+
+.hxi-focus-list h3 {
+  margin: 0 0 0.3rem;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: inherit;
+  /* No text-transform: it would render the lab's "eXtended" as "EXTENDED".
+     The headings carry their own casing instead. */
+  letter-spacing: 0.02em;
+}
+
+.hxi-focus-list p {
+  margin: 0;
+  color: #4e586b;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+@media (max-width: 767px) {
+  .hxi-focus {
+    flex-direction: column;
+    gap: 1.6rem;
+  }
+  .hxi-focus-venn {
+    flex-basis: auto;
+    max-width: 320px;
+  }
+}
+
+/* Named systems inside a project, listed on its /research card by
+   layouts/partials/portfolio_li_card.html from the `systems` front matter. */
+.project-card .project-systems {
+  margin: -0.1rem 0 0.6rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+/* Chips rather than a run of text: the named systems are the thing people
+   scan a card for, and inline text disappeared under the title. */
+.project-card .project-system {
+  display: inline-block;
+  background: #eaf0f9;
+  border: 1px solid #cfdcee;
+  border-radius: 999px;
+  color: #1d4f88;
+  padding: 0.2rem 0.62rem;
+  font-size: 0.76rem;
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: 0.015em;
+  white-space: nowrap;
+}
+
+/* Homepage lede and affiliation, adopted from the 2026 lab poster. */
+.hxi-lede {
+  font-size: 1.45rem;
+  line-height: 1.35;
+  font-weight: 700;
+  color: #0d1f45;
+  margin-bottom: 0.55rem;
+}
+
+.hxi-affiliation-footer {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+/* Navbar lockup: acronym block, rule, then the full name. */
+.navbar-brand .brand-mark {
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  padding-right: 0.6rem;
+  margin-right: 0.6rem;
+  border-right: 2px solid rgba(255, 255, 255, 0.35);
+}
+
+.navbar-brand .brand-name {
+  font-weight: 600;
+}
+
+/* Below the navbar breakpoint the lockup is too wide, so the rule and the
+   full name give way to the acronym alone. */
+@media (max-width: 991px) {
+  .navbar-brand .brand-mark {
+    border-right: 0;
+    padding-right: 0;
+    margin-right: 0.45rem;
+  }
+  .navbar-brand .brand-name {
+    font-size: 0.82rem;
+  }
+}
+
+/* Funder strip. Logos vary wildly in aspect, so they are sized by height and
+   capped in width, then muted until hover so the row reads as one band. */
+.hxi-supporters-label {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.74rem;
+  font-weight: 700;
+  color: #5a6478;
+  margin-bottom: 1rem;
+}
+
+.hxi-supporters-logos {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.4rem 2.6rem;
+}
+
+.hxi-supporters-logos img {
+  height: 46px;
+  max-width: 150px;
+  object-fit: contain;
+  filter: grayscale(100%);
+  opacity: 0.72;
+  transition: filter 0.2s ease, opacity 0.2s ease;
+}
+
+.hxi-supporters-logos img:hover {
+  filter: none;
+  opacity: 1;
 }

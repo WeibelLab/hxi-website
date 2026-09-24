@@ -9,6 +9,10 @@ authors:
   - Nadir Weibel
   - Chen Chen
 
+systems:
+  - MemoVis
+  - PaperToPlace
+  - SweeperBot
 tags:
   - XR
   - AI

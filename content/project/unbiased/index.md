@@ -13,6 +13,10 @@ authors:
   - Wanda Pratt (UW)
   - Janice Sabin (UW)
 
+systems:
+  - ConverSense
+  - ConverStand
+  - SocialLM
 tags:
   - HealthCare
   - AI
@@ -60,6 +64,12 @@ We are partnering closely with patients and doctors to ensure this approach is g
 
 ------
 
+
+### ConverSense
+
+Measurement is only useful if a provider can see it. **ConverSense** turns the pipeline's output into feedback: a web application that visualizes how dominance, interactivity, engagement and warmth moved through a visit, and across visits over time. A study with five clinicians across ten patient visits showed the feedback lands only when it is tied to the specific interaction it came from, which is why the visualizations are time-aligned to the conversation rather than reported as scores.
+
+------
 
 ### SocialLM
 

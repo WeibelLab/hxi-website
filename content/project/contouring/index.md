@@ -4,7 +4,7 @@ aliases:
   - /project/vrcontour/
   - /project/icontutor/
   - /project/precision-first-vr/
-title: 'Contouring: Interactive Training and Feedback in Radiation Oncology'
+title: 'Contouring for Radiation Oncology: Interactive Training and Feedback'
 summary: 'Interactive training systems for radiation oncology contouring: iContour, VRContour, and iConTutor deliver practice, immersive delineation, and automated feedback to residents.'
 authors: 
   - Nadir Weibel
@@ -16,6 +16,10 @@ authors:
   - Michael V. Sherer
   - Larry Hernandez
   - James D. Murphy
+systems:
+  - iContour
+  - VRContour
+  - iConTutor
 tags:
   - HealthCare
   - Education

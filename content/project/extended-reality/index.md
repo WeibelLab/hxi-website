@@ -13,6 +13,10 @@ authors:
   - Tommy Sharkey
   - Matin Yarmand
 
+systems:
+  - PintAR
+  - HoloCPR
+  - AcuVR
 tags:
   - XR
   - Sensing
