@@ -12,6 +12,9 @@ organizations:
   
 education:
   courses:
+    - course: PhD in Computer Science and Engineering
+      institution: UC San Diego, La Jolla, CA, USA
+      year: 2023
     - course: MS in Computer Science and Engineering
       institution: UC San Diego, La Jolla, CA, USA
       year: 2019
@@ -23,10 +26,10 @@ education:
 social:
 - icon: globe-americas
   icon_pack: fas
-  link: 'https://danilogasques.com/'
+  link: 'https://gasqu.es/?utm_source=hxi&utm_medium=referral&utm_campaign=hxi_profile'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:gasques@ucsd.edu'
+  link: 'mailto:danilo@gasqu.es'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/danilogasques
@@ -41,7 +44,7 @@ social:
   link: https://www.linkedin.com/in/danilogasques/
 superuser: false
 highlight_name: true
-email: "gasques@ucsd.edu"
+email: "danilo@gasqu.es"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -49,16 +52,10 @@ user_groups:
     - Ph.D Students (Alumni)
 ---
 
-Hello! My name is Danilo Gasques, and I am a <b>Computer Science Ph.D. Candidate</b> at UC San Diego (<a href="https://hxi.ucsd.edu/">HXI Lab</a> / <a href="https://design.ucsd.edu">Design Lab</a>).
+Hello! My name is Danilo Gasques. I completed my <b>Ph.D. in Computer Science and Engineering</b> at UC San Diego (<a href="https://hxi.ucsd.edu/">HXI Lab</a> / <a href="https://design.ucsd.edu">Design Lab</a>), advised by Nadir Weibel. My dissertation, <a href="/publication/2023-gasques-thesis-ar-misalignment/">Designing for misalignment in Augmented Reality displays</a>, showed how contextual aids keep Augmented Reality guidance useful even when virtual content doesn't line up perfectly with the physical world. You can read a short takeaway <a href="https://gasqu.es/thoughts/spatial-computing-healthcare/?utm_source=hxi&utm_medium=referral&utm_campaign=hxi_profile">here</a>. At HXI I built systems for surgical guidance and remote mentoring, such as <a href="/publication/2021-gasques-chi-artemis/">ARTEMIS</a>, with support from an <a href="https://www.intuitive.com/en-us/about-us/company/grant-programs">Intuitive Surgical Ph.D. Research Fellowship</a>.
 
-In my research, I use <i>mixed methods</i> to better understand user goals, co-design with stakeholders, and evaluate and explain interventions. I also develop prototypes, tools, and systems. For example, <a href="https://dl.acm.org/doi/10.1145/3290607.3312847">tools to facilitate the rapid-prototyping of Augmented Reality applications</a>.
+From September 2022 to September 2025, I was a Research Engineer at <a href="https://www.medivis.com/">Medivis</a>, where I led <a href="https://www.medivis.com/navigation/body">Body Navigation</a> (ultrasound–MRI fusion) from idea to FDA submission.
 
-My research focus is on improving remote and co-located surgical mentoring and training as well as creating interfaces for surgical guidance through eXtended Reality technology.
+I then raised funding from <a href="https://www.southparkcommons.com/">South Park Commons</a> to start AppliedMind, an AI-native product innovation startup, where we built <a href="https://gasqu.es/works/ruby?utm_source=hxi&utm_medium=referral&utm_campaign=hxi_profile">Ruby</a>. We shut the company down in May 2026 (<a href="https://gasqu.es/thoughts/field-notes-wind-down/?utm_source=hxi&utm_medium=referral&utm_campaign=hxi_profile">field notes from the wind-down</a>).
 
-{{% callout note %}}
-As of 2020, I am excited to share that my research is supported by an <a href="https://www.intuitive.com/en-us/about-us/company/grant-programs">Intuitive Surgical Ph.D. Research Fellowship</a>.
-{{% /callout %}}
-
-Learn more about me at my website: <b><a href="https://danilogasques.com">https://danilogasques.com</a>
-
-
+Now I'm onto the next thing, having joined Google Cloud as a Forward Deployed Engineer as of September 2026. If you want to stay up to date on what I am working on, check my personal website: <b><a href="https://gasqu.es?utm_source=hxi&utm_medium=referral&utm_campaign=hxi_profile">gasqu.es</a></b>
