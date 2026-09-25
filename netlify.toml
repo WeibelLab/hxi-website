@@ -6,13 +6,13 @@
   # check guards scripts/deploy-manual.sh; it is repeated here because a Netlify
   # build never runs that script, and would otherwise publish the drift.
   #
-  # Whether a commit deploys is decided by scripts/netlify-ignore.sh, driven by
-  # the DEPLOY_POLICY environment variable set in the Netlify UI. Default
-  # (unset) is "manual": nothing deploys unless the commit message says
-  # [deploy]. Set DEPLOY_POLICY=auto once the credit budget allows.
-  # DEPLOY_POLICY is intentionally not declared in this file, so the policy can
-  # be changed from the UI without a commit.
-  ignore = "bash scripts/netlify-ignore.sh"
+  # No ignore hook: every commit on main builds and publishes.
+  #
+  # scripts/netlify-ignore.sh used to gate this, to ration 300 credits a month.
+  # The account is on Netlify's Open Source plan now, so there is nothing to
+  # ration. The script is kept for reference but is no longer wired in, and it
+  # was actively harmful: it matched its marker anywhere in a commit message, so
+  # a message that merely described the marker cancelled its own build.
 
 [build.environment]
   HUGO_VERSION = "0.89.2"

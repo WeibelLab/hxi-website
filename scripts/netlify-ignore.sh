@@ -1,4 +1,13 @@
 #!/usr/bin/env bash
+#
+# RETIRED 2026-09-24. netlify.toml no longer sets `ignore`, so this does not
+# run. Kept for reference only.
+#
+# Two reasons it is gone: the Open Source plan removed the credit budget it
+# rationed, and its marker test matched the marker anywhere in a commit
+# message, so a commit whose message merely mentioned the marker cancelled its
+# own build.
+#
 # Netlify "ignore" command: decides whether a commit deploys.
 #   exit 0 = skip the build   exit 1 = build
 #
