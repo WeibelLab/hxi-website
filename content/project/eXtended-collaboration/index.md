@@ -6,6 +6,7 @@ authors:
   - Janet Johnson
   - Tommy Sharkey
   - Danilo Gasques
+  - Evan Schmitz
   - Cynthia Butarbutar
   - Lauren Sy
 

@@ -13,6 +13,10 @@ authors:
   - Danilo Gasques
   - Joyce Lu
   - Yunhao Luo
+  - Varun Singh
+  - Borui Wang
+  - Yash Shah
+  - Peter Liu
   - Michael V. Sherer
   - Larry Hernandez
   - James D. Murphy

@@ -13,6 +13,9 @@ authors:
   - Steven Rick
   - Yuanyuan Feng
   - Zhuoqun Robin Xu
+  - Ankur Jain
+  - Ru Wang
+  - Wanze Xie
 
 tags:
   - HealthCare

@@ -5,6 +5,11 @@ authors:
   - Nadir Weibel
   - Chen Chen
   - Janet Johnson
+  - Ella Lifset
+  - Yichen Han
+  - Christopher Han
+  - Nova Lee
+  - Arkajyoti Roy
   - Emilia Farcas
   - Alison Moore
   - Ndapa Nakashole

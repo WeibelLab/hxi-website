@@ -4,6 +4,7 @@ summary: 'A multimodal sensing approach to acute stroke assessment: body posture
 authors:
   - Nadir Weibel
   - Vishwajith Ramesh
+  - Andrew Nguyen
   - Brett C. Meyer
   - Gert Cauwenberghs
   - Kunal Agrawal

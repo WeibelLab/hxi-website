@@ -12,6 +12,10 @@ authors:
   - Menghe Zhang
   - Tommy Sharkey
   - Matin Yarmand
+  - Madhuri Gubbala
+  - Wanze Xie
+  - Zhuoqun Robin Xu
+  - Varun Singh
 
 systems:
   - PintAR

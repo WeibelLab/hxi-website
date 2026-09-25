@@ -9,6 +9,8 @@ authors:
   - Steven Rick
   - Naba Rizvi
   - Manas Bedmutha
+  - Kimberly Sladek
+  - Alexandra Andreiu
   - Andrea Hartzler (UW)
   - Wanda Pratt (UW)
   - Janice Sabin (UW)

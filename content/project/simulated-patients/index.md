@@ -16,6 +16,7 @@ authors:
   - Kaustubh Paliwal
   - Kayla Hom
   - Steven Rick
+  - Kimberly Sladek
 
 systems:
   - ConversHIVe
