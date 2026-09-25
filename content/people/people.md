@@ -19,19 +19,26 @@ content:
   user_groups:
   - Director
   - Ph.D Students
-  - Postdocs and Senior Researchers
+  - Researchers
+  - Postdocs
   - Master Students
   - Undergraduate Students
 
   # Render several groups under one heading. The groups themselves stay
   # separate, so each person's user_groups still records their cohort; this
-  # only avoids headings with one or two people under each. The group names
-  # match the ones the alumni page already uses.
+  # only avoids headings with one or two people under each.
+  #
+  # A group with nobody in it is skipped, heading and all, so "Postdocs" can sit
+  # here and appear the moment someone is filed under it.
+  #
+  # These names are finer-grained than the alumni page's, which still lumps
+  # postdocs and senior researchers into one group.
   merge_groups:
     - heading: Ph.D Students, Researchers, and Postdocs
       groups:
         - Ph.D Students
-        - Postdocs and Senior Researchers
+        - Researchers
+        - Postdocs
     - heading: Master and Undergraduate Students
       groups:
         - Master Students

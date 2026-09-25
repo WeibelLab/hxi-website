@@ -30,7 +30,7 @@ email: "canwenw@andrew.cmu.edu"
 bio:
 
 user_groups:
-  - Postdocs and Senior Researchers
+  - Researchers
 ---
 
 Canwen Wang is a Research Associate in the HXI Lab at UC San Diego, contributing to the [Simulated Patients for Clinical Communication Training](/project/simulated-patients/) and [UNDERSTAND](/project/understand/) projects.

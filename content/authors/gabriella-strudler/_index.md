@@ -40,7 +40,7 @@ email: "gstrudler@ucsd.edu"
 bio: Research Associate in the HXI Lab exploring accessibility, healthcare, and assistive technology.
 
 user_groups:
-  - Postdocs and Senior Researchers
+  - Researchers
 ---
 
 Gabriella is a San Diego native and graduated from UCSD with a Bachelor of Science in Cognitive Science with a specialization in Human Computer Interaction. Her experience designing for some of the world's leading surf companies has shaped her perspective on the relationship between people, technology, and their environments.
