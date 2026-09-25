@@ -51,10 +51,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          # [skip build] keeps scripts/netlify-ignore.sh from spending credits on
-          # this commit. Pushes made with GITHUB_TOKEN do not trigger workflows,
-          # so this cannot loop.
-          git commit -m "Sync project authors from their publications [skip build]" \
+          # Pushes made with GITHUB_TOKEN do not trigger workflows, so this
+          # cannot loop. The commit no longer carries [skip build]: on the Open
+          # Source plan its deploy should publish like any other.
+          git commit -m "Sync project authors from their publications" \
                      -m "Applied automatically by .github/workflows/content-checks.yml."
           git push
           echo "committed:"

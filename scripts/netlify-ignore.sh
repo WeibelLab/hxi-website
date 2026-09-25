@@ -6,8 +6,13 @@
 # Environment variables). Deliberately NOT declared in netlify.toml, so the
 # policy can change without a commit.
 #
-#   unset / "manual"  Deploy only when the commit message contains [deploy].
-#   "auto"            Deploy everything except commits containing [skip build].
+#   unset / "auto"    Deploy everything except commits containing [skip build].
+#   "manual"          Deploy only when the commit message contains [deploy].
+#
+# The default became "auto" on 2026-09-24, when the account moved to Netlify's
+# Open Source plan (10,000 credits/month, up from 300). The gate existed to
+# ration a 300-credit budget that roughly 20 deploys would exhaust; that
+# constraint is gone, so a commit publishes unless it says otherwise.
 #
 # Failure mode is deliberate: if the commit message cannot be determined, this
 # BUILDS. A wasted build is recoverable; a gate that silently holds every commit
@@ -15,7 +20,7 @@
 
 set -uo pipefail
 
-policy="${DEPLOY_POLICY:-manual}"
+policy="${DEPLOY_POLICY:-auto}"
 ref="${COMMIT_REF:-HEAD}"
 
 # Try several ways to read the commit message; Netlify's checkout is shallow and
