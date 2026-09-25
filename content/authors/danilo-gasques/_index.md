@@ -49,7 +49,7 @@ email: "danilo@gasqu.es"
 # Short bio (displayed in user profile at end of posts)
 bio:
 user_groups:
-    - Ph.D Students (Alumni)
+  - Ph.D Students (Alumni)
 ---
 
 Hello! My name is Danilo Gasques. I completed my <b>Ph.D. in Computer Science and Engineering</b> at UC San Diego (<a href="https://hxi.ucsd.edu/">HXI Lab</a> / <a href="https://design.ucsd.edu">Design Lab</a>), advised by Nadir Weibel. My dissertation, <a href="/publication/2023-gasques-thesis-ar-misalignment/">Designing for misalignment in Augmented Reality displays</a>, showed how contextual aids keep Augmented Reality guidance useful even when virtual content doesn't line up perfectly with the physical world. You can read a short takeaway <a href="https://gasqu.es/thoughts/spatial-computing-healthcare/?utm_source=hxi&utm_medium=referral&utm_campaign=hxi_profile">here</a>. At HXI I built systems for surgical guidance and remote mentoring, such as <a href="/publication/2021-gasques-chi-artemis/">ARTEMIS</a>, with support from an <a href="https://www.intuitive.com/en-us/about-us/company/grant-programs">Intuitive Surgical Ph.D. Research Fellowship</a>.

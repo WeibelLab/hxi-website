@@ -42,7 +42,7 @@ education:
 email: ""
 superuser: true
 user_groups: 
-    - Ph.D Students (Alumni)
+  - Ph.D Students (Alumni)
 
 highlight_name: true
 

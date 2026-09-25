@@ -53,7 +53,7 @@ email: "ibouchard@ucsd.edu"
 # Short bio (displayed in user profile at end of posts)
 bio:
 user_groups:
-- Ph.D Students
+  - Ph.D Students
 ---
 Isaac grew up in the San Francisco Bay Area. He graduated with a Bachelor of Science in Psychological and Brain Sciences with a minor in Applied Psychology from UCSB. Prior to joining UCSD, he received his Master of Arts in Clinical Psychology with an emphasis in Clinical Research from California State University, Northridge. During his master's program, he served as a Dissemination and Implementation Science intern at UCSD.
 

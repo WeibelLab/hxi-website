@@ -11,6 +11,6 @@ social:
 highlight_name: true
 
 user_groups:
-    - Ph.D Students (Alumni)
+  - Ph.D Students (Alumni)
 
 ---

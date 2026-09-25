@@ -14,7 +14,7 @@ superuser: false
 highlight_name: true
 
 user_groups:
-    - Postdocs and Senior Researchers (Alumni)
+  - Postdocs and Senior Researchers (Alumni)
 
 education:
   courses:

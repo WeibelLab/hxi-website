@@ -65,7 +65,7 @@ highlight_name: true
 email: "chechen@fiu.edu"
 
 user_groups:
-    - Ph.D Students (Alumni)
+  - Ph.D Students (Alumni)
 
 ---
 I am a tenure-track Assistant Professor 🤓 at the Knight Foundation School of Computing and Information Sciences 💻, part of the College of Engineering and Computing at Florida International University 🐅 in Miami 🌴 starting Fall 2025.
