@@ -22,7 +22,7 @@ email: ""
 bio:
 
 user_groups:
-  - Ph.D Students, Researchers, and Postdocs
+  - Ph.D Students
 ---
 
 Victoria Chentsova is a Ph.D. candidate in the Department of Psychiatry at UC San Diego. She is based at the [HIV Neurobehavioral Research Program](https://hnrp.hivresearch.ucsd.edu/) and the [Center for Medicinal Cannabis Research](https://cmcr.ucsd.edu/), and her advisors are [Mariana Cherner](https://profiles.ucsd.edu/mariana.cherner) and [Igor Grant](https://profiles.ucsd.edu/igor.grant). She works with the HXI Lab.

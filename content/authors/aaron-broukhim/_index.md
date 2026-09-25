@@ -48,8 +48,7 @@ highlight_name: true
 email: "aabroukh@ucsd.edu"
 
 user_groups:
-- Ph.D Students, Researchers, and Postdocs
-
+- Ph.D Students
 ---
 I’m a 4th year PhD student in Computer Science & Engineering at UC San Diego. I’m a part of Nadir Weibel’s [HXI Lab](https://hxi.ucsd.edu/) and Eshin Jolly’s [SciMinds Lab](https://sciminds.ucsd.edu/). My research interests lie at the intersection of reinforcement learning, social signals, and mental health. Specifically, I work on finetuning conversational audio systems and the application of preference learning frameworks to the audio domain.
 

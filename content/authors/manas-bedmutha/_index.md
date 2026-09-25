@@ -48,7 +48,7 @@ email: "mbedmutha@ucsd.edu"
 # Short bio (displayed in user profile at end of posts)
 bio:
 user_groups:
-- Ph.D Students, Researchers, and Postdocs
+- Ph.D Students
 ---
 
 Hello! I am Manas Bedmutha, a <b>Ph.D. student in Computer Science</b> at UC San Diego (<a href="https://hxi.ucsd.edu/">HXI Lab</a> / <a href="https://design.ucsd.edu">Design Lab</a>).

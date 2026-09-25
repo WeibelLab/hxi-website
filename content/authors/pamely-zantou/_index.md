@@ -50,7 +50,7 @@ email: "pzantou@ucsd.edu"
 bio:
 
 user_groups:
-  - Ph.D Students, Researchers, and Postdocs
+  - Ph.D Students
 ---
 
 Pamely Zantou is a Ph.D. student and a member of the HXI Lab at UC San Diego, contributing to the [UNDERSTAND](/project/understand/) project.

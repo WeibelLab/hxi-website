@@ -30,7 +30,7 @@ email: "d2pal@ucsd.edu"
 bio:
 
 user_groups:
-  - Master and Undergraduate Students
+  - Master Students
 ---
 
 Debmalya Pal is a Master's student at UC San Diego and a member of the HXI Lab, working on the [CLARO](/project/claro/) project.

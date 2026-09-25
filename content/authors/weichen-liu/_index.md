@@ -24,6 +24,6 @@ email: ""
 weight: -50
 
 user_groups:
-- Ph.D Students, Researchers, and Postdocs
+- Ph.D Students
 ---
 Weichen Liu is a Ph.D. student in the Department of Computer Science and Engineering at UC San Diego.

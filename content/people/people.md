@@ -18,8 +18,24 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Director
-  - Ph.D Students, Researchers, and Postdocs
-  - Master and Undergraduate Students
+  - Ph.D Students
+  - Postdocs and Senior Researchers
+  - Master Students
+  - Undergraduate Students
+
+  # Render several groups under one heading. The groups themselves stay
+  # separate, so each person's user_groups still records their cohort; this
+  # only avoids headings with one or two people under each. The group names
+  # match the ones the alumni page already uses.
+  merge_groups:
+    - heading: Ph.D Students, Researchers, and Postdocs
+      groups:
+        - Ph.D Students
+        - Postdocs and Senior Researchers
+    - heading: Master and Undergraduate Students
+      groups:
+        - Master Students
+        - Undergraduate Students
 
 design:
   show_interests: false

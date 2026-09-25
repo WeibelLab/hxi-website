@@ -48,7 +48,7 @@ email: "peraltam@umich.edu"
 bio:
 
 user_groups:
-  - Ph.D Students, Researchers, and Postdocs
+  - Ph.D Students
 ---
 
 Maca Peralta is a Ph.D. student and a member of the HXI Lab at UC San Diego, contributing to the [Simulated Patients for Clinical Communication Training](/project/simulated-patients/) and [UNDERSTAND](/project/understand/) projects.

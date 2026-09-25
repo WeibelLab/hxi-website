@@ -1,0 +1,118 @@
+{{/*
+  Local override of the Wowchemy people widget.
+
+  Only change from upstream: `content.merge_groups` lets several user_groups
+  share one heading. Two sections with a single student each read oddly, but
+  the cohorts are worth keeping in the data, so this merges the presentation
+  and leaves each person's user_groups alone.
+
+  content:
+    user_groups: [..., Master Students, Undergraduate Students]
+    merge_groups:
+      - heading: Master and Undergraduate Students
+        groups: [Master Students, Undergraduate Students]
+
+  A group not named in merge_groups is headed and rendered exactly as upstream.
+
+  Re-diff against upstream if the Wowchemy module is updated:
+  wowchemy/layouts/partials/widgets/people.html
+*/}}
+{{/* People Widget */}}
+
+{{/* Initialise */}}
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $show_social := $page.Params.design.show_social | default false }}
+{{ $show_interests := $page.Params.design.show_interests | default true }}
+{{ $show_organizations := $page.Params.design.show_organizations | default false }}
+{{ $show_role := $page.Params.design.show_role | default true }}
+
+<div class="row justify-content-center people-widget">
+  {{ with $page.Title }}
+  <div class="col-md-12 section-heading">
+    <h1>{{ . | markdownify | emojify }}</h1>
+    {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ with $page.Content }}
+  <div class="col-md-12">
+    {{ . }}
+  </div>
+  {{ end }}
+
+  {{ $merges := $page.Params.content.merge_groups | default slice }}
+  {{ range $group := $page.Params.content.user_groups }}
+
+  {{/* Which merge set, if any, this group belongs to. */}}
+  {{ $merge := false }}
+  {{ range $m := $merges }}
+    {{ if in $m.groups $group }}{{ $merge = $m }}{{ end }}
+  {{ end }}
+
+  {{/* A merged group is headed once, by the first of its groups that has
+       anyone in it, and the people of every group in the set are rendered
+       under that one heading. */}}
+  {{ $groups_to_show := slice $group }}
+  {{ $show_heading := true }}
+  {{ $heading := $group }}
+  {{ with $merge }}
+    {{ $heading = .heading }}
+    {{ $first := "" }}
+    {{ range $g := .groups }}
+      {{ if eq $first "" }}
+        {{ if where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice $g) }}
+          {{ $first = $g }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ if eq $group $first }}
+      {{ $groups_to_show = .groups }}
+    {{ else }}
+      {{ $groups_to_show = slice }}
+      {{ $show_heading = false }}
+    {{ end }}
+  {{ end }}
+
+  {{ $query := slice }}
+  {{ range $g := $groups_to_show }}
+    {{ $query = $query | append (where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice $g)) }}
+  {{ end }}
+
+  {{ if and $show_heading $query (gt (len $page.Params.content.user_groups) 1) }}
+  <div class="col-md-12">
+    <h2 class="mb-4">{{ $heading | markdownify }}</h2>
+  </div>
+  {{ end }}
+
+  {{ range $query }}
+  {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+  {{/* Get link to user's profile page. */}}
+  {{ $link := "" }}
+  {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split .Path).Dir)) }}
+    {{ $link = .RelPermalink }}
+  {{ end }}
+  <div class="col-12 col-sm-auto people-person">
+    {{ $src := "" }}
+    {{ if site.Params.avatar.gravatar }}
+      {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
+    {{ else if $avatar }}
+      {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+      {{ $src = $avatar_image.RelPermalink }}
+    {{ end }}
+    {{ if $src }}
+      {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
+      {{with $link}}<a href="{{.}}">{{end}}<img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
+    {{ end }}
+
+    <div class="portrait-title">
+      <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
+      {{ if and $show_organizations .Params.organizations }}{{ range .Params.organizations }}<h3>{{ .name }}</h3>{{ end }}{{ end }}
+      {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
+      {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
+      {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
+    </div>
+  </div>
+  {{ end }}
+  {{ end }}
+</div>

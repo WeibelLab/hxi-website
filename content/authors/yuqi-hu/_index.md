@@ -25,7 +25,7 @@ email: "y7hu@ucsd.edu"
 bio:
 
 user_groups:
-  - Master and Undergraduate Students
+  - Undergraduate Students
 ---
 
 Yuqi Hu is an undergraduate student at UC San Diego and a member of the HXI Lab.

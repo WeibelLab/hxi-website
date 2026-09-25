@@ -57,7 +57,7 @@ email: "pbedmutha@ucsd.edu"
 # Short bio (displayed in user profile at end of posts)
 bio:
 user_groups:
-- Ph.D Students, Researchers, and Postdocs
+- Ph.D Students
 ---
 
 
