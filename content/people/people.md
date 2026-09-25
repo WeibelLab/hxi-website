@@ -19,8 +19,7 @@ content:
   user_groups:
   - Director
   - Ph.D Students, Researchers, and Postdocs
-  - Master Students
-  - Undergraduate Students
+  - Master and Undergraduate Students
 
 design:
   show_interests: false

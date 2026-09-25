@@ -32,7 +32,7 @@ email: "hlnu@ucsd.edu"
 bio:
 
 user_groups:
-  - Undergraduate Students
+  - Master and Undergraduate Students
 ---
 
 Hridyanshu is an undergraduate student at UC San Diego and a member of the HXI Lab, working on the [CLARO](/project/claro/) project.

@@ -497,3 +497,11 @@ ul.network-icon {
   filter: none;
   opacity: 1;
 }
+
+/* Avatars: the alt text ("Avatar") renders in the theme's link indigo while the
+   image is still loading, which flashes blue across the team grid on every page
+   load. Transparent text hides it from sight while leaving the alt attribute
+   intact for screen readers and for a genuinely broken image. */
+img.avatar {
+  color: transparent;
+}
