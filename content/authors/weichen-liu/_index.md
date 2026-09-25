@@ -1,6 +1,7 @@
 ---
 title: Weichen Liu
 role: Ph.D. Candidate<br/>(Co-Advised with <a href="https://jacobsschool.ucsd.edu/people/profile/jurgen-schulze" target="hxi-external" rel="noopener">Jurgen Schulze</a>, CSE)
+years: 2022
 
 avatar_filename: avatar
 superuser: false

@@ -505,3 +505,35 @@ ul.network-icon {
 img.avatar {
   color: transparent;
 }
+
+/* Years a person was in the lab, under their role on /people and /alumni.
+
+   The root font here is 12.32px, so the card text is already small: the role
+   renders at 8.6px in 54% black. A lighter, smaller year line was invisible at
+   a glance, so this is navy and semibold instead, which reads as a label rather
+   than more grey caption text. */
+.people-widget .portrait-years {
+  margin: 0.25rem 0 0;
+  font-size: 0.76rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  color: #55617a;
+}
+
+/* Era sub-headings inside an alumni group. Smaller than the group heading so
+   the hierarchy reads group > era > person. */
+.people-widget .people-era {
+  width: 100%;
+  margin: 1.6rem 0 0.9rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #e3e8f0;
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: #0d1f45;
+}
+
+.people-widget .people-era-undated {
+  color: #6b7688;
+  font-weight: 600;
+}

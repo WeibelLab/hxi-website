@@ -1,6 +1,7 @@
 ---
 title: Kayla Hom
-role: Master Student
+role: Master Student at UCSD<br/> Computer Science and Engineering
+years: 2025–2026
 
 organizations:
   - name: UC San Diego

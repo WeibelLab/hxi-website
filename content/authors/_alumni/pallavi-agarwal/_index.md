@@ -1,6 +1,7 @@
 ---
 title: Pallavi Agarwal
 role: Master Student at UCSD<br/> Computer Science and Engineering
+years: 2015–2016
 
 social:
   - icon: linkedin
@@ -12,6 +13,6 @@ _build:
   list: always
 
 user_groups:
-    - Master Students (Alumni)
+  - Master Students (Alumni)
 
 ---

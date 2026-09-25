@@ -1,6 +1,7 @@
 ---
 title: Erik Goron
-role: Visiting Master Student<br/> ETH Zurich (Switzerland)
+role: Visiting Master Student at ETH Zurich<br/> Computer Science
+years: 2021–2022
 
 social:
   - icon: linkedin
@@ -13,5 +14,5 @@ _build:
   list: always
 
 user_groups:
-    - Master Students (Alumni)
+  - Master Students (Alumni)
 ---

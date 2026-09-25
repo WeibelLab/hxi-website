@@ -1,6 +1,7 @@
 ---
 title: Isaac Bouchard
 role: Ph.D. Student<br/>(Co-Advised with <a href="https://eveikey.weebly.com/" target="hxi-external" rel="noopener">Elizabeth Eikey</a>, Public Health)
+years: 2025
 avatar_filename: isaac_avatar
 
 weight: -20

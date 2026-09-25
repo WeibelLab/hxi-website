@@ -1,6 +1,7 @@
 ---
 title: Joyce Lu
-role: Undergraduate Student
+role: Undergraduate Student at UCSD<br/> Data Science
+years: 2024–2025
 
 organizations:
   - name: UC San Diego

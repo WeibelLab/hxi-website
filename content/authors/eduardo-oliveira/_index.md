@@ -1,6 +1,8 @@
 ---
 title: Eduardo Oliveira
-role: Visiting Researcher<br/> Universidad Estadual de Paraiba (Brazil)
+role: Visiting Researcher at UCSD<br/> Universidade Estadual da Paraíba (Brazil)
+years: 2018–2020
+weight: 50
 
 
 social:

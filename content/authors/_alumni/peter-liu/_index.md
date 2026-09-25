@@ -1,6 +1,7 @@
 ---
 title: Peter Liu
-role: Undergraduate Student at UCSD<br/> Computer Science
+role: Undergraduate Student at UCSD<br/> Computer Science and Engineering
+years: 2021–2023
 
 social:
   - icon: envelope
@@ -18,6 +19,6 @@ _build:
   list: always
 
 user_groups:
-    - Undergraduate Students (Alumni)
+  - Undergraduate Students (Alumni)
 
 ---

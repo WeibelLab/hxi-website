@@ -1,6 +1,7 @@
 ---
 title: Huimeng Lu
-role: Undergraduate Student
+role: Undergraduate Student at UCSD<br/> Mathematics–Computer Science
+years: 2024–2025
 
 organizations:
   - name: UC San Diego

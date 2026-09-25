@@ -1,6 +1,7 @@
 ---
 title: Steven Rick
-role: Ph.D. Alumni
+role: Ph.D. Alumni at UCSD<br/> Computer Science and Engineering
+years: 2015–2024
 
 weight: 20
 

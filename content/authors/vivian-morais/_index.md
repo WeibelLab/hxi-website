@@ -1,6 +1,8 @@
 ---
 title: Vivian Morais
-role: Visiting Researcher<br/> NUTES/UEPB (Brazil)
+role: Visiting Researcher at UCSD<br/> NUTES/UEPB (Brazil)
+years: 2018–2020
+weight: 60
 
 social:
   - icon: linkedin

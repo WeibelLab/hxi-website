@@ -1,6 +1,7 @@
 ---
 title: Zhuoqun Robin Xu
-role: MS Student at UCSD<br/>Computer Science and Engineering 
+role: Master Student at UCSD<br/> Computer Science and Engineering
+years: 2020–2021
 
 avatar_filename: avatar
 
@@ -40,7 +41,7 @@ education:
       year: 2021
 
 user_groups:
-    - Master Students (Alumni)
+  - Master Students (Alumni)
 
 external_link: https://www.linkedin.com/in/robinxuz/
 ---

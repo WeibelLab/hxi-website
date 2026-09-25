@@ -3,6 +3,7 @@ aliases:
   - /author/hridy/
 title: Hridyanshu
 role: Undergraduate Student
+years: 2025
 
 avatar_filename: avatar
 

@@ -1,6 +1,7 @@
 ---
 title: Danilo Gasques
-role: Ph.D. Alumni
+role: Ph.D. Alumni at UCSD<br/> Computer Science and Engineering
+years: 2017–2023
 
 organizations:
 - name: UC San Diego

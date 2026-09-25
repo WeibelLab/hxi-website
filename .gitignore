@@ -8,3 +8,4 @@ resources/_gen/
 
 # Hugo rewrites this with the local module cache path on every build.
 assets/jsconfig.json
+__pycache__/

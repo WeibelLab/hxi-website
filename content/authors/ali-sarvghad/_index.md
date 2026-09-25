@@ -1,6 +1,8 @@
 ---
 title: Ali Sarvghad
-role: Postdoctoral Researcher
+role: Postdoctoral Researcher at UCSD<br/> Computer Science and Engineering
+years: 2016–2018
+weight: 10
 
 avatar_filename: avatar
 

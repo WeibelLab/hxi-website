@@ -1,6 +1,8 @@
 ---
 title: Colleen Emmenegger
-role: Senior Researcher</br> UCSD DesignLab
+role: Senior Researcher at UCSD<br/> The Design Lab
+years: 2019–2021
+weight: 20
 
 social:
   - icon: linkedin

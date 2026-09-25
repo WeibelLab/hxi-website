@@ -1,6 +1,7 @@
 ---
 title: Shiv Patel
 role: Undergraduate Student at UCSD<br/> Physiology and Neuroscience
+years: 2020–2022
 
 social:
   - icon: linkedin
@@ -12,6 +13,6 @@ _build:
   list: always
 
 user_groups:
-    - Undergraduate Students (Alumni)
+  - Undergraduate Students (Alumni)
 
 ---

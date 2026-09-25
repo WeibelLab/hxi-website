@@ -1,6 +1,7 @@
 ---
 title: Amarnath Vysyaraju
 role: Master Student at UCSD<br/> Computer Science and Engineering
+years: 2018–2019
 
 social:
   - icon: linkedin
@@ -12,6 +13,6 @@ _build:
   list: always
 
 user_groups:
-    - Master Students (Alumni)
+  - Master Students (Alumni)
 
 ---

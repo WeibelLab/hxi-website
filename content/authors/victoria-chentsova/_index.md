@@ -1,6 +1,7 @@
 ---
 title: Victoria Chentsova
 role: Ph.D. Candidate<br/>(Advised by <a href="https://profiles.ucsd.edu/mariana.cherner" target="hxi-external" rel="noopener">Mariana Cherner</a> and <a href="https://profiles.ucsd.edu/igor.grant" target="hxi-external" rel="noopener">Igor Grant</a>, Psychiatry, <a href="https://hnrp.hivresearch.ucsd.edu/" target="hxi-external" rel="noopener">HNRP</a>)
+years: 2025
 
 avatar_filename: avatar
 

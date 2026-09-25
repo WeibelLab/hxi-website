@@ -1,6 +1,7 @@
 ---
 title: Pamely Zantou
 role: Ph.D. Student<br/>(Co-Advised with <a href="https://jacobsschool.ucsd.edu/people/profile/edward-wang" target="hxi-external" rel="noopener">Edward Wang</a>, ECE)
+years: 2026
 
 avatar_filename: avatar
 

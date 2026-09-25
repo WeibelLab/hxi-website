@@ -1,6 +1,7 @@
 ---
 title: Emi Lee
-role: Undergraduate Student
+role: Undergraduate Student at UCSD<br/> Cognitive Science
+years: 2023–2025
 
 organizations:
   - name: UC San Diego

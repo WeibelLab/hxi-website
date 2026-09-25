@@ -1,6 +1,8 @@
 ---
 title: Eléonore Ferrier-Barbut
-role: CSE Postdoctoral Fellow
+role: Postdoctoral Researcher at UCSD<br/> Computer Science and Engineering
+years: 2022–2023
+weight: 30
 
 social:
   - icon: envelope

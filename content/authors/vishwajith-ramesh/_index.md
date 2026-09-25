@@ -5,7 +5,9 @@ title: Vish Ramesh
 # scripts/sync-project-authors.py.
 name_variants:
   - Vishwajith Ramesh
-role: NIH NLM Postdoctoral Fellow<br/>(Co-Advised with <a href="https://jacobsschool.ucsd.edu/node/3271" target="hxi-external" rel="noopener">Gert Cauwenberghs</a>, Bioengineering)
+role: Postdoctoral Researcher at UCSD<br/> Biomedical Informatics<br/>(NIH NLM Fellow, Co-Advised with <a href="https://jacobsschool.ucsd.edu/node/3271" target="hxi-external" rel="noopener">Gert Cauwenberghs</a>, Bioengineering)
+years: 2020–2023
+weight: 40
 
 
 social:

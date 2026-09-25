@@ -44,6 +44,10 @@ content:
         - Master Students
         - Undergraduate Students
 
+  # Current members carry only a start year in `years`; "present" is implicit.
+  # Longest-serving first.
+  years_order: asc
+
 design:
   show_interests: false
   show_role: true

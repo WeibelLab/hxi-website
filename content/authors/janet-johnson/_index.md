@@ -1,6 +1,7 @@
 ---
 title: Janet Johnson
-role: Ph.D. Alumni
+role: Ph.D. Alumni at UCSD<br/> Computer Science and Engineering
+years: 2018–2023
 avatar_filename: ""
 bio: 
 

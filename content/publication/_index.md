@@ -1,5 +1,11 @@
 ---
 title: Publications
+
+# The list lives at /publications/; individual papers stay under
+# /publication/<slug>/. The old list URL redirects here.
+url: /publications/
+aliases:
+  - /publication/
 ---
 
 The HXI research lab publishes across Computer Science, Design, Human-computer Interaction, and domain-specific venues such as healthcare-related journals. 

@@ -1,8 +1,13 @@
 {{/*
   Local override of the Wowchemy people widget.
 
-  Only change from upstream: `content.merge_groups` lets several user_groups
-  share one heading. Two sections with a single student each read oddly, but
+  Two changes from upstream:
+
+  1. `content.merge_groups` lets several user_groups share one heading.
+  2. A person's `years` front-matter field is printed under their role, for
+     alumni whose dates are known. `role` itself is left alone.
+
+  On merge_groups: Two sections with a single student each read oddly, but
   the cohorts are worth keeping in the data, so this merges the presentation
   and leaves each person's user_groups alone.
 
@@ -85,34 +90,102 @@
   </div>
   {{ end }}
 
-  {{ range $query }}
-  {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
-  {{/* Get link to user's profile page. */}}
-  {{ $link := "" }}
-  {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split .Path).Dir)) }}
-    {{ $link = .RelPermalink }}
+  {{/* Era blocks. Alumni carry a `years` field; within a group they are shown
+       newest first, in three-year blocks. Three rather than two keeps the
+       blocks reasonably full: two-year blocks left several with a single
+       person. A group where nobody has years (the Ph.D. and postdoc alumni)
+       renders flat, exactly as before. */}}
+  {{ $card := dict "show_social" $show_social "show_interests" $show_interests "show_organizations" $show_organizations "show_role" $show_role }}
+  {{/* `where ... nil` does not match a page whose param is simply absent, so the
+       undated set is the complement rather than a second where. */}}
+  {{ $dated := where $query "Params.years" "!=" nil }}
+  {{ $undated := complement $dated $query }}
+
+  {{/* Era blocks apply only to the groups named in `content.era_blocks`.
+       Every other group with `years` renders flat, ordered by the year each
+       person finished, most recent first. */}}
+  {{ $era_groups := $page.Params.content.era_blocks | default slice }}
+  {{ $use_eras := false }}
+  {{ range $g := $groups_to_show }}
+    {{ if in $era_groups $g }}{{ $use_eras = true }}{{ end }}
   {{ end }}
-  <div class="col-12 col-sm-auto people-person">
-    {{ $src := "" }}
-    {{ if site.Params.avatar.gravatar }}
-      {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
-    {{ else if $avatar }}
-      {{ $avatar_image := $avatar.Fill "270x270 Center" }}
-      {{ $src = $avatar_image.RelPermalink }}
+
+  {{ if and $dated $use_eras }}
+    {{/* Blocks are keyed on the year someone finished, not the year they
+         started: an alumnus is placed by when they left. Keying on the start
+         year put a 2024-2025 student under a heading ending in 2024, and left
+         the blocks lopsided.
+
+         The people are grouped explicitly, block by block, rather than by
+         scanning a sorted list: sorted order follows the start year, so a
+         block boundary could be crossed twice and emit its heading twice. */}}
+    {{ $maxEnd := 0 }}
+    {{ range $dated }}
+      {{ $ys := findRE "[0-9]{4}" .Params.years }}
+      {{ $e := int (index $ys (sub (len $ys) 1)) }}
+      {{ if gt $e $maxEnd }}{{ $maxEnd = $e }}{{ end }}
     {{ end }}
-    {{ if $src }}
-      {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
-      {{with $link}}<a href="{{.}}">{{end}}<img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
+    {{ $maxBase := sub $maxEnd (mod (sub $maxEnd 2013) 3) }}
+
+    {{ range $k := seq 0 20 }}
+      {{ $base := sub $maxBase (mul 3 $k) }}
+      {{ if ge $base 2013 }}
+        {{ $members := slice }}
+        {{ range $dated }}
+          {{ $ys := findRE "[0-9]{4}" .Params.years }}
+          {{ $e := int (index $ys (sub (len $ys) 1)) }}
+          {{ if eq (sub $e (mod (sub $e 2013) 3)) $base }}
+            {{ $members = $members | append . }}
+          {{ end }}
+        {{ end }}
+        {{ with $members }}
+          {{ $top := add $base 2 }}
+          {{ if gt $top $maxEnd }}{{ $top = $maxEnd }}{{ end }}
+          <div class="col-md-12"><h3 class="people-era">Class of {{ printf "%d–%d" $base $top }}</h3></div>
+          {{/* Within a block, Master students come before undergraduates; each
+               run is newest first. */}}
+          {{ $ms := where . "Params.user_groups" "intersect" (slice "Master Students (Alumni)" "Master Students") }}
+          {{ $rest := complement $ms . }}
+          {{ range sort $ms "Params.years" "desc" }}
+            {{ partial "hxi-person-card" (merge $card (dict "page" .)) }}
+          {{ end }}
+          {{ range sort $rest "Params.years" "desc" }}
+            {{ partial "hxi-person-card" (merge $card (dict "page" .)) }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
     {{ end }}
 
-    <div class="portrait-title">
-      <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
-      {{ if and $show_organizations .Params.organizations }}{{ range .Params.organizations }}<h3>{{ .name }}</h3>{{ end }}{{ end }}
-      {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
-      {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
-      {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
-    </div>
-  </div>
+    {{ with $undated }}
+      <div class="col-md-12"><h3 class="people-era people-era-undated">Year not recorded</h3></div>
+      {{ range . }}{{ partial "hxi-person-card" (merge $card (dict "page" .)) }}{{ end }}
+    {{ end }}
+  {{ else if $dated }}
+    {{/* `sort ... "Params.years"` would order by the string, which starts with
+         the year someone joined, so the years are parsed and sorted on
+         explicitly.
+
+         Alumni read most-recent-first; current members read longest-serving
+         first, so the direction is a page setting. Two alumni who finished in
+         the same year are ordered by who started earlier. */}}
+    {{ $dir := $page.Params.content.years_order | default "desc" }}
+    {{ $keyed := slice }}
+    {{ range $dated }}
+      {{ $ys := findRE "[0-9]{4}" .Params.years }}
+      {{ $start := int (index $ys 0) }}
+      {{ $end := int (index $ys (sub (len $ys) 1)) }}
+      {{ $key := sub (mul $end 10000) $start }}
+      {{ if eq $dir "asc" }}{{ $key = add (mul $start 10000) $end }}{{ end }}
+      {{ $keyed = $keyed | append (dict "key" $key "page" .) }}
+    {{ end }}
+    {{ range sort $keyed "key" $dir }}
+      {{ partial "hxi-person-card" (merge $card (dict "page" .page)) }}
+    {{ end }}
+    {{ with $undated }}
+      {{ range . }}{{ partial "hxi-person-card" (merge $card (dict "page" .)) }}{{ end }}
+    {{ end }}
+  {{ else }}
+    {{ range $query }}{{ partial "hxi-person-card" (merge $card (dict "page" .)) }}{{ end }}
   {{ end }}
   {{ end }}
 </div>

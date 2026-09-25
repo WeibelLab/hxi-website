@@ -1,6 +1,7 @@
 ---
 title: Yunhao Luo
-role: Undergraduate Student
+role: Master Student at UCSB<br/> Computer Science
+years: 2024–2025
 
 organizations:
   - name: UC San Diego
@@ -22,6 +23,6 @@ email: "yunhaoluo@ucsb.edu"
 bio:
 
 user_groups:
-  - Undergraduate Students (Alumni)
+  - Master Students (Alumni)
 ---
 

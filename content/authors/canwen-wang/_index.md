@@ -1,6 +1,7 @@
 ---
 title: Canwen Wang
 role: Research Associate
+years: 2026
 
 avatar_filename: avatar
 

@@ -1,6 +1,7 @@
 ---
 title: Arkajyoti Roy
 role: Undergraduate Student at UCSD<br/> Mathematics
+years: 2024–2025
 
 social:
   - icon: envelope
@@ -12,6 +13,6 @@ _build:
   list: always
 
 user_groups:
-    - Undergraduate Students (Alumni)
+  - Undergraduate Students (Alumni)
 
 ---

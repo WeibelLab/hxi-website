@@ -1,6 +1,7 @@
 ---
 title: Chen Chen
-role: Ph.D. Alumni
+role: Ph.D. Alumni at UCSD<br/> Computer Science and Engineering
+years: 2020–2025
 
 weight: 50
 

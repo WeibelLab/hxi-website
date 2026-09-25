@@ -1,6 +1,7 @@
 ---
 title: Debmalya Pal
 role: Master Student
+years: 2026
 
 avatar_filename: avatar
 

@@ -1,6 +1,7 @@
 ---
 title: Zhiwei Ren
-role: CSE Masters Student
+role: Master Student at UCSD<br/> Computer Science and Engineering
+years: 2020–2023
 avatar_filename: avatar
 
 social:

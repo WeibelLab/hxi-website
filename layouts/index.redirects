@@ -10,10 +10,13 @@
 # manual deploy of a locally built site would otherwise drop them. Netlify
 # processes this file top to bottom, and netlify.toml rules still take
 # precedence on a git build, so the duplication is harmless.
-/weibel /author/nadir-weibel/ 200!
-/weibel/cv /author/nadir-weibel/CV_NadirWeibel.pdf 200!
-/publications /publication 200!
+/weibel /people/nadir-weibel/ 200!
+/weibel/cv /people/nadir-weibel/CV_NadirWeibel.pdf 200!
 /join https://forms.gle/w7WswQadg2s79wbU8 200!
+# Person pages moved from /author/ to /people/ on 2026-09-25. One wildcard
+# covers all of them, including anyone added later; per-person aliases would
+# need maintaining forever.
+/author/* /people/:splat 301!
 # 301, not the 200 proxy netlify.toml used: a proxied fetch of the Netlify
 # dashboard carries no login session and returns 500. A redirect opens it in
 # the browser, signed in.

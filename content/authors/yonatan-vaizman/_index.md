@@ -1,6 +1,7 @@
 ---
 title: Yonatan Vaizman
-role: Ph.D. Alumni<br/>(Co-Advised with <a href="http://eceweb.ucsd.edu/~gert/" target="hxi-external" rel="noopener">Gert Lanckriet</a>, ECE)
+role: Ph.D. Alumni at UCSD<br/> Electrical and Computer Engineering<br/>(Co-Advised with <a href="http://eceweb.ucsd.edu/~gert/" target="hxi-external" rel="noopener">Gert Lanckriet</a>, ECE)
+years: 2016–2018
 
 social:
   - icon: linkedin

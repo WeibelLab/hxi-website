@@ -72,14 +72,18 @@ def lab_members():
     """Map every name a person publishes under to their profile slug.
 
     The profile title, plus any `name_variants`, all point at the same slug.
+
+    Profiles are nested: most alumni live in content/authors/_alumni/<slug>/,
+    not at the top level. Globbing only one level deep missed 63 people, so
+    every profile is found by its _index.md at any depth. The grouping
+    directories (_alumni, _undergrad) have no _index.md of their own and so
+    never appear as people.
     """
     people, canonical_for = {}, {}
-    for directory in sorted(glob.glob(os.path.join(REPO, "content/authors/*/"))):
-        slug = os.path.basename(directory.rstrip("/"))
+    for index in sorted(glob.glob(os.path.join(REPO, "content/authors/**/_index.md"),
+                                  recursive=True)):
+        slug = os.path.basename(os.path.dirname(index))
         if slug.startswith("_"):
-            continue
-        index = os.path.join(directory, "_index.md")
-        if not os.path.exists(index):
             continue
         block, _ = front_matter(index)
         if not block:

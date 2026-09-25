@@ -1,6 +1,7 @@
 ---
 title: Vivian Xiang
-role: Undergraduate Student
+role: Undergraduate Student at UCSD<br/> International Business and Marketing
+years: 2024–2025
 
 organizations:
   - name: UC San Diego

@@ -1,6 +1,7 @@
 ---
 title: Pavan Kumar
 role: Master Student at UCSD<br/> Computer Science and Engineering
+years: 2014–2015
 
 social:
   - icon: linkedin
@@ -12,6 +13,6 @@ _build:
   list: always
 
 user_groups:
-    - Master Students (Alumni)
+  - Master Students (Alumni)
 
 ---

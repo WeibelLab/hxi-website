@@ -1,6 +1,7 @@
 ---
 title: Angie Nguyen
 role: Master Student at UCSD<br/> Computer Science and Engineering
+years: 2014–2017
 
 social:
   - icon: linkedin
@@ -12,6 +13,6 @@ _build:
   list: always
 
 user_groups:
-    - Master Students (Alumni)
+  - Master Students (Alumni)
 
 ---

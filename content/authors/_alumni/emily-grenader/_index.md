@@ -1,6 +1,7 @@
 ---
 title: Emily Grenader
 role: MFA Student at UCSD<br/> Visual Arts
+years: 2013–2014
 
 social:
   - icon: linkedin
@@ -12,6 +13,6 @@ _build:
   list: always
 
 user_groups:
-    - Master Students (Alumni)
+  - Master Students (Alumni)
 
 ---

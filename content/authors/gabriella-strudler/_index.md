@@ -1,6 +1,7 @@
 ---
 title: Gabriella Strudler
 role: Research Associate
+years: 2026
 
 avatar_filename: avatar
 

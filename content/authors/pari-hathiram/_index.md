@@ -1,6 +1,7 @@
 ---
 title: Pari Hathiram
-role: Undergraduate Student
+role: Undergraduate Student at UCSD<br/> Human Biology
+years: 2024–2025
 
 organizations:
   - name: UC San Diego

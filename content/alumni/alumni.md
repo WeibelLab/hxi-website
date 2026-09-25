@@ -22,6 +22,21 @@ content:
     - Master Students (Alumni)
     - Undergraduate Students (Alumni)
 
+  # One heading over the Master's and undergraduate alumni, as on /people. The
+  # groups stay separate in each person's user_groups; only the heading merges.
+  # The era blocks are then computed across the combined set.
+  merge_groups:
+    - heading: Master and Undergraduate Students (Alumni)
+      groups:
+        - Master Students (Alumni)
+        - Undergraduate Students (Alumni)
+
+  # Only these groups are broken into "Class of" blocks. The Ph.D. and postdoc
+  # alumni render as one list ordered by the year they finished.
+  era_blocks:
+    - Master Students (Alumni)
+    - Undergraduate Students (Alumni)
+
   sort_by: Params.title
   sort_ascending: true
 

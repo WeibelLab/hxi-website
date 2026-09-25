@@ -1,6 +1,7 @@
 ---
 title: Maca Peralta
 role: Ph.D. Student
+years: 2026
 
 avatar_filename: avatar
 

@@ -1,6 +1,7 @@
 ---
 title: Mengming Luo
 role: Undergraduate Student at UCSD<br/> Cognitive Science
+years: 2019–2020
 
 social:
   - icon: linkedin
@@ -12,6 +13,6 @@ _build:
   list: always
 
 user_groups:
-    - Undergraduate Students (Alumni)
+  - Undergraduate Students (Alumni)
 
 ---

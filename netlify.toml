@@ -34,21 +34,23 @@
 
 [[redirects]]
   from = "/weibel"
-  to = "/author/nadir-weibel/"
+  to = "/people/nadir-weibel/"
   status = 200
   force = true # COMMENT: ensure that we always redirect
 
 [[redirects]]
   from = "/weibel/cv"
-  to = "/author/nadir-weibel/CV_NadirWeibel.pdf"
+  to = "/people/nadir-weibel/CV_NadirWeibel.pdf"
   status = 200
   force = true # COMMENT: ensure that we always redirect
 
+# Person pages moved from /author/ to /people/ on 2026-09-25; the old links are
+# kept alive here and in layouts/index.redirects.
 [[redirects]]
-  from = "/publications"
-  to = "/publication"
-  status = 200
-  force = true # COMMENT: ensure that we always redirect
+  from = "/author/*"
+  to = "/people/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "/join"

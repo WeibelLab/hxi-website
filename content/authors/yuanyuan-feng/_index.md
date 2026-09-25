@@ -1,6 +1,7 @@
 ---
 title: Yuanyuan Feng
-role: Visiting Ph.D. Student<br/> Univ. Maryland Baltimore County (UMBC)
+role: Visiting Ph.D. Student at UCSD<br/> UMBC, Informatics
+years: 2017–2019
 
 social:
   - icon: linkedin

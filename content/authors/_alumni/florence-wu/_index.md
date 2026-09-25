@@ -1,6 +1,7 @@
 ---
 title: Florence Wu
-role: Masters of Public Health Student
+role: Master Student at UCSD<br/> Public Health
+years: 2020–2021
 avatar_filename: avatar
 
 social:
@@ -28,6 +29,6 @@ _build:
   list: always
 
 user_groups:
-    - Master Students (Alumni)
+  - Master Students (Alumni)
 ---
 

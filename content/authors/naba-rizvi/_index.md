@@ -1,6 +1,7 @@
 ---
 title: Naba Rizvi
-role: Ph.D. Alumni
+role: Ph.D. Alumni at UCSD<br/> Computer Science and Engineering
+years: 2024–2024
 avatar_filename: ""
 bio: 
 interests:

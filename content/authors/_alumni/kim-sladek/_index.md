@@ -1,6 +1,7 @@
 ---
 title: Kimberly Sladek
 role: Undergraduate Student at USD<br/> Behavioral Neuroscience
+years: 2023–2024
 
 social:
   - icon: linkedin
@@ -12,6 +13,6 @@ _build:
   list: always
 
 user_groups:
-    - Undergraduate Students (Alumni)
+  - Undergraduate Students (Alumni)
 
 ---

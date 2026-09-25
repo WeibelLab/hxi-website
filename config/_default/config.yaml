@@ -46,7 +46,10 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: '/author/:slug/'
+  # Person pages sit under /people/, matching the People page in the menu.
+  # Old /author/... links are kept alive by a wildcard rule in
+  # layouts/index.redirects.
+  authors: '/people/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'

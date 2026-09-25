@@ -1,6 +1,7 @@
 ---
 title: Menghe Zhang
-role: Ph.D. Alumni<br/>(Co-Advised with <a href="https://jacobsschool.ucsd.edu/people/profile/jurgen-schulze" target="hxi-external" rel="noopener">Jurgen Schulze</a>, CSE)
+role: Ph.D. Alumni at UCSD<br/> Computer Science and Engineering<br/>(Co-Advised with <a href="https://jacobsschool.ucsd.edu/people/profile/jurgen-schulze" target="hxi-external" rel="noopener">Jurgen Schulze</a>, CSE)
+years: 2021–2023
 
 avatar_filename: avatar
 superuser: false

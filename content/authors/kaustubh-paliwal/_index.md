@@ -1,6 +1,7 @@
 ---
 title: Kaustubh Paliwal
-role: Undergraduate Student
+role: Undergraduate Student at UCSD<br/> Mathematics–Computer Science
+years: 2025–2026
 
 organizations:
   - name: UC San Diego

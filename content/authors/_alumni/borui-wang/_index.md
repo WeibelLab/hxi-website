@@ -1,6 +1,7 @@
 ---
 title: Borui Wang
 role: Undergraduate Student at UW<br/> Human-Centered Design and Engineering
+years: 2021–2022
 
 social:
   - icon: envelope
@@ -12,6 +13,6 @@ _build:
   list: always
 
 user_groups:
-    - Undergraduate Students (Alumni)
+  - Undergraduate Students (Alumni)
 
 ---

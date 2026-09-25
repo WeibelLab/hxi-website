@@ -1,6 +1,7 @@
 ---
 title: Haowei Li
-role: Undergraduate Student
+role: Undergraduate Student at UCSD<br/> Psychology
+years: 2023–2024
 
 organizations:
   - name: UC San Diego

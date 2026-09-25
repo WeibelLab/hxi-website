@@ -1,6 +1,7 @@
 ---
 title: Derek Huynh 
-role: Undergraduate Student at UCSD<br/> Computer Science
+role: Undergraduate Student at UCSD<br/> Computer Science and Engineering
+years: 2013–2014
 
 social:
   - icon: linkedin
@@ -12,6 +13,6 @@ _build:
   list: always
 
 user_groups:
-    - Undergraduate Students (Alumni)
+  - Undergraduate Students (Alumni)
 
 ---
