@@ -2,11 +2,6 @@
 title: Yunhao Luo
 role: Undergraduate Student
 
-# Placeholder. Replace avatar.jpg with a real photo and this keeps working.
-avatar_filename: avatar
-
-weight: 23
-
 organizations:
   - name: UC San Diego
     url: https://ucsd.edu/
@@ -27,7 +22,6 @@ email: "yunhaoluo@ucsb.edu"
 bio:
 
 user_groups:
-  - Undergraduate Students
+  - Undergraduate Students (Alumni)
 ---
 
-Yunhao Luo is an undergraduate student at UC Santa Barbara and a member of the HXI Lab at UC San Diego.
