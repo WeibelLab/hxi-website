@@ -44,8 +44,6 @@ This project creates an environment in which students can practice pair programm
 
 This human-centered AR coding platform is being developed for the creation of three-dimensional assets, artwork, and computational logic. This platform will be a merged digital/physical workspace where spatial representations of code, interactive outputs, and user editing activities are simultaneously located. While wearing AR headsets, learners will manipulate virtual code blocks in real space to assemble programs, and they will debug their code by evaluating the representations that they create. The approach will build on the accessibility and sense of play in successful visual learning technologies (e.g., Scratch), but will leverage regular patterns of perception, action, and social interaction in the three-dimensional physical world. The goal is to increase participation and interest in groups traditionally underrepresented in the educational and career pathways of computer science, including females and some minority students, who often exhibit lower confidence in STEM-related abilities relative to other students.
 
-*More Info here:* https://xrdesign.github.io/
-
 
 ------
 ​

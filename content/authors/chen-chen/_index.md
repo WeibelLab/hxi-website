@@ -9,7 +9,7 @@ organizations:
   - name: HXI
     url: https://hxi.ucsd.edu/
   - name: The Design Lab
-    url: https://design.ucsd.edu/
+    url: https://designlab.ucsd.edu/
   - name: Computer Science and Engineering
     url: https://cse.ucsd.edu/
     
@@ -57,9 +57,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/cshciprof/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/cshciprof
 
 superuser: false
 highlight_name: true

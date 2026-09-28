@@ -33,8 +33,6 @@ organizations:
     url: https://designlab.ucsd.edu/
   - name: Contextual Robotics Institute
     url: https://contextualrobotics.ucsd.edu/
-  - name: Center for Wireless and Population Health Systems (CWPHS)
-    url: https://cwphs.ucsd.edu/
 education:
   courses:
     - course: Postdoctoral Fellowship in Human-Computer Interaction
@@ -66,7 +64,7 @@ disable_post_section: true
 show_posts: false
 
 ---
-Dr. Nadir Weibel is a Professor in the [Department of Computer Science and Engineering](https://cse.ucsd.edu) at [UC San Diego](https://ucsd.edu), the Director of the UCSD eXtended Reality (XR) Lab, and the Associate Faculty Director of the [UCSD Design Lab](https://designlab.ucsd.edu/). Dr. Weibel is also a Research Health Science Specialist at the [VA San Diego Health System](https://www.sandiego.va.gov/), and he is affiliated with the [Contextual Robotics Institute](https://contextualrobotics.ucsd.edu/), the [Center for Population and Health Systems](https://cwphs.ucsd.edu/), and the [Research Center on Optimal Digital Ethics](https://recode.health).
+Dr. Nadir Weibel is a Professor in the [Department of Computer Science and Engineering](https://cse.ucsd.edu) at [UC San Diego](https://ucsd.edu), the Director of the UCSD eXtended Reality (XR) Lab, and the Associate Faculty Director of the [UCSD Design Lab](https://designlab.ucsd.edu/). Dr. Weibel is also a Research Health Science Specialist at the [VA San Diego Health System](https://www.va.gov/san-diego-health-care/), and he is affiliated with the [Contextual Robotics Institute](https://contextualrobotics.ucsd.edu/) and the [Research Center on Optimal Digital Ethics](https://recode.health).
 
 His work intersects computer science, human-centered design, and time-critical domains such as healthcare, education, and automation. Dr. Weibel and his team design and evaluate interactive systems integrating eXtended Reality (XR), Artificial Intelligence (AI), and pervasive sensing technologies, leveraging multimodal data (body and eye movements, physiological signals, speech, and social interactions) to enhance human behavior in real-world and digital environments. This research bridges human needs and computational systems, addressing critical challenges in equitable healthcare delivery, education, and social equity.
 

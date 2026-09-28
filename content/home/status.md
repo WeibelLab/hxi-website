@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: support
+widget_id: status
 headless: true
 weight: 100
 title: null
@@ -11,16 +11,13 @@ design:
     color: ""
   spacing:
     padding:
-      - 45px
+      - 25px
       - "0"
       - 0px
       - "0"
 ---
-<div style="text-align: center;">
+<!-- Build status, home page only. The "powered by Netlify" attribution the
+     Open Source plan asks for lives in the site footer, on every page. -->
+<div class="hxi-build-badge">
 <a href="https://app.netlify.com/sites/hxi-ucsd/deploys"><img src="https://api.netlify.com/api/v1/badges/6d02b1d0-aca7-48d5-8696-8bd877f9817c/deploy-status" alt="Netlify Status"/></a>
-</div>
-
-<div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px; font-size: 0.8rem; opacity: 0.75; margin-top: 8px;">
-<span>This site is powered by <a href="https://www.netlify.com">Netlify</a>.</span>
-<a href="https://www.netlify.com"><img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" style="height: 22px;"/></a>
 </div>

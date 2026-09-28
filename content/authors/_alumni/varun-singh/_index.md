@@ -28,9 +28,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:v7singh@ucsd.edu'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/realvarunsingh
 superuser: false
 email: "v7singh@ucsd.edu"
 

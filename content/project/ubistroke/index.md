@@ -44,7 +44,7 @@ The work evaluated UbiStroke alongside the clinician-performed NIHSS exam, and s
 
 ### Funding and External Collaborations
 
-UbiStroke is a collaboration with the [UCSD Stroke Center](https://health.ucsd.edu/specialties/neuro/specialty-programs/stroke-neurovascular-surgery), the [UCSD Bioengineering Department](https://isn.ucsd.edu/index.php), the [Institute of Neural Computation](https://inc.ucsd.edu/), and [HomniHealth](https://www.homnihealth.com/). Research leading to UbiStroke has been funded by the National Science Foundation, the NSF I-Corps, the National Library of Medicine at NIH, IBM Research, and UCSD's Office of Research Affairs.
+UbiStroke is a collaboration with the [UCSD Stroke Center](https://health.ucsd.edu/care/stroke-care/), the [UCSD Bioengineering Department](https://isn.ucsd.edu/index.php), the [Institute of Neural Computation](https://inc.ucsd.edu/), and [HomniHealth](https://www.homnihealth.com/). Research leading to UbiStroke has been funded by the National Science Foundation, the NSF I-Corps, the National Library of Medicine at NIH, IBM Research, and UCSD's Office of Research Affairs.
 
 <div style="display: flex; justify-content:space-around; align-items: center;">
 <img src="/images/nsf-icorps.jpg" style="height: 80px;"> 

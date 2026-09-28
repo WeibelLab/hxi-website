@@ -32,16 +32,67 @@
   </p>
   {{ end }}
 
-  <p class="powered-by hxi-affiliation-footer">
-    Computer Science &amp; Engineering &middot; The Design Lab &middot;
-    University of California San Diego
+  {{/* Four-column footer: who we are, where to go, how to reach us, how to give. */}}
+  <div class="hxi-footer-cols">
+
+    <div class="hxi-footer-col hxi-footer-about">
+      <h3>HXI Research Lab</h3>
+      <p>Human-centered eXtended Intelligence. We design, build and study interactive
+         technology across ubiquitous computing, AI and extended reality, for health,
+         education and other life- and time-critical settings.</p>
+      <p class="hxi-footer-affil">
+        Computer Science &amp; Engineering &middot; The Design Lab<br/>
+        University of California San Diego
+      </p>
+    </div>
+
+    <div class="hxi-footer-col">
+      <h3>Explore</h3>
+      <ul>
+        <li><a href="{{ "research/" | relLangURL }}">Research</a></li>
+        <li><a href="{{ "publication/" | relLangURL }}">Publications</a></li>
+        <li><a href="{{ "people/" | relLangURL }}">People</a></li>
+        <li><a href="{{ "teaching/" | relLangURL }}">Teaching</a></li>
+        <li><a href="{{ "faq/join-us/" | relLangURL }}">Join the lab</a></li>
+      </ul>
+    </div>
+
+    <div class="hxi-footer-col">
+      <h3>Contact</h3>
+      <ul>
+        {{ with site.Params.email }}
+        <li><a href="mailto:{{ . }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ . }}</a></li>
+        {{ end }}
+        {{ with site.Params.phone }}
+        <li><a href="tel:{{ . }}"><i class="fas fa-phone" aria-hidden="true"></i> {{ . }}</a></li>
+        {{ end }}
+        <li><a href="https://designlab.ucsd.edu/"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> Design Lab (DIB)</a></li>
+        <li><a href="https://cse.ucsd.edu/about/directions-and-parking"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> CSE Building</a></li>
+        <li><a href="https://github.com/WeibelLab"><i class="fab fa-github" aria-hidden="true"></i> WeibelLab on GitHub</a></li>
+      </ul>
+    </div>
+
+    <div class="hxi-footer-col hxi-footer-give">
+      <h3>Support</h3>
+      <p>Gifts go to the Human-Centered and Ubiquitous Computing Research fund at
+         UC San Diego. The fund supports students, equipment and research costs.</p>
+      <a class="hxi-give-btn"
+         href="https://giveto.ucsd.edu/giving/home/?linkId=584ffb05-abc3-4056-9979-e3d42440c673">
+        Make a gift
+      </a>
+    </div>
+
+  </div>
+
+  {{/* Netlify attribution. The Open Source plan asks for the badge, and it used
+       to sit in a homepage widget above the footer, which read as a stray. */}}
+  <p class="powered-by hxi-netlify">
+    <span>This site is powered by <a href="https://www.netlify.com">Netlify</a>.</span>
+    <a href="https://www.netlify.com"><img
+      src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg"
+      alt="Deploys by Netlify" loading="lazy"/></a>
   </p>
 
-  {{ with site.Copyright }}
-  <p class="powered-by">
-    {{ replace . "{year}" now.Year | markdownify }}
-  </p>
-  {{ end }}
 
   {{/* Display copyright license. */}}
   {{ partial "site_footer_license" . }}
@@ -63,3 +114,13 @@
     {{ end }}
   </p>
 </footer>
+
+{{/* Slim bar pinned to the bottom of the window. Hidden until the reader is
+     past the first screen, and dismissable for the rest of the session. */}}
+<div class="hxi-sticky-support" id="hxi-sticky-support" hidden>
+  <a class="hxi-sticky-mail" href="{{ "contact/" | relLangURL }}"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> Design Lab &amp; CSE, UC San Diego</a>
+  {{ with site.Params.email }}<a class="hxi-sticky-mail" href="mailto:{{ . }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ . }}</a>{{ end }}
+  <a class="hxi-sticky-cta" href="https://giveto.ucsd.edu/giving/home/?linkId=584ffb05-abc3-4056-9979-e3d42440c673">Make a gift</a>
+  {{ with site.Copyright }}<span class="hxi-sticky-copy">{{ replace . "{year}" now.Year | markdownify }}</span>{{ end }}
+  <button class="hxi-sticky-close" aria-label="Dismiss">&times;</button>
+</div>

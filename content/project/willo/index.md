@@ -52,7 +52,7 @@ The same questions drive the lab's work on just-in-time adaptive interventions i
 
 This research is conducted in partnership with the [Joan &amp; Irwin Jacobs Center for Health Innovation (JCHI)](https://healthinnovation.ucsd.edu/) at UC San Diego Health, our principal collaborator on this work.
 
-It also involves UC San Diego Student Health and Well-Being, Counseling and Psychological Services (CAPS), and the [Center for Wireless and Population Health Systems](https://cwphs.ucsd.edu/), together with the WILLO team.
+It also involves UC San Diego Student Health and Well-Being and Counseling and Psychological Services (CAPS), together with the WILLO team.
 
 <div style="display: flex; justify-content:space-around; align-items: center;">
 <img src="/images/jchi.svg" style="height: 60px;">

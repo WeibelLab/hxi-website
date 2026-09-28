@@ -537,3 +537,226 @@ img.avatar {
   color: #6b7688;
   font-weight: 600;
 }
+
+/* ---------------------------------------------------------------------------
+   Footer: four columns (about, explore, contact, give) above the existing
+   copyright line, plus a slim sticky support bar.
+   --------------------------------------------------------------------------- */
+
+.hxi-footer-cols {
+  display: grid;
+  grid-template-columns: 1.6fr 1fr 1.3fr 1.4fr;
+  gap: 2.2rem;
+  max-width: 1100px;
+  margin: 0 auto 2rem;
+  padding: 2.5rem 1rem 0;
+
+  /* The theme centres everything in .site-footer; these columns read as
+     columns only when their text is flush left. */
+  &, p, ul, li, h3, div { text-align: left; }
+
+  h3 {
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-bottom: 0.7rem;
+    color: #0d1f45;
+  }
+
+  p {
+    font-size: 0.86rem;
+    line-height: 1.5;
+    margin-bottom: 0.7rem;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    font-size: 0.86rem;
+    line-height: 1.9;
+  }
+
+  i {
+    width: 1.1em;
+    margin-right: 0.35rem;
+    opacity: 0.65;
+  }
+}
+
+.hxi-footer-affil {
+  font-size: 0.78rem !important;
+  opacity: 0.75;
+}
+
+.hxi-give-btn {
+  display: inline-block;
+  padding: 0.5rem 1.1rem;
+  border-radius: 4px;
+  background: #0d1f45;
+  color: #fff !important;
+  font-size: 0.86rem;
+  font-weight: 600;
+  text-decoration: none !important;
+
+  &:hover {
+    background: #16305f;
+  }
+}
+
+/* Sticky support bar, shown once the reader is past the first screen. */
+.hxi-sticky-support[hidden] { display: none; }
+
+.hxi-sticky-support {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1030;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 0.55rem 3rem 0.55rem 1rem;
+  background: #0d1f45;
+  color: #fff;
+  font-size: 0.88rem;
+  transform: translateY(100%);
+  transition: transform 0.25s ease;
+
+  &.is-visible { transform: translateY(0); }
+
+  .hxi-sticky-nav {
+    display: flex;
+    align-items: center;
+    gap: 1.4rem;
+  }
+
+  a.hxi-sticky-link {
+    color: #fff !important;
+    text-decoration: none !important;
+    font-weight: 500;
+    white-space: nowrap;
+    opacity: 0.9;
+
+    &:hover { opacity: 1; text-decoration: underline !important; }
+  }
+
+  a.hxi-sticky-mail {
+    color: #fff !important;
+    text-decoration: none !important;
+    opacity: 0.9;
+    white-space: nowrap;
+
+    i { margin-right: 0.35rem; opacity: 0.8; }
+
+    &:hover { opacity: 1; text-decoration: underline !important; }
+  }
+
+  a.hxi-sticky-cta {
+    padding: 0.3rem 0.9rem;
+    border-radius: 3px;
+    background: #fff;
+    color: #0d1f45 !important;
+    font-weight: 600;
+    text-decoration: none !important;
+    white-space: nowrap;
+  }
+
+  .hxi-sticky-copy {
+    opacity: 0.6;
+    font-size: 0.8rem;
+    white-space: nowrap;
+
+    p { display: inline; margin: 0; }
+  }
+
+  .hxi-sticky-close {
+    position: absolute;
+    right: 0.8rem;
+    background: none;
+    border: 0;
+    color: #fff;
+    font-size: 1.15rem;
+    line-height: 1;
+    cursor: pointer;
+    opacity: 0.75;
+
+    &:hover { opacity: 1; }
+  }
+}
+
+@media (max-width: 991px) {
+  .hxi-footer-cols { grid-template-columns: 1fr 1fr; gap: 1.6rem; }
+}
+
+/* The bar carries four things on a desktop row. Narrow screens drop them in
+   order of importance until only the gift button and the dismiss are left,
+   rather than letting the row overflow off both edges. */
+@media (max-width: 991px) {
+  .hxi-sticky-support {
+    gap: 0.9rem;
+    .hxi-sticky-copy { display: none; }
+  }
+}
+
+@media (max-width: 767px) {
+  .hxi-sticky-support {
+    font-size: 0.8rem;
+    padding: 0.5rem 2.6rem 0.5rem 0.8rem;
+    a.hxi-sticky-mail:first-of-type { display: none; }
+  }
+}
+
+@media (max-width: 575px) {
+  .hxi-footer-cols { grid-template-columns: 1fr; }
+
+  .hxi-sticky-support {
+    gap: 0.7rem;
+    a.hxi-sticky-mail { display: none; }
+    a.hxi-sticky-cta { font-size: 0.85rem; }
+  }
+}
+
+.hxi-footer-address {
+  font-size: 0.76rem !important;
+  line-height: 1.5;
+  opacity: 0.7;
+  margin-top: 0.8rem;
+}
+
+.hxi-footer-funders {
+  font-size: 0.8rem !important;
+  margin-top: 0.8rem;
+}
+
+.hxi-footer-meta {
+  font-size: 0.78rem;
+}
+
+.hxi-netlify {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  font-size: 0.78rem;
+  opacity: 0.75;
+  margin-top: 1.2rem;
+
+  img { height: 20px; }
+}
+
+/* The sticky bar overlays the bottom of the page, so the footer needs room
+   under its last line or the two collide. */
+.site-footer { padding-bottom: 4.5rem; }
+
+/* The build-status badge on the home page. A wrapper with text-align centre
+   is overridden by the theme here, so centre it with flex instead. */
+.hxi-build-badge {
+  display: flex;
+  justify-content: center;
+}

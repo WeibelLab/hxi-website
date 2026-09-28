@@ -26,7 +26,7 @@ organizations:
   - name: UC San Diego
     url: http://ucsd.edu
   - name: Design Lab
-    url: https://design.ucsd.edu/
+    url: https://designlab.ucsd.edu/
   - name: HXI Lab
     url: https://hxi.ucsd.edu/
   

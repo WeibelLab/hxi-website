@@ -35,7 +35,7 @@ coordinates:
 #coordinates: 
 #  latitude: '32.8783565'
 #  longitude: '--117.233496'
-directions: The HXI Research Lab is located at the <a href="https://cse.ucsd.edu/about/directions-and-parking">Computer Science and Engineering Building</a> (CSE), and within the <a href="https://designlab.ucsd.edu/">Design Lab</a> at the Design and Innovation Building (DIB) on the main UCSD Campus in La Jolla.
+directions: The HXI Research Lab is located within the <a href="https://designlab.ucsd.edu/">Design Lab</a> at the Design and Innovation Building (DIB), and at the <a href="https://cse.ucsd.edu/about/directions-and-parking">Computer Science and Engineering Building</a> (CSE), on the main UCSD Campus in La Jolla.
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
@@ -43,23 +43,19 @@ directions: The HXI Research Lab is located at the <a href="https://cse.ucsd.edu
 contact_links:
   - icon: building
     icon_pack: fas
-    name: Prof. Weibel's Office in CSE - CSE 3224
-    link: 'https://maps.app.goo.gl/V8MLNenNCS1fhB33A'
-  - icon: building
-    icon_pack: fas
     name: Prof. Weibel's Office in DIB - DIB 360
     link: 'https://maps.app.goo.gl/3mSxY2gvZQMmvWT27'
   - icon: users
     icon_pack: fas
-    name: Ph.D. students Lab in CSE - CSE 2238
+    name: HCI Collaboratory in DIB - DIB 340+337
+    link: 'https://maps.app.goo.gl/3mSxY2gvZQMmvWT27'
+  - icon: building
+    icon_pack: fas
+    name: Prof. Weibel's Office in CSE - CSE 3224
     link: 'https://maps.app.goo.gl/V8MLNenNCS1fhB33A'
   - icon: users
     icon_pack: fas
-    name: HCI Collaboratory in DIB - DIB 340+337
-    link: 'https://maps.app.goo.gl/3mSxY2gvZQMmvWT27'
-  - icon: users
-    icon_pack: fas
-    name: CSE Undergraduate Lab in CSE - CSE 2217
+    name: Ph.D. students Lab in CSE - CSE 2238
     link: 'https://maps.app.goo.gl/V8MLNenNCS1fhB33A'
 
 # Site header
@@ -99,7 +95,7 @@ copyright_license:
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
-plugins_js: ['slider-shuffle', 'project-filters', 'external-links', 'contact-map']
+plugins_js: ['slider-shuffle', 'project-filters', 'external-links', 'contact-map', 'sticky-support']
 avatar:
   gravatar: false
   shape: circle

@@ -10,11 +10,11 @@ organizations:
 - name: UC San Diego
   url: https://ucsd.edu/
 - name: Design Lab
-  url: https://design.ucsd.edu/
+  url: https://designlab.ucsd.edu/
 - name: HXI
   url: https://hxi.ucsd.edu/
 - name: Jacobs Center for Health Innovation
-  url: https://jacobscenter.ucsd.edu/
+  url: https://healthinnovation.ucsd.edu/
 - name: UC San Diego Health
   url: https://health.ucsd.edu/
   
@@ -36,9 +36,6 @@ interests:
  - AI in Healthcare
  - Healthcare Innovation
 social:
-- icon: globe-americas
-  icon_pack: fas
-  link: https://hxi.ucsd.edu/author/poorva-bedmutha/
 - icon: envelope
   icon_pack: fas
   link: 'mailto:pbedmutha@ucsd.edu'
@@ -62,7 +59,7 @@ user_groups:
 ---
 
 
-Hello! I am Poorva Bedmutha, a <b>Ph.D. student in Computer Science</b> at UC San Diego (<a href="https://hxi.ucsd.edu/">HXI Lab</a> / <a href="https://design.ucsd.edu">Design Lab</a>).
+Hello! I am Poorva Bedmutha, a <b>Ph.D. student in Computer Science</b> at UC San Diego (<a href="https://hxi.ucsd.edu/">HXI Lab</a> / <a href="https://designlab.ucsd.edu">Design Lab</a>).
 
 I am co-advised with Karandeep Singh, in the Department of Biomedical Informatics and the Jacobs Center for Health Innovation.
 

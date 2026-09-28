@@ -10,7 +10,7 @@ organizations:
 - name: UC San Diego
   url: https://ucsd.edu/
 - name: Design Lab
-  url: https://design.ucsd.edu/
+  url: https://designlab.ucsd.edu/
 - name: HXI
   url: https://hxi.ucsd.edu/
 - name: Herbert Wertheim School of Public Health and Human Longevity Science

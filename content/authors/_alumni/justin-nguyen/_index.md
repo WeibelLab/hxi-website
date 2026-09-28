@@ -10,9 +10,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/justnguyen1/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/justnguyen1
     
 _build:
   render: never

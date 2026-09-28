@@ -9,7 +9,7 @@ organizations:
   - name: HXI
     url: https://hxi.ucsd.edu/
   - name: The Design Lab
-    url: https://design.ucsd.edu/
+    url: https://designlab.ucsd.edu/
   - name: Computer Science and Engineering
     url: https://cse.ucsd.edu/
   - name: Cognitive Media Lab

@@ -11,9 +11,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zhiwei-ren-0772511a6/
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/ZhiweiREN97
 
 _build:
   render: never

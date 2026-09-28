@@ -14,7 +14,7 @@ Yes, of course you can!
 ### Courses and Programs
 Please take a look at our current [teaching engagements](/teaching), but also consider other classes in the context of HCI, Human-Centered Design, Ubiquitous Computing, etc. You can find more information on these offerings here:
 
-- [Undergraduate and Graduate Design and HCI Related Courses](https://designlab.ucsd.edu/education/design-courses-at-ucsd/)
+- [Undergraduate and Graduate Design and HCI Related Courses](https://designlab.ucsd.edu/education/)
 - [M.S. in Computer Science, Human-Computer Interaction Depth](https://cse.ucsd.edu/graduate/degree-programs/ms-program/ms-2015-comp-standard#)
 - [B.S. in CogSci with a Specialization in Design and Interaction](https://cogsci.ucsd.edu/undergraduates/major/design-interaction.html)
 
@@ -24,8 +24,8 @@ If you are a graduate student, please consider the Graduate Specialization in Hu
 
 The graduate specialization is a set of courses students can choose to take that fits into their home degree program requirements. It is analogous to receiving a minor, but at the graduate level. As such, the specialization does not alter home program requirements. Instead, the courses fit into their home program as either electives or as courses that were already part of their core requirements. The graduate specialization is created so that it can be integrated into a one- or two-year master’s program or Ph.D. program.
 
-- [More information here](https://catalog.ucsd.edu/curric/dsgn-gr.html)
-- [DesignLab Announcement](https://designlab.ucsd.edu/education/design-graduate-specialization/)
+- [More information here](https://catalog.ucsd.edu/curric/DSGN-gr.html)
+- [DesignLab Announcement](https://designlab.ucsd.edu/education/graduate/)
 
 ### Teaching Assistantships
 If you want to TA one of our classes, please familiarize yourself with the [class you want to TA](/teaching) for, then use the [ASES system](https://academicaffairs.ucsd.edu/Modules/ASES/Apply.aspx) and insert the required information.

@@ -43,7 +43,7 @@ Four studies have tested the approach. *Holo-Stroke* established that patients f
 
 ### Funding and External Collaborations
 
-HoloStroke is a collaboration with the [UCSD Stroke Center](https://health.ucsd.edu/specialties/neuro/specialty-programs/stroke-neurovascular-surgery) and [HomniHealth](https://www.homnihealth.com/).
+HoloStroke is a collaboration with the [UCSD Stroke Center](https://health.ucsd.edu/care/stroke-care/) and [HomniHealth](https://www.homnihealth.com/).
 
 <div style="display: flex; justify-content:space-around; align-items: center;">
 <img src="/images/ucsd_som.jpg" style="height: 110px;">
