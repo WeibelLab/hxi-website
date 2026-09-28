@@ -13,7 +13,20 @@ organizations:
   - name: HXI
     url: https://hxi.ucsd.edu/
 
+education:
+  courses:
+    - course: M.S. in Educational Technology & Applied Learning Sciences (HCII)
+      institution: Carnegie Mellon University, School of Computer Science
+      year: 2025
+    - course: M.S. in Visual Communication Design
+      institution: Purdue University
+      year: 2024
+
 interests:
+  - Human-Computer Interaction
+  - Human-Agent Interaction
+  - AI in Healthcare
+  - Social Computing
 
 social:
   - icon: envelope
