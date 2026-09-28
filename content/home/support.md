@@ -17,4 +17,4 @@ design:
       - "0"
 ---
 
-{{% cta cta_link="https://espi.ucsd.edu/make-a-gift?id=9717e03e-0ab8-4b20-96f0-9ee5ec395223" cta_text="Support our Research →" cta_new_tab="true" %}}
+{{% cta cta_link="https://giveto.ucsd.edu/giving/home/?linkId=584ffb05-abc3-4056-9979-e3d42440c673" cta_text="Support our Research →" cta_new_tab="true" %}}
