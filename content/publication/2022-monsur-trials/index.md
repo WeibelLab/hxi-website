@@ -46,12 +46,12 @@ We hypothesize that both SMART 2.0 intervention groups will significantly improv
 featured: true
 tags: [Trials, 2022]
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-  projects:
-  slides: ""
   filename: featured.jpg
+projects: []
+slides: ''
 date: '2022-01-03'
 links:
 publishDate: 2021-07-27T00:00:00Z

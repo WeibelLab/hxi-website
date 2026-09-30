@@ -35,6 +35,7 @@ projects: []
 publishDate: '2021-09-23T22:50:58.522738Z'
 publication_types:
 - '2'
+doi: 10.1161/str.52.suppl_1.p307
 abstract: '**Background**: Any clinical feature that may improve the early recognition of, or increase pretest probability of, acute stroke could shorten treatment times. We evaluated the sensitivity and specificity of the "Arm and Leg Positioning and self-Help Assessment” (ALPHA) sign in a predominantly stroke population. This sign was developed from the observation that some stroke patients guard the affected limb. Even mild deficits seem to have minimally supportive micro-gestures of one hand touching or lightly supporting the affected limb.<br/><br/>
 
 **Methods**: IRB approval was obtained to review available videos of 63 stroke and non-stroke patients. Observers were instructed to only watch the initial 30 seconds of each video and focus on the limbs. The remaining video, and all the audio, were withheld. Videos were independently scored for the ALPHA sign. A composite score, defined as positive if &gt;/= 50% of examiners reported its presence, was assigned. Scores were compared to true diagnosis (stroke/ CNS lesion was positive if there was a scorable deficit and imaging positive CNS lesion). Sensitivity analyses were performed.<br/><br/>

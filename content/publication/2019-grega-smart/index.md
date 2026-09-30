@@ -38,4 +38,5 @@ publication_types:
 abstract: 'A significant number of young Americans are vulnerable to excess weight gain, especially during the college years. While technology-based weight loss interventions have the potential to be very engaging, short-term approaches showed limited success. In our work we aim to better understand the impact of long-term, multimodal, technology-based weight loss interventions, and study their potential for greater effect among college students. In this paper we lay the basis for our approach towards a multimodal health intervention for young adults: we present formative work based on interviews and a design workshop with 26 young adults. We discuss our intervention at the intersection of user feedback, empirical evidence from previous work, and behavior change theory.'
 publication: '*Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing
   Systems*'
+doi: 10.1145/3290607.3312940
 ---

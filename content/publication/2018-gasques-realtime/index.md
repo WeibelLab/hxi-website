@@ -50,4 +50,5 @@ thereby allowing bystanders to focus on the task at hand. In
 this demo, we present HoloCPR, a Mixed Reality application
 that provides real-time instructions for performing CPR'
 publication: '*12th EAI International Conference on Pervasive Computing Technologies for Healthcare--Demos, Posters, Doctoral Colloquium*'
+doi: 10.4108/eai.20-4-2018.2276450
 ---

@@ -38,13 +38,12 @@ tags:
   - Older Adults
   - Conversational IUI
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-  projects:
-    - voli
-  slides: ""
   filename: featured.jpg
+projects: ['voli']
+slides: ''
 date: '2021-07-27'
 links:
 publishDate: 2021-07-27T00:00:00Z

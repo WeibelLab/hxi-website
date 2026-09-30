@@ -34,12 +34,12 @@ abstract: 'Although clinical training in implicit bias is essential for healthca
 featured: true
 tags: [CHI, 2022]
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
-  projects:
-  slides: ""
   filename: featured.jpg
+projects: []
+slides: ''
 date: 2021-07-27T00:00:00Z
 links:
 publishDate: 2021-07-27T00:00:00Z
