@@ -115,12 +115,12 @@
   </p>
 </footer>
 
-{{/* Slim bar pinned to the bottom of the window. Hidden until the reader is
-     past the first screen, and dismissable for the rest of the session. */}}
+{{/* Slim bar pinned to the bottom of the window, hidden until the reader is
+     past the first screen. It has no dismiss: the giving link should stay
+     reachable for the whole visit. */}}
 <div class="hxi-sticky-support" id="hxi-sticky-support" hidden>
   <a class="hxi-sticky-mail" href="{{ "contact/" | relLangURL }}"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> Design Lab &amp; CSE, UC San Diego</a>
   {{ with site.Params.email }}<a class="hxi-sticky-mail" href="mailto:{{ . }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ . }}</a>{{ end }}
   <a class="hxi-sticky-cta" href="https://giveto.ucsd.edu/giving/home/?linkId=584ffb05-abc3-4056-9979-e3d42440c673">Make a gift</a>
   {{ with site.Copyright }}<span class="hxi-sticky-copy">{{ replace . "{year}" now.Year | markdownify }}</span>{{ end }}
-  <button class="hxi-sticky-close" aria-label="Dismiss">&times;</button>
 </div>
