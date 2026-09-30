@@ -747,3 +747,15 @@ img.avatar {
   display: flex;
   justify-content: center;
 }
+
+// Publication list thumbnails.
+// Hugo renders these at a fixed 150px width and lets the height follow the
+// aspect ratio, so a tall multi-panel figure runs past the bottom of its entry
+// and collides with the next one. Capping the height leaves wide figures
+// untouched and trims tall ones to their top.
+.media.stream-item .ml-3 img {
+  width: 150px;
+  max-height: 190px;
+  object-fit: cover;
+  object-position: top center;
+}
