@@ -27,8 +27,6 @@ publication_short: '*NeurIPS 2026*'
 aliases:
 - /publication/2026-broukhim-arxiv-same-words/
 links:
-- name: OpenReview
-  url: https://openreview.net/forum?id=SDNH5wA9Vo
 - name: arXiv
   url: https://arxiv.org/abs/2602.22710
 ---
