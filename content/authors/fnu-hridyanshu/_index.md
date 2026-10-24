@@ -66,7 +66,7 @@ Hridyanshu created **ResonantLoom**, an object-centric generative sound-design s
 
 His earlier work includes **UmeedVR**, a conversational AI and virtual-reality platform for autistic and neurodivergent users. UmeedVR was subsequently acquired, making Hridyanshu one of the youngest people to have an AI product acquired. Developed before the public release of ChatGPT, the system combined immersive 3D environments, conversational interaction, and natural-language processing for communication and therapy-oriented experiences.
 
-3D design has been a recurring foundation of his work across CAD, computer graphics, virtual environments, spatial interfaces, and engineering simulation. As part of the winning team of the **NASA Lunar Loo Jr. Challenge**, he worked on system layout, CAD, mechanisms, fluid dynamics, safety, packaging, and engineering under strict mass, volume, and power constraints. NASA engineer Michael A. Interbartolo III specifically highlighted his CAD and mechanisms expertise and responsibility for system layout. [Read the NASA recommendation letter](nasa-recommendation.pdf).
+3D design has been a recurring foundation of his work across CAD, computer graphics, virtual environments, spatial interfaces, and engineering simulation. As part of the winning team of the **NASA Lunar Loo Jr. Challenge**, he worked on system layout, CAD, mechanisms, fluid dynamics, safety, packaging, and engineering under strict mass, volume, and power constraints.
 
 ### Selected Publications
 
