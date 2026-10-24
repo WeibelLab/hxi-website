@@ -13,6 +13,15 @@
 /weibel /people/nadir-weibel/ 200!
 /weibel/cv /people/nadir-weibel/CV_NadirWeibel.pdf 200!
 /join https://forms.gle/w7WswQadg2s79wbU8 200!
+# weibel.ucsd.edu is an alias of this site. Its DNS points at Netlify, and
+# everything it serves belongs on Nadir's person page, so the host is folded
+# into hxi.ucsd.edu here. The CV rule comes first; the catch-all below would
+# otherwise swallow /cv. A `from` carrying a full URL only matches when the
+# request's Host does, so hxi.ucsd.edu traffic is untouched.
+https://weibel.ucsd.edu/cv https://hxi.ucsd.edu/people/nadir-weibel/CV_NadirWeibel.pdf 301!
+http://weibel.ucsd.edu/cv https://hxi.ucsd.edu/people/nadir-weibel/CV_NadirWeibel.pdf 301!
+https://weibel.ucsd.edu/* https://hxi.ucsd.edu/people/nadir-weibel/ 301!
+http://weibel.ucsd.edu/* https://hxi.ucsd.edu/people/nadir-weibel/ 301!
 # Person pages moved from /author/ to /people/ on 2026-09-25. One wildcard
 # covers all of them, including anyone added later; per-person aliases would
 # need maintaining forever.
